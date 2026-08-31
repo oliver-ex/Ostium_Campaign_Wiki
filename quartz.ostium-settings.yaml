@@ -1,0 +1,15 @@
+# Ostium Quartz configuration patch
+#
+# Do not use this file as a complete quartz.config.yaml.
+# First run:
+#   npx quartz create --template ttrpg ...
+# Then apply these values to the generated configuration.
+
+configuration:
+  pageTitle: "Ostium"
+  analytics: null
+  # baseUrl: "YOUR_USERNAME.github.io/YOUR_REPO"
+  ignorePatterns:
+    - "_GM"
+    - "_Templates"
+    - ".obsidian"

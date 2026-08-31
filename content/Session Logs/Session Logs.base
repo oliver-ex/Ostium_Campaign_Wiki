@@ -1,0 +1,12 @@
+name: Session Logs
+filters:
+  - property: type
+    value: session
+    operator: equals
+views:
+  - type: table
+    columns:
+      - property: title
+      - property: session_number
+      - property: date
+      - property: status

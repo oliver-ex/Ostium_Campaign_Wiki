@@ -1,0 +1,15 @@
+name: NPCs
+filters:
+  - property: type
+    value: npc
+    operator: equals
+views:
+  - type: table
+    columns:
+      - property: title
+      - property: pronouns
+      - property: age
+      - property: ancestry
+      - property: community
+      - property: usual_location
+      - property: status

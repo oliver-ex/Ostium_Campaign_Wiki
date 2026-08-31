@@ -1,0 +1,11 @@
+name: Locations
+filters:
+  - property: type
+    value: location
+    operator: equals
+views:
+  - type: table
+    columns:
+      - property: title
+      - property: region
+      - property: status

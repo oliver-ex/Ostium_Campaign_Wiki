@@ -1,0 +1,11 @@
+name: Adventures
+filters:
+  - property: type
+    value: adventure
+    operator: equals
+views:
+  - type: table
+    columns:
+      - property: title
+      - property: status
+      - property: canon-status

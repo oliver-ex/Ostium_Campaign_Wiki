@@ -1,0 +1,17 @@
+name: Player Characters
+filters:
+  - property: type
+    value: pc
+    operator: equals
+views:
+  - type: table
+    columns:
+      - property: title
+      - property: player
+      - property: pronouns
+      - property: age
+      - property: ancestry
+      - property: community
+      - property: class
+      - property: subclass
+      - property: level

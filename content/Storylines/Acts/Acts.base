@@ -1,0 +1,12 @@
+name: Campaign Acts
+filters:
+  - property: type
+    value: storyline
+    operator: equals
+views:
+  - type: table
+    columns:
+      - property: title
+      - property: status
+      - property: act
+      - property: canon-status

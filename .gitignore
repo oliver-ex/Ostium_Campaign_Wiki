@@ -1,0 +1,19 @@
+# ===== PRIVACY BARRIER: NEVER COMMIT GM MATERIAL =====
+content/_GM/
+
+# Obsidian local/session state
+content/.trash/
+content/.obsidian/workspace.json
+content/.obsidian/workspace-mobile.json
+content/.obsidian/cache/
+
+# Quartz/build/dependency output
+node_modules/
+public/
+.quartz/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp

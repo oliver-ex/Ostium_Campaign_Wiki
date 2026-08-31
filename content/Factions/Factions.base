@@ -1,0 +1,11 @@
+name: Factions
+filters:
+  - property: type
+    value: faction
+    operator: equals
+views:
+  - type: table
+    columns:
+      - property: title
+      - property: status
+      - property: base
