@@ -1,6 +1,10 @@
 # ===== PRIVACY BARRIER: NEVER COMMIT GM MATERIAL =====
 content/_GM/
 
+# Local editor state
+.obsidian/
+.vscode/
+
 # Obsidian local/session state
 content/.trash/
 content/.obsidian/workspace.json
