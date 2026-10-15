@@ -1,11 +1,12 @@
-name: Locations
 filters:
-  - property: type
-    value: location
-    operator: equals
+  and:
+    - file.folder == "Locations"
+    - type == "location"
 views:
   - type: table
-    columns:
-      - property: title
-      - property: region
-      - property: status
+    name: Locations
+    order:
+      - file.name
+      - region
+      - parent-location
+      - status

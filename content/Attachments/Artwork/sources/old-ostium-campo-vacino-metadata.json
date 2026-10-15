@@ -1,0 +1,104 @@
+{
+  "pageid": 23541691,
+  "ns": 6,
+  "title": "File:JMW Turner - Modern Rome - Campo Vacino.jpg",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg/1920px-JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1400,
+      "thumbheight": 950,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/0/04/JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg/1920px-JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1400,
+        "height": 950,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/04/JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23541691",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-01-02 20:13:37",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\">Modern Rome - Campo Vacino</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 350D|1839 paintings|Modern Rome - Campo Vaccino (2011.6)|Archibald Primrose, 5th Earl of Rosebery|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|Exhibited at the Royal Academy summer exhibition|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|British paintings in the Getty Center|Forum Romanum in art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:J.%20M.%20W.%20Turner\" title=\"w:en:J. M. W. Turner\" class=\"extiw\"><span title=\"English painter and draftsman (c.1775–1851)\">J. M. W. Turner</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<p>Ten years after his final journey to Rome, Turner envisioned the Eternal City through a veil of memory. Baroque churches and ancient monuments in and around the Roman Forum seem to dissolve in iridescent light shed by a moon rising at left and a sun setting behind the Capitoline Hill at right. Amidst these splendors, the city's inhabitants carry on with their daily activities. The picture's nacreous palette and shimmering light effects exemplify Turner at his most accomplished. </p>\n\nWhen first exhibited at the Royal Academy in 1839, the painting was accompanied by a modified quotation from Lord Byron's masterpiece, Childe Harold's Pilgrimage (1818): \"The moon is up, and yet it is not night, / The sun as yet divides the day with her.\" Like the poem, Turner's painting evokes the enduring sublimity of Rome, which had been for artists throughout history less a place in the real world than one in the imagination. The painting is in a remarkable state of preservation and remains untouched since it left Turner's hands.</div>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1839<span typeof=\"mw:Entity\"> </span><span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\" data-mw='{\"caption\":\"Edit this at Wikidata\"}'><a href=\"https://commons.wikimedia.org/wiki/d:Q6888851#P571\" title=\"Edit this at Wikidata\"><img resource=\"https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" alt=\"Edit this at Wikidata\" data-file-width=\"20\" data-file-height=\"20\" data-file-type=\"drawing\" height=\"10\" width=\"10\" class=\"mw-file-element\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/rosemania/8336492161\" class=\"external free\">https://www.flickr.com/photos/rosemania/8336492161</a>    <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Rosemania\" title=\"User:Rosemania\">Rosemania</a>, 2012-12-25",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "public",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,11 +1,10 @@
-name: Factions
 filters:
-  - property: type
-    value: faction
-    operator: equals
+  and:
+    - file.folder == "Factions"
+    - type == "faction"
 views:
   - type: table
-    columns:
-      - property: title
-      - property: status
-      - property: base
+    name: Factions
+    order:
+      - file.name
+      - status

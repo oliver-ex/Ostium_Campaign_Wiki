@@ -1,16 +1,89 @@
 ---
-title: "Old Ostium Town Hall"
+title: Old Ostium Town Hall
 type: location
 tags:
-  - location
-aliases: []
-region: "Old Ostium"
+- gm
+- location
+aliases:
+- Old Ostium Town Hall - GM
+region: Old Ostium
 status: contested
-canon-status: canon
 ---
 
 # Old Ostium Town Hall
 
-Old Ostium Town Hall remains a significant civic landmark, even if it no longer exercises the authority it once had.
+<!-- campaign-artwork:start -->
 
-No additional public information has been recorded yet.
+![A statue and people beneath the remains of monumental stone architecture.](../Attachments/Artwork/locations/old-town-hall-ruins.webp)
+
+*Visual reference: The Statue before the Ruins — Hubert Robert. [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en); [source](https://commons.wikimedia.org/wiki/File:Hubert_Robert,_The_Statue_before_the_Ruins,_NGA_52436.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+
+<!-- campaign-artwork:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Faction hub for Protectorate negotiations, jobs, and internal politics\
+**What is changing:** Supply pressure may force Indra into harder levy decisions.\
+**Current controlling pressure:** Logistics and legitimacy.\
+**Hidden danger:** Internal abuses can exist without making the entire faction fraudulent.\
+**Useful NPCs:** [[Characters/NPCs/Indra Karaf|Indra Karaf]], [[Characters/NPCs/Calev Marr|Calev Marr]]\
+
+## Secrets & Hidden History
+
+- Calev's records can prove how expensive the force is and also expose officers who exploit the system.
+- The building can become a target if the Shattered Axe decides to break Protectorate legitimacy.
+
+## Faction Pressures
+
+- Protected settlements resent fees but fear losing patrols.
+- New Ostium may treat the Protectorate as an unofficial armed group rather than a legitimate authority.
+
+## Hidden Areas / Access
+
+- Old record rooms can still contain municipal maps relevant to early waterworks research.
+
+## Clues & Revelations
+
+- Old police and civic documents show how rapidly official withdrawal happened.
+
+## D&D 5e (2024) Mechanics
+
+Use the environmental fiction above. For uncertain investigation, travel, negotiation, or repair, see [[Rules/System Guide|System Guide]]; choose checks and consequences for the actual approach. Existing Daggerheart Difficulty, damage, and tiers below are not D&D DCs or encounter ratings. Saving throws, conditions, and spell interactions require a separately defined effect, not an automatic disease rule.
+
+## Daggerheart Environment
+
+> Existing campaign homebrew / narrative guidance, retained independently. Check against the adopted SRD before use; no direct D&D conversion.
+
+
+**Tier:** 1-2\
+**Type:** Social\
+**Description:** A former civic building turned into the operational heart of Old Ostium's strongest defensive faction.\
+**Impulses:** Demand proof, allocate force, count costs, judge\
+**Difficulty:** 11 early; 14 for later high-stakes negotiations\
+**Potential Adversaries:** Protectorate officers, political pressure, potential infiltrators\
+
+### Features
+
+- **Show the Ledger — Passive:** If the party challenges the cost of protection, Calev or another officer can produce concrete shortages and expenditures instead of ending the scene with assertion.
+- **Authority Without a State — Reaction:** On Fear, a dispute turns into a question of who gave the Protectorate the right to decide.
+
+### Feature Questions
+
+- What happens if the Protectorate cannot afford the next patrol?
+- Which old civic function are they now performing without legal authority?
+
+## Encounter / Scene Ideas
+
+- Meet Indra.
+- Negotiate protection or supplies.
+- Discover internal corruption without collapsing the faction into villainy.
+
+## Future Changes
+
+- Could become a key site in negotiations or Shattered Axe escalation.
+
+
+## PC Knowledge
+
+_No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._

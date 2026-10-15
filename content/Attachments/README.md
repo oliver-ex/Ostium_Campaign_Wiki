@@ -1,5 +1,17 @@
-# Attachments
+---
+title: Campaign Assets
+type: index
+tags:
+- index
+---
 
-Player-safe images, maps, handouts, and other public-facing files may be stored here.
+# Campaign Assets
 
-Any asset added to the public repository should be assumed to be readable by players.
+Campaign handouts, maps, images, and other assets belong here.
+
+- [[Attachments/Artwork Credits|Artwork credits and reuse terms]]
+- [[Attachments/Artwork Sourcing Backlog|Portrait refinements and sourcing notes]]
+
+- [[Attachments/Carl Marsh - Unsent Letter|Carl Marsh - Unsent Letter]]
+
+Only campaign assets are publishable; keep credentials, contact details, and unrelated documents out of the vault.

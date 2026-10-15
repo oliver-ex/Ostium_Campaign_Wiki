@@ -1,195 +1,46 @@
-# Setup — Obsidian + GitHub + Quartz 5 + GitHub Pages
+# GitHub Pages setup
 
-This ZIP contains the campaign vault and project-specific files. It intentionally does **not** bundle the Quartz source code itself; use the current official Quartz v5 template so Quartz can be upgraded normally.
+This repository now contains the existing Quartz 4.5.2 runtime and its lockfile. `content/` is the single complete campaign vault. The old sibling `Ostium_Wiki` checkout is no longer used by the source, launcher, or CI workflow; do not run its former sync publisher for this wiki.
 
-Quartz 5 documentation: https://quartz.jzhao.xyz/
-Daggerheart SRD: https://www.daggerheart.com/srd/
+## Local development
 
-## 1. Extract this ZIP
+Install Node 24, then run:
 
-Put the extracted folder somewhere permanent, for example:
-
-`Documents/Ostium_Campaign_Wiki/`
-
-Do not put the vault inside a folder that another sync service may simultaneously rewrite while Git is operating unless you are comfortable resolving conflicts.
-
-## 2. Open the vault in Obsidian
-
-In Obsidian:
-
-**Open another vault → Open folder as vault**
-
-Choose:
-
-`Ostium_Campaign_Wiki/content`
-
-The `_GM` folder is visible to you locally. It will not be published.
-
-## 3. Check Obsidian
-
-The package includes basic settings:
-- shortest-path wikilinks;
-- automatic link updates;
-- attachments in `Attachments`;
-- Templates core plugin folder set to `_Templates`.
-
-If Obsidian asks whether to trust the vault, review the files and enable the built-in Templates plugin if needed.
-
-## 4. Create the GitHub/Quartz repository
-
-Create a new repository from the official Quartz v5 GitHub template.
-
-Use the **TTRPG** configuration when running Quartz setup. The current Quartz TTRPG template builds on Obsidian compatibility.
-
-After cloning the Quartz repository locally, run:
-
-```powershell
-npm i
-npx quartz create --template ttrpg --strategy new --baseUrl YOUR_USERNAME.github.io/YOUR_REPO
-npx quartz plugin install --from-config
+```sh
+npm ci
+npm run check
+npm run build
+npm run serve
 ```
 
-Do not include `https://` in `baseUrl`.
+The checked-in base URL is `localhost:8080` for local preview. GitHub Actions obtains the real URL from `actions/configure-pages` and applies it only in CI before building. It works for repository Pages and account-root Pages without hardcoding this machine's path or account.
 
-## 5. Copy this package into the Quartz repository
+Dependencies are installed directly in this checkout with `npm ci`. Quartz is pinned to the official v4.5.2 source tag; there is no dependency on a sibling checkout.
 
-Replace the Quartz-generated `content/` directory with this package's `content/`.
+## Connect and deploy
 
-Also copy:
-- `AGENTS.md`
-- `.gitignore` rules from this package
-- `.github/workflows/deploy.yml`
+This local repository currently has no remote. Choose the intended GitHub repository before pushing. If reusing the old website repository, reconcile its existing generator/history deliberately rather than force-pushing or enabling two workflows against the same site. This refactor has not changed that remote repository or its deployed site.
 
-Do **not** accidentally overwrite Quartz's dependency files (`package.json`, `package-lock.json`, `quartz/`, etc.).
+1. Add the chosen repository as this checkout's `origin` using `git remote add origin <repository-url>`.
+2. Review `git status` and the content diff, then commit the intended campaign and generator changes. Local backups, editor settings, and credentials must remain excluded.
+3. In the chosen repository's Settings → Pages, select **GitHub Actions** as the source.
+4. Push `main`. The workflow validates pull requests without deploying and deploys only main pushes or a manual workflow dispatch.
+5. Review the deployment result in Actions, then verify the actual published URL, search, and representative campaign pages. Do not infer successful deployment from a local build.
 
-## 6. Apply the Ostium Quartz settings
+No remote, GitHub authentication, or Pages access restrictions were configured by this refactor. Campaign spoilers are intentionally included. Treat the site as public unless access restrictions are separately verified. Robots/noindex merely request reduced indexing.
 
-After `npx quartz create --template ttrpg`, edit the generated `quartz.config.yaml`.
+## One workflow
 
-Set:
-- `pageTitle` to `Ostium`;
-- `analytics` to `null` unless you deliberately want analytics;
-- `locale` as desired;
-- `baseUrl` to your GitHub Pages path;
-- add the following to `ignorePatterns` without deleting existing entries:
+`.github/workflows/deploy.yml` is the single publisher. It installs locked dependencies, checks the vault and TypeScript, builds Quartz, validates the emitted pages/search/internal links, uploads `public/`, and deploys Pages. The workflow never copies content to another repository.
 
-```yaml
-- _GM
-- _Templates
-- .obsidian
-```
+`Publish Website.command` runs the same checks/build and pushes already committed changes. It stops on a dirty worktree or missing origin rather than committing other people's edits.
 
-`_GM` is still protected primarily by `.gitignore`; the Quartz ignore is only a second barrier.
+## Current deployment handoff
 
-## 7. Verify privacy before first commit
+The requested repository name is `Ostium_Campaign_Wiki`. Its owner and URL must come from the authenticated GitHub account; no account name is assumed. At this point the local build is validated, but GitHub authentication and a remote are still required. There is no successful Actions run or published Pages URL to report.
 
-From the repository root:
+GitHub CLI was downloaded temporarily to `/tmp/ostium-gh/gh_2.102.0_macOS_arm64/bin/gh`. If this temporary directory has been cleared, install GitHub CLI again. Authenticate with `gh auth login --hostname github.com --git-protocol https --web`, then inspect `gh api user --jq .login` and `gh repo view OWNER/Ostium_Campaign_Wiki`.
 
-```powershell
-git status
-```
+For a new repository, use `gh repo create OWNER/Ostium_Campaign_Wiki --public --source=. --remote=origin`. For an existing repository, add its URL as origin, fetch, and reconcile history without force-pushing. Enable Actions-based Pages with `gh api --method POST repos/OWNER/Ostium_Campaign_Wiki/pages -f build_type=workflow` (use PUT if Pages already exists). Push `main`, watch the deployment using `gh run list` and `gh run watch RUN_ID --exit-status`, then retrieve the real URL using `gh api repos/OWNER/Ostium_Campaign_Wiki/pages --jq .html_url`.
 
-You should **not** see anything under:
-
-`content/_GM/`
-
-as untracked or staged.
-
-Test:
-
-```powershell
-git check-ignore -v "content/_GM/GM Dashboard.md"
-```
-
-Git should report that the file is ignored by the `_GM` rule.
-
-## 8. Preview locally
-
-Run:
-
-```powershell
-npx quartz build --serve
-```
-
-Open:
-
-`http://localhost:8080`
-
-Check that:
-- public NPCs and locations render;
-- wikilinks work;
-- `_GM` pages do not appear;
-- `_Templates` does not appear;
-- search/backlinks work.
-
-## 9. Push and enable GitHub Pages
-
-Commit your public project files and push them.
-
-In GitHub:
-**Repository → Settings → Pages → Source → GitHub Actions**
-
-The included `.github/workflows/deploy.yml` is based on Quartz's current GitHub Pages deployment pattern. If Quartz changes its recommended workflow later, prefer the workflow from the current Quartz documentation.
-
-## 10. Invite players
-
-Invite each player's GitHub account as a collaborator.
-
-Tell players:
-1. browse the published Quartz wiki to read;
-2. use GitHub to edit;
-3. edit only files inside `content/` public folders;
-4. never create or edit `_GM`;
-5. commit directly only if you are comfortable with that trust model.
-
-A player can open a `.md` file on GitHub, click the pencil icon, edit, and commit.
-
-## 11. Your normal GM workflow
-
-Before prep or a session:
-
-```powershell
-npx quartz sync
-```
-
-or use normal Git pull/push commands if you prefer.
-
-Open GM pages such as:
-
-`_GM/Characters/NPCs/Taran Lusat - GM.md`
-
-The page shows your secret notes followed by an embed of the current public `Taran Lusat.md`.
-
-After a session:
-- update the public session log;
-- promote newly discovered facts from GM-only knowledge to public pages;
-- update GM consequences;
-- push the public changes.
-
-## 12. Codex
-
-Open the project root (the directory containing `AGENTS.md`) in VS Code/Codex.
-
-Codex should be limited to this project workspace.
-
-The `AGENTS.md` file defines:
-- privacy boundaries;
-- folder conventions;
-- Daggerheart mechanical conventions;
-- reveal workflow;
-- wikilink rules;
-- how paired public/GM pages work.
-
-A useful instruction after a session is:
-
-> Update the vault from these session notes. Promote only information the players actually learned to public pages; keep all unrevealed consequences in `_GM`. Update the session log, NPCs, locations, factions, and active storylines, then report every public file changed.
-
-## 13. Optional automation
-
-If you later install Obsidian Git, configure it conservatively:
-- pull on startup or manually before play;
-- avoid very frequent automatic commits;
-- inspect conflicts before resolving them;
-- never alter the `_GM` ignore rule.
-
-The simplest reliable workflow remains: pull before editing, push after editing.
+Local verification: 127 Markdown pages included; 245 generated HTML pages including directories, tags, and redirects; nine Bases preserved for Obsidian; all generated local links and anchors resolve. Browser checks pass for search, local/global graph, backlinks, Explorer, mobile layout, 32 image placements, enlargement, and a test project subpath. These checks do not establish successful remote deployment.

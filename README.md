@@ -1,43 +1,65 @@
 # Ostium Campaign Wiki
 
-This package is the master Obsidian knowledge base for the **Ostium** Daggerheart campaign.
+A comprehensive campaign wiki for Game Masters and co-DMs, edited in Obsidian and built with Quartz 4.5.2 for GitHub Pages. It includes spoilers, future plans, and unresolved lore. The fiction is system-neutral; concrete mechanics default to D&D 5e (2024), with separate Daggerheart guidance.
 
-## Architecture at a glance
+**A GitHub Pages URL is publicly accessible unless restrictions are independently configured and verified.** An unadvertised URL, a private repository, robots.txt, and noindex tags do not establish access control. Never add credentials, private contact details, or unrelated personal material.
 
-- Open `content/` as the Obsidian vault.
-- Public/player-safe notes live in the normal folders under `content/`.
-- GM-only notes live under `content/_GM/`.
-- `.gitignore` prevents `_GM/` from being committed to the public repository.
-- GM entity pages embed their corresponding public pages, so the GM sees secret prep and current player knowledge together.
-- Quartz can publish the public side as a wiki.
-- Players can edit public Markdown directly through GitHub.
+## Edit the vault
 
-## Start here
+Open `content/` in Obsidian. All campaign content is edited there. The homepage is `content/index.md`; start with the Campaign Dashboard, directories, timeline, and Plot Threads and Mysteries.
 
-1. Read `SETUP.md`.
-2. Open `content/` in Obsidian.
-3. Open `content/_GM/GM Dashboard.md`.
-4. Read `AGENTS.md` before allowing Codex or another agent to edit the project.
-5. Do not remove the `_GM` rule from `.gitignore`.
+Copy the appropriate file from `content/Templates/` into its category: NPCs in `Characters/NPCs`, locations in `Locations`, factions in `Factions`, and sessions in `Session Logs`. Give it a descriptive title and correct `type`. Keep unknown details TBD. Do not maintain separate player/GM copies.
 
-## Current campaign material
+Link established entities using `[[Locations/Old Ostium]]` or `[[Locations/Old Ostium|the old city]]`. Use explicit paths for ambiguous filenames. Images and handouts belong in `Attachments/`; embed an image with `![[Attachments/example.png]]` after adding that actual file.
 
-The vault includes:
-- public and GM character templates;
-- Daggerheart PC and adversary fields;
-- public and GM location templates with Daggerheart environment prep;
-- public and GM faction templates;
-- storyline/act templates;
-- adventure/quest templates;
-- session log and GM session prep templates;
-- canonical starting pages for the requested Ostium locations, factions, NPCs, acts, and adventures;
-- extra supporting NPCs and faction hierarchies;
-- a GM dashboard;
-- a rules/conventions page;
-- example files for every template.
+Use Canon, Proposed/Tentative, Rumor, Unknown, Planned, and Retired labels. Mixed notes should label individual claims. Update PC knowledge and introduced clues after play; preparation is not history. Preserve player-owned choices.
 
-## Important privacy note
+Mechanics belong under separate `D&D 5e (2024)` and `Daggerheart` headings when useful. State sources/edition; identify homebrew; do not translate values directly. See `content/Rules/System Guide.md`.
 
-The intended GitHub Pages deployment uses a public repository. Anything actually committed to that repository must be assumed public, even if Quartz does not link to it.
+## Build and publish
 
-`content/_GM/` is deliberately ignored by Git. Keep all unrevealed material and secret attachments there.
+Node 24 and npm are used by CI:
+
+```sh
+npm ci
+npm run check
+npm run build
+npm run serve
+```
+
+`npm run build` updates directory tables from the vault, audits links/frontmatter/assets, builds Quartz, and validates the output. Sidebar, search, breadcrumbs, backlinks, graph, table of contents, dark mode, tags, and responsive layouts use the existing Quartz components. `.base` files remain live views in Obsidian; generated Markdown directory tables also render on the site.
+
+Commit reviewed changes and push to the repository's `main` branch. GitHub Actions builds the same Markdown and deploys Pages—no copying or sibling checkout is used. See [SETUP.md](SETUP.md) for the remaining remote/Pages configuration. `Publish Website.command` validates/builds and pushes already committed changes; it never stages unrelated files.
+
+## Collaborate and troubleshoot
+
+Use branches and pull requests for shared changes. Pull/rebase before editing, review canon changes together, and resolve conflicts in the original Markdown. Generated directories can be rebuilt with `npm run directories` after merging entity notes.
+
+For broken links, run `npm run check` and correct the reported target or anchor. Do not create fictional entities merely to silence a missing link. For site failures, run `npm run build`, inspect the Actions build log, and confirm Pages uses GitHub Actions and the deployment base URL is correct. A failed deploy does not mean local content was lost.
+
+The ignored `.vault-refactor/before.tar.gz` snapshot preserves the pre-refactor vault locally. It is not a second wiki or a deployment input. The migration inventory and validation details are in `content/Planning/Wiki Refactor Report.md`.
+
+Quartz's reused framework code retains its MIT license in `LICENSE.txt`. Framework authorship is separate from campaign material.
+
+## Repository layout and publication policy
+
+- `content/`: authoritative campaign Markdown, images, nine Obsidian Bases, and authoring templates.
+- `quartz/`: Quartz 4.5.2 source; upstream license is `QUARTZ-LICENSE.txt`.
+- `quartz.config.ts` and `quartz.layout.ts`: native Quartz configuration and navigation.
+- `scripts/`: directory generation, vault/artwork audits, and generated-site checks.
+- `.github/workflows/deploy.yml`: one Actions publisher for `main`; pull requests validate without deploying.
+- `publication-artwork.json`: 14 local illustrations excluded from both Git and the built site because publication rights have not been established. Artist-source links appear in their place. Twenty-five images with recorded terms remain publishable. Local Obsidian embeds are preserved; fresh clones do not include the withheld binaries.
+
+Editor state, credentials, local backups, dependencies, and generated `public/` output are ignored. Every campaign Markdown page, including templates and secrets, is included. Quartz 4 displays the automatically generated directory tables in place of interactive `.base` embeds; the original Bases remain usable in Obsidian.
+
+### Shared editing
+
+Create a branch with `git switch -c campaign/my-update`, edit the original notes in `content/`, review `git diff`, commit, and push the branch. Open a pull request, resolve any failed checks, and merge into `main`. Collaborators can also edit Markdown through GitHub without installing Node or building locally. After a merge, pull the latest `main` before editing again.
+
+**Edit in Obsidian → Commit → Push → Automatic deployment.** The workflow gets the actual Pages URL from GitHub and handles repository subpaths through `PAGES_BASE_URL`; do not replace it with an assumed account name.
+
+### Updating Quartz
+
+The framework is vendored from [Quartz v4.5.2](https://github.com/jackyzha0/quartz/tree/v4.5.2). On a branch, review the next Quartz 4 release, update framework files and dependencies, and preserve the configuration, layout, custom stylesheet, and `campaignPublication.ts` transformer. Update the lockfile, run `npm ci`, `npm run check`, and `npm run build`, then test search, graph, artwork, and project-subpath navigation before merging. Do not replace the vault with upstream sample content. Quartz 5 requires a separate deliberate migration.
+
+Compatible dependency security fixes have been applied. The current Quartz 4 dependency tree still reports 14 npm audit findings (six high); resolving all of them requires incompatible upstream dependency changes. Do not use `npm audit fix --force` without reviewing and testing those changes. The published site is static; these dependencies are primarily used during builds.

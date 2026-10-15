@@ -1,12 +1,27 @@
-name: Campaign Acts
 filters:
-  - property: type
-    value: storyline
-    operator: equals
+  and:
+    - 'file.folder == "Storylines/Acts"'
+    - 'type == "act-outline"'
+properties:
+  file.name:
+    displayName: Name
+  status:
+    displayName: Status
+  act:
+    displayName: Act
+  related-adventures:
+    displayName: Adventures
+  related-factions:
+    displayName: Factions
+  file.mtime:
+    displayName: Last Updated
 views:
   - type: table
-    columns:
-      - property: title
-      - property: status
-      - property: act
-      - property: canon-status
+    name: GM Acts
+    order:
+      - file.name
+      - status
+      - act
+      - related-adventures
+      - related-factions
+      - file.mtime

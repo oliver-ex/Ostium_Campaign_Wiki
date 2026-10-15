@@ -1,17 +1,107 @@
 ---
-title: "Old Ostium"
+title: Old Ostium
 type: location
 tags:
-  - location
+- gm
+- location
 aliases:
-  - "The Old City"
-region: "Ostium"
+- The Old City
+- Old Ostium - GM
+region: Ostium
 status: dangerous
-canon-status: canon
 ---
 
 # Old Ostium
 
-Old Ostium is the failing former capital of Ostium. It remains inhabited despite its decay, flooding, and danger.
+<!-- campaign-artwork:start -->
 
-It remains a place of survival, labour, and danger, with a complex relationship to the safer and wealthier [[Locations/New Ostium]].
+![An inhabited city of monumental ruins, markets, and distant buildings.](../Attachments/Artwork/locations/old-ostium-campo-vacino.webp)
+
+*Visual reference: Modern Rome — Campo Vaccino — J. M. W. Turner. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+
+<!-- campaign-artwork:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Primary exploration zone and open-world urban dungeon\
+**What is changing:** The city is moving from slow decline toward systems failure.\
+**Current controlling pressure:** Rot exposure, infrastructure scarcity, local faction control.\
+**Hidden danger:** The Rot is not merely a plague in the city; the city is contaminating an infected divine wound.\
+**Useful NPCs:** [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Brock Drungur|Brock Drungur]], [[Characters/NPCs/Indra Karaf|Indra Karaf]], [[Characters/NPCs/Ulroc Grimscar|Ulroc Grimscar]]\
+
+## Secrets & Hidden History
+
+- Old Ostium's failure causes fluid loss from the deeper circulatory system and allows sewage/contamination into the wound.
+- The Rot's cognitive effects reflect its connection to the being below, whose influence historically amplified higher creative faculties without being the universal source of reason or magic.
+
+## Faction Pressures
+
+- Settlements tolerate Protectorate levies because alternatives are worse.
+- Shattered Axe raids intensify shortages.
+- Engineers are one of the few cross-faction groups everyone has reasons not to destroy.
+
+## Hidden Areas / Access
+
+- Service shafts and lower waterworks routes progressively connect to structures not built by the city.
+- Some deep flooded routes can bypass faction checkpoints at the cost of higher Rot exposure.
+
+
+<!-- campaign-artwork:start -->
+
+![People live and work in the shelter of damaged monumental stone buildings.](../Attachments/Artwork/locations/old-ostium-inhabited-ruins.webp)
+
+*Visual reference: Inhabited Ruins — Hubert Robert. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_Inhabited_Ruins_-_WGA19584.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+
+<!-- campaign-artwork:end -->
+
+## Clues & Revelations
+
+- Repeated anatomical metaphors in engineering: chambers, pressure, pulse, flow.
+- Old plans call certain structures 'legacy works' without explaining their origin.
+
+## D&D 5e (2024) Mechanics
+
+Use the environmental fiction above. For uncertain investigation, travel, negotiation, or repair, see [[Rules/System Guide|System Guide]]; choose checks and consequences for the actual approach. Existing Daggerheart Difficulty, damage, and tiers below are not D&D DCs or encounter ratings. Saving throws, conditions, and spell interactions require a separately defined effect, not an automatic disease rule.
+
+## Daggerheart Environment
+
+> Existing campaign homebrew / narrative guidance, retained independently. Check against the adopted SRD before use; no direct D&D conversion.
+
+
+**Tier:** 1 initially; scale by district\
+**Type:** Exploration\
+**Description:** A ruined city whose civic decay, Rot, and surviving communities overlap block by block.\
+**Impulses:** Isolate, flood, disorient, expose buried dependency\
+**Difficulty:** 11 in early Act I districts; scale with party tier\
+**Potential Adversaries:** Shattered Axe raiders, Rot-afflicted people, beasts, collapsing infrastructure\
+
+### Features
+
+- **Rot Pressure — Reaction:** On a Fear result during prolonged exposure, introduce an unsettling cognitive or perceptual effect, mark a narrative exposure consequence, or separate what a character perceives from what others perceive. Do not use a fixed infection track until the GM establishes one.
+- **The Street Is Gone — Action:** A familiar route becomes flooded, collapsed, blocked, or controlled, forcing a choice between delay, danger, payment, or a new route.
+- **Someone Still Lives Here — Passive:** Ruins should regularly reveal residents, workers, scavengers, or communities so Old Ostium never becomes an empty monster dungeon.
+
+### Feature Questions
+
+- Who is surviving here and what do they need?
+- What evidence shows that the city is still connected to New Ostium?
+- What does the Rot make someone perceive that might contain a fragment of truth?
+
+## Encounter / Scene Ideas
+
+- Escort through a shifting district.
+- Patrol encounter with Protectorate or Shattered Axe.
+- Rot phenomenon that can be interpreted as madness or signal.
+- Infrastructure failure that creates a moral choice rather than just damage.
+
+## Future Changes
+
+- As acts progress, lower districts should become stranger and more organic in implication.
+
+
+## PC Knowledge — Recorded Overview
+
+Old Ostium is the failing former capital of Ostium. It remains inhabited despite its decay, flooding, the danger of the Rot, and other hazards.
+
+It remains a place of survival, labour, and danger, with a complex relationship to the safer and wealthier [[Locations/New Ostium|New Ostium]].

@@ -1,0 +1,91 @@
+{
+  "pageid": 15397445,
+  "ns": 6,
+  "title": "File:Hubert Robert - Inhabited Ruins - WGA19584.jpg",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hubert_Robert_-_Inhabited_Ruins_-_WGA19584.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 1400,
+      "thumbheight": 1853,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hubert_Robert_-_Inhabited_Ruins_-_WGA19584.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1400,
+        "height": 1853
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hubert_Robert_-_Inhabited_Ruins_-_WGA19584.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_Inhabited_Ruins_-_WGA19584.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15397445",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2011-06-04 08:51:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\">Inhabited Ruins</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "1780s paintings in Russia|1790s paintings from France|1790 paintings|Images from Web Gallery of Art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|18th-century paintings in the Hermitage|18th-century paintings of ruins|CC-PD-Mark|WGA form: painting|WGA time period: 1751-1800|WGA type: landscape|Artworks with accession number from Wikidata|People and ruins in paintings|Artworks with Wikidata item missing genre|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|Paintings of ruins by Hubert Robert|Paintings of interiors by Hubert Robert|Genre paintings by Hubert Robert|Paintings by Hubert Robert in the Hermitage|WGA School: French|1790 paintings by Hubert Robert",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hubert_Robert\" class=\"extiw\" title=\"w:en:Hubert Robert\"><span title=\"French painter (1733-1808)\">Hubert Robert</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1790<div style=\"display: none;\">date QS:P571,+1790-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/art/r/robert/inhruins.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/art/r/robert/inhruins.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/html/r/robert/inhruins.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/html/r/robert/inhruins.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"r/robert/inhruins\"</div>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

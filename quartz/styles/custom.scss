@@ -1,0 +1,35 @@
+@use "./base.scss";
+@use "./variables.scss" as *;
+
+// put your custom CSS here!
+
+// Campaign illustrations keep their full composition and readable captions.
+a.campaign-artwork-link {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin: 1rem 0 0;
+  background: transparent;
+  cursor: zoom-in;
+}
+a.campaign-artwork-link:has(> .artwork-scene) { width: 100%; }
+img.campaign-artwork-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  border: 1px solid var(--lightgray);
+  border-radius: 0.4rem;
+  box-sizing: border-box;
+}
+img.artwork-portrait { width: auto; max-width: min(100%, 22rem); max-height: 30rem; }
+img.artwork-scene { width: 100%; }
+p:has(> .campaign-artwork-link) { margin-bottom: 0.4rem; }
+p:has(> .campaign-artwork-link) + p {
+  margin-top: 0;
+  color: var(--darkgray);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+// Credits remain readable in both color themes, including inherited emphasis.
+p:has(> .campaign-artwork-link) + p em { color: var(--darkgray); }

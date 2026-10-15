@@ -1,11 +1,33 @@
-name: Adventures
 filters:
-  - property: type
-    value: adventure
-    operator: equals
+  and:
+    - 'file.folder == "Storylines/Adventures"'
+    - 'type == "adventure"'
+properties:
+  file.name:
+    displayName: Name
+  status:
+    displayName: Status
+  act:
+    displayName: Act
+  patron:
+    displayName: Patron
+  objective:
+    displayName: Objective
+  related-factions:
+    displayName: Factions
+  related-locations:
+    displayName: Locations
+  related-npcs:
+    displayName: NPCs
 views:
   - type: table
-    columns:
-      - property: title
-      - property: status
-      - property: canon-status
+    name: GM Adventures
+    order:
+      - file.name
+      - status
+      - act
+      - patron
+      - objective
+      - related-factions
+      - related-locations
+      - related-npcs

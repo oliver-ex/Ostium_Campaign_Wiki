@@ -1,15 +1,14 @@
-name: NPCs
 filters:
-  - property: type
-    value: npc
-    operator: equals
+  and:
+    - file.folder == "Characters/NPCs"
+    - type == "npc"
 views:
   - type: table
-    columns:
-      - property: title
-      - property: pronouns
-      - property: age
-      - property: ancestry
-      - property: community
-      - property: usual_location
-      - property: status
+    name: NPCs
+    order:
+      - file.name
+      - species
+      - occupation
+      - location
+      - factions
+      - status

@@ -1,17 +1,14 @@
-name: Player Characters
 filters:
-  - property: type
-    value: pc
-    operator: equals
+  and:
+    - file.folder == "Characters/Player Characters"
+    - type == "pc"
 views:
   - type: table
-    columns:
-      - property: title
-      - property: player
-      - property: pronouns
-      - property: age
-      - property: ancestry
-      - property: community
-      - property: class
-      - property: subclass
-      - property: level
+    name: Player Characters
+    order:
+      - file.name
+      - player
+      - ancestry
+      - class
+      - level
+      - system

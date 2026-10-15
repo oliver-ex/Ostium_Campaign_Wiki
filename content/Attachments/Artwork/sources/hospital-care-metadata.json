@@ -1,0 +1,100 @@
+{
+  "pageid": 990515,
+  "ns": 6,
+  "title": "File:Pellegrinaio Santa Maria della Scala n5.jpg",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Pellegrinaio_Santa_Maria_della_Scala_n5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 1400,
+      "thumbheight": 1123,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Pellegrinaio_Santa_Maria_della_Scala_n5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1400,
+        "height": 1123
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Pellegrinaio_Santa_Maria_della_Scala_n5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pellegrinaio_Santa_Maria_della_Scala_n5.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=990515",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2006-07-27 17:02:01",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pellegrinaio Santa Maria della Scala n5",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Nikon D70|Self-published work|PD-self|Pellegrinaio di Santa Maria della Scala - The Care of the Sick",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<i>Healing the sick</i>, fresco by Domenico di Bartolo. Sala del Pellegrinaio (hall of the pilgrim), Hospital Santa Maria della Scala, <a href=\"//commons.wikimedia.org/wiki/Siena\" title=\"Siena\">Siena</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "between 1441 and 1442<div style=\"display: none;\">date QS:P,+1441-00-00T00:00:00Z/8,P1319,+1441-00-00T00:00:00Z/9,P1326,+1442-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "own picture, <a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Jastrow</a> (2005)",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Domenico_di_Bartolo\" class=\"extiw\" title=\"w:en:Domenico di Bartolo\"><span title=\"Italian painter (c.1400-c.1445)\">Domenico di Bartolo</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "Public Domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

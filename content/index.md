@@ -1,30 +1,63 @@
 ---
-title: "Ostium Campaign Wiki"
-type: "home"
+title: Ostium — Campaign Wiki
+type: home
 tags:
-  - ostium
-  - campaign
+- home
+aliases:
+- content
+- Ostium Wiki
 ---
 
-# Ostium
+# Ostium — Campaign Wiki
 
-This public wiki is intentionally sparse at the start of the campaign. The party should only see information that is broadly known, publicly shared, and safe for a newcomer or resident of Ostium to know.
+> [!warning] Campaign spoilers
+> This is the comprehensive wiki for DMs and co-DMs. A GitHub Pages URL is publicly accessible unless independently restricted; an unadvertised link is not access control.
 
-## Explore
+Ostium is a divided city whose failing infrastructure, unequal access to care, and competing civic loyalties lead into ancient works and a wounded divine being. Old and New Ostium remain morally complicated, physically interconnected communities. The rules support D&D 5e (2024) by default and Daggerheart through separate mechanical guidance.
 
-- [[Characters/|Characters]]
-- [[Locations/|Locations]]
-- [[Factions/|Factions]]
-- [[Storylines/|Storylines]]
-- [[Session Logs/|Session Logs]]
-- [[Rules/|Rules]]
+*Worldbuilding, Campaign Lore & DM Resources*
 
-## Setting at a Glance
+## World
 
-- [[Locations/Ostium]] was once a great city and remains the center of a divided civic identity.
-- [[Locations/Old Ostium]] is the failing former capital, and [[Locations/New Ostium]] is the functioning successor city that grew from newer districts.
-- The two cities remain connected in practical ways even while politically separate.
-- Old Ostium is still inhabited and dangerous, while New Ostium is safer and more orderly.
-- The relationship between the two halves of the city is tense, complicated, and often fraught with mistrust.
+- [[Storylines/Ostium Campaign|Campaign overview]] · [[World Lore/World Lore|World history and lore]]
+- [[Locations/Locations|Geography and regions]] · [[World Lore/Auren Culture|Cultures and civilizations: the Auren]]
+- [[Locations/The Heart|Gods and mythology: the Heart]] · [[Creatures and Afflictions/The Rot|The Rot]]
+- [[Planning/Plot Threads and Mysteries|Ancient mysteries and open questions]]
 
-This public record will grow organically as the party learns more during play.
+## Locations
+
+- [[Locations/Ostium|Ostium]] · [[Locations/Old Ostium|Old Ostium]] · [[Locations/New Ostium|New Ostium]]
+- [[Locations/Mistbreak|Mistbreak]] · [[Locations/Torney Isles|Torney Isles]]
+- [[Locations/Locations|All locations]]
+
+## Characters
+
+- [[Characters/Player Characters/Player Characters|Player character roster]]
+- [[Characters/NPCs/NPCs|NPC directory and relationships]]
+
+## Factions
+
+- [[Factions/Factions|Faction directory and other factions]]
+- [[Factions/The Shattered Axe|The Shattered Axe]]
+
+## Adventures
+
+- [[Planning/Campaign Dashboard|Active priorities and adventure hooks]]
+- [[Storylines/Adventures/Adventures|Quest directory and prepared adventures]]
+- [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]]
+- [[Encounters/Encounters|Encounters]]
+- [[Session Logs/Session Prep — The Road to Ostium|Upcoming session preparation]]
+- [[Session Logs/Session Logs|Session index and previous reports]]
+
+## DM Resources
+
+- [[World Lore/Campaign Timeline|Campaign timeline]]
+- [[Planning/Plot Threads and Mysteries|Secrets, mysteries, and future plans]]
+- [[Rules/System Guide#D&D 5e (2024)|D&D 5e rules]] · [[Rules/System Guide#Daggerheart|Daggerheart guidance]]
+- [[Rules/Rules|All mechanical references]]
+- [[Session Logs/Session Logs|Session preparation]] · [[Templates/Templates|Templates]]
+- [[Items and Artifacts/Items and Artifacts|Items and artifacts]]
+- [[Creatures and Afflictions/Creatures and Afflictions|Creatures, Frigid Woe, and afflictions]]
+- [[Attachments/Artwork Credits|Artwork credits]]
+
+Use search for full-text lookup, the sidebar for folders, breadcrumbs for context, and backlinks/graph for relationships. Clues and outcomes in prep are planned possibilities until play establishes them. No in-world date or latest-session outcome has been invented.

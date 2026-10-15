@@ -1,11 +1,30 @@
-name: Storylines
 filters:
-  - property: type
-    value: storyline
-    operator: equals
+  and:
+    - 'file.folder == "Storylines"'
+    - 'type == "storyline"'
+properties:
+  file.name:
+    displayName: Name
+  status:
+    displayName: Status
+  act:
+    displayName: Act
+  related-adventures:
+    displayName: Adventures
+  related-factions:
+    displayName: Factions
+  related-locations:
+    displayName: Locations
+  file.mtime:
+    displayName: Last Updated
 views:
   - type: table
-    columns:
-      - property: title
-      - property: status
-      - property: act
+    name: GM Storylines
+    order:
+      - file.name
+      - status
+      - act
+      - related-adventures
+      - related-factions
+      - related-locations
+      - file.mtime

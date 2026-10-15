@@ -1,0 +1,75 @@
+{
+  "description": "Artwork withheld from Git and the public build until reuse rights are documented. Local Obsidian references are retained.",
+  "withheld": [
+    {
+      "file": "Attachments/Artwork/npcs/brock-drungur.webp",
+      "source": "https://www.deviantart.com/ubermonster/art/Dwarf-Engineer-Sketch-397171571",
+      "artist": "Anthony Francisco (Ubermonster)"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/orla-meren.webp",
+      "source": "https://www.deviantart.com/feliciacano/art/Gnome-81799929",
+      "artist": "Felicia Cano"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/mara-voss.webp",
+      "source": "https://www.deviantart.com/kuraigeijutsu/art/Maya-Halfling-829232877",
+      "artist": "KuraiGeijutsu"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/trine-baradur.webp",
+      "source": "https://www.deviantart.com/woodenpencilbox/art/Tiefling-Healer-Commission-OPEN-855974648",
+      "artist": "Woodenpencilbox"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/korok-grund.webp",
+      "source": "https://www.deviantart.com/anssiart/art/Orc-238925786",
+      "artist": "anssiart"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/ulroc-grimscar.webp",
+      "source": "https://www.deviantart.com/hamsterfly/art/Northog-Tactician-108095316",
+      "artist": "Hamsterfly"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/dalia-quent.webp",
+      "source": "https://www.deviantart.com/jay-carpenter/art/Fantasy-Elf-Portrait-478471041",
+      "artist": "Jay Carpenter"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/shanda-karth.webp",
+      "source": "https://www.deviantart.com/cj-backman/art/Elf-Portrait-691696099",
+      "artist": "CJ-Backman"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/elro-aditower.webp",
+      "source": "https://www.deviantart.com/dreeadraws/art/High-elf-noble-897309275",
+      "artist": "DreeaDraws"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/veritas.webp",
+      "source": "https://www.deviantart.com/bearcub/art/CM-Silvan-Elf-Cleric-701262001",
+      "artist": "bearcub"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/vesha-noll.webp",
+      "source": "https://www.deviantart.com/sedeslav/art/Female-Half-Elf-Ranger-887569953",
+      "artist": "Sedeslav"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/senn-vale.webp",
+      "source": "https://www.deviantart.com/vocitare/art/Doctor-Viz-Alchemist-DnD-Character-866252199",
+      "artist": "Vocitare"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/indra-karaf.webp",
+      "source": "https://olgajaworska.artstation.com/projects/Zaqkdm",
+      "artist": "Olga Jaworska"
+    },
+    {
+      "file": "Attachments/Artwork/npcs/goliath-builders.webp",
+      "source": "https://www.dndbeyond.com/posts/1783-the-10-species-in-the-2024-players-handbook",
+      "artist": "Hinchel Or"
+    }
+  ]
+}

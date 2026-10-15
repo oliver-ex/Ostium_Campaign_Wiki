@@ -1,0 +1,95 @@
+{
+  "pageid": 1169897,
+  "ns": 6,
+  "title": "File:Arnold Boecklin - Island of the Dead, Third Version.JPG",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Arnold_Boecklin_-_Island_of_the_Dead%2C_Third_Version.JPG/1920px-Arnold_Boecklin_-_Island_of_the_Dead%2C_Third_Version.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1400,
+      "thumbheight": 770,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Arnold_Boecklin_-_Island_of_the_Dead%2C_Third_Version.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Arnold_Boecklin_-_Island_of_the_Dead%2C_Third_Version.JPG/1920px-Arnold_Boecklin_-_Island_of_the_Dead%2C_Third_Version.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1400,
+        "height": 770,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Arnold_Boecklin_-_Island_of_the_Dead%2C_Third_Version.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Arnold_Boecklin_-_Island_of_the_Dead%2C_Third_Version.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Arnold_Boecklin_-_Island_of_the_Dead,_Third_Version.JPG",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1169897",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2008-01-30 21:28:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">German:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"de\"><i>Die Toteninsel</i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Isle of the Dead</i></div></div><div style=\"display: none;\">title QS:P1476,de:\"Die Toteninsel\"</div><div style=\"display: none;\">label QS:Lde,\"Die Toteninsel\"</div><div style=\"display: none;\">label QS:Les,\"La isla de los muertos\"</div><div style=\"display: none;\">label QS:Lfr,\"L'Île des morts\"</div><div style=\"display: none;\">label QS:Lis,\"Eyja hinna dauðu\"</div><div style=\"display: none;\">label QS:Lru,\"Остров мёртвых\"</div><div style=\"display: none;\">label QS:Lpt,\"A Ilha dos Mortos\"</div><div style=\"display: none;\">label QS:Lzh,\"死之島\"</div><div style=\"display: none;\">label QS:Ltr,\"Ölüler Adası\"</div><div style=\"display: none;\">label QS:Lja,\"死の島\"</div><div style=\"display: none;\">label QS:Lnl,\"Het dodeneiland\"</div><div style=\"display: none;\">label QS:Lfi,\"Kuolleiden saari\"</div><div style=\"display: none;\">label QS:Len,\"Isle of the Dead\"</div><div style=\"display: none;\">label QS:Lla,\"Insula mortuorum\"</div><div style=\"display: none;\">label QS:Lcs,\"Ostrov mrtvých\"</div><div style=\"display: none;\">label QS:Lit,\"Isola dei Morti\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Symbolist paintings|1883 paintings|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|Featured pictures on Wikipedia, Turkish|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks digital representation of 2D work|Files with Assessments template missing SDC Commons no value quality assessment|The Isle of the Dead (NG 2/80) by Arnold Böcklin",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Arnold_B%C3%B6cklin\" class=\"extiw\" title=\"w:en:Arnold Böcklin\"><span title=\"Swiss painter, draftsman, graphic artist and sculptor (1827–1901)\">Arnold Böcklin</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1883<div style=\"display: none;\">date QS:P571,+1883-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.arts-wallpapers.com/wallpaper/arnold_bocklin/index.htm\">[1]</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.folder == "Rules"
+    - type == "rules"
+views:
+  - type: table
+    name: GM Rules
+    order:
+      - file.name
+      - tags

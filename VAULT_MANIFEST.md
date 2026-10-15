@@ -1,138 +1,57 @@
 # Ostium Campaign Wiki — Vault Manifest
 
-This package is a master Obsidian campaign knowledge base designed for **Daggerheart**, with a player-safe public layer and a local GM-only layer.
+The authoritative Obsidian vault is `content/`. It is now one comprehensive DM/co-DM wiki. All campaign lore, secrets, preparation, and planned events are eligible for the same GitHub Pages site. The former `_GM` / public split was explicitly retired by the GM.
 
-## Architecture
+## Structure
 
-- `content/` — open this folder as the Obsidian vault.
-- `content/_GM/` — GM-only notes; ignored by Git and Quartz.
-- `content/_Templates/` — Obsidian templates and template examples.
-- Public entity pages are canonical player knowledge.
-- Paired GM pages contain secret information and embed the public page at the bottom.
-- `AGENTS.md` defines the rules Codex/LLMs should follow when maintaining the vault.
+- `content/index.md` — wiki homepage.
+- `Characters/NPCs/` — 22 canonical NPC entries and directory.
+- `Characters/Player Characters/` — eight canonical PCs and roster.
+- `Locations/` — 16 locations and directory.
+- `Factions/` — six factions and directory, including the Shattered Axe.
+- `Storylines/` — campaign spine, three act outlines, and eight prepared adventures.
+- `Session Logs/` — immediate Road to Ostium prep, earlier prep, and the existing unfilled session record.
+- `World Lore/` — Auren history and relative campaign timeline.
+- `Creatures and Afflictions/` — Frigid Woe and the Rot, kept distinct.
+- `Rules/` — dual-system policy and preserved campaign mechanics.
+- `Planning/` — dashboard, mysteries, refactor report, migration inventory, and retired earlier report.
+- `Encounters/` — encounter navigation; existing encounter material remains in its canonical session/adventure pages.
+- `Items and Artifacts/` — category ready for individually established items; no new item canon invented.
+- `Attachments/` — campaign assets, Carl's proposed letter handout, artwork credits, sourcing backlog, and local artwork.
+- `Templates/` — 12 current templates; Legacy and Examples retain prior references without becoming campaign canon.
 
-## Public categories
+All paths above are relative to `content/`. Obsidian Bases continue to work; Markdown directory tables are regenerated from entity files by `npm run directories` and during builds.
 
-- Characters
-  - Player Characters
-  - NPCs
-- Locations
-- Factions
-- Storylines
-  - Acts
-  - Adventures
-- Session Logs
-- Rules
-- Attachments
+## Artwork
 
-## GM categories
+All 44 NPC/location/faction pages now display existing, non-AI artwork: 39 distinct works and 49 placements across 22 NPCs, 16 locations, and six factions. The collection includes 24 historical paintings/illustrations and 15 fantasy illustrations. The four Lusat pages share a labelled Goliath species reference; individual portraits remain a sourcing refinement.
 
-The `_GM` tree mirrors the public taxonomy and additionally contains the GM Dashboard, session-prep notes, hidden locations, and unrevealed adventures.
+`Attachments/Artwork Credits.md` records artists, original sources, rights information, and interpretation notes. `Attachments/Artwork Sourcing Backlog.md` records remaining portrait refinements. The asset register retains dimensions, hashes, coverage, and source metadata. Classical paintings are preferred where suitable; nonhuman NPCs use fantasy illustrations. Incidental appearance, gear, buildings, and symbols do not establish canon. The public build excludes 14 modern images whose publication rights have not been established, retaining their artist-source links; 25 artworks with recorded terms are published. Local Obsidian images remain intact.
 
-## Canonical NPC pages included
+Ordinary relative Markdown image paths work with the vault. The built site adds responsive framing, intrinsic dimensions, click-to-open image links, and lazy loading for secondary art. `scripts/check-artwork.mjs` verifies local files, dimensions, recorded hashes, required credit fields, source availability, and placements during checks/builds.
 
-- Egbert Lusat
-- Taran Lusat
-- Ulroc Grimscar
-- Indra Karaf
-- Trine Baradur
-- Brock Drungur
-- Mara Voss
-- Senn Vale
-- Calev Marr
-- Vesha Noll
-- Dalia Quent
-- Helena Orst
-- Orla Meren
+## Rules and continuity
 
-Each has a public page and a paired GM page.
+System-neutral fiction is preferred. D&D 5e (2024) is the mechanical default. Daggerheart has separate labelled guidance; existing numeric profiles are retained campaign homebrew and are not directly converted.
 
-## Locations included
+PC identities, players, ancestries, classes, and levels remain unchanged. Unselected subclasses, feats, spells, statistics, and speculative conversions remain TBD. Half-elf's mechanical source requires player/GM confirmation without changing identity.
 
-Public + GM pairs:
-- Ostium
-- Old Ostium
-- New Ostium
-- Old Ostium Pump 4
-- Old Ostium Pump 7
-- Old Ostium Waterworks
-- Old Ostium Hospital District
-- Old Ostium Town Hall
-- Old Ostium University
-- Old Ostium Slums
-- New Ostium Market District
-- New Ostium Town Hall
+Use Canon, Proposed/Tentative, Rumor, Unknown, Planned, and Retired labels. Mixed notes keep their existing distinctions in the body. Preparation is not completed history. PC knowledge and introduced clues remain tracked within the unified wiki.
 
-GM-only until discovered:
-- Titan Works
-- The Heart
+## Publishing
 
-## Factions included
+This repository contains the reused Quartz 4.5.2 runtime, dependency lockfile, one active `quartz.config.ts`, and one `.github/workflows/deploy.yml` publisher. GitHub Actions builds the Markdown directly on `main` pushes. There is no copy step or active dependency on the old sibling site checkout.
 
-- Old Ostium Engineers
-- Old Ostium Hospital District — Community
-- The Protectorate
-- The Jagged Blade
-- New Ostium Merchants Guild
-- New Ostium Government
+The local checkout currently has no remote; connecting the intended GitHub repository and enabling Pages with GitHub Actions remain setup steps. No successful live deployment is claimed.
 
-Each faction has a public page, GM page, leadership hierarchy, and unfilled leadership/operational roles that can become NPCs later.
+The site includes full-text search, sidebar navigation, breadcrumbs, backlinks, graph, table of contents, dark mode, tags, recent notes, and responsive layouts. Sitemap/RSS and optional social image generation are disabled. Robots/noindex discourage indexing but do not restrict access.
 
-## Story structure included
+Treat GitHub Pages as publicly accessible unless independent access controls are verified. Campaign spoilers are authorized; credentials, private contact details, unrelated documents, `.obsidian`, `.trash`, local backups, dependencies, and build caches are not site content.
 
-- Ostium Campaign — overall storyline
-- Act I — Twin Cities
-- Act II — Beneath the Waterworks (GM-only until appropriate)
-- Act III — The Heart Below Ostium (GM-only until appropriate)
+## Validation and preservation
 
-## Adventures included
+`npm run check` audits the vault and TypeScript. `npm run build` regenerates directories, audits source links/YAML/assets, builds Quartz, adds indexing directives, and checks every emitted local link/asset/anchor plus source-page/search inclusion.
 
-Public + GM:
-- The Prodigal Son
+The migration inventory records all 124 original file paths and their canonical destinations. The ignored `.vault-refactor/before.tar.gz` contains the exact pre-refactor content snapshot. No original working-tree lore was discarded, no PC statistics were invented, and all 56 existing numeric NPC/environment lines were preserved. Retired instructions are provenance, not current policy.
 
-GM-only until revealed:
-- Pump 7
-- The Heist
-- Rescue Mission
-- Assassination
-- The Best Defense
-- Heist II
-- Negotiations
-
-## Templates included
-
-- Player Character
-- Player Character — GM
-- NPC
-- NPC — GM
-- Location
-- Location — GM
-- Faction
-- Faction — GM
-- Storyline
-- Storyline — GM
-- Adventure — Public
-- Adventure — GM
-- Session Log
-- Session Prep — GM
-
-Every template has either a dedicated example or a canonical campaign page identified as its example in `_Templates/Examples/index.md`.
-
-## Daggerheart support
-
-Templates use Daggerheart-oriented fields, including PC traits, ancestry, community, class/subclass, domains, Experiences, Hope, Stress, Evasion, armour, thresholds, HP, domain cards, equipment, and gold. GM NPC notes support Daggerheart adversary fields, and GM location notes support Daggerheart environment fields.
-
-Any authored adversary/environment numbers in this package are campaign-prep homebrew and should be adjusted to the party tier and actual table experience.
-
-## Project/support files
-
-- `AGENTS.md`
-- `.gitignore`
-- `.github/workflows/deploy.yml`
-- `README.md`
-- `SETUP.md`
-- `PLAYER_EDITING_GUIDE.md`
-- `quartz.ostium-settings.yaml`
-- `.obsidian/` basic vault configuration
-
-Quartz itself is intentionally not vendored in this ZIP; `SETUP.md` explains how to place the vault into the current official Quartz v5 TTRPG project so Quartz remains upgradeable.
+See `content/Planning/Wiki Refactor Report.md` for browser results, unresolved continuity decisions, and deployment limitations.

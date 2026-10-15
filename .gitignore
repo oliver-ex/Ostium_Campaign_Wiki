@@ -1,5 +1,4 @@
-# ===== PRIVACY BARRIER: NEVER COMMIT GM MATERIAL =====
-content/_GM/
+# Campaign content is intentionally publishable in the unified DM wiki.
 
 # Local editor state
 .obsidian/
@@ -12,7 +11,7 @@ content/.obsidian/workspace-mobile.json
 content/.obsidian/cache/
 
 # Quartz/build/dependency output
-node_modules/
+node_modules
 public/
 .quartz/
 
@@ -21,3 +20,31 @@ public/
 Thumbs.db
 *.swp
 *.tmp
+
+# Local reversible migration snapshots
+.vault-refactor/
+*.tsbuildinfo
+
+# Keep all local Obsidian configuration and credentials out of Git/site
+content/.obsidian/
+.env
+.env.*
+
+# Artwork retained locally; publication rights not established
+/content/Attachments/Artwork/npcs/brock-drungur.webp
+/content/Attachments/Artwork/npcs/orla-meren.webp
+/content/Attachments/Artwork/npcs/mara-voss.webp
+/content/Attachments/Artwork/npcs/trine-baradur.webp
+/content/Attachments/Artwork/npcs/korok-grund.webp
+/content/Attachments/Artwork/npcs/ulroc-grimscar.webp
+/content/Attachments/Artwork/npcs/dalia-quent.webp
+/content/Attachments/Artwork/npcs/shanda-karth.webp
+/content/Attachments/Artwork/npcs/elro-aditower.webp
+/content/Attachments/Artwork/npcs/veritas.webp
+/content/Attachments/Artwork/npcs/vesha-noll.webp
+/content/Attachments/Artwork/npcs/senn-vale.webp
+/content/Attachments/Artwork/npcs/indra-karaf.webp
+/content/Attachments/Artwork/npcs/goliath-builders.webp
+
+# Quartz 4 compiler cache
+quartz/.quartz-cache/
