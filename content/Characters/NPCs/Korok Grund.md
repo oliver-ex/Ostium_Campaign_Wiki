@@ -96,7 +96,7 @@ A Shattered Axe field commander preparing to rob Darian’s caravan under the gu
 **Species (D&D 2024):** Orc
 
 - Commands the caravan ambush under orders from [[Factions/The Shattered Axe|The Shattered Axe]].
-- **Planned ambush setup (GM-established):** poses with his gang as New Ostium city guards, using a false caravan inspection and “contraband” seizure to disguise the robbery. Specific outfit clues and Darian's warning are in [[Encounters/Roadside Ambush|Roadside Ambush]]; no actual city authority is established.
+- **Planned ambush setup (GM-established):** poses with his gang as New Ostium city guards, using a false caravan inspection and “contraband” seizure to disguise the robbery. Specific outfit clues and Darian's warning are in [[Storylines/Adventures/The Road to Ostium|The Road to Ostium]]; no actual city authority is established.
 - Objectives: seize [[Characters/NPCs/Darian Auir|Darian Auir]]'s valuables, food, and medical supplies.
 - Alive at session start. A field commander, **not** a replacement for [[Characters/NPCs/Ulroc Grimscar|Ulroc Grimscar]] or established raiding captain Berrik Thane.
 

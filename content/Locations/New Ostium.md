@@ -36,9 +36,9 @@ Ostium’s functioning successor city: an orderly refuge under real capacity pre
 | Connection | Follow links |
 | --- | --- |
 | Within | [[Locations/Ostium\|Ostium]] |
-| People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
+| People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Mira Vey\|Mira Vey]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
 | Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Old Ostium\|Old Ostium]] |
-| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+| Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 | Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
 | Contained locations | [[Locations/New Ostium Market District\|New Ostium Market District]] · [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
 
@@ -46,7 +46,6 @@ Ostium’s functioning successor city: an orderly refuge under real capacity pre
 
 | Adventure / state | Situation |
 | --- | --- |
-| [[Encounters/Roadside Ambush\|Roadside Ambush]] — prepared | A prepared caravan robbery by Shattered Axe bandits posing as city guards, with options to detect the deception, negotiate, evade, or fight. |
 | [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
 | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
 | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
@@ -67,9 +66,11 @@ Ostium’s functioning successor city: an orderly refuge under real capacity pre
 
 | NPC | Role | Faction / affiliation | Recorded current location | Status |
 | --- | --- | --- | --- | --- |
+| [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] | Leader of the New Ostium City Guard; Paladin | [[Factions/New Ostium City Guard\|New Ostium City Guard]] | [[Locations/New Ostium\|New Ostium]] | alive |
 | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] | Guildmaster; broker and fixer | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] | [[Locations/New Ostium Market District\|New Ostium Market District]] | alive |
 | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] | Wealthy merchant and former Old Ostium resident | Not established | [[Locations/New Ostium\|New Ostium]] | alive |
 | [[Characters/NPCs/Helena Orst\|Helena Orst]] | First Councillor; civil administrator | [[Factions/New Ostium Government\|New Ostium Government]] | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] | alive |
+| [[Characters/NPCs/Mira Vey\|Mira Vey]] | City Guard lieutenant; patrol and investigation coordinator | [[Factions/New Ostium City Guard\|New Ostium City Guard]] | [[Locations/New Ostium\|New Ostium]] | alive |
 | [[Characters/NPCs/Orla Meren\|Orla Meren]] | Public servant and clerk | Not established | [[Locations/New Ostium\|New Ostium]] | alive |
 | [[Characters/NPCs/Shanda Karth\|Shanda Karth]] | Apothecary | Not established | [[Locations/New Ostium\|New Ostium]] | alive |
 | [[Characters/NPCs/Trine Baradur\|Trine Baradur]] | Guild acquisition factor; merchant and broker | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] | [[Locations/New Ostium Market District\|New Ostium Market District]] | alive |
@@ -111,6 +112,15 @@ Ostium’s functioning successor city: an orderly refuge under real capacity pre
 
 - Government and Merchants Guild cooperate but compete over who sets priorities.
 - Old Ostium crises can become New Ostium political crises when water, trade, or security is affected.
+
+## Law Enforcement & Combat Risk
+
+The [[Factions/New Ostium City Guard|New Ostium City Guard]] operates here under [[Characters/NPCs/Aaron Fortisax|Aaron Fortisax]], a Dragonborn Paladin, with [[Characters/NPCs/Mira Vey|Lieutenant Mira Vey]] coordinating patrols and investigations. Good funding, excellent weapons, and formidable strength make illegal business in New Ostium highly dangerous.
+
+> [!danger] Open combat is a bad idea
+> The PCs should not fight the City Guard under any circumstances, especially at low levels. Make this danger clear before the party commits to crime or violence. A street fight can draw an organized Guard response; lawful business, negotiation, de-escalation, and withdrawal offer alternatives.
+
+The Guard is not omniscient: discovery depends on events, witnesses, and evidence. These are established city conditions and GM guidance, not a recorded PC encounter or warning.
 
 ## Hidden Areas / Access
 

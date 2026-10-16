@@ -61,6 +61,7 @@ A divided city whose old and new halves share failing infrastructure, unequal re
 
 | NPC | Role | Faction / affiliation | Recorded current location | Status |
 | --- | --- | --- | --- | --- |
+| [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] | Leader of the New Ostium City Guard; Paladin | [[Factions/New Ostium City Guard\|New Ostium City Guard]] | [[Locations/New Ostium\|New Ostium]] | alive |
 | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] | Apothecary | Not established | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] | alive |
 | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] | Senior waterworks engineer | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] | alive |
 | [[Characters/NPCs/Calev Marr\|Calev Marr]] | Protectorate quartermaster | [[Factions/The Protectorate\|The Protectorate]] | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] | alive |
@@ -69,6 +70,7 @@ A divided city whose old and new halves share failing infrastructure, unequal re
 | [[Characters/NPCs/Helena Orst\|Helena Orst]] | First Councillor; civil administrator | [[Factions/New Ostium Government\|New Ostium Government]] | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] | alive |
 | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] | Commander of the Protectorate | [[Factions/The Protectorate\|The Protectorate]] | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] | alive |
 | [[Characters/NPCs/Mara Voss\|Mara Voss]] | Hospital District speaker and relief administrator | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] | alive |
+| [[Characters/NPCs/Mira Vey\|Mira Vey]] | City Guard lieutenant; patrol and investigation coordinator | [[Factions/New Ostium City Guard\|New Ostium City Guard]] | [[Locations/New Ostium\|New Ostium]] | alive |
 | [[Characters/NPCs/Orla Meren\|Orla Meren]] | Public servant and clerk | Not established | [[Locations/New Ostium\|New Ostium]] | alive |
 | [[Characters/NPCs/Senn Vale\|Senn Vale]] | Pump captain; waterworks maintenance worker | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] | [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] | alive |
 | [[Characters/NPCs/Shanda Karth\|Shanda Karth]] | Apothecary | Not established | [[Locations/New Ostium\|New Ostium]] | alive |

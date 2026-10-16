@@ -54,7 +54,7 @@ The civic authority preserving New Ostium’s stability while resisting obligati
 
 | Connection | Follow links |
 | --- | --- |
-| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+| Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
 
 ### Adventures & Encounters
 
@@ -99,6 +99,7 @@ The civic authority preserving New Ostium’s stability while resisting obligati
 ## Resources
 
 - Law, bureaucracy, guards, records, public works, tax capacity.
+- The [[Factions/New Ostium City Guard|New Ostium City Guard]], led by [[Characters/NPCs/Aaron Fortisax|Aaron Fortisax]] with [[Characters/NPCs/Mira Vey|Lieutenant Mira Vey]], is well funded, excellently armed, and formidable. Illegal business in New Ostium is highly dangerous; the PCs should avoid combat with the Guard under any circumstances, especially at low levels. Ren Varo retains the City Marshal role above; his precise reporting relationship with Aaron is **Unknown / TBD**.
 
 ## Internal Tensions
 

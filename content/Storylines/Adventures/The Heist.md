@@ -27,9 +27,9 @@ A prepared Shattered Axe coercion job to steal an artifact from a New Ostium mus
 
 | Connection | Follow links |
 | --- | --- |
-| People | [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
+| People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
 | Locations | [[Locations/New Ostium\|New Ostium]] |
-| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+| Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 
 ### Adventures & Encounters
 
@@ -90,12 +90,15 @@ These are modular possibilities, not a fixed sequence.
 - Legal consequences.
 - The Blade may have lied about the artifact's importance.
 
+> [!danger] City Guard escalation
+> Any illegal business in New Ostium is highly dangerous. The [[Factions/New Ostium City Guard|New Ostium City Guard]], commanded by [[Characters/NPCs/Aaron Fortisax|Aaron Fortisax]], is well funded, excellently armed, and formidable. The PCs should not fight it under any circumstances, especially at low levels. Explain the danger before commitment; outright combat can bring an organized response. Discovery still follows actual witnesses and evidence. Preserve options to bargain, expose coercion, seek lawful help, or withdraw.
+
 ## D&D 5e (2024) Scene Guidance
 
 - **Possible checks:** Dexterity (Stealth) to pass unseen; Intelligence (Investigation) to understand security. Use only for meaningful uncertain actions.
 - **Suggested scenario DCs — Proposed homebrew:** 10 for a straightforward attempt under pressure; 15 for a demanding attempt. Adjust to the specific task; these are not converted Daggerheart numbers.
 - **Stakes:** Verify locks, tool use, and any magical protection individually; success need not mean stealing the target.
-- **Opposition and balance:** choose verified 2024-compatible stat blocks, number of participants, terrain, and resource pressure for the actual PC levels and attendance. No unverified official block or CR assigned.
+- **Opposition and balance:** choose verified 2024-compatible profiles for any local security that needs mechanics. The City Guard is a formidable escalation, not opposition balanced for the party; preserve the warning above. No unverified official block or CR assigned.
 - **Saves / conditions / magic:** define only for an actual hazard or verified effect; existing spell features and table disease rulings need review before adjudication. See [[Rules/System Guide|System Guide]].
 
 ## Daggerheart Scene Kit
@@ -110,7 +113,7 @@ These are modular possibilities, not a fixed sequence.
 
 ### Adversaries
 
-- **Guards — Standards/Supports appropriate to current tier if violence occurs, but combat should be costly rather than expected.**
+- **Museum security — the retained current-tier Standards/Supports suggestion applies only to local museum security. It does not define the City Guard, which must not be scaled to a manageable fight. Violence here risks Guard intervention.**
 
 ### Fear Opportunities
 

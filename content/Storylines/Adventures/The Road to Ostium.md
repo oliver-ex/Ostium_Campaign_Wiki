@@ -103,15 +103,15 @@ These are movable situations. Follow the party's route, skip bypassed scenes, an
 
 **Dramatic question:** can travelers and supplies reach the city without a costly fight?
 
-**Run the encounter:** [[Encounters/Roadside Ambush|Roadside Ambush]] provides a planned fight for **three level-1 PCs**: Korok (official revised Tough), Carl and one other full-strength Bandit, plus two homebrew minions. It includes embedded official statblocks, 5e.tools links, terrain, negotiation, and morale. Confirm attendance and resources before using that roster.
+**Run the encounter:** [[Encounters/Roadside Ambush|Roadside Ambush]] provides a planned fight for **three level-1 PCs**: Korok (official revised Tough), Carl and one other full-strength Bandit, plus two homebrew minions. It includes embedded statblocks, a terrain map, combat tactics, and morale. Confirm attendance and resources before using that roster.
 
 - **Darian interaction:** ask why the PCs are going to Ostium; let them ask about the cargo, ordinary road risks, or city approaches. Disease expertise is not established for him.
 - **Road details — Tentative:** patched ruts, an old drainage ditch, broken roadside masonry, cart tracks, a narrow bend beside scrub. No new named settlement or canon map required.
-- **Ambush site — Tentative:** a damaged culvert narrows the road; cover on either side permits intimidation and withdrawal. A wagon can stop before the pinch point; keep a route back and space for passengers to dismount.
+- **Ambush site — Tentative:** a fallen tree dragged across the road stops wagon passage; nearby broken culvert masonry and rocks offer cover. A wagon can stop before the pinch point; keep a route back and space for passengers to dismount.
 - **Notice / avoidance:** visible churned tracks, unusual silence, movement behind cover, or a partly shifted obstruction. Observant precautions reveal warning signs; a roll can improve position or certainty, not determine whether any choice exists.
 - **False inspection:** Korok claims to be New Ostium city guard and demands access to search the wagon, then calls food, medicine, and coin “contraband” to justify seizure. Mismatched outfits and assorted weaponry visibly undermine the disguise. Give PCs a chance to react before anyone boards or removes supplies; no check is required to notice the discrepancies.
 - **Darian's warning:** if PCs miss the cues or seem ready to comply, he points out the suspicious clothing and weapons before cargo is surrendered or anyone is disarmed: “Those coats don't match. This looks like a robbery.” He offers an observation and leaves the choice to them.
-- **If exposed:** Korok may bluff, bargain, or drop the pretence and demand the cargo openly. He wants a haul, not a massacre. Carl may hesitate near civilians. Exposing them does not force combat; see the standalone encounter for details.
+- **If exposed:** Korok may bluff, bargain, or drop the pretence and demand the cargo openly. He wants a haul, not a massacre. Carl may hesitate near civilians. Exposing them does not force combat; use the combat page if fighting starts.
 - **Tactics:** threaten movement and cargo, seek cover, offer terms, concentrate pressure rather than surround every escape. Korok may withdraw or surrender when losses outweigh gain.
 - **Alternatives:** parley, offer a limited share, convince attackers the cost is too high, retreat before entering the choke point, scout an alternate passage, or cooperate temporarily while seeking recovery later.
 - **Letter:** [[Attachments/Carl Marsh - Unsent Letter|Carl Marsh - Unsent Letter]] can be noticed with Carl's belongings, voluntarily offered, or dropped during retreat. Discovery does not require killing him.
@@ -123,6 +123,10 @@ These are movable situations. Follow the party's route, skip bypassed scenes, an
 | PCs flee | Safety or separation at the cost of abandoned cargo | Regroup and choose city or north; Darian's losses may matter later |
 | PCs negotiate | Agreed exchange or stand-down, with terms chosen at table | Trust and faction reactions follow how terms are honored |
 | PCs avoid the site | Ambush can be bypassed; no automatic relocation of the same fight | Human context may emerge later if relevant, rather than forcing Carl into their path |
+
+**Optional rulings — Planned:** DC 10 Wisdom (Perception) can reveal side positions early; DC 10 Wisdom (Insight) can reveal Korok’s interest in valuables; DC 10 Charisma (Persuasion or Intimidation) can resolve uncertain bargaining. Visible clues remain available on failure; no failed check forces combat. A dragged trunk now blocks wagon passage; clearing it requires suitable leverage or help, with time decided from the approach.
+
+**Rewards & record:** no fixed treasure cache, reward, or stolen antidote is established. Recoverable equipment follows the encounter profiles; agree exact cargo losses and promises at the table. If using XP, award **200 XP** for overcoming the encounter, including negotiation or avoidance (66 each for three PCs; 2 XP left to the table’s rounding convention). Otherwise retain existing milestone practice. Record attendance, cargo, Carl/Korok’s fates, agreements, and clues in the session report; update plot threads and the timeline only from actual outcomes.
 
 ### 2. The Human Cost — 10–20 minutes, if encountered
 

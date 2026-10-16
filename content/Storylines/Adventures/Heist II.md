@@ -27,9 +27,9 @@ A prepared resource theft targeting concentrated Guild wealth to help Old Ostium
 
 | Connection | Follow links |
 | --- | --- |
-| People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
+| People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
 | Locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
-| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
+| Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
 
 <!-- page-connections:end -->
 
@@ -82,12 +82,15 @@ These are modular possibilities, not a fixed sequence.
 - Stolen goods may be identifiable.
 - Beneficiaries may disagree about distribution.
 
+> [!danger] City Guard escalation
+> Any illegal business in New Ostium is highly dangerous. The [[Factions/New Ostium City Guard|New Ostium City Guard]], commanded by [[Characters/NPCs/Aaron Fortisax|Aaron Fortisax]], is well funded, excellently armed, and formidable. The PCs should not fight it under any circumstances, especially at low levels. Explain the danger before commitment; outright combat can bring an organized response. Discovery still follows actual witnesses and evidence. Preserve options to bargain, expose coercion, seek lawful help, or withdraw.
+
 ## D&D 5e (2024) Scene Guidance
 
 - **Possible checks:** Intelligence (Investigation) for evidence; Charisma (Deception or Persuasion) as the actual approach warrants. Use only for meaningful uncertain actions.
 - **Suggested scenario DCs — Proposed homebrew:** 10 for a straightforward attempt under pressure; 15 for a demanding attempt. Adjust to the specific task; these are not converted Daggerheart numbers.
 - **Stakes:** Alarms, witnesses, and escape routes respond to the fiction; no fixed success path.
-- **Opposition and balance:** choose verified 2024-compatible stat blocks, number of participants, terrain, and resource pressure for the actual PC levels and attendance. No unverified official block or CR assigned.
+- **Opposition and balance:** choose verified 2024-compatible profiles for any local security that needs mechanics. The City Guard is a formidable escalation, not opposition balanced for the party; preserve the warning above. No unverified official block or CR assigned.
 - **Saves / conditions / magic:** define only for an actual hazard or verified effect; existing spell features and table disease rulings need review before adjudication. See [[Rules/System Guide|System Guide]].
 
 ## Daggerheart Scene Kit
@@ -102,7 +105,7 @@ These are modular possibilities, not a fixed sequence.
 
 ### Adversaries
 
-- **Guild security — current-tier Standards/Supports if needed.**
+- **Guild security — current-tier Standards/Supports if needed for private guards only. The City Guard is a separate, formidable force; violence risks its intervention and must not be treated as a manageable fight.**
 
 ### Fear Opportunities
 

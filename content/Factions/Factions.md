@@ -7,10 +7,11 @@ tags:
 
 # Faction Directory
 
-All 6 factions. Relationships are pressures and affiliations, not automatic moral alignments.
+All 7 factions. Relationships are pressures and affiliations, not automatic moral alignments.
 
 | Faction | What they are about | Key contacts |
 | --- | --- | --- |
+| [[Factions/New Ostium City Guard\|New Ostium City Guard]] | New Ostium’s well-funded, exceptionally armed City Guard, commanded by Aaron Fortisax: a formidable force that makes illegal business highly dangerous and open combat a disastrous choice. | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Mira Vey\|Mira Vey]] |
 | [[Factions/New Ostium Government\|New Ostium Government]] | The civic authority preserving New Ostium’s stability while resisting obligations to the old city that it fears it cannot sustain. | [[Characters/NPCs/Helena Orst\|Helena Orst]] |
 | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] | A powerful trade organization that stabilizes New Ostium’s supply chains while concentrating wealth and pursuing selective profit from the old city. | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
 | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] | The repair crews keeping Old and New Ostium’s shared infrastructure alive despite scarce parts, exhausted experts, and political division. | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Senn Vale\|Senn Vale]] |

@@ -7,10 +7,11 @@ tags:
 
 # NPC Directory
 
-All 22 canonical NPC entries. Egbert Lusat is the antidote benefactor; the former unnamed placeholder is merged into his entry. Names, roles, and knowledge are campaign records; planned appearances are not completed events. Search this page or use full-text search.
+All 24 canonical NPC entries. Egbert Lusat is the antidote benefactor; the former unnamed placeholder is merged into his entry. Names, roles, and knowledge are campaign records; planned appearances are not completed events. Search this page or use full-text search.
 
 | NPC | Role | Recorded location | Affiliation |
 | --- | --- | --- | --- |
+| [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] | Leader of the New Ostium City Guard; Paladin | New Ostium | [[Factions/New Ostium City Guard\|New Ostium City Guard]] |
 | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] | Apothecary | Old Ostium Hospital District | Not established |
 | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] | Senior waterworks engineer | Old Ostium Waterworks | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
 | [[Characters/NPCs/Calev Marr\|Calev Marr]] | Protectorate quartermaster | Old Ostium Town Hall | [[Factions/The Protectorate\|The Protectorate]] |
@@ -23,6 +24,7 @@ All 22 canonical NPC entries. Egbert Lusat is the antidote benefactor; the forme
 | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] | Commander of the Protectorate | Old Ostium Town Hall | [[Factions/The Protectorate\|The Protectorate]] |
 | [[Characters/NPCs/Korok Grund\|Korok Grund]] | Bandit leader | Road to Ostium | [[Factions/The Shattered Axe\|The Shattered Axe]] |
 | [[Characters/NPCs/Mara Voss\|Mara Voss]] | Hospital District speaker and relief administrator | Old Ostium Hospital District | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] |
+| [[Characters/NPCs/Mira Vey\|Mira Vey]] | City Guard lieutenant; patrol and investigation coordinator | New Ostium | [[Factions/New Ostium City Guard\|New Ostium City Guard]] |
 | [[Characters/NPCs/Orla Meren\|Orla Meren]] | Public servant and clerk | New Ostium | Not established |
 | [[Characters/NPCs/Sara Lusat\|Sara Lusat]] | TBD | TBD | Not established |
 | [[Characters/NPCs/Senn Vale\|Senn Vale]] | Pump captain; waterworks maintenance worker | Old Ostium Pump 4 | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |

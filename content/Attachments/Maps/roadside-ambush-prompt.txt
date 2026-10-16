@@ -1,0 +1,6 @@
+Generated with the built-in imagegen tool on 2026-10-16.
+
+Use case: illustration-story
+Asset type: small tabletop RPG encounter battle map for a campaign wiki.
+Primary request: A clear top-down battlemap, landscape 3:2, a 60-foot-wide by 40-foot-high wooded roadside clearing. A dirt road 15 feet wide runs vertically from bottom to top through the middle. A fallen tree has visibly been dragged horizontally across the road in the upper third, blocking wagon passage; show scrape marks leading to it. Substantial scattered boulders and broken low stonework on both sides provide cover, with sparse shrubs and a shallow roadside ditch. Leave ample walkable open ground and a clear retreat toward the bottom. The tree has no standing stump at its base: it was dragged here.
+Style/medium: restrained hand-painted fantasy tactical map, earthy greens and browns, crisp readable terrain, orthographic directly overhead, even daylight. Subtle square grid, 12 columns by 8 rows, each square 5 feet. No tokens, no people, no wagon, no text, no labels, no legend, no watermark. Keep the scene simple and compact.

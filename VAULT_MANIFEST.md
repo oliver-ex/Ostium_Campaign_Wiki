@@ -5,10 +5,10 @@ The authoritative Obsidian vault is `content/`. It is now one comprehensive DM/c
 ## Structure
 
 - `content/index.md` — wiki homepage.
-- `Characters/NPCs/` — 22 canonical NPC entries and directory.
+- `Characters/NPCs/` — 24 canonical NPC entries and directory, including Aaron Fortisax and Lieutenant Mira Vey.
 - `Characters/Player Characters/` — eight canonical PCs and roster.
 - `Locations/` — 16 locations and directory.
-- `Factions/` — six factions and directory, including the Shattered Axe.
+- `Factions/` — seven factions and directory, including the Shattered Axe and New Ostium City Guard.
 - `Storylines/` — campaign spine, three act outlines, and nine prepared adventures.
 - `Session Logs/` — separate `Steven's Table/` and `Oliver's Table/` histories and preparation; earlier unassigned notes remain at the root. Steven has five completed summaries and blank Session 6 prep; Oliver has a completed Session 1 summary and a Session 2 outline. The canonical Road to Ostium adventure is in `Storylines/Adventures/`.
 - `World Lore/` — Auren history and relative campaign timeline.
@@ -24,9 +24,9 @@ All paths above are relative to `content/`. Obsidian Bases continue to work; Mar
 
 ## Artwork and Quick References
 
-All 22 canonical NPCs have publishable portraits. The active register contains 49 artworks and 67 placements across the 44 NPC/location/faction pages; 17 portraits are AI-generated campaign references with saved prompts and tool provenance. The former local-only portraits have been superseded. Calev and Carl have age-appropriate classical replacements. Location mood boards retain existing classical and fantasy art with artist credits and recorded terms.
+The original 22 canonical NPCs have publishable portraits; the newly added Aaron Fortisax and Mira Vey await artwork review. The active register contains 49 artworks and 67 placements across the 44 NPC/location/faction pages; 17 portraits are AI-generated campaign references with saved prompts and tool provenance. The former local-only portraits have been superseded. Calev and Carl have age-appropriate classical replacements. Location mood boards retain existing classical and fantasy art with artist credits and recorded terms.
 
-All 30 character pages have a generated quick reference: key information on the left and portrait or player-approved-portrait placeholder on the right in Quartz, stacking on mobile. Headers use the original metadata and portrayal notes. New NPC age estimates are labelled; PC metadata and player-owned choices remain unchanged.
+All 32 character pages have a generated quick reference: key information on the left and portrait or player-approved-portrait placeholder on the right in Quartz, stacking on mobile. Headers use the original metadata and portrayal notes. New NPC age estimates are labelled; PC metadata and player-owned choices remain unchanged.
 
 All 16 location pages have generated NPC tables drawn from current-location records, including contained districts/work sites at city level. Deceased NPCs, unknown locations, and planned visitors are excluded. A work site is not a confirmed home. Table-specific movements must be recorded before updating shared current locations.
 

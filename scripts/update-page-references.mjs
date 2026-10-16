@@ -81,7 +81,10 @@ export function updatePageReferences(vault) {
     const block = `<!-- page-connections:start -->\n\n## Connected Pages\n\n${content.trim()}\n\n<!-- page-connections:end -->\n\n`
     // Keep the first practical reference visible before the link tables.
     // Large illustrations follow reference material rather than separating title and purpose.
-    if (page.data.type === 'faction') {
+    if (page.data.type === 'encounter') {
+      // Combat references belong first; keep generated navigation after the encounter.
+      text = text.trimEnd() + '\n\n' + block.trimEnd() + '\n'
+    } else if (page.data.type === 'faction') {
       const beforeDetails = /(?=<!-- campaign-artwork:start -->|## Relevant Roles to Populate Later|## Goals, Agenda & Pressures)/
       if (beforeDetails.test(text)) text = text.replace(beforeDetails, block)
       else text = text.replace(/(^# [^\n]+\n)/m, `$1\n${block}`)
