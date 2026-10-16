@@ -33,6 +33,30 @@ species: Halfling
 
 # Rono
 
+<!-- character-profile:start -->
+
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Ancestry / identity | Halfling |
+> > | Age | TBD — player choice |
+> > | Pronouns | Not recorded |
+> > | Player | Bram |
+> > | Class / level | Rogue / 1 |
+> > | Faction / affiliation | Not established |
+> > | Current location | Unknown |
+> > | Status | active |
+>
+> > [!portrait] Portrait
+> >
+> > *No player-approved portrait recorded.*
+
+<!-- character-profile:end -->
+
+
 ## Identity
 
 **Player:** Bram

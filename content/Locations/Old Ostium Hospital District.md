@@ -14,6 +14,21 @@ status: active
 
 # Old Ostium Hospital District
 
+<!-- location-residents:start -->
+
+## NPCs Currently Based Here
+
+| NPC | Role | Faction / affiliation | Recorded current location | Status |
+| --- | --- | --- | --- | --- |
+| [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] | Apothecary | Not established | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] | alive |
+| [[Characters/NPCs/Mara Voss\|Mara Voss]] | Hospital District speaker and relief administrator | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] | alive |
+| [[Characters/NPCs/Taran Lusat\|Taran Lusat]] | Civil engineer and relief benefactor | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] | alive |
+
+*From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
+
+<!-- location-residents:end -->
+
+
 <!-- campaign-artwork:start -->
 
 > [!gallery] Visual inspiration

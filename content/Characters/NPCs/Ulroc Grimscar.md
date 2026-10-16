@@ -15,7 +15,8 @@ community: Old Ostium
 occupation: Raider chief and crime lord
 status: alive
 last_known_location: Old Ostium Slums
-factions: []
+factions:
+- "[[Factions/The Shattered Axe|The Shattered Axe]]"
 first_appearance: ''
 location: Old Ostium Slums
 session-appearances: []
@@ -23,13 +24,41 @@ session-appearances: []
 
 # Ulroc Grimscar
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A green orc commander leaning on a staff above a distant marching force.](../../Attachments/Artwork/npcs/ulroc-grimscar.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Orc |
+> > | Age | 47 |
+> > | Pronouns | he/him |
+> > | Role | Raider chief and crime lord |
+> > | Faction / affiliation | [[Factions/The Shattered Axe\|The Shattered Axe]] |
+> > | Current location | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
+> > | Status | alive |
+> >
+> > **In play:** Primary mortal antagonist and embodiment of predatory power in Old Ostium
+> >
+> > **Wants now:** Exploit instability, raid surviving settlements, increase smuggling into New Ostium, and keep subordinates loyal through profitable violence.
+> >
+> > **Portrayal:** Quiet threat rather than shouting; makes ownership claims as if they are obvious facts.
+> >
+> > **Attitude:** Respectful only toward competence and credible strength; sees mercy without leverage as weakness.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A broad tusked orc with a weathered face, dark beard, and substantial dark clothing.](../../Attachments/Artwork/npcs/ulroc-grimscar-portrait.webp)
+> >
+> > *Visual reference: Ulroc Grimscar — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Northog Tactician — [Hamsterfly](https://www.deviantart.com/hamsterfly/art/Northog-Tactician-108095316). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance

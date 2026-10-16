@@ -33,6 +33,30 @@ species: Gnome
 
 # Bilbron Bafflestone
 
+<!-- character-profile:start -->
+
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Ancestry / identity | Gnome |
+> > | Age | TBD — player choice |
+> > | Pronouns | Not recorded |
+> > | Player | Yannick |
+> > | Class / level | Barbarian / 2 |
+> > | Faction / affiliation | Not established |
+> > | Current location | Unknown |
+> > | Status | active |
+>
+> > [!portrait] Portrait
+> >
+> > *No player-approved portrait recorded.*
+
+<!-- character-profile:end -->
+
+
 ## Identity
 
 **Player:** Yannick

@@ -1,7 +1,10 @@
 import fs from 'node:fs'
 import YAML from 'yaml'
+import { updateCharacterProfiles, updateLocationResidents } from './update-character-profiles.mjs'
 import { readVault, writePage, cell, section, short } from './vault.mjs'
 const vault = readVault()
+updateCharacterProfiles(vault)
+updateLocationResidents(vault)
 const entries = (folder, type) => vault.filter(p => p.filename.startsWith(`content/${folder}/`) && p.data.type === type && p.data.status !== 'template').sort((a,b) => a.id.localeCompare(b.id))
 const table = (headers, rows) => `| ${headers.join(' | ')} |\n| ${headers.map(()=>'---').join(' | ')} |\n${rows.map(row=>`| ${row.map(cell).join(' | ')} |`).join('\n')}`
 const link = p => `[[${p.id}|${p.id.split("/").at(-1)}]]`

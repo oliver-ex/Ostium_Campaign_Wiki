@@ -23,14 +23,41 @@ session-appearances: []
 
 # Orla Meren
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A small pointed-eared gnome woman in leaf-patterned clothes beside woodland mushrooms.](../../Attachments/Artwork/npcs/orla-meren.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Gnome |
+> > | Age | 29 |
+> > | Pronouns | she/her |
+> > | Role | Public servant and clerk |
+> > | Faction / affiliation | Not established |
+> > | Current location | [[Locations/New Ostium\|New Ostium]] |
+> > | Status | alive |
+> >
+> > **In play:** Missing scholar for the University rescue; conduit for clues about the Heart's cognitive influence
+> >
+> > **Wants now:** Survive long enough to understand what the University inhabitants have become and preserve useful observations.
+> >
+> > **Portrayal:** Rapid academic excitement alternating with unnerving fixation after prolonged exposure.
+> >
+> > **Attitude:** If rescued, grateful but frustrated if forced away before she understands anything.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![An adult gnome woman with prominent pointed ears, pinned-up curly hair, and a plain civilian waistcoat.](../../Attachments/Artwork/npcs/orla-meren-portrait.webp)
+> >
+> > *Visual reference: Orla Meren — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Gnome — [Felicia Cano](https://www.deviantart.com/feliciacano/art/Gnome-81799929). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

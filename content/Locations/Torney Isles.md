@@ -21,6 +21,19 @@ lore-status: Established history; suggestions marked Tentative
 
 # Torney Isles
 
+<!-- location-residents:start -->
+
+## NPCs Currently Based Here
+
+| NPC | Role | Faction / affiliation | Recorded current location | Status |
+| --- | --- | --- | --- | --- |
+| None recorded | — | — | — | — |
+
+*From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
+
+<!-- location-residents:end -->
+
+
 <!-- campaign-artwork:start -->
 
 > [!gallery] Visual inspiration

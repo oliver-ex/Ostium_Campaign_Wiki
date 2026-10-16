@@ -15,7 +15,8 @@ community: Old Ostium
 occupation: Civil engineer and relief benefactor
 status: alive
 last_known_location: Old Ostium Hospital District
-factions: []
+factions:
+- "[[Factions/Old Ostium Hospital District Community|Old Ostium Hospital District Community]]"
 first_appearance: ''
 location: Old Ostium Hospital District
 session-appearances: []
@@ -23,16 +24,41 @@ session-appearances: []
 
 # Taran Lusat
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A group of gray-skinned goliaths carrying a heavy stone beam together.](../../Attachments/Artwork/npcs/goliath-builders.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Goliath |
+> > | Age | 27 |
+> > | Pronouns | he/him |
+> > | Role | Civil engineer and relief benefactor |
+> > | Faction / affiliation | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] |
+> > | Current location | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
+> > | Status | alive |
+> >
+> > **In play:** Opening moral dilemma; engineer who ties the party to the waterworks
+> >
+> > **Wants now:** Remain long enough to keep the settlement's water infrastructure functioning and train/secure enough support that leaving would not endanger everyone.
+> >
+> > **Portrayal:** Educated but practical; speaks quickly when discussing infrastructure and slows when talking about his father.
+> >
+> > **Attitude:** Initially wary if the party arrives as his father's agents; warmer if they engage seriously with the settlement's needs.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A young adult goliath man with mottled gray skin, a plain work shirt, and a waistcoat.](../../Attachments/Artwork/npcs/taran-lusat-portrait.webp)
+> >
+> > *Visual reference: Taran Lusat — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Shared species reference: Goliaths Working Together — [Hinchel Or](https://www.dndbeyond.com/posts/1783-the-10-species-in-the-2024-players-handbook). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-*Goliath proportions and civilian work; not an individual or family portrait.*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

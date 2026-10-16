@@ -12,10 +12,11 @@ age: 41
 ancestry: Human
 species: Human
 community: Old Ostium
-occupation: Protectorate officer
+occupation: "Protectorate quartermaster"
 status: alive
 last_known_location: Old Ostium Town Hall
-factions: []
+factions:
+- "[[Factions/The Protectorate|The Protectorate]]"
 first_appearance: ''
 location: Old Ostium Town Hall
 session-appearances: []
@@ -23,13 +24,41 @@ session-appearances: []
 
 # Calev Marr
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A middle-aged man in a dark hat and red cloak, holding his gloves.](../../Attachments/Artwork/npcs/calev-marr.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Human |
+> > | Age | 41 |
+> > | Pronouns | he/him |
+> > | Role | Protectorate quartermaster |
+> > | Faction / affiliation | [[Factions/The Protectorate\|The Protectorate]] |
+> > | Current location | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] |
+> > | Status | alive |
+> >
+> > **In play:** Faction logistics face; evidence that Protectorate costs are real
+> >
+> > **Wants now:** Close supply gaps before patrol capacity collapses.
+> >
+> > **Portrayal:** Numbers, supply contracts, salvage, or a route to sustainable equipment.
+> >
+> > **Attitude:** Businesslike; appreciates people who bring actual quantities rather than moral abstractions.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![An adult man of about forty with dark hair, a moustache, and a composed sideways glance.](../../Attachments/Artwork/npcs/calev-marr-age41.webp)
+> >
+> > *Visual reference: Portrait of Isaac Abrahamsz. Massa — Frans Hals. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Portrait_of_Isaac_Abrahamsz._Massa_by_Frans_Hals.png). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Portrait of Jan Six — [Rembrandt van Rijn](https://commons.wikimedia.org/wiki/File:JanSix.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance

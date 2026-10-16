@@ -8,6 +8,8 @@ tags:
 lore-status: Canon relationships; other details Unknown
 ancestry: Goliath
 species: Goliath
+age: 56
+age-note: "Proposed mature-parent appearance estimate at death; the date of death and family chronology remain unestablished."
 occupation: ''
 location: ''
 factions: []
@@ -16,15 +18,38 @@ cause-of-death: Rot of Old Ostium
 
 # Tara Lusat
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A group of gray-skinned goliaths carrying a heavy stone beam together.](../../Attachments/Artwork/npcs/goliath-builders.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Goliath |
+> > | Age | 56 (estimate) at death |
+> > | Pronouns | Not recorded |
+> > | Role | Not recorded |
+> > | Faction / affiliation | Not established |
+> > | Last known location | Unknown |
+> > | Status | deceased |
+> > | Cause of death | Rot of Old Ostium |
+> >
+> > **In play:** Deceased wife of [[Characters/NPCs/Egbert Lusat|Egbert Lusat]] and mother of [[Characters/NPCs/Taran Lusat|Taran Lusat]] and [[Characters/NPCs/Sara Lusat|Sara Lusat]]. She died from [[Creatures and Afflictions/The Rot|the Rot of Old Ostium]].
+> >
+> > *Age estimate: Proposed mature-parent appearance estimate at death; the date of death and family chronology remain unestablished.*
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A mature goliath woman with mottled gray skin, pinned-up graying hair, and simple civilian clothing.](../../Attachments/Artwork/npcs/tara-lusat-portrait.webp)
+> >
+> > *Visual reference: Tara Lusat — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Shared species reference: Goliaths Working Together — [Hinchel Or](https://www.dndbeyond.com/posts/1783-the-10-species-in-the-2024-players-handbook). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-*Goliath proportions and civilian work; not an individual or family portrait.*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## Overview
@@ -49,7 +74,7 @@ TBD.
 
 - **Husband:** [[Characters/NPCs/Egbert Lusat|Egbert Lusat]].
 - **Children:** [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Sara Lusat|Sara Lusat]], and Egbert's previously established unnamed second son.
-- Her age, occupation, and date of death remain TBD.
+- Her exact age, occupation, and date of death remain TBD.
 
 ## Current Location
 

@@ -6,7 +6,8 @@ tags:
 - character
 - npc
 pronouns: ''
-age: ''
+age: 112
+age-note: "Proposed estimate for an established elven civic leader; no length of tenure is implied."
 ancestry: Elf
 species: Elf
 community: ''
@@ -24,13 +25,37 @@ session-appearances: []
 
 # Elro Aditower
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A long-haired male elf in red robes with clearly pointed ears.](../../Attachments/Artwork/npcs/elro-aditower.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Elf |
+> > | Age | 112 (estimate) |
+> > | Pronouns | Not recorded |
+> > | Role | Mayor |
+> > | Faction / affiliation | Not established |
+> > | Current location | [[Locations/Mistbreak\|Mistbreak]] |
+> > | Status | alive |
+> >
+> > **In play:** **Role:** Mayor of [[Locations/Mistbreak|Mistbreak]].
+> >
+> > *Age estimate: Proposed estimate for an established elven civic leader; no length of tenure is implied.*
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A mature elf man with weathered features, pointed ears, and practical wool clothing.](../../Attachments/Artwork/npcs/elro-aditower-portrait.webp)
+> >
+> > *Visual reference: Elro Aditower — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: High Elf Noble — [DreeaDraws](https://www.deviantart.com/dreeadraws/art/High-elf-noble-897309275). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance

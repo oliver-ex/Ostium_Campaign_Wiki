@@ -6,7 +6,8 @@ tags:
 - character
 - npc
 pronouns: ''
-age: ''
+age: 138
+age-note: "Proposed age-at-death estimate for an established elven wizard; his research and career dates remain unknown."
 ancestry: Elf
 species: Elf
 community: ''
@@ -24,14 +25,37 @@ session-appearances: []
 
 # Veritas
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A pale-haired male elf holding a long staff in a misty woodland.](../../Attachments/Artwork/npcs/veritas.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Elf |
+> > | Age | 138 (estimate) at death |
+> > | Pronouns | Not recorded |
+> > | Role | Wizard |
+> > | Faction / affiliation | Not established |
+> > | Last known location | [[Locations/Mistbreak\|Mistbreak]] |
+> > | Status | deceased |
+> >
+> > **In play:** A wizard associated with [[Locations/Mistbreak|Mistbreak]], deceased several months before current campaign events.
+> >
+> > *Age estimate: Proposed age-at-death estimate for an established elven wizard; his research and career dates remain unknown.*
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A mature elf man with pointed ears, graying temples, and plain scholarly clothing.](../../Attachments/Artwork/npcs/veritas-portrait.webp)
+> >
+> > *Visual reference: Veritas — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Silvan Elf Cleric — [bearcub](https://www.deviantart.com/bearcub/art/CM-Silvan-Elf-Cleric-701262001). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

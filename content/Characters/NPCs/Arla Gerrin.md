@@ -6,7 +6,8 @@ tags:
 - character
 - npc
 pronouns: ''
-age: ''
+age: 72
+age-note: "Proposed estimate for an experienced, overworked apothecary; no dated biography is established."
 ancestry: Gnome
 species: Gnome
 community: ''
@@ -24,14 +25,37 @@ session-appearances: []
 
 # Arla Gerrin
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![An older gnome woman with white hair, a walking stick, and bottles at her belt.](../../Attachments/Artwork/npcs/arla-gerrin.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Gnome |
+> > | Age | 72 (estimate) |
+> > | Pronouns | Not recorded |
+> > | Role | Apothecary |
+> > | Faction / affiliation | Not established |
+> > | Current location | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
+> > | Status | alive |
+> >
+> > **In play:** Works in [[Locations/Old Ostium Hospital District|the Old Hospital Quarter]] of [[Locations/Old Ostium|Old Ostium]].
+> >
+> > *Age estimate: Proposed estimate for an experienced, overworked apothecary; no dated biography is established.*
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![An older gnome woman with white hair, a walking stick, and bottles at her belt.](../../Attachments/Artwork/npcs/arla-gerrin.webp)
+> >
+> > *Visual reference: Older Gnome Character Design Commission — [oasiswinds](https://www.deviantart.com/oasiswinds/art/Older-Gnome-Character-Design-Commission-909716251). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Older Gnome Character Design Commission — [oasiswinds](https://www.deviantart.com/oasiswinds/art/Older-Gnome-Character-Design-Commission-909716251). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

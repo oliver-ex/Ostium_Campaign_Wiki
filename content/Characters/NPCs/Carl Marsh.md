@@ -6,7 +6,8 @@ tags:
 - character
 - npc
 pronouns: ''
-age: ''
+age: 37
+age-note: "Proposed estimate for an adult husband and father supporting a dependent daughter; not a fixed family chronology."
 ancestry: Human
 species: Human
 community: ''
@@ -25,13 +26,37 @@ session-appearances: []
 
 # Carl Marsh
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![An older man sitting with his head bowed against one hand.](../../Attachments/Artwork/npcs/carl-marsh.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Human |
+> > | Age | 37 (estimate) |
+> > | Pronouns | Not recorded |
+> > | Role | Cleric; bandit |
+> > | Faction / affiliation | [[Factions/The Shattered Axe\|The Shattered Axe]] |
+> > | Current location | Road to Ostium |
+> > | Status | alive |
+> >
+> > **In play:** Joined [[Factions/The Shattered Axe|The Shattered Axe]] to obtain money to feed his wife and medicine for his ill daughter in [[Locations/Old Ostium|Old Ostium]].
+> >
+> > *Age estimate: Proposed estimate for an adult husband and father supporting a dependent daughter; not a fixed family chronology.*
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A working-age man in a dark cap and plain jacket, with a tired attentive expression.](../../Attachments/Artwork/npcs/carl-marsh-age37.webp)
+> >
+> > *Visual reference: Head of a Young Peasant in a Peaked Cap — Vincent van Gogh. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Kopf_eines_jungen_Bauern_mit_M%C3%BCtze.jpeg). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Old Man in an Armchair — [Rembrandt van Rijn](https://commons.wikimedia.org/wiki/File:Old_Man_in_an_Armchair,_Rembrandt_van_Rijn,_1652,_National_Gallery,_London.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance

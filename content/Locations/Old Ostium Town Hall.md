@@ -12,6 +12,20 @@ status: contested
 
 # Old Ostium Town Hall
 
+<!-- location-residents:start -->
+
+## NPCs Currently Based Here
+
+| NPC | Role | Faction / affiliation | Recorded current location | Status |
+| --- | --- | --- | --- | --- |
+| [[Characters/NPCs/Calev Marr\|Calev Marr]] | Protectorate quartermaster | [[Factions/The Protectorate\|The Protectorate]] | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] | alive |
+| [[Characters/NPCs/Indra Karaf\|Indra Karaf]] | Commander of the Protectorate | [[Factions/The Protectorate\|The Protectorate]] | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] | alive |
+
+*From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
+
+<!-- location-residents:end -->
+
+
 <!-- campaign-artwork:start -->
 
 > [!gallery] Visual inspiration

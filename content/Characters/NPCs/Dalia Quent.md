@@ -12,10 +12,11 @@ age: 34
 ancestry: Elf
 species: Elf
 community: New Ostium
-occupation: Broker and fixer
+occupation: "Guildmaster; broker and fixer"
 status: alive
 last_known_location: New Ostium Market District
-factions: []
+factions:
+- "[[Factions/New Ostium Merchants Guild|New Ostium Merchants Guild]]"
 first_appearance: ''
 location: New Ostium Market District
 session-appearances: []
@@ -23,13 +24,41 @@ session-appearances: []
 
 # Dalia Quent
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A female elf with pointed ears, fine jewelry, and an embroidered dark collar.](../../Attachments/Artwork/npcs/dalia-quent.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Elf |
+> > | Age | 34 |
+> > | Pronouns | she/her |
+> > | Role | Guildmaster; broker and fixer |
+> > | Faction / affiliation | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
+> > | Current location | [[Locations/New Ostium Market District\|New Ostium Market District]] |
+> > | Status | alive |
+> >
+> > **In play:** Face of concentrated merchant power and possible Heist II target
+> >
+> > **Wants now:** Keep trade concentrated in Guild hands and turn Old Ostium instability into controlled opportunity rather than uncontrolled risk.
+> >
+> > **Portrayal:** Measured and warm; asks questions that reveal she already knows the numbers.
+> >
+> > **Attitude:** Respectful toward competent negotiators; hostile to anyone who threatens market order without understanding consequences.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![An adult elf woman with pinned-up dark hair, pointed ears, and fine brown merchant clothing.](../../Attachments/Artwork/npcs/dalia-quent-portrait.webp)
+> >
+> > *Visual reference: Dalia Quent — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Fantasy Elf Portrait — [Jay Carpenter](https://www.deviantart.com/jay-carpenter/art/Fantasy-Elf-Portrait-478471041). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance

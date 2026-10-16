@@ -12,6 +12,20 @@ status: active
 
 # New Ostium Market District
 
+<!-- location-residents:start -->
+
+## NPCs Currently Based Here
+
+| NPC | Role | Faction / affiliation | Recorded current location | Status |
+| --- | --- | --- | --- | --- |
+| [[Characters/NPCs/Dalia Quent\|Dalia Quent]] | Guildmaster; broker and fixer | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] | [[Locations/New Ostium Market District\|New Ostium Market District]] | alive |
+| [[Characters/NPCs/Trine Baradur\|Trine Baradur]] | Guild acquisition factor; merchant and broker | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] | [[Locations/New Ostium Market District\|New Ostium Market District]] | alive |
+
+*From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
+
+<!-- location-residents:end -->
+
+
 <!-- campaign-artwork:start -->
 
 > [!gallery] Visual inspiration

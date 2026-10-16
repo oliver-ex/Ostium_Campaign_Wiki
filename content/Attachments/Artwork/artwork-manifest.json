@@ -1,6 +1,6 @@
 {
   "reviewed": "2026-10-16",
-  "policy": "Classical paintings remain alongside credited existing fantasy art in location mood boards. Senn Vale uses an explicitly requested AI-generated labourer illustration; other existing NPC art is retained. Publication requires recorded reuse terms or campaign-generated provenance. Images do not add canon.",
+  "policy": "Every active NPC reference is publishable: recorded reuse terms for existing art, or campaign-generated provenance. Retired third-party originals remain excluded. Character quick references use canon metadata and labelled age estimates; artwork does not add canon. Location mood boards retain existing classical and fantasy art.",
   "assets": [
     {
       "id": "old-ostium-campo-vacino",
@@ -407,52 +407,6 @@
       "rights_note": "Public-domain status recorded on the linked Commons file page."
     },
     {
-      "id": "calev-marr",
-      "file": "Attachments/Artwork/npcs/calev-marr.webp",
-      "title": "Portrait of Jan Six",
-      "artist": "Rembrandt van Rijn",
-      "alt": "A middle-aged man in a dark hat and red cloak, holding his gloves.",
-      "width": 759,
-      "height": 833,
-      "bytes": 124658,
-      "sha256": "8d4653cddfa9eb40f75b1ad1a9a1f51c52f8413a11cf1c5e647072720ac8959a",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Calev Marr"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:JanSix.jpg",
-      "download": "https://upload.wikimedia.org/wikipedia/commons/0/04/JanSix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "license": "Public domain",
-      "medium": "Historical painting",
-      "rights_note": "Public-domain painting; source metadata retained in the source link.",
-      "interpretation": "Historical portrait used for demeanor and clothing; not a literal biography or exact age.",
-      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
-    },
-    {
-      "id": "carl-marsh",
-      "file": "Attachments/Artwork/npcs/carl-marsh.webp",
-      "title": "Old Man in an Armchair",
-      "artist": "Rembrandt van Rijn",
-      "alt": "An older man sitting with his head bowed against one hand.",
-      "width": 1268,
-      "height": 1600,
-      "bytes": 281904,
-      "sha256": "ff71881aa10fc3326086c58de3928d1479bbc1e5df3dbf416e36cde9b59e67a1",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Carl Marsh"
-      ],
-      "source": "https://commons.wikimedia.org/wiki/File:Old_Man_in_an_Armchair,_Rembrandt_van_Rijn,_1652,_National_Gallery,_London.jpg",
-      "download": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Old_Man_in_an_Armchair%2C_Rembrandt_van_Rijn%2C_1652%2C_National_Gallery%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-      "license": "Public domain",
-      "medium": "Historical painting",
-      "rights_note": "Public-domain painting; source metadata retained in the source link.",
-      "interpretation": "Historical portrait used for demeanor and clothing; not a literal biography or exact age.",
-      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
-    },
-    {
       "id": "darian-auir",
       "file": "Attachments/Artwork/npcs/darian-auir.webp",
       "title": "Portrait of the Merchant Georg Gisze",
@@ -499,28 +453,6 @@
       "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
     {
-      "id": "brock-drungur",
-      "file": "Attachments/Artwork/npcs/brock-drungur.webp",
-      "title": "Dwarf Engineer Sketch",
-      "artist": "Anthony Francisco (Ubermonster)",
-      "alt": "A white-bearded dwarf engineer wearing goggles and carrying heavy equipment.",
-      "width": 600,
-      "height": 1119,
-      "bytes": 55188,
-      "sha256": "3dc637027e537946e72bb606f5596bc64509ca01eb2893629a6130f3d16e4eb9",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Brock Drungur"
-      ],
-      "source": "https://www.deviantart.com/ubermonster/art/Dwarf-Engineer-Sketch-397171571",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4df77334-3f76-4414-8353-9c61a7c20fd6/d6kgrjn-9ebc118d-bf24-4c92-9c8d-21ea1daa29f0.jpg/v1/fill/w_600,h_1119,q_75,strp/dwarf_engineer_sketch_by_ubermonster_d6kgrjn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTExOSIsInBhdGgiOiIvZi80ZGY3NzMzNC0zZjc2LTQ0MTQtODM1My05YzYxYTdjMjBmZDYvZDZrZ3Jqbi05ZWJjMTE4ZC1iZjI0LTRjOTItOWM4ZC0yMWVhMWRhYTI5ZjAuanBnIiwid2lkdGgiOiI8PTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.i05Aba_a6-1J6QaFSCpOfi7HmHbHo3jD6rQ8IslQ09Q",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Engineer reference; depicted weapons and equipment do not establish inventory."
-    },
-    {
       "id": "arla-gerrin",
       "file": "Attachments/Artwork/npcs/arla-gerrin.webp",
       "title": "Older Gnome Character Design Commission",
@@ -544,226 +476,6 @@
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
     },
     {
-      "id": "orla-meren",
-      "file": "Attachments/Artwork/npcs/orla-meren.webp",
-      "title": "Gnome",
-      "artist": "Felicia Cano",
-      "alt": "A small pointed-eared gnome woman in leaf-patterned clothes beside woodland mushrooms.",
-      "width": 646,
-      "height": 792,
-      "bytes": 88364,
-      "sha256": "855fd3cfb3ba1fd7ca0e78f553ae58573c628bf0d0301cd4a0eed8b4b6491c41",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Orla Meren"
-      ],
-      "source": "https://www.deviantart.com/feliciacano/art/Gnome-81799929",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4bcfa2ee-2bd6-425e-ab0f-04d224afc54b/d1cp989-a32f338f-f63b-4ddb-810d-7ff87dc055cb.jpg/v1/fill/w_646,h_792,q_75,strp/gnome_by_feliciacano_d1cp989-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzkyIiwicGF0aCI6Ii9mLzRiY2ZhMmVlLTJiZDYtNDI1ZS1hYjBmLTA0ZDIyNGFmYzU0Yi9kMWNwOTg5LWEzMmYzMzhmLWY2M2ItNGRkYi04MTBkLTdmZjg3ZGMwNTVjYi5qcGciLCJ3aWR0aCI6Ijw9NjQ2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.E2RvPkUoZV4LP83peoZI9vNQMXW0zR0UlJy8zfqaSYU",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Species and face reference; woodland magic and equipment do not describe her scholarly occupation."
-    },
-    {
-      "id": "mara-voss",
-      "file": "Attachments/Artwork/npcs/mara-voss.webp",
-      "title": "Maya (Halfling)",
-      "artist": "KuraiGeijutsu",
-      "alt": "A red-haired halfling woman in a dark tunic with a red scarf.",
-      "width": 797,
-      "height": 1002,
-      "bytes": 43120,
-      "sha256": "2c24aa2c0957b056582ccbcf6aaff3c59f4e0dca87f72eaa034f044677d1b68a",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Mara Voss"
-      ],
-      "source": "https://www.deviantart.com/kuraigeijutsu/art/Maya-Halfling-829232877",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f4a9b88d-c38b-4081-94ec-7b792fb3e0a2/ddppc6l-31026f2b-55c6-476e-b2f3-11b5a3cef53f.png/v1/fill/w_797,h_1002,q_70,strp/maya_halfling__by_kuraigeijutsu_ddppc6l-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAxMiIsInBhdGgiOiIvZi9mNGE5Yjg4ZC1jMzhiLTQwODEtOTRlYy03Yjc5MmZiM2UwYTIvZGRwcGM2bC0zMTAyNmYyYi01NWM2LTQ3NmUtYjJmMy0xMWI1YTNjZWY1M2YucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.R1wxK1SRbwG6GvzmYg7fyY3Ch-gaXsYNwwK2WxbTSh0",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Halfling portrait reference; the source character and clerical equipment are not campaign canon."
-    },
-    {
-      "id": "trine-baradur",
-      "file": "Attachments/Artwork/npcs/trine-baradur.webp",
-      "title": "Tiefling Healer",
-      "artist": "Woodenpencilbox",
-      "alt": "A horned tiefling woman in richly decorated clothing, shown in two portrait studies.",
-      "width": 894,
-      "height": 894,
-      "bytes": 129384,
-      "sha256": "2aab162432661e73c06628e48d076a465d5079a0881bad910f61167d96a1dda3",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Trine Baradur"
-      ],
-      "source": "https://www.deviantart.com/woodenpencilbox/art/Tiefling-Healer-Commission-OPEN-855974648",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1ded040a-2eca-447a-b772-2458a3d8c9b4/de5mi9k-f28b010e-b535-43c0-b94c-7e1f0fe2c182.jpg/v1/fill/w_894,h_894,q_70,strp/tiefling_healer_commission_open__by_woodenpencilbox_de5mi9k-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiIvZi8xZGVkMDQwYS0yZWNhLTQ0N2EtYjc3Mi0yNDU4YTNkOGM5YjQvZGU1bWk5ay1mMjhiMDEwZS1iNTM1LTQzYzAtYjk0Yy03ZTFmMGZlMmMxODIuanBnIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6rW_Vz3A_PqfPZzNI9ehgVbhk6qSfoDI8g3hheuIGTU",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Tiefling features and clothing reference; source profession and apparent age are not canon."
-    },
-    {
-      "id": "korok-grund",
-      "file": "Attachments/Artwork/npcs/korok-grund.webp",
-      "title": "Orc",
-      "artist": "anssiart",
-      "alt": "A green-skinned orc in battered armor holding a round shield.",
-      "width": 848,
-      "height": 943,
-      "bytes": 191520,
-      "sha256": "0ed7bc8bc5ef6e1ff44ae329e69f9e93696f7d4b4ec21d84acbb8fdf34441119",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Korok Grund"
-      ],
-      "source": "https://www.deviantart.com/anssiart/art/Orc-238925786",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6cf05f87-2640-479c-af54-87904e75e4c8/d3y90be-263327ae-b61d-4e5e-bec6-4732a201ecfe.jpg/v1/fill/w_848,h_943,q_70,strp/orc_by_anssiart_d3y90be-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMSIsInBhdGgiOiIvZi82Y2YwNWY4Ny0yNjQwLTQ3OWMtYWY1NC04NzkwNGU3NWU0YzgvZDN5OTBiZS0yNjMzMjdhZS1iNjFkLTRlNWUtYmVjNi00NzMyYTIwMWVjZmUuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bzJhti9kQ3TefNsJyWBJucOapPYHymQbCSLGlazCbSo",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Orc bandit reference; equipment remains illustrative."
-    },
-    {
-      "id": "ulroc-grimscar",
-      "file": "Attachments/Artwork/npcs/ulroc-grimscar.webp",
-      "title": "Northog Tactician",
-      "artist": "Hamsterfly",
-      "alt": "A green orc commander leaning on a staff above a distant marching force.",
-      "width": 659,
-      "height": 950,
-      "bytes": 123492,
-      "sha256": "bbb8c8e01be68bd78f0beb7a9634d59e3aa5a331b16d99fe741efe0517110449",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Ulroc Grimscar"
-      ],
-      "source": "https://www.deviantart.com/hamsterfly/art/Northog-Tactician-108095316",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c0af7385-2a57-4d11-9bd9-c77a0f83e73a/d1scuvo-6b490954-54c1-4555-9498-16c5ecfd31d3.jpg/v1/fill/w_659,h_950,q_75,strp/northog_tactician_by_hamsterfly_d1scuvo-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTUwIiwicGF0aCI6Ii9mL2MwYWY3Mzg1LTJhNTctNGQxMS05YmQ5LWM3N2EwZjgzZTczYS9kMXNjdXZvLTZiNDkwOTU0LTU0YzEtNDU1NS05NDk4LTE2YzVlY2ZkMzFkMy5qcGciLCJ3aWR0aCI6Ijw9NjU5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.fcChOl0FSH6XUIzO4PiFLlcJvxs05YdFEAn8Ps_0ruI",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Command and tactical bearing reference; the depicted army is not campaign canon."
-    },
-    {
-      "id": "dalia-quent",
-      "file": "Attachments/Artwork/npcs/dalia-quent.webp",
-      "title": "Fantasy Elf Portrait",
-      "artist": "Jay Carpenter",
-      "alt": "A female elf with pointed ears, fine jewelry, and an embroidered dark collar.",
-      "width": 723,
-      "height": 1104,
-      "bytes": 66238,
-      "sha256": "3302f463a23d78d5578c5236ff14bc775a5fb0bbc11b9405524f4ccd8e56bd18",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Dalia Quent"
-      ],
-      "source": "https://www.deviantart.com/jay-carpenter/art/Fantasy-Elf-Portrait-478471041",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d0889712-231b-46f7-b5d3-7c3abd865741/d7wvam9-1be70230-657a-4e8a-b07e-707660972517.png/v1/fill/w_723,h_1104/fantasy_elf_portrait_by_jay_carpenter_d7wvam9-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyMSIsInBhdGgiOiIvZi9kMDg4OTcxMi0yMzFiLTQ2ZjctYjVkMy03YzNhYmQ4NjU3NDEvZDd3dmFtOS0xYmU3MDIzMC02NTdhLTRlOGEtYjA3ZS03MDc2NjA5NzI1MTcucG5nIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wUylYWVup0LwRKmqdE8G_7BIEhGLPiOerHDr28E0NcY",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Elven face and prosperous clothing reference."
-    },
-    {
-      "id": "shanda-karth",
-      "file": "Attachments/Artwork/npcs/shanda-karth.webp",
-      "title": "Elf Portrait",
-      "artist": "CJ-Backman",
-      "alt": "A dark-skinned elf woman with long pointed ears and dark hair.",
-      "width": 751,
-      "height": 1063,
-      "bytes": 39068,
-      "sha256": "e7c0ee0277dbfb1118a1035eaaded13e153f49e8826c7d1db95be345b07def12",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Shanda Karth"
-      ],
-      "source": "https://www.deviantart.com/cj-backman/art/Elf-Portrait-691696099",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0fdd0d2b-132d-4b5a-a25b-126b58d83a34/dbftg4j-757e248d-0ab0-4244-ba26-dab879d45220.png/v1/fill/w_751,h_1063,q_70,strp/elf_portrait_by_cj_backman_dbftg4j-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMiIsInBhdGgiOiIvZi8wZmRkMGQyYi0xMzJkLTRiNWEtYTI1Yi0xMjZiNThkODNhMzQvZGJmdGc0ai03NTdlMjQ4ZC0wYWIwLTQyNDQtYmEyNi1kYWI4NzlkNDUyMjAucG5nIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.k-qooAxEP65nBVlGum8zeyPklxlqLsUZlDBp9Qzpt0E",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Elven portrait reference; complexion and clothing are illustrative rather than new appearance canon."
-    },
-    {
-      "id": "elro-aditower",
-      "file": "Attachments/Artwork/npcs/elro-aditower.webp",
-      "title": "High Elf Noble",
-      "artist": "DreeaDraws",
-      "alt": "A long-haired male elf in red robes with clearly pointed ears.",
-      "width": 778,
-      "height": 1027,
-      "bytes": 40318,
-      "sha256": "19a81701fa93bc9d813bc99be1f9053ceac79771eef5dafd4c5e70e94aab6ba8",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Elro Aditower"
-      ],
-      "source": "https://www.deviantart.com/dreeadraws/art/High-elf-noble-897309275",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a9ed87d-cc62-4b99-8467-583b0bc02b4e/deu8g9n-48b0626e-e7c8-4840-ae50-218b37b79f4d.jpg/v1/fill/w_778,h_1027,q_70,strp/high_elf_noble_by_dreeadraws_deu8g9n-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY5MCIsInBhdGgiOiIvZi84YTllZDg3ZC1jYzYyLTRiOTktODQ2Ny01ODNiMGJjMDJiNGUvZGV1OGc5bi00OGIwNjI2ZS1lN2M4LTQ4NDAtYWU1MC0yMThiMzdiNzlmNGQuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Zz0nidS1sPVhbSTAoPzm_l4DYsis4dJeecbxzsvt6kw",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Composed elven civilian reference; circlet and finery do not make the mayor royalty."
-    },
-    {
-      "id": "veritas",
-      "file": "Attachments/Artwork/npcs/veritas.webp",
-      "title": "Silvan Elf Cleric",
-      "artist": "bearcub",
-      "alt": "A pale-haired male elf holding a long staff in a misty woodland.",
-      "width": 777,
-      "height": 1029,
-      "bytes": 65826,
-      "sha256": "27e7b4dffbdf550676d7eb2255f8937445c169891ef17f8bbf192544fc2c6478",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Veritas"
-      ],
-      "source": "https://www.deviantart.com/bearcub/art/CM-Silvan-Elf-Cleric-701262001",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2db302a3-6f72-4125-950a-e67add91a405/dblih81-cfbc3a74-a6f6-47af-b49a-e6b4ac1c724f.png/v1/fill/w_777,h_1029,q_70,strp/_cm_silvan_elf_cleric_by_atc_illustration_dblih81-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA1OSIsInBhdGgiOiIvZi8yZGIzMDJhMy02ZjcyLTQxMjUtOTUwYS1lNjdhZGQ5MWE0MDUvZGJsaWg4MS1jZmJjM2E3NC1hNmY2LTQ3YWYtYjQ5YS1lNmI0YWMxYzcyNGYucG5nIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6hdUC1XdJf6cX9Dx0A2vaPDlCCndbIbtNhmQ9xrz9xs",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Elven face and bearing reference; armor, staff, and clerical source identity do not change his scholar/wizard role."
-    },
-    {
-      "id": "vesha-noll",
-      "file": "Attachments/Artwork/npcs/vesha-noll.webp",
-      "title": "Female Half Elf Ranger",
-      "artist": "Sedeslav",
-      "alt": "A red-haired ranger with pointed ears and practical leather armor on a woodland path.",
-      "width": 673,
-      "height": 1187,
-      "bytes": 135986,
-      "sha256": "b00292b2d0dffede40cd8b9fb752c71dce39b87c47664622b3791611fb2d2c1f",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Vesha Noll"
-      ],
-      "source": "https://www.deviantart.com/sedeslav/art/Female-Half-Elf-Ranger-887569953",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3c7a9982-d6cf-4c5f-99e0-cd5ccd8eb160/deofpcx-23ee5fd0-af04-4e26-9d2a-a520b42c1f43.jpg/v1/fill/w_673,h_1187,q_70,strp/female_half_elf_ranger_by_sedeslav_deofpcx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgwNiIsInBhdGgiOiIvZi8zYzdhOTk4Mi1kNmNmLTRjNWYtOTllMC1jZDVjY2Q4ZWIxNjAvZGVvZnBjeC0yM2VlNWZkMC1hZjA0LTRlMjYtOWQyYS1hNTIwYjQyYzFmNDMuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.a1ZQWqMawfJjWjqFGA3njfMcjY9-tAFlxGmdjXN1xms",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Visibly elven ranger reference; the source character is a half-elf, while Vesha remains an Elf."
-    },
-    {
       "id": "senn-vale-labourer",
       "file": "Attachments/Artwork/npcs/senn-vale-labourer.webp",
       "title": "Senn Vale — waterworks labourer",
@@ -783,53 +495,6 @@
       "height": 1320,
       "bytes": 358352,
       "sha256": "5c567ae7c5e640836c8d3cf6f80d9d39566ea3faf933be0b77cebd1a61c59d7c"
-    },
-    {
-      "id": "indra-karaf",
-      "file": "Attachments/Artwork/npcs/indra-karaf.webp",
-      "title": "Goliath Barbarian",
-      "artist": "Olga Jaworska",
-      "alt": "A gray-skinned goliath woman in armor, holding a large sword across her shoulders.",
-      "width": 1067,
-      "height": 1600,
-      "bytes": 63640,
-      "sha256": "23d41cb5dffa414c612260721a91fe34a3a14741fc5c97fa5c967313ed1a71c9",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Indra Karaf"
-      ],
-      "source": "https://olgajaworska.artstation.com/projects/Zaqkdm",
-      "download": "https://i.pinimg.com/originals/39/19/ef/3919efb832365c2e5d104998f9cef0a2.jpg",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Goliath build and martial bearing reference; the source is a barbarian, not a literal portrait of the 52-year-old commander. Public preview retrieved through Pinterest; artist portfolio identifies the work."
-    },
-    {
-      "id": "goliath-builders",
-      "file": "Attachments/Artwork/npcs/goliath-builders.webp",
-      "title": "Goliaths Working Together",
-      "artist": "Hinchel Or",
-      "alt": "A group of gray-skinned goliaths carrying a heavy stone beam together.",
-      "width": 1200,
-      "height": 776,
-      "bytes": 103582,
-      "sha256": "ca70da3b6a9511817fea0ba583acaa1b4169e25eff2eaa16195a1febab2d232a",
-      "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
-      "pages": [
-        "Characters/NPCs/Egbert Lusat",
-        "Characters/NPCs/Taran Lusat",
-        "Characters/NPCs/Sara Lusat",
-        "Characters/NPCs/Tara Lusat"
-      ],
-      "source": "https://www.dndbeyond.com/posts/1783-the-10-species-in-the-2024-players-handbook",
-      "download": "https://www.dndbeyond.com/attachments/11/470/335283_goliath_hinchel-or.jpg",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Shared Goliath species and civilian-work reference, not an individual or family portrait. The depicted figures do not identify Egbert, Taran, Sara, or Tara; individual portraits remain a sourcing refinement."
     },
     {
       "id": "the-heart",
@@ -1048,6 +713,388 @@
       "height": 616,
       "bytes": 153930,
       "sha256": "e09ac38e128f22b55c50e0ac02efcd49f492bc6fd857676c529da1f2741f3fe4"
+    },
+    {
+      "id": "calev-marr-age41",
+      "file": "Attachments/Artwork/npcs/calev-marr-age41.webp",
+      "title": "Portrait of Isaac Abrahamsz. Massa",
+      "artist": "Frans Hals",
+      "alt": "An adult man of about forty with dark hair, a moustache, and a composed sideways glance.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Calev Marr"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Isaac_Abrahamsz._Massa_by_Frans_Hals.png",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Isaac_Abrahamsz._Massa_by_Frans_Hals.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "medium": "Historical painting",
+      "changes": "Resized down where needed and converted to WebP; full painted composition retained.",
+      "rights_note": "Wikimedia Commons records the linked reuse terms for this reproduction. The sitter is a visual age/role reference, not the campaign character.",
+      "interpretation": "Calev remains 41. Carl’s proposed age is 37; exact appearance is not established.",
+      "width": 536,
+      "height": 660,
+      "bytes": 68260,
+      "sha256": "4004e35ff58703c7142c223e0d4885826651b195371ac0f6ae330b78d6fedc8b"
+    },
+    {
+      "id": "carl-marsh-age37",
+      "file": "Attachments/Artwork/npcs/carl-marsh-age37.webp",
+      "title": "Head of a Young Peasant in a Peaked Cap",
+      "artist": "Vincent van Gogh",
+      "alt": "A working-age man in a dark cap and plain jacket, with a tired attentive expression.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Carl Marsh"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Kopf_eines_jungen_Bauern_mit_M%C3%BCtze.jpeg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Van_Gogh_-_Kopf_eines_jungen_Bauern_mit_M%C3%BCtze.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "medium": "Historical painting",
+      "changes": "Resized down where needed and converted to WebP; full painted composition retained.",
+      "rights_note": "Wikimedia Commons records the linked reuse terms for this reproduction. The sitter is a visual age/role reference, not the campaign character.",
+      "interpretation": "Calev remains 41. Carl’s proposed age is 37; exact appearance is not established.",
+      "width": 1100,
+      "height": 1455,
+      "bytes": 507478,
+      "sha256": "c3554e32b98a7d644b7399a01245967fa27a8c8d272082bad4d341ee4e25d238"
+    },
+    {
+      "id": "egbert-lusat-portrait",
+      "file": "Attachments/Artwork/npcs/egbert-lusat-portrait.webp",
+      "title": "Egbert Lusat — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "An older bald goliath man with mottled gray skin, broad shoulders, and a fine civilian coat.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Egbert Lusat"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 914,
+      "bytes": 113168,
+      "sha256": "b6be1b954d38c751f4ff26705ed8d2498deef8ea2084767ac0e2a885bf007ec2"
+    },
+    {
+      "id": "taran-lusat-portrait",
+      "file": "Attachments/Artwork/npcs/taran-lusat-portrait.webp",
+      "title": "Taran Lusat — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A young adult goliath man with mottled gray skin, a plain work shirt, and a waistcoat.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Taran Lusat"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 1200,
+      "bytes": 189828,
+      "sha256": "e86505e65c09f52dabcba764c60af616f7c1cadd3968944626c083d7f6937c75"
+    },
+    {
+      "id": "sara-lusat-portrait",
+      "file": "Attachments/Artwork/npcs/sara-lusat-portrait.webp",
+      "title": "Sara Lusat — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A young adult goliath woman with mottled gray skin, braided fair hair, and plain civilian clothing.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Sara Lusat"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 914,
+      "bytes": 99032,
+      "sha256": "c4ee6704c72932d461dba884d8f852d0da1db7280941f13325c419cf37b2dd40"
+    },
+    {
+      "id": "tara-lusat-portrait",
+      "file": "Attachments/Artwork/npcs/tara-lusat-portrait.webp",
+      "title": "Tara Lusat — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A mature goliath woman with mottled gray skin, pinned-up graying hair, and simple civilian clothing.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Tara Lusat"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 914,
+      "bytes": 131504,
+      "sha256": "cd89fedbdb74e9afaaf9acac52e37011d25e1d47780eaea584f318281da79309"
+    },
+    {
+      "id": "indra-karaf-portrait",
+      "file": "Attachments/Artwork/npcs/indra-karaf-portrait.webp",
+      "title": "Indra Karaf — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A mature goliath woman with mottled gray skin, short graying hair, and worn practical armour.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Indra Karaf"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 1200,
+      "bytes": 194018,
+      "sha256": "5d171d1da8456ab6c2e73d0c8a4c44e2013babb12a1362146d52ab7793f35a2f"
+    },
+    {
+      "id": "mara-voss-portrait",
+      "file": "Attachments/Artwork/npcs/mara-voss-portrait.webp",
+      "title": "Mara Voss — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "An adult halfling woman with a round freckled face, curly hair, subtly pointed ears, and practical clothes.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Mara Voss"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 1200,
+      "bytes": 189802,
+      "sha256": "d1463c0a658f4524692f5f41729b991691450bd6e43e27d69649806b73c86405"
+    },
+    {
+      "id": "orla-meren-portrait",
+      "file": "Attachments/Artwork/npcs/orla-meren-portrait.webp",
+      "title": "Orla Meren — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "An adult gnome woman with prominent pointed ears, pinned-up curly hair, and a plain civilian waistcoat.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Orla Meren"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 914,
+      "bytes": 103394,
+      "sha256": "489c9a9d326d6478a96d1b6df7725eb510b1b3c266e19a26fe06bdf0d625ab7e"
+    },
+    {
+      "id": "trine-baradur-portrait",
+      "file": "Attachments/Artwork/npcs/trine-baradur-portrait.webp",
+      "title": "Trine Baradur — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A mature tiefling woman with curved horns, graying temples, and restrained fine merchant clothing.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Trine Baradur"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 914,
+      "bytes": 89684,
+      "sha256": "0b9f575491f978ca492c892b17cd3948ff439193b2df512c31af0c10d77716d5"
+    },
+    {
+      "id": "dalia-quent-portrait",
+      "file": "Attachments/Artwork/npcs/dalia-quent-portrait.webp",
+      "title": "Dalia Quent — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "An adult elf woman with pinned-up dark hair, pointed ears, and fine brown merchant clothing.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Dalia Quent"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 1200,
+      "bytes": 101442,
+      "sha256": "b283510b3c449b30bd33c898f629543b30382efae2b01647581553e0822bf826"
+    },
+    {
+      "id": "shanda-karth-portrait",
+      "file": "Attachments/Artwork/npcs/shanda-karth-portrait.webp",
+      "title": "Shanda Karth — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "An adult elf woman with graying hair, pointed ears, and a practical work apron.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Shanda Karth"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 914,
+      "bytes": 106040,
+      "sha256": "4ec1542507c60c740ac4829596347237d28e5d1c036b7ae40f05a5c0bb446454"
+    },
+    {
+      "id": "veritas-portrait",
+      "file": "Attachments/Artwork/npcs/veritas-portrait.webp",
+      "title": "Veritas — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A mature elf man with pointed ears, graying temples, and plain scholarly clothing.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Veritas"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 1200,
+      "bytes": 143008,
+      "sha256": "72b441d3658fe36c0894a61e5b546488420bc03a86f662308674ca9c92184b8e"
+    },
+    {
+      "id": "elro-aditower-portrait",
+      "file": "Attachments/Artwork/npcs/elro-aditower-portrait.webp",
+      "title": "Elro Aditower — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A mature elf man with weathered features, pointed ears, and practical wool clothing.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Elro Aditower"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 833,
+      "bytes": 130678,
+      "sha256": "6d1591ffd2c65d680c786515914dad0beaca69b3e5562a13efdddfa76fd211c5"
+    },
+    {
+      "id": "brock-drungur-portrait",
+      "file": "Attachments/Artwork/npcs/brock-drungur-portrait.webp",
+      "title": "Brock Drungur — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A broad-faced dwarf with a thick graying beard, stained work shirt, and leather apron.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Brock Drungur"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 914,
+      "bytes": 129866,
+      "sha256": "c4cd2a042b539496c5f1925f7736c9a0c380e90a7309442908fa5a72cb1bd055"
+    },
+    {
+      "id": "korok-grund-portrait",
+      "file": "Attachments/Artwork/npcs/korok-grund-portrait.webp",
+      "title": "Korok Grund — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A mature tusked orc with broad features and patched road clothing.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Korok Grund"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 914,
+      "bytes": 135176,
+      "sha256": "0e914612d9c9f0da6492474d43be9ba7de91aba8a531f2a84724727f46188ad1"
+    },
+    {
+      "id": "ulroc-grimscar-portrait",
+      "file": "Attachments/Artwork/npcs/ulroc-grimscar-portrait.webp",
+      "title": "Ulroc Grimscar — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A broad tusked orc with a weathered face, dark beard, and substantial dark clothing.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Ulroc Grimscar"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 914,
+      "bytes": 125532,
+      "sha256": "915cf65fe533bac20121db8d47cf8cf1948e7c230adb40559f558760e93d0988"
+    },
+    {
+      "id": "vesha-noll-portrait",
+      "file": "Attachments/Artwork/npcs/vesha-noll-portrait.webp",
+      "title": "Vesha Noll — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "An alert dark-haired elf woman with pointed ears and practical brown civilian layers.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Vesha Noll"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.",
+      "width": 1000,
+      "height": 1094,
+      "bytes": 114392,
+      "sha256": "4c7bf4e8bd7e057884ee3f244e5a7d408f938122dd90800b941f38d170ef6404"
     }
   ],
   "pages": [
@@ -1064,7 +1111,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "brock-drungur"
+        "brock-drungur-portrait"
       ]
     },
     {
@@ -1072,7 +1119,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "calev-marr"
+        "calev-marr-age41"
       ]
     },
     {
@@ -1080,7 +1127,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "carl-marsh"
+        "carl-marsh-age37"
       ]
     },
     {
@@ -1088,7 +1135,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "dalia-quent"
+        "dalia-quent-portrait"
       ]
     },
     {
@@ -1104,7 +1151,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "goliath-builders"
+        "egbert-lusat-portrait"
       ]
     },
     {
@@ -1112,7 +1159,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "elro-aditower"
+        "elro-aditower-portrait"
       ]
     },
     {
@@ -1128,7 +1175,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "indra-karaf"
+        "indra-karaf-portrait"
       ]
     },
     {
@@ -1136,7 +1183,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "korok-grund"
+        "korok-grund-portrait"
       ]
     },
     {
@@ -1144,7 +1191,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "mara-voss"
+        "mara-voss-portrait"
       ]
     },
     {
@@ -1152,7 +1199,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "orla-meren"
+        "orla-meren-portrait"
       ]
     },
     {
@@ -1160,7 +1207,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "goliath-builders"
+        "sara-lusat-portrait"
       ]
     },
     {
@@ -1176,7 +1223,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "shanda-karth"
+        "shanda-karth-portrait"
       ]
     },
     {
@@ -1184,7 +1231,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "goliath-builders"
+        "tara-lusat-portrait"
       ]
     },
     {
@@ -1192,7 +1239,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "goliath-builders"
+        "taran-lusat-portrait"
       ]
     },
     {
@@ -1200,7 +1247,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "trine-baradur"
+        "trine-baradur-portrait"
       ]
     },
     {
@@ -1208,7 +1255,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "ulroc-grimscar"
+        "ulroc-grimscar-portrait"
       ]
     },
     {
@@ -1216,7 +1263,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "veritas"
+        "veritas-portrait"
       ]
     },
     {
@@ -1224,7 +1271,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "vesha-noll"
+        "vesha-noll-portrait"
       ]
     },
     {

@@ -22,15 +22,15 @@ The authoritative Obsidian vault is `content/`. It is now one comprehensive DM/c
 
 All paths above are relative to `content/`. Obsidian Bases continue to work; Markdown directory tables are regenerated from entity files by `npm run directories` and during builds.
 
-## Artwork
+## Artwork and Quick References
 
-All 44 NPC/location/faction pages have registered visual references: 46 distinct works and 67 placements. All 16 location pages now have mood boards combining retained classical paintings with existing fantasy environment art by David Revoy, with individual credits, original sources, and CC-BY-4.0 links. Images retain their full compositions. Boards use native Obsidian callouts and a responsive two- or three-column Quartz layout, stacking on mobile.
+All 22 canonical NPCs have publishable portraits. The active register contains 49 artworks and 67 placements across the 44 NPC/location/faction pages; 17 portraits are AI-generated campaign references with saved prompts and tool provenance. The former local-only portraits have been superseded. Calev and Carl have age-appropriate classical replacements. Location mood boards retain existing classical and fantasy art with artist credits and recorded terms.
 
-Senn Vale now uses an explicitly requested AI-generated portrait of an unmasked dragonborn waterworks labourer, replacing the masked alchemist reference. Its exact prompt and tool provenance are in `Attachments/Artwork/sources/senn-vale-labourer-generation.json`. This is the sole generated illustration; the new location art is existing artist-created work. Incidental appearances, equipment, buildings, and symbols do not establish canon.
+All 30 character pages have a generated quick reference: key information on the left and portrait or player-approved-portrait placeholder on the right in Quartz, stacking on mobile. Headers use the original metadata and portrayal notes. New NPC age estimates are labelled; PC metadata and player-owned choices remain unchanged.
 
-`Attachments/Artwork Credits.md` and the asset register record artists, sources, reuse terms, dimensions, hashes, and coverage. The public build includes 33 artworks in 51 placements. Thirteen active modern references and the superseded alchemist file remain excluded pending publication rights. The four Lusat pages retain their shared Goliath species reference; individual portraits remain a sourcing refinement.
+All 16 location pages have generated NPC tables drawn from current-location records, including contained districts/work sites at city level. Deceased NPCs, unknown locations, and planned visitors are excluded. A work site is not a confirmed home. Table-specific movements must be recorded before updating shared current locations.
 
-Ordinary relative Markdown image paths work with the vault. The built site adds responsive framing, intrinsic dimensions, click-to-open image links, and lazy loading for secondary art. `scripts/check-artwork.mjs` verifies local files, dimensions, recorded hashes, required credit fields, source availability, and placements during checks/builds.
+`npm run directories` regenerates character headers, location resident tables, and category indexes. Edit source metadata, portraits, and prose rather than generated blocks. Artwork credits, hashes, dimensions, and provenance remain in `Attachments/Artwork/`; source images with no recorded reuse terms remain excluded in `publication-artwork.json`. The artwork audit now requires a publishable portrait for every registered NPC.
 
 ## Rules and continuity
 
@@ -44,7 +44,7 @@ Use Canon, Proposed/Tentative, Rumor, Unknown, Planned, and Retired labels. Mixe
 
 This repository contains the reused Quartz 4.5.2 runtime, dependency lockfile, one active `quartz.config.ts`, and one `.github/workflows/deploy.yml` publisher. GitHub Actions builds the Markdown directly on `main` pushes. There is no copy step or active dependency on the old sibling site checkout.
 
-The local checkout currently has no remote; connecting the intended GitHub repository and enabling Pages with GitHub Actions remain setup steps. No successful live deployment is claimed.
+The repository remote is `oliver-ex/Ostium_Campaign_Wiki`. GitHub Actions deploys the Quartz site to https://oliver-ex.github.io/Ostium_Campaign_Wiki/ on pushes to `main`. Local edits must be reviewed, committed, and pushed to reach the site.
 
 The site includes full-text search, sidebar navigation, breadcrumbs, backlinks, graph, table of contents, dark mode, tags, recent notes, and responsive layouts. Sitemap/RSS and optional social image generation are disabled. Robots/noindex discourage indexing but do not restrict access.
 

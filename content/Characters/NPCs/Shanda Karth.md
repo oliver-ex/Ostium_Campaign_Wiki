@@ -6,7 +6,8 @@ tags:
 - character
 - npc
 pronouns: ''
-age: ''
+age: 93
+age-note: "Proposed estimate for an established elven apothecary trusted with valuable medicine."
 ancestry: Elf
 species: Elf
 community: ''
@@ -24,13 +25,37 @@ session-appearances: []
 
 # Shanda Karth
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A dark-skinned elf woman with long pointed ears and dark hair.](../../Attachments/Artwork/npcs/shanda-karth.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Elf |
+> > | Age | 93 (estimate) |
+> > | Pronouns | Not recorded |
+> > | Role | Apothecary |
+> > | Faction / affiliation | Not established |
+> > | Current location | [[Locations/New Ostium\|New Ostium]] |
+> > | Status | alive |
+> >
+> > **In play:** Apothecary in [[Locations/New Ostium|New Ostium]]. Holds **two vials** of [[Creatures and Afflictions/Frigid Woe|Frigid Woe]] antidote.
+> >
+> > *Age estimate: Proposed estimate for an established elven apothecary trusted with valuable medicine.*
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![An adult elf woman with graying hair, pointed ears, and a practical work apron.](../../Attachments/Artwork/npcs/shanda-karth-portrait.webp)
+> >
+> > *Visual reference: Shanda Karth — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Elf Portrait — [CJ-Backman](https://www.deviantart.com/cj-backman/art/Elf-Portrait-691696099). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance

@@ -12,10 +12,11 @@ age: 45
 ancestry: Tiefling
 species: Tiefling
 community: New Ostium
-occupation: Merchant and acquisitions broker
+occupation: "Guild acquisition factor; merchant and broker"
 status: alive
 last_known_location: New Ostium Market District
-factions: []
+factions:
+- "[[Factions/New Ostium Merchants Guild|New Ostium Merchants Guild]]"
 first_appearance: ''
 location: New Ostium Market District
 session-appearances: []
@@ -23,14 +24,41 @@ session-appearances: []
 
 # Trine Baradur
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A horned tiefling woman in richly decorated clothing, shown in two portrait studies.](../../Attachments/Artwork/npcs/trine-baradur.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Tiefling |
+> > | Age | 45 |
+> > | Pronouns | she/her |
+> > | Role | Guild acquisition factor; merchant and broker |
+> > | Faction / affiliation | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
+> > | Current location | [[Locations/New Ostium Market District\|New Ostium Market District]] |
+> > | Status | alive |
+> >
+> > **In play:** Merchant patron/contact for salvage, artifacts, and morally grey jobs
+> >
+> > **Wants now:** Acquire artifacts and information from Old Ostium before competitors in the Guild can.
+> >
+> > **Portrayal:** Fast, enthusiastic, uses valuation language for almost everything.
+> >
+> > **Attitude:** Friendly while value is on the table; evasive when asked what he already knows.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A mature tiefling woman with curved horns, graying temples, and restrained fine merchant clothing.](../../Attachments/Artwork/npcs/trine-baradur-portrait.webp)
+> >
+> > *Visual reference: Trine Baradur — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Tiefling Healer — [Woodenpencilbox](https://www.deviantart.com/woodenpencilbox/art/Tiefling-Healer-Commission-OPEN-855974648). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

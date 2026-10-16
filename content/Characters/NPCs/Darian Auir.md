@@ -6,7 +6,8 @@ tags:
 - character
 - npc
 pronouns: ''
-age: ''
+age: 42
+age-note: "Proposed estimate for an established caravan driver and merchant; his career length is unrecorded."
 ancestry: Human
 species: Human
 community: ''
@@ -24,13 +25,37 @@ session-appearances: []
 
 # Darian Auir
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A merchant at his desk among letters, scales, and trade objects.](../../Attachments/Artwork/npcs/darian-auir.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Human |
+> > | Age | 42 (estimate) |
+> > | Pronouns | Not recorded |
+> > | Role | Merchant and caravan driver |
+> > | Faction / affiliation | Not established |
+> > | Current location | Road to Ostium |
+> > | Status | alive |
+> >
+> > **In play:** Drives the caravan transporting the PCs toward [[Locations/Ostium|Ostium]].
+> >
+> > *Age estimate: Proposed estimate for an established caravan driver and merchant; his career length is unrecorded.*
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A merchant at his desk among letters, scales, and trade objects.](../../Attachments/Artwork/npcs/darian-auir.webp)
+> >
+> > *Visual reference: Portrait of the Merchant Georg Gisze — [Hans Holbein the Younger](https://commons.wikimedia.org/wiki/File:Hans_Holbein_der_J%C3%BCngere_-_Der_Kaufmann_Georg_Gisze_-_Google_Art_Project.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Portrait of the Merchant Georg Gisze — [Hans Holbein the Younger](https://commons.wikimedia.org/wiki/File:Hans_Holbein_der_J%C3%BCngere_-_Der_Kaufmann_Georg_Gisze_-_Google_Art_Project.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance

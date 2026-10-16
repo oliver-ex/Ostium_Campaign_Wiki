@@ -1,6 +1,46 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
+// Character cards are native callouts in Obsidian and two columns in Quartz.
+.callout[data-callout="character"] {
+  --color: var(--secondary);
+  padding: 0;
+  border: 0;
+  background: transparent;
+  > .callout-title { display: none; }
+  > .callout-content {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    gap: 1.5rem;
+    align-items: start;
+    overflow: visible;
+    > .callout {
+      --color: var(--darkgray);
+      min-width: 0;
+      padding: 0;
+      margin: 0;
+      background: transparent;
+      border: 0;
+      > .callout-title { padding: 0.3rem 0; font-size: 0.85rem; }
+      > .callout-content { display: block; overflow: visible; }
+      .callout-icon { display: none; }
+      p { margin: 0.5rem 0; }
+      table { width: 100%; margin: 0.4rem 0; font-size: 0.85rem; }
+      th:first-child, td:first-child { width: 30%; }
+      td { vertical-align: top; }
+    }
+    > [data-callout="portrait"] {
+      .campaign-artwork-link { width: 100%; margin: 0.4rem 0; }
+      img.artwork-portrait { width: 100%; max-width: 100%; max-height: none; }
+      p { font-size: 0.8rem; }
+    }
+  }
+  @media (max-width: 600px) {
+    > .callout-content { grid-template-columns: minmax(0, 1fr); gap: 1rem; }
+    > .callout-content > [data-callout="portrait"] { max-width: 20rem; }
+  }
+}
+
 // put your custom CSS here!
 
 // Campaign illustrations keep their full composition and readable captions.

@@ -12,6 +12,19 @@ status: uncertain
 
 # Old Ostium Pump 4
 
+<!-- location-residents:start -->
+
+## NPCs Currently Based Here
+
+| NPC | Role | Faction / affiliation | Recorded current location | Status |
+| --- | --- | --- | --- | --- |
+| [[Characters/NPCs/Senn Vale\|Senn Vale]] | Pump captain; waterworks maintenance worker | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] | [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] | alive |
+
+*From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
+
+<!-- location-residents:end -->
+
+
 <!-- campaign-artwork:start -->
 
 > [!gallery] Visual inspiration

@@ -12,6 +12,33 @@ status: active
 
 # Ostium
 
+<!-- location-residents:start -->
+
+## NPCs Currently Based Here
+
+| NPC | Role | Faction / affiliation | Recorded current location | Status |
+| --- | --- | --- | --- | --- |
+| [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] | Apothecary | Not established | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] | alive |
+| [[Characters/NPCs/Brock Drungur\|Brock Drungur]] | Senior waterworks engineer | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] | alive |
+| [[Characters/NPCs/Calev Marr\|Calev Marr]] | Protectorate quartermaster | [[Factions/The Protectorate\|The Protectorate]] | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] | alive |
+| [[Characters/NPCs/Dalia Quent\|Dalia Quent]] | Guildmaster; broker and fixer | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] | [[Locations/New Ostium Market District\|New Ostium Market District]] | alive |
+| [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] | Wealthy merchant and former Old Ostium resident | Not established | [[Locations/New Ostium\|New Ostium]] | alive |
+| [[Characters/NPCs/Helena Orst\|Helena Orst]] | First Councillor; civil administrator | [[Factions/New Ostium Government\|New Ostium Government]] | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] | alive |
+| [[Characters/NPCs/Indra Karaf\|Indra Karaf]] | Commander of the Protectorate | [[Factions/The Protectorate\|The Protectorate]] | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] | alive |
+| [[Characters/NPCs/Mara Voss\|Mara Voss]] | Hospital District speaker and relief administrator | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] | alive |
+| [[Characters/NPCs/Orla Meren\|Orla Meren]] | Public servant and clerk | Not established | [[Locations/New Ostium\|New Ostium]] | alive |
+| [[Characters/NPCs/Senn Vale\|Senn Vale]] | Pump captain; waterworks maintenance worker | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] | [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] | alive |
+| [[Characters/NPCs/Shanda Karth\|Shanda Karth]] | Apothecary | Not established | [[Locations/New Ostium\|New Ostium]] | alive |
+| [[Characters/NPCs/Taran Lusat\|Taran Lusat]] | Civil engineer and relief benefactor | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] | alive |
+| [[Characters/NPCs/Trine Baradur\|Trine Baradur]] | Guild acquisition factor; merchant and broker | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] | [[Locations/New Ostium Market District\|New Ostium Market District]] | alive |
+| [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] | Raider chief and crime lord | [[Factions/The Shattered Axe\|The Shattered Axe]] | [[Locations/Old Ostium Slums\|Old Ostium Slums]] | alive |
+| [[Characters/NPCs/Vesha Noll\|Vesha Noll]] | Shattered Axe intelligence and smuggling chief; warden and scavenger | [[Factions/The Shattered Axe\|The Shattered Axe]] | [[Locations/Old Ostium Slums\|Old Ostium Slums]] | alive |
+
+*From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
+
+<!-- location-residents:end -->
+
+
 <!-- campaign-artwork:start -->
 
 > [!gallery] Visual inspiration

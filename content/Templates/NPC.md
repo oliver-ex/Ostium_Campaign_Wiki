@@ -7,12 +7,16 @@ tags:
 lore-status: Unknown
 ancestry: ''
 species: ''
+age: null
+pronouns: ''
 occupation: ''
 location: ''
 factions: []
 ---
 
 # NPC
+
+The build generates a character quick reference from these properties, with the portrait on the right in Quartz. Add the portrait and attribution in a `campaign-artwork` block, register it in `Attachments/Artwork/artwork-manifest.json`, and record reuse terms before publication. Keep age estimates labelled.
 
 ## Overview
 

@@ -33,6 +33,30 @@ species: Dragonborn
 
 # Cedric
 
+<!-- character-profile:start -->
+
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Ancestry / identity | Dragonborn |
+> > | Age | TBD — player choice |
+> > | Pronouns | Not recorded |
+> > | Player | Maarten |
+> > | Class / level | Paladin / 2 |
+> > | Faction / affiliation | Not established |
+> > | Current location | Unknown |
+> > | Status | active |
+>
+> > [!portrait] Portrait
+> >
+> > *No player-approved portrait recorded.*
+
+<!-- character-profile:end -->
+
+
 ## Identity
 
 **Player:** Maarten

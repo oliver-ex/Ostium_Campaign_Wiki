@@ -7,15 +7,13 @@ tags:
 
 # Artwork Credits
 
-Classical paintings, credited existing fantasy artwork, and Senn Vale’s explicitly requested AI-generated portrait supply visual references; entity prose and metadata remain canon. Faces, age, clothing, weapons, magical effects, architecture, and symbols in borrowed art do not add campaign facts. Faction paintings establish atmosphere rather than official heraldry. Classical paintings are preferred where they fit; nonhuman NPCs use fantasy illustrations with visible species traits.
+All 22 canonical NPCs have publishable portraits. These are visual references; incidental appearance, clothing, gear, age presentation, and magical effects do not establish campaign facts. NPC ages inferred for this update are explicitly labelled estimates. The eight PCs keep their player-owned identity choices and await approved portraits.
 
-Images are local WebP files with full compositions and signatures retained. Click an image on the built site to open it at its saved resolution. Ordinary relative Markdown paths work in Obsidian.
+The active register contains **49 artworks and 67 placements across all 44 reviewed NPC, location, and faction pages**, all eligible for the public build. **17 portraits are AI-generated campaign illustrations**, made using the built-in image generation tool with no third-party reference images. Exact prompts and tool provenance are saved alongside the artwork under `Artwork/sources/`. Location mood boards continue to use existing, credited classical and fantasy artwork.
 
-The active register contains **46 distinct artworks and 67 placements across all 44 reviewed entity pages**. The public build includes **33 artworks and 51 placements**. Thirteen active modern references remain local-only; the superseded Senn alchemist file also remains excluded. All 16 location pages pair their retained paintings with credited existing fantasy references. The four Lusat pages still share a local Goliath species reference; see [[Attachments/Artwork Sourcing Backlog|Artwork Sourcing Backlog]].
+Full compositions are retained in the local WebP files; click a published image to open its saved resolution. Original copyrighted references that were previously withheld have been superseded and remain excluded by the repository’s `publication-artwork.json`; those files have not been granted new reuse rights.
 
-Historical works retain their recorded public-domain or Creative Commons information. The publication policy is recorded in the repository’s `publication-artwork.json`. Attribution alone is not treated as permission to republish.
-
-## Image register
+## Image Register
 
 ### old-ostium-campo-vacino
 
@@ -179,26 +177,6 @@ Historical works retain their recorded public-domain or Creative Commons informa
 - **Rights:** [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Public-domain status recorded on the linked Commons file page.
 - **Local image:** [WebP](Artwork/locations/mistbreak-harbor.webp) — 1012 × 613. Converted to WebP; composition preserved.
 
-### calev-marr
-
-- **Used by:** [[Characters/NPCs/Calev Marr|Calev Marr]]
-- **Work:** Portrait of Jan Six
-- **Creator:** Rembrandt van Rijn
-- **Source:** [Original publication](https://commons.wikimedia.org/wiki/File:JanSix.jpg)
-- **Rights:** [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Public-domain painting; source metadata retained in the source link.
-- **Local image:** [WebP](Artwork/npcs/calev-marr.webp) — 759 × 833. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Historical portrait used for demeanor and clothing; not a literal biography or exact age.
-
-### carl-marsh
-
-- **Used by:** [[Characters/NPCs/Carl Marsh|Carl Marsh]]
-- **Work:** Old Man in an Armchair
-- **Creator:** Rembrandt van Rijn
-- **Source:** [Original publication](https://commons.wikimedia.org/wiki/File:Old_Man_in_an_Armchair,_Rembrandt_van_Rijn,_1652,_National_Gallery,_London.jpg)
-- **Rights:** [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Public-domain painting; source metadata retained in the source link.
-- **Local image:** [WebP](Artwork/npcs/carl-marsh.webp) — 1268 × 1600. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Historical portrait used for demeanor and clothing; not a literal biography or exact age.
-
 ### darian-auir
 
 - **Used by:** [[Characters/NPCs/Darian Auir|Darian Auir]]
@@ -219,16 +197,6 @@ Historical works retain their recorded public-domain or Creative Commons informa
 - **Local image:** [WebP](Artwork/npcs/helena-orst.webp) — 1280 × 1533. Resized down where necessary and converted to WebP; full composition and signatures retained.
 - **Interpretation:** Historical portrait used for demeanor and clothing; not a literal biography or exact age.
 
-### brock-drungur
-
-- **Used by:** [[Characters/NPCs/Brock Drungur|Brock Drungur]]
-- **Work:** Dwarf Engineer Sketch
-- **Creator:** Anthony Francisco (Ubermonster)
-- **Source:** [Original publication](https://www.deviantart.com/ubermonster/art/Dwarf-Engineer-Sketch-397171571)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/brock-drungur.webp) — 600 × 1119. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Engineer reference; depicted weapons and equipment do not establish inventory.
-
 ### arla-gerrin
 
 - **Used by:** [[Characters/NPCs/Arla Gerrin|Arla Gerrin]]
@@ -239,106 +207,6 @@ Historical works retain their recorded public-domain or Creative Commons informa
 - **Local image:** [WebP](Artwork/npcs/arla-gerrin.webp) — 807 × 990. Resized down where necessary and converted to WebP; full composition and signatures retained.
 - **Interpretation:** Gnome healer and practical equipment reference.
 
-### orla-meren
-
-- **Used by:** [[Characters/NPCs/Orla Meren|Orla Meren]]
-- **Work:** Gnome
-- **Creator:** Felicia Cano
-- **Source:** [Original publication](https://www.deviantart.com/feliciacano/art/Gnome-81799929)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/orla-meren.webp) — 646 × 792. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Species and face reference; woodland magic and equipment do not describe her scholarly occupation.
-
-### mara-voss
-
-- **Used by:** [[Characters/NPCs/Mara Voss|Mara Voss]]
-- **Work:** Maya (Halfling)
-- **Creator:** KuraiGeijutsu
-- **Source:** [Original publication](https://www.deviantart.com/kuraigeijutsu/art/Maya-Halfling-829232877)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/mara-voss.webp) — 797 × 1002. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Halfling portrait reference; the source character and clerical equipment are not campaign canon.
-
-### trine-baradur
-
-- **Used by:** [[Characters/NPCs/Trine Baradur|Trine Baradur]]
-- **Work:** Tiefling Healer
-- **Creator:** Woodenpencilbox
-- **Source:** [Original publication](https://www.deviantart.com/woodenpencilbox/art/Tiefling-Healer-Commission-OPEN-855974648)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/trine-baradur.webp) — 894 × 894. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Tiefling features and clothing reference; source profession and apparent age are not canon.
-
-### korok-grund
-
-- **Used by:** [[Characters/NPCs/Korok Grund|Korok Grund]]
-- **Work:** Orc
-- **Creator:** anssiart
-- **Source:** [Original publication](https://www.deviantart.com/anssiart/art/Orc-238925786)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/korok-grund.webp) — 848 × 943. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Orc bandit reference; equipment remains illustrative.
-
-### ulroc-grimscar
-
-- **Used by:** [[Characters/NPCs/Ulroc Grimscar|Ulroc Grimscar]]
-- **Work:** Northog Tactician
-- **Creator:** Hamsterfly
-- **Source:** [Original publication](https://www.deviantart.com/hamsterfly/art/Northog-Tactician-108095316)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/ulroc-grimscar.webp) — 659 × 950. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Command and tactical bearing reference; the depicted army is not campaign canon.
-
-### dalia-quent
-
-- **Used by:** [[Characters/NPCs/Dalia Quent|Dalia Quent]]
-- **Work:** Fantasy Elf Portrait
-- **Creator:** Jay Carpenter
-- **Source:** [Original publication](https://www.deviantart.com/jay-carpenter/art/Fantasy-Elf-Portrait-478471041)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/dalia-quent.webp) — 723 × 1104. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Elven face and prosperous clothing reference.
-
-### shanda-karth
-
-- **Used by:** [[Characters/NPCs/Shanda Karth|Shanda Karth]]
-- **Work:** Elf Portrait
-- **Creator:** CJ-Backman
-- **Source:** [Original publication](https://www.deviantart.com/cj-backman/art/Elf-Portrait-691696099)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/shanda-karth.webp) — 751 × 1063. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Elven portrait reference; complexion and clothing are illustrative rather than new appearance canon.
-
-### elro-aditower
-
-- **Used by:** [[Characters/NPCs/Elro Aditower|Elro Aditower]]
-- **Work:** High Elf Noble
-- **Creator:** DreeaDraws
-- **Source:** [Original publication](https://www.deviantart.com/dreeadraws/art/High-elf-noble-897309275)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/elro-aditower.webp) — 778 × 1027. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Composed elven civilian reference; circlet and finery do not make the mayor royalty.
-
-### veritas
-
-- **Used by:** [[Characters/NPCs/Veritas|Veritas]]
-- **Work:** Silvan Elf Cleric
-- **Creator:** bearcub
-- **Source:** [Original publication](https://www.deviantart.com/bearcub/art/CM-Silvan-Elf-Cleric-701262001)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/veritas.webp) — 777 × 1029. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Elven face and bearing reference; armor, staff, and clerical source identity do not change his scholar/wizard role.
-
-### vesha-noll
-
-- **Used by:** [[Characters/NPCs/Vesha Noll|Vesha Noll]]
-- **Work:** Female Half Elf Ranger
-- **Creator:** Sedeslav
-- **Source:** [Original publication](https://www.deviantart.com/sedeslav/art/Female-Half-Elf-Ranger-887569953)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/vesha-noll.webp) — 673 × 1187. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Visibly elven ranger reference; the source character is a half-elf, while Vesha remains an Elf.
-
 ### senn-vale-labourer
 
 - **Used by:** [[Characters/NPCs/Senn Vale|Senn Vale]]
@@ -348,26 +216,6 @@ Historical works retain their recorded public-domain or Creative Commons informa
 - **Rights:** AI-generated campaign illustration. Generated at the GM’s explicit request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
 - **Local image:** [WebP](Artwork/npcs/senn-vale-labourer.webp) — 1100 × 1320. Generated for this campaign, downscaled and converted to WebP.
 - **Interpretation:** Proposed visual reference only. Scale colour, facial features, clothes, tools, and background do not establish additional canon.
-
-### indra-karaf
-
-- **Used by:** [[Characters/NPCs/Indra Karaf|Indra Karaf]]
-- **Work:** Goliath Barbarian
-- **Creator:** Olga Jaworska
-- **Source:** [Original publication](https://olgajaworska.artstation.com/projects/Zaqkdm)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/indra-karaf.webp) — 1067 × 1600. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Goliath build and martial bearing reference; the source is a barbarian, not a literal portrait of the 52-year-old commander. Public preview retrieved through Pinterest; artist portfolio identifies the work.
-
-### goliath-builders
-
-- **Used by:** [[Characters/NPCs/Egbert Lusat|Egbert Lusat]], [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Sara Lusat|Sara Lusat]], [[Characters/NPCs/Tara Lusat|Tara Lusat]]
-- **Work:** Goliaths Working Together
-- **Creator:** Hinchel Or
-- **Source:** [Original publication](https://www.dndbeyond.com/posts/1783-the-10-species-in-the-2024-players-handbook)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/goliath-builders.webp) — 1200 × 776. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Shared Goliath species and civilian-work reference, not an individual or family portrait. The depicted figures do not identify Egbert, Taran, Sara, or Tara; individual portraits remain a sourcing refinement.
 
 ### the-heart
 
@@ -388,10 +236,6 @@ Historical works retain their recorded public-domain or Creative Commons informa
 - **Rights:** [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Public-domain painting; source metadata retained in the source link.
 - **Local image:** [WebP](Artwork/factions/protectorate-night-watch.webp) — 1400 × 1139. Resized down where necessary and converted to WebP; full composition and signatures retained.
 - **Interpretation:** Civic guard atmosphere; historical weapons, uniforms, and insignia are not Protectorate canon.
-
-## Location fantasy references
-
-The mood boards retain separate images, complete compositions, captions, artist credits, source links, and reuse terms. No borrowed artwork was fed to image generation.
 
 ### revoy-ishtar-streets
 
@@ -462,3 +306,183 @@ The mood boards retain separate images, complete compositions, captions, artist 
 - **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0.
 - **Local image:** [WebP](Artwork/locations/revoy-boat-city.webp) — 1280 × 616. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
 - **Interpretation:** Coastal construction and maritime fantasy mood only; no new creatures, tropical climate, or literal settlement geography are established.
+
+### calev-marr-age41
+
+- **Used by:** [[Characters/NPCs/Calev Marr|Calev Marr]]
+- **Work:** Portrait of Isaac Abrahamsz. Massa
+- **Creator:** Frans Hals
+- **Source:** [Original publication](https://commons.wikimedia.org/wiki/File:Portrait_of_Isaac_Abrahamsz._Massa_by_Frans_Hals.png)
+- **Rights:** [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Wikimedia Commons records the linked reuse terms for this reproduction. The sitter is a visual age/role reference, not the campaign character.
+- **Local image:** [WebP](Artwork/npcs/calev-marr-age41.webp) — 536 × 660. Resized down where needed and converted to WebP; full painted composition retained.
+- **Interpretation:** Calev remains 41. Carl’s proposed age is 37; exact appearance is not established.
+
+### carl-marsh-age37
+
+- **Used by:** [[Characters/NPCs/Carl Marsh|Carl Marsh]]
+- **Work:** Head of a Young Peasant in a Peaked Cap
+- **Creator:** Vincent van Gogh
+- **Source:** [Original publication](https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Kopf_eines_jungen_Bauern_mit_M%C3%BCtze.jpeg)
+- **Rights:** [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Wikimedia Commons records the linked reuse terms for this reproduction. The sitter is a visual age/role reference, not the campaign character.
+- **Local image:** [WebP](Artwork/npcs/carl-marsh-age37.webp) — 1100 × 1455. Resized down where needed and converted to WebP; full painted composition retained.
+- **Interpretation:** Calev remains 41. Carl’s proposed age is 37; exact appearance is not established.
+
+### egbert-lusat-portrait
+
+- **Used by:** [[Characters/NPCs/Egbert Lusat|Egbert Lusat]]
+- **Work:** Egbert Lusat — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/egbert-lusat-portrait.webp) — 1000 × 914. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### taran-lusat-portrait
+
+- **Used by:** [[Characters/NPCs/Taran Lusat|Taran Lusat]]
+- **Work:** Taran Lusat — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/taran-lusat-portrait.webp) — 1000 × 1200. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### sara-lusat-portrait
+
+- **Used by:** [[Characters/NPCs/Sara Lusat|Sara Lusat]]
+- **Work:** Sara Lusat — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/sara-lusat-portrait.webp) — 1000 × 914. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### tara-lusat-portrait
+
+- **Used by:** [[Characters/NPCs/Tara Lusat|Tara Lusat]]
+- **Work:** Tara Lusat — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/tara-lusat-portrait.webp) — 1000 × 914. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### indra-karaf-portrait
+
+- **Used by:** [[Characters/NPCs/Indra Karaf|Indra Karaf]]
+- **Work:** Indra Karaf — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/indra-karaf-portrait.webp) — 1000 × 1200. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### mara-voss-portrait
+
+- **Used by:** [[Characters/NPCs/Mara Voss|Mara Voss]]
+- **Work:** Mara Voss — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/mara-voss-portrait.webp) — 1000 × 1200. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### orla-meren-portrait
+
+- **Used by:** [[Characters/NPCs/Orla Meren|Orla Meren]]
+- **Work:** Orla Meren — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/orla-meren-portrait.webp) — 1000 × 914. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### trine-baradur-portrait
+
+- **Used by:** [[Characters/NPCs/Trine Baradur|Trine Baradur]]
+- **Work:** Trine Baradur — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/trine-baradur-portrait.webp) — 1000 × 914. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### dalia-quent-portrait
+
+- **Used by:** [[Characters/NPCs/Dalia Quent|Dalia Quent]]
+- **Work:** Dalia Quent — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/dalia-quent-portrait.webp) — 1000 × 1200. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### shanda-karth-portrait
+
+- **Used by:** [[Characters/NPCs/Shanda Karth|Shanda Karth]]
+- **Work:** Shanda Karth — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/shanda-karth-portrait.webp) — 1000 × 914. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### veritas-portrait
+
+- **Used by:** [[Characters/NPCs/Veritas|Veritas]]
+- **Work:** Veritas — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/veritas-portrait.webp) — 1000 × 1200. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### elro-aditower-portrait
+
+- **Used by:** [[Characters/NPCs/Elro Aditower|Elro Aditower]]
+- **Work:** Elro Aditower — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/elro-aditower-portrait.webp) — 1000 × 833. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### brock-drungur-portrait
+
+- **Used by:** [[Characters/NPCs/Brock Drungur|Brock Drungur]]
+- **Work:** Brock Drungur — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/brock-drungur-portrait.webp) — 1000 × 914. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### korok-grund-portrait
+
+- **Used by:** [[Characters/NPCs/Korok Grund|Korok Grund]]
+- **Work:** Korok Grund — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/korok-grund-portrait.webp) — 1000 × 914. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### ulroc-grimscar-portrait
+
+- **Used by:** [[Characters/NPCs/Ulroc Grimscar|Ulroc Grimscar]]
+- **Work:** Ulroc Grimscar — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/ulroc-grimscar-portrait.webp) — 1000 × 914. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.
+
+### vesha-noll-portrait
+
+- **Used by:** [[Characters/NPCs/Vesha Noll|Vesha Noll]]
+- **Work:** Vesha Noll — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/vesha-noll-portrait.webp) — 1000 × 1094. Generated for the campaign, resized down and converted to WebP.
+- **Interpretation:** Proposed appearance only. Age estimates, clothing, skin colour, and incidental details do not override campaign prose or establish mechanics.

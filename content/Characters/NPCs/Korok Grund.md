@@ -6,7 +6,8 @@ tags:
 - character
 - npc
 pronouns: ''
-age: ''
+age: 43
+age-note: "Proposed estimate for an experienced field leader; no military chronology is implied."
 ancestry: Orc
 species: Orc
 community: ''
@@ -25,13 +26,37 @@ session-appearances: []
 
 # Korok Grund
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A green-skinned orc in battered armor holding a round shield.](../../Attachments/Artwork/npcs/korok-grund.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Orc |
+> > | Age | 43 (estimate) |
+> > | Pronouns | Not recorded |
+> > | Role | Bandit leader |
+> > | Faction / affiliation | [[Factions/The Shattered Axe\|The Shattered Axe]] |
+> > | Current location | Road to Ostium |
+> > | Status | alive |
+> >
+> > **In play:** Commands the caravan ambush under orders from [[Factions/The Shattered Axe|The Shattered Axe]].
+> >
+> > *Age estimate: Proposed estimate for an experienced field leader; no military chronology is implied.*
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A mature tusked orc with broad features and patched road clothing.](../../Attachments/Artwork/npcs/korok-grund-portrait.webp)
+> >
+> > *Visual reference: Korok Grund — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Orc — [anssiart](https://www.deviantart.com/anssiart/art/Orc-238925786). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance

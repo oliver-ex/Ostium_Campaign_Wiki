@@ -8,12 +8,18 @@ lore-status: Unknown
 player: ''
 ancestry: ''
 species: ''
+age: null
+pronouns: ''
+factions: []
+usual_location: ''
 class: ''
 level: null
 system: D&D 5e (2024)
 ---
 
 # Player Character
+
+The build generates a character quick reference from these properties. Use a player-approved portrait; unknown age and identity choices remain for the player.
 
 ## Identity & Portrait
 

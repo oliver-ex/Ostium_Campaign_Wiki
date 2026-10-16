@@ -12,10 +12,11 @@ age: 46
 ancestry: Human
 species: Human
 community: New Ostium
-occupation: Civil administrator
+occupation: "First Councillor; civil administrator"
 status: alive
 last_known_location: New Ostium Town Hall
-factions: []
+factions:
+- "[[Factions/New Ostium Government|New Ostium Government]]"
 first_appearance: ''
 location: New Ostium Town Hall
 session-appearances: []
@@ -23,14 +24,41 @@ session-appearances: []
 
 # Helena Orst
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A dignified woman in a dark red dress resting a hand beside a stone parapet.](../../Attachments/Artwork/npcs/helena-orst.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Human |
+> > | Age | 46 |
+> > | Pronouns | she/her |
+> > | Role | First Councillor; civil administrator |
+> > | Faction / affiliation | [[Factions/New Ostium Government\|New Ostium Government]] |
+> > | Current location | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
+> > | Status | alive |
+> >
+> > **In play:** Political face of New Ostium's defensible exclusion and scarcity
+> >
+> > **Wants now:** Maintain housing, water, public order, and legitimacy without allowing Old Ostium's crisis to overwhelm New Ostium.
+> >
+> > **Portrayal:** Formal civic language; always distinguishes compassion from capacity.
+> >
+> > **Attitude:** Polite to adventurers who solve concrete problems; suspicious of demands framed as limitless moral obligations.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A dignified woman in a dark red dress resting a hand beside a stone parapet.](../../Attachments/Artwork/npcs/helena-orst.webp)
+> >
+> > *Visual reference: Portrait of a Lady (La Schiavona) — [Titian](https://commons.wikimedia.org/wiki/File:Titian_-_Portrait_of_a_Lady_(%27La_Schiavona%27)_-_Google_Art_Project.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Portrait of a Lady (La Schiavona) — [Titian](https://commons.wikimedia.org/wiki/File:Titian_-_Portrait_of_a_Lady_(%27La_Schiavona%27)_-_Google_Art_Project.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

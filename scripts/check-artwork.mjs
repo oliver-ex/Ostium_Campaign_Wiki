@@ -25,6 +25,10 @@ for (const asset of assets.values()) {
 for (const entry of manifest.pages) {
   const page = pages.find(p => p.id === entry.page)
   if (!page) { errors.push(`Artwork register references missing page: ${entry.page}`); continue }
+  if (entry.type === 'npc' && !entry.images.some(id => {
+    const asset = assets.get(id)
+    return asset && !withheld.has(asset.file)
+  })) errors.push(`NPC has no publishable portrait: ${entry.page}`)
   if (!['illustrated', 'backlog'].includes(entry.status) || (entry.status === 'illustrated') !== (entry.images.length > 0)) errors.push(`Invalid artwork status: ${entry.page}`)
   for (const id of entry.images) {
     const asset = assets.get(id)

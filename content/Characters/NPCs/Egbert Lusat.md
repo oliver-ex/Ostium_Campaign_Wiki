@@ -26,16 +26,41 @@ session-appearances: []
 
 # Egbert Lusat
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A group of gray-skinned goliaths carrying a heavy stone beam together.](../../Attachments/Artwork/npcs/goliath-builders.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Goliath |
+> > | Age | 58 |
+> > | Pronouns | he/him |
+> > | Role | Wealthy merchant and former Old Ostium resident |
+> > | Faction / affiliation | Not established |
+> > | Current location | [[Locations/New Ostium\|New Ostium]] |
+> > | Status | alive |
+> >
+> > **In play:** Prodigal Son patron and owner of the two reserved Frigid Woe antidote vials
+> >
+> > **Wants now:** Protect his children, including Sara and both sons, resolve Taran's dangerous situation, and retain or replace the family's access to Frigid Woe treatment.
+> >
+> > **Portrayal:** Measured merchant's diction; precise until frightened, then abruptly personal.
+> >
+> > **Attitude:** Reasonable, courteous, accommodating, and sympathetic to their illness; increasingly anxious about Taran, but willing to hear a credible compromise.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![An older bald goliath man with mottled gray skin, broad shoulders, and a fine civilian coat.](../../Attachments/Artwork/npcs/egbert-lusat-portrait.webp)
+> >
+> > *Visual reference: Egbert Lusat — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Shared species reference: Goliaths Working Together — [Hinchel Or](https://www.dndbeyond.com/posts/1783-the-10-species-in-the-2024-players-handbook). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-*Goliath proportions and civilian work; not an individual or family portrait.*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

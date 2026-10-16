@@ -12,10 +12,11 @@ age: 31
 ancestry: Halfling
 species: Halfling
 community: Old Ostium
-occupation: Settler and local organizer
+occupation: "Hospital District speaker and relief administrator"
 status: alive
 last_known_location: Old Ostium Hospital District
-factions: []
+factions:
+- "[[Factions/Old Ostium Hospital District Community|Old Ostium Hospital District Community]]"
 first_appearance: ''
 location: Old Ostium Hospital District
 session-appearances: []
@@ -23,14 +24,41 @@ session-appearances: []
 
 # Mara Voss
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A red-haired halfling woman in a dark tunic with a red scarf.](../../Attachments/Artwork/npcs/mara-voss.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Halfling |
+> > | Age | 31 |
+> > | Pronouns | she/her |
+> > | Role | Hospital District speaker and relief administrator |
+> > | Faction / affiliation | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] |
+> > | Current location | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
+> > | Status | alive |
+> >
+> > **In play:** Hospital District civic leader and counterweight to simplistic 'rescue Taran' logic
+> >
+> > **Wants now:** Protect residents, keep rations stable, keep Protectorate payments from destroying the settlement, and retain essential technical help.
+> >
+> > **Portrayal:** Quiet administrative competence; remembers names and exact shortages.
+> >
+> > **Attitude:** Cooperative with outsiders who contribute; cold toward anyone treating residents as obstacles or collateral.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![An adult halfling woman with a round freckled face, curly hair, subtly pointed ears, and practical clothes.](../../Attachments/Artwork/npcs/mara-voss-portrait.webp)
+> >
+> > *Visual reference: Mara Voss — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Maya (Halfling) — [KuraiGeijutsu](https://www.deviantart.com/kuraigeijutsu/art/Maya-Halfling-829232877). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

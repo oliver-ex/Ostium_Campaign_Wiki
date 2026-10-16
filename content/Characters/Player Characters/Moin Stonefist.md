@@ -33,6 +33,30 @@ species: Dwarf
 
 # Moin Stonefist
 
+<!-- character-profile:start -->
+
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Ancestry / identity | Dwarf |
+> > | Age | TBD — player choice |
+> > | Pronouns | Not recorded |
+> > | Player | Oliver |
+> > | Class / level | Monk / 2 |
+> > | Faction / affiliation | Not established |
+> > | Current location | Unknown |
+> > | Status | active |
+>
+> > [!portrait] Portrait
+> >
+> > *No player-approved portrait recorded.*
+
+<!-- character-profile:end -->
+
+
 ## Identity
 
 **Player:** Oliver

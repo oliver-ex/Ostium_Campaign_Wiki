@@ -12,10 +12,11 @@ age: 36
 ancestry: Elf
 species: Elf
 community: Old Ostium
-occupation: Warden and scavenger
+occupation: "Shattered Axe intelligence and smuggling chief; warden and scavenger"
 status: alive
 last_known_location: Old Ostium Slums
-factions: []
+factions:
+- "[[Factions/The Shattered Axe|The Shattered Axe]]"
 first_appearance: ''
 location: Old Ostium Slums
 session-appearances: []
@@ -23,13 +24,41 @@ session-appearances: []
 
 # Vesha Noll
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A red-haired ranger with pointed ears and practical leather armor on a woodland path.](../../Attachments/Artwork/npcs/vesha-noll.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Elf |
+> > | Age | 36 |
+> > | Pronouns | she/her |
+> > | Role | Shattered Axe intelligence and smuggling chief; warden and scavenger |
+> > | Faction / affiliation | [[Factions/The Shattered Axe\|The Shattered Axe]] |
+> > | Current location | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
+> > | Status | alive |
+> >
+> > **In play:** Shattered Axe intelligence chief and likely blackmail intermediary
+> >
+> > **Wants now:** Build a network of compromised people and routes that lets the gang reach into New Ostium.
+> >
+> > **Portrayal:** Soft-spoken, remembers details people wish she had forgotten.
+> >
+> > **Attitude:** Curious about competent outsiders; would rather own leverage over the party than kill them immediately.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![An alert dark-haired elf woman with pointed ears and practical brown civilian layers.](../../Attachments/Artwork/npcs/vesha-noll-portrait.webp)
+> >
+> > *Visual reference: Vesha Noll — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Female Half Elf Ranger — [Sedeslav](https://www.deviantart.com/sedeslav/art/Female-Half-Elf-Ranger-887569953). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance

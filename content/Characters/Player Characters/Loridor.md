@@ -33,6 +33,30 @@ species: Human
 
 # Loridor
 
+<!-- character-profile:start -->
+
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Ancestry / identity | Human |
+> > | Age | TBD — player choice |
+> > | Pronouns | Not recorded |
+> > | Player | Sander |
+> > | Class / level | Wizard / 1 |
+> > | Faction / affiliation | Not established |
+> > | Current location | Unknown |
+> > | Status | active |
+>
+> > [!portrait] Portrait
+> >
+> > *No player-approved portrait recorded.*
+
+<!-- character-profile:end -->
+
+
 ## Identity
 
 **Player:** Sander

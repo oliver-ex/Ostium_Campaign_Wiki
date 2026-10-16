@@ -12,6 +12,20 @@ status: dangerous
 
 # Old Ostium Slums
 
+<!-- location-residents:start -->
+
+## NPCs Currently Based Here
+
+| NPC | Role | Faction / affiliation | Recorded current location | Status |
+| --- | --- | --- | --- | --- |
+| [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] | Raider chief and crime lord | [[Factions/The Shattered Axe\|The Shattered Axe]] | [[Locations/Old Ostium Slums\|Old Ostium Slums]] | alive |
+| [[Characters/NPCs/Vesha Noll\|Vesha Noll]] | Shattered Axe intelligence and smuggling chief; warden and scavenger | [[Factions/The Shattered Axe\|The Shattered Axe]] | [[Locations/Old Ostium Slums\|Old Ostium Slums]] | alive |
+
+*From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
+
+<!-- location-residents:end -->
+
+
 <!-- campaign-artwork:start -->
 
 > [!gallery] Visual inspiration

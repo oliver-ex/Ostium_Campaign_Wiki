@@ -15,7 +15,8 @@ community: Old Ostium
 occupation: Commander of the Protectorate
 status: alive
 last_known_location: Old Ostium Town Hall
-factions: []
+factions:
+- "[[Factions/The Protectorate|The Protectorate]]"
 first_appearance: ''
 location: Old Ostium Town Hall
 session-appearances: []
@@ -23,14 +24,41 @@ session-appearances: []
 
 # Indra Karaf
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A gray-skinned goliath woman in armor, holding a large sword across her shoulders.](../../Attachments/Artwork/npcs/indra-karaf.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Goliath |
+> > | Age | 52 |
+> > | Pronouns | she/her |
+> > | Role | Commander of the Protectorate |
+> > | Faction / affiliation | [[Factions/The Protectorate\|The Protectorate]] |
+> > | Current location | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] |
+> > | Status | alive |
+> >
+> > **In play:** Morally complicated protector and faction leader
+> >
+> > **Wants now:** Keep the Protectorate fed, equipped, and strong enough to prevent raiders and beasts from overrunning protected settlements.
+> >
+> > **Portrayal:** Low, economical, military; rarely wastes a sentence.
+> >
+> > **Attitude:** Professional until the party threatens people under her protection or treats the costs of security as imaginary.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A mature goliath woman with mottled gray skin, short graying hair, and worn practical armour.](../../Attachments/Artwork/npcs/indra-karaf-portrait.webp)
+> >
+> > *Visual reference: Indra Karaf — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Goliath Barbarian — [Olga Jaworska](https://olgajaworska.artstation.com/projects/Zaqkdm). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

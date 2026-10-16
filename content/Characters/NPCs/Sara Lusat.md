@@ -8,6 +8,8 @@ tags:
 lore-status: Canon relationships; other details Unknown
 ancestry: Goliath
 species: Goliath
+age: 24
+age-note: "Proposed adult-sibling appearance estimate; the relative ages of the Lusat siblings are not established."
 occupation: ''
 location: ''
 factions: []
@@ -15,15 +17,37 @@ factions: []
 
 # Sara Lusat
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A group of gray-skinned goliaths carrying a heavy stone beam together.](../../Attachments/Artwork/npcs/goliath-builders.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Goliath |
+> > | Age | 24 (estimate) |
+> > | Pronouns | Not recorded |
+> > | Role | Not recorded |
+> > | Faction / affiliation | Not established |
+> > | Current location | Unknown |
+> > | Status | unknown |
+> >
+> > **In play:** Sister of [[Characters/NPCs/Taran Lusat|Taran Lusat]] and daughter of [[Characters/NPCs/Egbert Lusat|Egbert Lusat]]. Her mother is [[Characters/NPCs/Tara Lusat|Tara Lusat]], deceased from the Rot of Old Ostium.
+> >
+> > *Age estimate: Proposed adult-sibling appearance estimate; the relative ages of the Lusat siblings are not established.*
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A young adult goliath woman with mottled gray skin, braided fair hair, and plain civilian clothing.](../../Attachments/Artwork/npcs/sara-lusat-portrait.webp)
+> >
+> > *Visual reference: Sara Lusat — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Shared species reference: Goliaths Working Together — [Hinchel Or](https://www.dndbeyond.com/posts/1783-the-10-species-in-the-2024-players-handbook). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-*Goliath proportions and civilian work; not an individual or family portrait.*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## Overview
@@ -50,7 +74,7 @@ TBD.
 - **Mother:** [[Characters/NPCs/Tara Lusat|Tara Lusat]], deceased.
 - **Brother:** [[Characters/NPCs/Taran Lusat|Taran Lusat]].
 - Egbert also has a second, as-yet-unnamed son. Sara is an additional family member; the existing brother has not been replaced.
-- Her age, current status/location, personality, and other relationships remain TBD.
+- Her exact age, current status/location, personality, and other relationships remain TBD.
 
 ## Current Location
 

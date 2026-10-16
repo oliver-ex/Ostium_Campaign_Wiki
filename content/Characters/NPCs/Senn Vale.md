@@ -12,10 +12,11 @@ age: 39
 ancestry: Dragonborn
 species: Dragonborn
 community: Old Ostium
-occupation: Waterworks maintenance worker
+occupation: "Pump captain; waterworks maintenance worker"
 status: alive
 last_known_location: Old Ostium Pump 4
-factions: []
+factions:
+- "[[Factions/Old Ostium Engineers|Old Ostium Engineers]]"
 first_appearance: ''
 location: Old Ostium Pump 4
 session-appearances: []
@@ -23,14 +24,41 @@ session-appearances: []
 
 # Senn Vale
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![An unmasked dragonborn labourer in a patched shirt and leather apron repairs a water-pump valve with a spanner.](../../Attachments/Artwork/npcs/senn-vale-labourer.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Dragonborn |
+> > | Age | 39 |
+> > | Pronouns | he/him |
+> > | Role | Pump captain; waterworks maintenance worker |
+> > | Faction / affiliation | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+> > | Current location | [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] |
+> > | Status | alive |
+> >
+> > **In play:** Engineer lieutenant and practical backup contact
+> >
+> > **Wants now:** Keep Pump 4 out of crisis while Brock focuses on larger failures.
+> >
+> > **Portrayal:** Understated, technical, uses gallows humour about maintenance.
+> >
+> > **Attitude:** Helpful to anyone who follows safety instructions; hostile to reckless sabotage.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![An unmasked dragonborn labourer in a patched shirt and leather apron repairs a water-pump valve with a spanner.](../../Attachments/Artwork/npcs/senn-vale-labourer.webp)
+> >
+> > *Visual reference: Senn Vale — waterworks labourer. AI-generated for this campaign at the GM’s request; appearance, clothing, and tools are illustrative proposals. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Senn Vale — waterworks labourer. AI-generated for this campaign at the GM’s request; appearance, clothing, and tools are illustrative proposals. [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
-
+<!-- character-profile:end -->
 
 
 ## At a Glance

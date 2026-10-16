@@ -1,0 +1,134 @@
+{
+  "tool": "Built-in image_gen",
+  "created": "2026-10-16",
+  "portraits": [
+    {
+      "title": "Brock Drungur — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual portrait for Brock Drungur in a fantasy campaign wiki. Subject: a seasoned 58-year-old male dwarf senior waterworks engineer, visibly dwarven broad compact proportions, strong broad face, thick beard with a little gray, practical stained work shirt and leather apron, thoughtful dependable expression. No armour, weapons, glowing runes or crown. Composition: one person, chest-up three-quarter portrait, generous margin around head and shoulders, clear face, simple subdued neutral backdrop. Medium: painterly fantasy illustration with visible traditional brushwork, restrained warm earth colours and natural lighting, grounded dignified characterization, clearly an illustration rather than a photo or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothes and incidental details are proposed visual references, not new campaign facts. No third-party reference image.",
+      "asset": "Attachments/Artwork/npcs/brock-drungur-portrait.webp"
+    },
+    {
+      "title": "Dalia Quent — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual portrait for Dalia Quent in a fantasy campaign wiki. Subject: a 34-year-old female elf guildmaster, broker and fixer, clearly pointed ears, visibly adult face, carefully composed warm but appraising expression, restrained fine civilian merchant clothing and subtle jewellery. No crown, woodland costume, armour, weapons or magic. Composition: one person, chest-up three-quarter portrait, generous margin around head and shoulders, clear face, simple subdued neutral backdrop. Medium: painterly fantasy illustration with visible traditional brushwork, restrained warm earth colours and natural lighting, grounded dignified characterization, clearly an illustration rather than a photo or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothes and incidental details are proposed visual references, not new campaign facts. No third-party reference image.",
+      "asset": "Attachments/Artwork/npcs/dalia-quent-portrait.webp"
+    },
+    {
+      "title": "Egbert Lusat — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual character portrait for a fantasy campaign wiki, Egbert Lusat. Subject: a 58-year-old male goliath merchant and grieving father, bald broad head, stone-gray skin with subtle natural mottling, massive neck and shoulders, sober fine civilian wool clothing, weary protective expression. No armour or weapons. Composition: single person, chest-up three-quarter portrait, clear face, generous margin around head and shoulders, simple subdued neutral backdrop. Medium: painterly illustrated fantasy portrait, visible traditional brushwork, natural lighting, restrained warm earth colours, dignified grounded characterization, clearly an illustration rather than a photograph or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothing and incidental details are proposed visual references, not new campaign facts. Use no existing artist or third-party character image as a reference.",
+      "asset": "Attachments/Artwork/npcs/egbert-lusat-portrait.webp"
+    },
+    {
+      "title": "Elro Aditower — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual portrait for Elro Aditower in a fantasy campaign wiki. Subject: an adult male elf mayor of a northern fishing village, proposed age112 but a mature adult elven face rather than a frail old human, clearly pointed ears, practical respectable civilian wool clothing, weather-aware working coastal leader with attentive evaluating eyes. No armour, weapons, crown or magical effects. Composition: one person, chest-up three-quarter portrait, generous margin around head and shoulders, clear face, simple subdued neutral backdrop. Medium: painterly fantasy illustration with visible traditional brushwork, restrained warm earth colours and natural lighting, grounded dignified characterization, clearly an illustration rather than a photo or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothes and incidental details are proposed visual references, not new campaign facts. No third-party reference image.",
+      "asset": "Attachments/Artwork/npcs/elro-aditower-portrait.webp"
+    },
+    {
+      "title": "Indra Karaf — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual character portrait for a fantasy campaign wiki, Indra Karaf. Subject: a 52-year-old female goliath commander, stone-gray skin with natural mottling, broad powerful face, visibly mature with smile lines and weathered features, short graying hair, practical worn armour without heraldry, steady evaluating expression. Not youthful, not pin-up, no glowing effects. Composition: single person, chest-up three-quarter portrait, clear face, generous margin around head and shoulders, simple subdued neutral backdrop. Medium: painterly illustrated fantasy portrait, visible traditional brushwork, natural lighting, restrained warm earth colours, dignified grounded characterization, clearly an illustration rather than a photograph or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothing and incidental details are proposed visual references, not new campaign facts. Use no existing artist or third-party character image as a reference.",
+      "asset": "Attachments/Artwork/npcs/indra-karaf-portrait.webp"
+    },
+    {
+      "title": "Korok Grund — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual portrait for Korok Grund in a fantasy campaign wiki. Subject: a mature adult male orc field leader, proposed age43, visible tusks and broad clearly orcish facial structure, practical worn road clothing with restrained patched protection, wary assertive expression. No skull trophies, lavish armour, weapons or magical effects. Composition: one person, chest-up three-quarter portrait, generous margin around head and shoulders, clear face, simple subdued neutral backdrop. Medium: painterly fantasy illustration with visible traditional brushwork, restrained warm earth colours and natural lighting, grounded dignified characterization, clearly an illustration rather than a photo or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothes and incidental details are proposed visual references, not new campaign facts. No third-party reference image.",
+      "asset": "Attachments/Artwork/npcs/korok-grund-portrait.webp"
+    },
+    {
+      "title": "Mara Voss — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual character portrait for a fantasy campaign wiki, Mara Voss. Subject: a 31-year-old female halfling civilian relief organizer, recognizably smallfolk proportions, round adult face, subtly pointed ears, practical patched wool clothes, perceptive determined eyes. No armour, weapons or magic. Composition: single person, chest-up three-quarter portrait, clear face, generous margin around head and shoulders, simple subdued neutral backdrop. Medium: painterly illustrated fantasy portrait, visible traditional brushwork, natural lighting, restrained warm earth colours, dignified grounded characterization, clearly an illustration rather than a photograph or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothing and incidental details are proposed visual references, not new campaign facts. Use no existing artist or third-party character image as a reference.",
+      "asset": "Attachments/Artwork/npcs/mara-voss-portrait.webp"
+    },
+    {
+      "title": "Orla Meren — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual character portrait for a fantasy campaign wiki, Orla Meren. Subject: a 29-year-old female gnome public servant and clerk, visibly gnomish pointed ears and slightly prominent nose, lively adult face, plain civilian blouse and waistcoat, thoughtful attentive expression. No forest costume, armour, weapons or magic. Composition: single person, chest-up three-quarter portrait, clear face, generous margin around head and shoulders, simple subdued neutral backdrop. Medium: painterly illustrated fantasy portrait, visible traditional brushwork, natural lighting, restrained warm earth colours, dignified grounded characterization, clearly an illustration rather than a photograph or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothing and incidental details are proposed visual references, not new campaign facts. Use no existing artist or third-party character image as a reference.",
+      "asset": "Attachments/Artwork/npcs/orla-meren-portrait.webp"
+    },
+    {
+      "title": "Sara Lusat — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual character portrait for a fantasy campaign wiki, Sara Lusat. Subject: a young adult female goliath, proposed age about 24, stone-gray skin with natural mottling, tall sturdy proportions visible in broad shoulders and neck, simple civilian clothing, composed neutral expression. Her profession is unspecified: no occupation props, armour, weapons, or magical effects. Composition: single person, chest-up three-quarter portrait, clear face, generous margin around head and shoulders, simple subdued neutral backdrop. Medium: painterly illustrated fantasy portrait, visible traditional brushwork, natural lighting, restrained warm earth colours, dignified grounded characterization, clearly an illustration rather than a photograph or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothing and incidental details are proposed visual references, not new campaign facts. Use no existing artist or third-party character image as a reference.",
+      "asset": "Attachments/Artwork/npcs/sara-lusat-portrait.webp"
+    },
+    {
+      "title": "Shanda Karth — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual portrait for Shanda Karth in a fantasy campaign wiki. Subject: an adult female elf apothecary, proposed age 93 with mature elven features, clearly pointed ears, practical civilian dress and work apron, observant professional expression. Plain indoor neutral backdrop; no glowing medicine, magical effects, forest costume, wings, armour, weapons or crown. Composition: one person, chest-up three-quarter portrait, generous margin around head and shoulders, clear face, simple subdued neutral backdrop. Medium: painterly fantasy illustration with visible traditional brushwork, restrained warm earth colours and natural lighting, grounded dignified characterization, clearly an illustration rather than a photo or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothes and incidental details are proposed visual references, not new campaign facts. No third-party reference image.",
+      "asset": "Attachments/Artwork/npcs/shanda-karth-portrait.webp"
+    },
+    {
+      "title": "Tara Lusat — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual character portrait for a fantasy campaign wiki, Tara Lusat. Subject: a mature female goliath mother, proposed appearance in her mid-fifties, stone-gray skin with natural mottling, strong broad features, plain dignified civilian clothing, thoughtful expression. A remembrance portrait of her during life. No illness symptoms, ghost effects, armour or weapons. Composition: single person, chest-up three-quarter portrait, clear face, generous margin around head and shoulders, simple subdued neutral backdrop. Medium: painterly illustrated fantasy portrait, visible traditional brushwork, natural lighting, restrained warm earth colours, dignified grounded characterization, clearly an illustration rather than a photograph or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothing and incidental details are proposed visual references, not new campaign facts. Use no existing artist or third-party character image as a reference.",
+      "asset": "Attachments/Artwork/npcs/tara-lusat-portrait.webp"
+    },
+    {
+      "title": "Taran Lusat — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual character portrait for a fantasy campaign wiki, Taran Lusat. Subject: a 27-year-old male goliath civil engineer and relief worker, stone-gray skin with natural mottling, broad strong face, young adult features, plain work shirt, practical waistcoat, tired but committed expression. No armour, weapons, or disease symptoms. Composition: single person, chest-up three-quarter portrait, clear face, generous margin around head and shoulders, simple subdued neutral backdrop. Medium: painterly illustrated fantasy portrait, visible traditional brushwork, natural lighting, restrained warm earth colours, dignified grounded characterization, clearly an illustration rather than a photograph or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothing and incidental details are proposed visual references, not new campaign facts. Use no existing artist or third-party character image as a reference.",
+      "asset": "Attachments/Artwork/npcs/taran-lusat-portrait.webp"
+    },
+    {
+      "title": "Trine Baradur — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual character portrait for a fantasy campaign wiki, Trine Baradur. Subject: a 45-year-old female tiefling merchant and acquisitions broker, mature face with visible age lines, natural curved horns, restrained fine civilian clothes, observant appraising expression. No magic, staff, weapons, crown or infernal scenery. Composition: single person, chest-up three-quarter portrait, clear face, generous margin around head and shoulders, simple subdued neutral backdrop. Medium: painterly illustrated fantasy portrait, visible traditional brushwork, natural lighting, restrained warm earth colours, dignified grounded characterization, clearly an illustration rather than a photograph or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothing and incidental details are proposed visual references, not new campaign facts. Use no existing artist or third-party character image as a reference.",
+      "asset": "Attachments/Artwork/npcs/trine-baradur-portrait.webp"
+    },
+    {
+      "title": "Ulroc Grimscar — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual portrait for Ulroc Grimscar in a fantasy campaign wiki. Subject: a 47-year-old male orc raider chief and crime lord, clearly orcish broad face and visible tusks, weathered mature features, substantial practical dark civilian and road clothing, calculating intimidating expression. No skull trophies, lavish armour, weapons, throne, crown or magical effects. Composition: one person, chest-up three-quarter portrait, generous margin around head and shoulders, clear face, simple subdued neutral backdrop. Medium: painterly fantasy illustration with visible traditional brushwork, restrained warm earth colours and natural lighting, grounded dignified characterization, clearly an illustration rather than a photo or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothes and incidental details are proposed visual references, not new campaign facts. No third-party reference image.",
+      "asset": "Attachments/Artwork/npcs/ulroc-grimscar-portrait.webp"
+    },
+    {
+      "title": "Veritas — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual portrait for Veritas in a fantasy campaign wiki. Subject: a mature male elf wizard and scholar, proposed age-at-death 138, clearly pointed ears, thoughtful adult face, a little silver at the temples, plain scholarly robes without religious symbols. A remembrance portrait from his life, no disease symptoms or ghost effects. No armour, weapons, staff or spell effects. Composition: one person, chest-up three-quarter portrait, generous margin around head and shoulders, clear face, simple subdued neutral backdrop. Medium: painterly fantasy illustration with visible traditional brushwork, restrained warm earth colours and natural lighting, grounded dignified characterization, clearly an illustration rather than a photo or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothes and incidental details are proposed visual references, not new campaign facts. No third-party reference image.",
+      "asset": "Attachments/Artwork/npcs/veritas-portrait.webp"
+    },
+    {
+      "title": "Vesha Noll — campaign portrait",
+      "created": "2026-10-16",
+      "tool": "Built-in image_gen",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: individual portrait for Vesha Noll in a fantasy campaign wiki. Subject: a 36-year-old female elf warden, scavenger and intelligence/smuggling chief, visibly pointed ears, adult alert face, plain practical dark civilian layers suited to an inhabited ruined city, guarded analytical expression. No woodland costume, armour, bow, weapons, crown or magic. Composition: one person, chest-up three-quarter portrait, generous margin around head and shoulders, clear face, simple subdued neutral backdrop. Medium: painterly fantasy illustration with visible traditional brushwork, restrained warm earth colours and natural lighting, grounded dignified characterization, clearly an illustration rather than a photo or 3D game render. No lettering, signature, watermark, frame or interface. Appearance, clothes and incidental details are proposed visual references, not new campaign facts. No third-party reference image.",
+      "asset": "Attachments/Artwork/npcs/vesha-noll-portrait.webp"
+    }
+  ]
+}

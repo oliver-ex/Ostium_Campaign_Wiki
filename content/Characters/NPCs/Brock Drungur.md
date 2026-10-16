@@ -15,7 +15,8 @@ community: Old Ostium
 occupation: Senior waterworks engineer
 status: alive
 last_known_location: Old Ostium Waterworks
-factions: []
+factions:
+- "[[Factions/Old Ostium Engineers|Old Ostium Engineers]]"
 first_appearance: ''
 location: Old Ostium Waterworks
 session-appearances: []
@@ -23,13 +24,41 @@ session-appearances: []
 
 # Brock Drungur
 
-<!-- campaign-artwork:start -->
+<!-- character-profile:start -->
 
-![A white-bearded dwarf engineer wearing goggles and carrying heavy equipment.](../../Attachments/Artwork/npcs/brock-drungur.webp)
+> [!character] Character quick reference
+>
+> > [!profile] Key information
+> >
+> > | Detail | Record |
+> > | --- | --- |
+> > | Species | Dwarf |
+> > | Age | 58 |
+> > | Pronouns | he/him |
+> > | Role | Senior waterworks engineer |
+> > | Faction / affiliation | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+> > | Current location | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
+> > | Status | alive |
+> >
+> > **In play:** Technical oracle for the waterworks and the person who reveals Pump 7's third option
+> >
+> > **Wants now:** Keep everything running one more day and get enough help to prevent a cascading failure.
+> >
+> > **Portrayal:** Gruff muttering; explains systems with hands, tools, and insults directed at broken machinery.
+> >
+> > **Attitude:** Irritated by amateurs, instantly attentive to anyone who actually listens to technical constraints.
+>
+> > [!portrait] Portrait
+> >
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A broad-faced dwarf with a thick graying beard, stained work shirt, and leather apron.](../../Attachments/Artwork/npcs/brock-drungur-portrait.webp)
+> >
+> > *Visual reference: Brock Drungur — campaign portrait — OpenAI image generation; directed for the Ostium campaign. AI-generated campaign illustration; [source](https://openai.com/policies/terms-of-use/). Appearance, clothing, props, and effects are illustrative, not new canon. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> >
+> > <!-- campaign-artwork:end -->
 
-*Visual reference: Dwarf Engineer Sketch — [Anthony Francisco (Ubermonster)](https://www.deviantart.com/ubermonster/art/Dwarf-Engineer-Sketch-397171571). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- character-profile:end -->
 
 
 ## At a Glance
