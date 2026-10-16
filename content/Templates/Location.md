@@ -15,6 +15,8 @@ description: ''
 
 Write a short description in `description` above: who or what this is, and why it matters in play. The build places it directly below the title; keep unknowns and planned events explicit.
 
+Include suitable art when creating the location: seek an existing scene, concept illustration, or map with documented reuse terms first; otherwise generate it. Save it under `Attachments/Artwork/`, embed it with attribution in a `campaign-artwork` block, and update the artwork manifest and credits. Retain exact prompts and tool provenance for generated art. Visual details do not establish new canon.
+
 ## Overview & Description
 
 TBD.

@@ -24,13 +24,13 @@ All paths above are relative to `content/`. Obsidian Bases continue to work; Mar
 
 ## Artwork and Quick References
 
-The original 22 canonical NPCs have publishable portraits; the newly added Aaron Fortisax and Mira Vey await artwork review. The active register contains 49 artworks and 67 placements across the 44 NPC/location/faction pages; 17 portraits are AI-generated campaign references with saved prompts and tool provenance. The former local-only portraits have been superseded. Calev and Carl have age-appropriate classical replacements. Location mood boards retain existing classical and fantasy art with artist credits and recorded terms.
+All 24 canonical NPCs have publishable portraits, including Aaron Fortisax (existing CC BY 4.0 concept art) and Mira Vey (generated campaign portrait). The active register contains 51 artworks and 69 placements across the 46 NPC/location/faction pages; 18 portraits are AI-generated campaign references with saved prompts and tool provenance. The former local-only portraits have been superseded. Calev and Carl have age-appropriate classical replacements. Location mood boards retain existing classical and fantasy art with artist credits and recorded terms.
 
 All 32 character pages have a generated quick reference: key information on the left and portrait or player-approved-portrait placeholder on the right in Quartz, stacking on mobile. Headers use the original metadata and portrayal notes. New NPC age estimates are labelled; PC metadata and player-owned choices remain unchanged.
 
 All 16 location pages have generated NPC tables drawn from current-location records, including contained districts/work sites at city level. Deceased NPCs, unknown locations, and planned visitors are excluded. A work site is not a confirmed home. Table-specific movements must be recorded before updating shared current locations.
 
-`npm run directories` regenerates character headers, location resident tables, and category indexes. Edit source metadata, portraits, and prose rather than generated blocks. Artwork credits, hashes, dimensions, and provenance remain in `Attachments/Artwork/`; source images with no recorded reuse terms remain excluded in `publication-artwork.json`. The artwork audit now requires a publishable portrait for every registered NPC.
+`npm run directories` regenerates character headers, location resident tables, and category indexes. Edit source metadata, portraits, and prose rather than generated blocks. Artwork credits, hashes, dimensions, and provenance remain in `Attachments/Artwork/`; source images with no recorded reuse terms remain excluded in `publication-artwork.json`. Every new NPC and location must include publishable artwork in the same change: seek suitable existing art with recorded reuse terms first, otherwise generate it and save exact prompts and tool provenance. The artwork audit rejects unregistered NPCs/locations and registered pages without publishable art. PC portraits still require player approval.
 
 ## Page Design and Connections
 

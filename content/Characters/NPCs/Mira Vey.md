@@ -47,7 +47,13 @@ Aaron Fortisax’s practical, exacting lieutenant, who coordinates New Ostium’
 >
 > > [!portrait] Portrait
 > >
-> > *No player-approved portrait recorded.*
+> > <!-- campaign-artwork:start -->
+> >
+> > ![A weathered human woman with close-cropped dark hair in a meticulous blue-grey guard uniform, holding a small notebook.](../../Attachments/Artwork/npcs/mira-vey-portrait.webp)
+> >
+> > *Campaign portrait generated with the built-in imagegen tool; visual interpretation only. [[Attachments/Artwork Credits|Credits and interpretation]] · [Exact prompt and provenance](../../Attachments/Artwork/sources/mira-vey-portrait-generation.json).*
+> >
+> > <!-- campaign-artwork:end -->
 
 <!-- character-profile:end -->
 

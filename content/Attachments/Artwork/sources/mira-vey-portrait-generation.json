@@ -1,0 +1,13 @@
+{
+  "title": "Mira Vey — campaign portrait",
+  "created": "2026-10-16",
+  "tool": "Built-in image_gen",
+  "reference_images": [],
+  "prompt": "Use case: stylized-concept. Asset: individual portrait for Mira Vey in a fantasy campaign wiki. Subject: a 38-year-old human woman, a practical city guard lieutenant and investigator, close-cropped dark hair, weathered face with believable adult features, disciplined observant expression. Meticulous, well-maintained medieval civic guard uniform in dark blue-grey cloth with restrained polished steel protection, no modern police insignia. Small plain notebook held naturally at chest level, no visible writing. Grounded competent officer rather than glamorous model. Composition: one person, chest-up three-quarter portrait, generous margin around head and shoulders, face unobscured, simple subdued stone-grey backdrop. Medium: painterly fantasy illustration with visible traditional brushwork, restrained warm earth colours and natural lighting, dignified characterization, clearly an illustration rather than a photo or 3D game render. No lettering, signature, watermark, frame, weapons, magical effects or interface. Appearance and clothing are visual interpretation only; do not add lore or mechanics. No third-party reference image.",
+  "asset": "Attachments/Artwork/npcs/mira-vey-portrait.webp",
+  "sourcing_note": "Searched for openly reusable female guard portraits with short dark hair; no suitable match to Mira's authored age, appearance, and uniform was found.",
+  "search_queries": [
+    "female guard short dark hair portrait \"CC0\" fantasy"
+  ],
+  "interpretation": "Visual interpretation of the authored description. Uniform details and notebook do not establish equipment statistics or new lore."
+}

@@ -147,3 +147,63 @@ p:has(> .campaign-artwork-link) + p em { color: var(--darkgray); }
     > .callout-content { grid-template-columns: minmax(0, 1fr); }
   }
 }
+
+// Encounter references: map and roster first, with folded enemy cards below.
+.callout[data-callout="battlefield"],
+.callout[data-callout="statcards"] {
+  --color: var(--secondary);
+  padding: 0;
+  border: 0;
+  background: transparent;
+
+  > .callout-title { padding: 0.25rem 0; }
+  > .callout-title > .callout-icon { display: none; }
+  > .callout-content {
+    display: grid;
+    gap: 0.75rem;
+    align-items: start;
+    overflow: visible;
+    margin-top: 0.5rem;
+
+    > .callout {
+      min-width: 0;
+      margin: 0;
+      padding: 0.65rem;
+      > .callout-title { padding: 0; font-size: 0.85rem; }
+      > .callout-title > .callout-icon { display: none; }
+      > .callout-content { display: block; overflow: visible; }
+      &.is-collapsed > .callout-content { display: none; }
+      p { margin: 0.5rem 0; font-size: 0.85rem; line-height: 1.45; }
+      p:last-child { margin-bottom: 0; }
+    }
+  }
+}
+
+.callout[data-callout="battlefield"] > .callout-content {
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+  > .callout {
+    border: 0;
+    padding: 0;
+    background: transparent;
+    > .callout-title { display: none; }
+    img { display: block; width: 100%; margin: 0; border-radius: 0.4rem; }
+    .table-container { margin: 0.5rem 0; }
+    table { margin: 0; font-size: 0.85rem; }
+    th, td { padding: 0.4rem; }
+  }
+  @media (max-width: 600px) { grid-template-columns: minmax(0, 1fr); }
+}
+
+.callout[data-callout="statcards"] {
+  > .callout-title { display: none; }
+  > .callout-content {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    > .callout {
+      --color: var(--secondary);
+      > .callout-title { align-items: start; gap: 0.35rem; }
+      .callout-title-inner { min-width: 0; }
+      .fold-callout-icon { flex-shrink: 0; }
+    }
+    @media (max-width: 600px) { grid-template-columns: minmax(0, 1fr); }
+  }
+}

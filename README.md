@@ -10,6 +10,8 @@ Open `content/` in Obsidian. All campaign content is edited there. The homepage 
 
 Copy the appropriate file from `content/Templates/` into its category: NPCs in `Characters/NPCs`, locations in `Locations`, factions in `Factions`, and sessions in `Session Logs`. Give it a descriptive title and correct `type`. Keep unknown details TBD. Do not maintain separate player/GM copies.
 
+Every new NPC or location needs artwork in the same change. Find suitable existing art with documented reuse terms first; otherwise generate it. Embed the image and attribution, update the artwork manifest and credits, and retain source/license details or exact generation prompts. The artwork audit rejects NPCs and locations without publishable art; PC portraits require player approval.
+
 Link established entities using `[[Locations/Old Ostium]]` or `[[Locations/Old Ostium|the old city]]`. Use explicit paths for ambiguous filenames. Images and handouts belong in `Attachments/`; embed an image with `![[Attachments/example.png]]` after adding that actual file.
 
 Use Canon, Proposed/Tentative, Rumor, Unknown, Planned, and Retired labels. Mixed notes should label individual claims. Update PC knowledge and introduced clues after play; preparation is not history. Preserve player-owned choices.
@@ -48,7 +50,7 @@ Quartz's reused framework code retains its MIT license in `LICENSE.txt`. Framewo
 - `quartz.config.ts` and `quartz.layout.ts`: native Quartz configuration and navigation.
 - `scripts/`: directory generation, vault/artwork audits, and generated-site checks.
 - `.github/workflows/deploy.yml`: one Actions publisher for `main`; pull requests validate without deploying.
-- `publication-artwork.json`: superseded copyrighted originals remain excluded from Git and the public build. All 22 current NPC portraits are publishable; the active register has 49 artworks in 67 placements. Exact generation prompts and existing-artwork source terms are retained under `content/Attachments/Artwork/`.
+- `publication-artwork.json`: superseded copyrighted originals remain excluded from Git and the public build. All 24 current NPC portraits are publishable; the active register has 51 artworks in 69 placements. Exact generation prompts and existing-artwork source terms are retained under `content/Attachments/Artwork/`.
 
 Editor state, credentials, local backups, dependencies, and generated `public/` output are ignored. Every campaign Markdown page, including templates and secrets, is included. Quartz 4 displays the automatically generated directory tables in place of interactive `.base` embeds; the original Bases remain usable in Obsidian.
 

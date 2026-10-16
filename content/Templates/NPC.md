@@ -19,7 +19,7 @@ description: ''
 
 Write a short description in `description` above: who or what this is, and why it matters in play. The build places it directly below the title; keep unknowns and planned events explicit.
 
-The build generates a character quick reference from these properties, with the portrait on the right in Quartz. Add the portrait and attribution in a `campaign-artwork` block, register it in `Attachments/Artwork/artwork-manifest.json`, and record reuse terms before publication. Keep age estimates labelled.
+The build generates a character quick reference from these properties, with the portrait on the right in Quartz. Include a portrait when creating the NPC: seek suitable existing art with documented reuse terms first; otherwise generate it. Add the portrait and attribution in a `campaign-artwork` block, register it in `Attachments/Artwork/artwork-manifest.json`, and update credits. Save exact prompts and tool provenance for generated art. Artwork does not add canon; keep age estimates labelled.
 
 ## Overview
 

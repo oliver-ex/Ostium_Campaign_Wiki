@@ -26,6 +26,10 @@ Keep the current taxonomy and human-readable filenames. One canonical file per e
 
 Directory pages have generated tables maintained by `npm run directories`; edit entity metadata/prose, not the generated tables. Obsidian Bases remain live category views. Do not add elaborate mandatory schemas.
 
+## Artwork
+
+Every new NPC and location must include artwork in the same change: a portrait for an NPC and a suitable scene, concept illustration, or map for a location. First look for existing art that fits the established description and has documented reuse terms. If no suitable reusable art is available, generate it with the imagegen skill. Save assets under `content/Attachments/Artwork/`, embed them in the page, and update the artwork manifest and credits. Record the creator, source, license and changes for existing art; retain exact prompts and tool provenance for generated art. Artwork is a visual reference and does not establish new canon, equipment, or mechanics. Missing or withheld artwork cannot satisfy this requirement; PC portraits remain subject to player approval.
+
 ## Publication and safety
 
 GitHub Pages must be treated as publicly accessible unless access restrictions are independently verified. Robots directives and an obscure URL are not security. Campaign spoilers are authorized; credentials, API keys, private contact details, unrelated personal documents, local editor state, and local backups are not.

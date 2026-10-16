@@ -1,6 +1,6 @@
 {
   "reviewed": "2026-10-16",
-  "policy": "Every active NPC reference is publishable: recorded reuse terms for existing art, or campaign-generated provenance. Retired third-party originals remain excluded. Character quick references use canon metadata and labelled age estimates; artwork does not add canon. Location mood boards retain existing classical and fantasy art.",
+  "policy": "Every NPC and location must include publishable artwork: seek suitable existing art with documented reuse terms first; otherwise generate a campaign illustration and retain exact prompts and tool provenance. Retired third-party originals remain excluded. Artwork does not add canon; PC portraits require player approval.",
   "assets": [
     {
       "id": "old-ostium-campo-vacino",
@@ -1095,6 +1095,50 @@
       "height": 1094,
       "bytes": 114392,
       "sha256": "4c7bf4e8bd7e057884ee3f244e5a7d408f938122dd90800b941f38d170ef6404"
+    },
+    {
+      "id": "aaron-fortisax-portrait",
+      "file": "Attachments/Artwork/npcs/aaron-fortisax.webp",
+      "title": "Dragon like character design",
+      "artist": "hcjrArt",
+      "alt": "A horned golden-scaled dragon humanoid wearing green armor against a plain grey background.",
+      "width": 1000,
+      "height": 1287,
+      "bytes": 57946,
+      "sha256": "fa0fcc4e17e7fb64a1cef726375131214434ef72a9c00b99a08c8b04d0cc60cf",
+      "kind": "npcs",
+      "changes": "Resized down and converted to WebP; full composition retained.",
+      "pages": [
+        "Characters/NPCs/Aaron Fortisax"
+      ],
+      "source": "https://opengameart.org/content/dragon-like-character-design",
+      "download": "https://opengameart.org/sites/default/files/art_04cropped.png",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "medium": "Digital character concept illustration",
+      "rights_note": "Creator hcjrArt lists CC BY 4.0 on the original OpenGameArt publication; verified 2026-10-16.",
+      "interpretation": "Proposed visual reference for Aaron only. Scale color, horns, armor, and incidental details do not establish canon, draconic ancestry, equipment, or mechanics."
+    },
+    {
+      "id": "mira-vey-portrait",
+      "file": "Attachments/Artwork/npcs/mira-vey-portrait.webp",
+      "title": "Mira Vey — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A weathered human woman with close-cropped dark hair in a meticulous blue-grey guard uniform, holding a small notebook.",
+      "kind": "npcs",
+      "pages": [
+        "Characters/NPCs/Mira Vey"
+      ],
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Visual interpretation of Mira’s authored age, hair, demeanor, and uniform. Incidental details do not establish new lore or mechanics.",
+      "width": 1000,
+      "height": 1200,
+      "bytes": 156582,
+      "sha256": "4a1d95e321b7fee38c0ce6c0d8b8605a3a78e20b60422f7eb8888357c32e29f3"
     }
   ],
   "pages": [
@@ -1471,6 +1515,22 @@
       "status": "illustrated",
       "images": [
         "shattered-axe-ambush"
+      ]
+    },
+    {
+      "page": "Characters/NPCs/Aaron Fortisax",
+      "type": "npc",
+      "status": "illustrated",
+      "images": [
+        "aaron-fortisax-portrait"
+      ]
+    },
+    {
+      "page": "Characters/NPCs/Mira Vey",
+      "type": "npc",
+      "status": "illustrated",
+      "images": [
+        "mira-vey-portrait"
       ]
     }
   ]

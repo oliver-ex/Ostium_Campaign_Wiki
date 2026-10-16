@@ -7,7 +7,7 @@ tags:
 
 # Artwork Sourcing Backlog
 
-All **22 canonical NPC pages now have publishable portraits**. The former local-only references have been replaced. Calev has a new working-age classical portrait, Carl’s portrait uses a labelled working-age estimate, and the Lusat family now have individual references. [[Attachments/Artwork Credits|Credits, source information, and generation provenance]] document each active image.
+All **24 canonical NPC pages now have publishable portraits**. Aaron uses credited, openly licensed concept art; Mira has a generated portrait with saved prompt and provenance. The former local-only references have been replaced. Calev has a new working-age classical portrait, Carl’s portrait uses a labelled working-age estimate, and the Lusat family now have individual references. [[Attachments/Artwork Credits|Credits, source information, and generation provenance]] document each active image.
 
 ## Remaining Character Choices
 

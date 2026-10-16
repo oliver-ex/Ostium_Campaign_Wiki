@@ -74,12 +74,6 @@ Mistbreak’s mayor, a potential civic contact during the antidote search; his k
 | Locations | [[Locations/Mistbreak\|Mistbreak]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
 
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
-
 <!-- page-connections:end -->
 
 ## At a Glance

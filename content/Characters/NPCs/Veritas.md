@@ -74,12 +74,6 @@ An elven wizard who died of Frigid Woe in Mistbreak several months ago; Steven�
 | Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[World Lore/Auren Culture\|Auren Culture]] |
 
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
-
 > [!example]- Session references
 > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
 >

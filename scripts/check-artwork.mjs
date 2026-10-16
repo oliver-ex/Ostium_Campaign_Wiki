@@ -25,10 +25,10 @@ for (const asset of assets.values()) {
 for (const entry of manifest.pages) {
   const page = pages.find(p => p.id === entry.page)
   if (!page) { errors.push(`Artwork register references missing page: ${entry.page}`); continue }
-  if (entry.type === 'npc' && !entry.images.some(id => {
+  if (['npc', 'location'].includes(page.data.type) && !entry.images.some(id => {
     const asset = assets.get(id)
     return asset && !withheld.has(asset.file)
-  })) errors.push(`NPC has no publishable portrait: ${entry.page}`)
+  })) errors.push(`${page.data.type === 'npc' ? 'NPC has no publishable portrait' : 'Location has no publishable artwork'}: ${entry.page}`)
   if (!['illustrated', 'backlog'].includes(entry.status) || (entry.status === 'illustrated') !== (entry.images.length > 0)) errors.push(`Invalid artwork status: ${entry.page}`)
   for (const id of entry.images) {
     const asset = assets.get(id)
@@ -38,7 +38,10 @@ for (const entry of manifest.pages) {
   }
 }
 const subjects = pages.filter(p => ['npc', 'location', 'faction'].includes(p.data.type) && !p.id.startsWith('Templates/'))
-for (const p of subjects) if (!manifest.pages.some(e => e.page === p.id)) console.warn(`Artwork review pending for new subject: ${p.id}`)
+for (const p of subjects) if (!manifest.pages.some(e => e.page === p.id)) {
+  if (['npc', 'location'].includes(p.data.type)) errors.push(`Required artwork missing from register: ${p.id}`)
+  else console.warn(`Artwork review pending for new subject: ${p.id}`)
+}
 for (const error of errors) console.error(error)
 if (errors.length) process.exit(1)
 console.log(`Artwork audit passed: ${assets.size} images, ${manifest.pages.length} reviewed subjects, ${manifest.pages.filter(p => p.status === 'backlog').length} documented gaps.`)
