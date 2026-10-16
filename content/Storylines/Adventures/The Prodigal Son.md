@@ -24,10 +24,12 @@ A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Mara Voss\|Mara Voss]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] |
+| Referenced locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] |
 | Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 | Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
 

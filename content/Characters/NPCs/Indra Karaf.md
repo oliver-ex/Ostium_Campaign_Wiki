@@ -72,10 +72,12 @@ The Protectorate’s commander, defending Old Ostium settlements with a force wh
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Calev Marr\|Calev Marr]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] |
-| Locations | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] |
+| Referenced locations | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] |
 | Factions | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
 
 ### Adventures & Encounters

@@ -61,10 +61,12 @@ Aaron Fortisax’s practical, exacting lieutenant, who coordinates New Ostium’
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] |
-| Locations | [[Locations/New Ostium\|New Ostium]] |
+| Referenced locations | [[Locations/New Ostium\|New Ostium]] |
 | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] |
 
 <!-- page-connections:end -->

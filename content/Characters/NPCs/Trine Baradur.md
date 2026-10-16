@@ -72,10 +72,12 @@ A Guild acquisition factor seeking unusual goods and artifacts from Old Ostium, 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] |
-| Locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
+| Referenced locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
 | Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
 
 ### Adventures & Encounters

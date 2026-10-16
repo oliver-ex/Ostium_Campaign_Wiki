@@ -69,10 +69,12 @@ A merchant and caravan driver carrying food, medicine, gold, and the party towar
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Korok Grund\|Korok Grund]] |
-| Locations | [[Locations/Ostium\|Ostium]] |
+| Referenced locations | [[Locations/Ostium\|Ostium]] |
 | Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
 
 ### Adventures & Encounters

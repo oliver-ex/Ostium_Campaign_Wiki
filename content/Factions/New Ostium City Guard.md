@@ -50,6 +50,8 @@ Operations beyond New Ostium, exact staffing, and a headquarters are **Unknown /
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |

@@ -72,10 +72,12 @@ An engineer sustaining the Hospital District’s water supply while suffering ea
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] |
-| Locations | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] · [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
+| Referenced locations | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] · [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
 | Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] |
 | Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
 

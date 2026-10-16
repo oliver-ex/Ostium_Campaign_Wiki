@@ -31,6 +31,8 @@ The wounded divine being at the centre of Ostium’s deepest works; its bleeding
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Within | [[Locations/Titan Works\|Titan Works]] |

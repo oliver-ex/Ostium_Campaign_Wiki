@@ -28,10 +28,12 @@ An ancient Auren weapon affliction resistant to divine healing, driving a search
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Veritas\|Veritas]] · [[Characters/Player Characters/Kalim Escara\|Kalim Escara]] |
-| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
 | Campaign & lore | [[World Lore/Auren Culture\|Auren Culture]] |
 
 ### Adventures & Encounters
@@ -79,7 +81,7 @@ An ancient Auren weapon affliction resistant to divine healing, driving a search
 | Source | Established availability | Unresolved |
 |---|---|---|
 | Far north | Antidote recently discovered or recovered | Discoverer, process, exact site |
-| [[Locations/Mistbreak\|Mistbreak]] | Supply recently stockpiled | Quantity, custodian, price, access |
+| [[Locations/Mistbreak\|Mistbreak]] | Supply recently stockpiled in an independent town far north of Ostium | Quantity, custodian, price, access |
 | [[Characters/NPCs/Shanda Karth\|Shanda Karth]], New Ostium | Two vials owned by [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]], reserved for his two sons; Shanda cannot independently sell them | Dose requirements, negotiated sale/reward/advance terms |
 | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]], Old Ostium | Knows disease; has no antidote | Supportive care under prior table rulings |
 

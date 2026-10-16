@@ -72,10 +72,12 @@ The engineer running Pump 4 and a trusted backup to Brock, struggling to keep a 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] |
-| Locations | [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] |
+| Referenced locations | [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] |
 | Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
 
 <!-- page-connections:end -->

@@ -61,10 +61,12 @@ The Dragonborn Paladin commanding New Ostium’s formidable, well-funded City Gu
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Mira Vey\|Mira Vey]] |
-| Locations | [[Locations/New Ostium\|New Ostium]] |
+| Referenced locations | [[Locations/New Ostium\|New Ostium]] |
 | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] |
 
 ### Adventures & Encounters

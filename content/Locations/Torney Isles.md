@@ -17,14 +17,14 @@ factions: []
 notable-npcs: []
 status: unrevealed
 lore-status: Established history; suggestions marked Tentative
-description: "Northern islands once inhabited by the Auren, whose history with Frigid Woe makes them a destination in the antidote search."
+description: "Islands near Mistbreak on the northern coast, far from Ostium, once inhabited by the Auren and important to the Frigid Woe antidote search."
 ---
 
 # Torney Isles
 
 <!-- page-summary:start -->
 
-Northern islands once inhabited by the Auren, whose history with Frigid Woe makes them a destination in the antidote search.
+Islands near Mistbreak on the northern coast, far from Ostium, once inhabited by the Auren and important to the Frigid Woe antidote search.
 
 <!-- page-summary:end -->
 
@@ -33,10 +33,12 @@ Northern islands once inhabited by the Auren, whose history with Frigid Woe make
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Veritas\|Veritas]] |
-| Locations | [[Locations/Mistbreak\|Mistbreak]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[World Lore/Auren Culture\|Auren Culture]] |
 
 > [!example]- Session references
@@ -87,7 +89,7 @@ Northern islands once inhabited by the Auren, whose history with Frigid Woe make
 <!-- campaign-artwork:end -->
 
 
-- Islands off the northern coast, near [[Locations/Mistbreak|Mistbreak]].
+- Islands off the northern coast, near the independent town of [[Locations/Mistbreak|Mistbreak]], far north of Ostium. This northern setting is outside Ostium’s city districts and jurisdiction; local political details remain TBD.
 - Formerly inhabited by the ancient [[World Lore/Auren Culture|Auren Culture]], a civilization that battled the gods.
 
 ## Secrets & Hidden History

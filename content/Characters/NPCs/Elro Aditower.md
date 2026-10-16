@@ -21,14 +21,14 @@ first_appearance: ''
 lore-status: Established facts; suggestions marked Tentative
 location: Mistbreak
 session-appearances: []
-description: "Mistbreak’s mayor, a potential civic contact during the antidote search; his knowledge of Frigid Woe and authority over the stockpile remain unknown."
+description: "Mayor of Mistbreak, an independent town far north of Ostium; a potential antidote-search contact whose medical knowledge and stockpile authority remain unknown."
 ---
 
 # Elro Aditower
 
 <!-- page-summary:start -->
 
-Mistbreak’s mayor, a potential civic contact during the antidote search; his knowledge of Frigid Woe and authority over the stockpile remain unknown.
+Mayor of Mistbreak, an independent town far north of Ostium; a potential antidote-search contact whose medical knowledge and stockpile authority remain unknown.
 
 <!-- page-summary:end -->
 
@@ -49,7 +49,7 @@ Mistbreak’s mayor, a potential civic contact during the antidote search; his k
 > > | Current location | [[Locations/Mistbreak\|Mistbreak]] |
 > > | Status | alive |
 > >
-> > **In play:** **Role:** Mayor of [[Locations/Mistbreak|Mistbreak]].
+> > **In play:** **Role:** Mayor of [[Locations/Mistbreak|Mistbreak]], a separate town far north of Ostium with its own government and factions. His office is part of Mistbreak’s government.
 > >
 > > *Age estimate: Proposed estimate for an established elven civic leader; no length of tenure is implied.*
 >
@@ -69,9 +69,11 @@ Mistbreak’s mayor, a potential civic contact during the antidote search; his k
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
-| Locations | [[Locations/Mistbreak\|Mistbreak]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
 
 <!-- page-connections:end -->
@@ -80,7 +82,7 @@ Mistbreak’s mayor, a potential civic contact during the antidote search; his k
 
 **Species (D&D 2024):** Elf
 
-- **Role:** Mayor of [[Locations/Mistbreak|Mistbreak]].
+- **Role:** Mayor of [[Locations/Mistbreak|Mistbreak]], a separate town far north of Ostium with its own government and factions. His office is part of Mistbreak’s government.
 - **Status:** Alive.
 
 ## What They Know

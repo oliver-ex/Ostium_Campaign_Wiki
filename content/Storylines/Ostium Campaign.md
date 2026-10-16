@@ -23,10 +23,12 @@ A campaign moving from family and faction dilemmas across the divided city into 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] |
-| Locations | [[Locations/Old Ostium University\|Old Ostium University]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
+| Referenced locations | [[Locations/Old Ostium University\|Old Ostium University]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[Storylines/Acts/Act I - Twin Cities\|Act I - Twin Cities]] · [[Storylines/Acts/Act II - Beneath the Waterworks\|Act II - Beneath the Waterworks]] · [[Storylines/Acts/Act III - The Heart Below Ostium\|Act III - The Heart Below Ostium]] |
 
 ### Adventures & Encounters

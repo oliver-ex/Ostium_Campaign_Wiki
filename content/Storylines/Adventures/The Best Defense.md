@@ -25,10 +25,12 @@ A prepared opportunity to disrupt a Shattered Axe raiding party before it attack
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Mara Voss\|Mara Voss]] |
-| Locations | [[Locations/Old Ostium\|Old Ostium]] |
+| Referenced locations | [[Locations/Old Ostium\|Old Ostium]] |
 | Factions | [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 
 ### Adventures & Encounters

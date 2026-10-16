@@ -32,6 +32,8 @@ The seat of New Ostium’s government, where permits, scarce civic resources, an
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Within | [[Locations/New Ostium\|New Ostium]] |

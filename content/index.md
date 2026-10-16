@@ -15,6 +15,8 @@ aliases:
 
 Ostium is a divided city whose failing infrastructure, unequal access to care, and competing civic loyalties lead into ancient works and a wounded divine being. Old and New Ostium remain morally complicated, physically interconnected communities. The rules support D&D 5e (2024) by default and Daggerheart through separate mechanical guidance.
 
+The wiki also covers [[Locations/Mistbreak|Mistbreak]], an independent town far north of Ostium with its own government and factions. The party can travel there in search of a Frigid Woe antidote.
+
 *Worldbuilding, Campaign Lore & DM Resources*
 
 ## At the Table

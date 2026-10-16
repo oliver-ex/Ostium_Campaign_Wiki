@@ -25,10 +25,12 @@ A prepared mission to remove Ulroc’s control of the Shattered Axe through kill
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
-| Locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
+| Referenced locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
 | Factions | [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 
 ### Adventures & Encounters

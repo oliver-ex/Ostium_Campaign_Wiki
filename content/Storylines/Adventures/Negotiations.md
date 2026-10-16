@@ -25,10 +25,12 @@ A prepared political adventure turning the cities’ unavoidable interdependence
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Mara Voss\|Mara Voss]] |
-| Locations | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
+| Referenced locations | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
 
 <!-- page-connections:end -->

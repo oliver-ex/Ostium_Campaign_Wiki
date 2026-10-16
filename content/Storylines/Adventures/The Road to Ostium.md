@@ -41,10 +41,12 @@ A prepared caravan journey and city investigation opening several routes to Frig
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] · [[Characters/NPCs/Carl Marsh\|Carl Marsh]] · [[Characters/NPCs/Darian Auir\|Darian Auir]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Korok Grund\|Korok Grund]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] |
-| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Ostium\|Ostium]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Ostium\|Ostium]] |
 | Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
 
@@ -104,7 +106,7 @@ The district’s shortages and competing needs provide room for interaction. Hel
 
 ### 5. Shanda Karth’s Apothecary
 
-[[Characters/NPCs/Shanda Karth|Shanda Karth]] holds **two antidote vials owned by [[Characters/NPCs/Egbert Lusat|Egbert Lusat]]**, one reserved for each of his two sons. She cannot sell them without his authorization. She also knows a supply recently arrived in [[Locations/Mistbreak|Mistbreak]] and may arrange a paid courier.
+[[Characters/NPCs/Shanda Karth|Shanda Karth]] holds **two antidote vials owned by [[Characters/NPCs/Egbert Lusat|Egbert Lusat]]**, one reserved for each of his two sons. She cannot sell them without his authorization. She also knows a supply recently arrived in [[Locations/Mistbreak|Mistbreak]], an independent town far north of Ostium with its own government and factions. Reaching that supply requires a separate journey or a paid courier; travel time and access terms remain TBD.
 
 **Optional: meet Egbert.** His wife [[Characters/NPCs/Tara Lusat|Tara]] died from the Rot; he bought the vials as a precaution after northern reports. Neither son is established as having Frigid Woe. He may negotiate a sale, advance, replacement arrangement, or medicine as compensation for [[Storylines/Adventures/The Prodigal Son|helping Taran]]. Preserve Taran’s duty to the Hospital District; helping him need not mean forcing him home.
 

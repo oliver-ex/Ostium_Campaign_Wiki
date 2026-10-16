@@ -42,12 +42,12 @@ export function updatePageReferences(vault) {
     const outgoing = sorted(links.get(page.id))
     const incoming = sorted(pages.filter(p => links.get(p.id).has(page)))
     const groups = [
-      ['People', ['npc', 'pc']], ['Locations', ['location']], ['Factions', ['faction']],
+      ['People', ['npc', 'pc']], ['Referenced locations', ['location']], ['Factions', ['faction']],
       ['Campaign & lore', ['storyline', 'act-outline', 'lore', 'affliction']],
     ]
     const rows = groups.flatMap(([label, types]) => {
       // Faction people and operating areas have contextual authored tables.
-      if (page.data.type === 'faction' && ['People', 'Locations'].includes(label)) return []
+      if (page.data.type === 'faction' && ['People', 'Referenced locations'].includes(label)) return []
       const candidates = page.data.type === 'location' && label === 'Factions'
         ? sorted(new Set([...outgoing, ...incoming.filter(p => p.data.type === 'faction')]))
         : outgoing
@@ -56,7 +56,7 @@ export function updatePageReferences(vault) {
     })
     const parentName = page.data['parent-location'] || page.data.region
     const parent = parentName ? resolve(String(parentName), page) : undefined
-    if (parent && parent !== page && !outgoing.includes(parent)) rows.unshift(['Within', wiki(parent)])
+    if (parent && parent !== page) rows.unshift(['Within', wiki(parent)])
     const children = sorted(pages.filter(p => p.data.type === 'location' && resolve(String(p.data['parent-location'] || p.data.region || ''), p) === page && p !== page))
     if (children.length) rows.push(['Contained locations', children.map(wiki).join(' · ')])
 
@@ -78,7 +78,7 @@ export function updatePageReferences(vault) {
       writeIfChanged(page.filename, text)
       continue
     }
-    const block = `<!-- page-connections:start -->\n\n## Connected Pages\n\n${content.trim()}\n\n<!-- page-connections:end -->\n\n`
+    const block = `<!-- page-connections:start -->\n\n## Connected Pages\n\nLocation links are document references; geographic containment is shown in the Within and Contained locations rows.\n\n${content.trim()}\n\n<!-- page-connections:end -->\n\n`
     // Keep the first practical reference visible before the link tables.
     // Large illustrations follow reference material rather than separating title and purpose.
     if (page.data.type === 'encounter') {

@@ -72,10 +72,12 @@ The senior waterworks engineer keeping Ostium alive with salvage, expertise, and
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Senn Vale\|Senn Vale]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Locations | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/Titan Works\|Titan Works]] |
+| Referenced locations | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/Titan Works\|Titan Works]] |
 | Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
 
 ### Adventures & Encounters

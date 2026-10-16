@@ -24,9 +24,11 @@ A planned descent into pre-Ostium infrastructure, while faction conflict and the
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
-| Locations | [[Locations/Old Ostium University\|Old Ostium University]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/Titan Works\|Titan Works]] |
+| Referenced locations | [[Locations/Old Ostium University\|Old Ostium University]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/Titan Works\|Titan Works]] |
 
 ### Adventures & Encounters
 

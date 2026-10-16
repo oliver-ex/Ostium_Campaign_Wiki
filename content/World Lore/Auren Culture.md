@@ -28,9 +28,11 @@ An ancient civilization of the Torney Isles that battled the gods and developed 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
-| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
 
 <!-- page-connections:end -->

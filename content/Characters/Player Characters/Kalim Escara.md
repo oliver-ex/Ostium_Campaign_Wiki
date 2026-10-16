@@ -68,6 +68,8 @@ Kalim Escara is Max’s level-2 Human Bard. Further identity, backstory, and bui
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 > [!example]- Session references
 > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
 >

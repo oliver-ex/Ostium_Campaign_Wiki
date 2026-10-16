@@ -33,11 +33,13 @@ An inhabited city in decline, where communities and rival factions survive among
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Within | [[Locations/Ostium\|Ostium]] |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] |
-| Locations | [[Locations/New Ostium\|New Ostium]] |
+| Referenced locations | [[Locations/New Ostium\|New Ostium]] |
 | Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 | Contained locations | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] · [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Slums\|Old Ostium Slums]] · [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] · [[Locations/Old Ostium University\|Old Ostium University]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
 

@@ -72,10 +72,12 @@ The Hospital District’s civic speaker, keeping an exhausted community supplied
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Locations | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
+| Referenced locations | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
 | Factions | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] |
 
 ### Adventures & Encounters

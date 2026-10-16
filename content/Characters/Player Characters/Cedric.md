@@ -68,6 +68,8 @@ Cedric is Maarten’s level-2 Dragonborn Paladin. Further identity, backstory, a
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 > [!example]- Session references
 > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
 >

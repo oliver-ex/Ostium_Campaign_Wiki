@@ -68,6 +68,8 @@ Bilbron Bafflestone is Yannick’s level-2 Gnome Barbarian. Further identity, ba
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 > [!example]- Session references
 > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
 >

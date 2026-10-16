@@ -69,10 +69,12 @@ A New Ostium apothecary holding two Frigid Woe antidote vials for Egbert Lusat; 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] |
-| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
 
 ### Adventures & Encounters
@@ -99,7 +101,7 @@ A New Ostium apothecary holding two Frigid Woe antidote vials for Egbert Lusat; 
 - Apothecary in [[Locations/New Ostium|New Ostium]]. Holds **two vials** of [[Creatures and Afflictions/Frigid Woe|Frigid Woe]] antidote.
 - Procured them for [[Characters/NPCs/Egbert Lusat|Egbert Lusat]], the wealthy father in [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]]. His wife, [[Characters/NPCs/Tara Lusat|Tara Lusat]], died from the Rot of Old Ostium; one vial is reserved for each of his two sons.
 - The extraordinarily expensive vials **belong to Egbert**. She cannot independently sell or transfer them, even for substantial money; Egbert can authorize a negotiated sale or other arrangement.
-- Knows a supply recently arrived in [[Locations/Mistbreak|Mistbreak]]. Can potentially arrange a paid courier; direct travel is also possible.
+- Knows a supply recently arrived in [[Locations/Mistbreak|Mistbreak]], an independent town far north of Ostium with its own government and factions. Can potentially arrange a paid courier; direct travel is also possible.
 
 ## What They Know
 

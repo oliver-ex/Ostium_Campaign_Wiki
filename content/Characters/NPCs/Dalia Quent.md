@@ -72,10 +72,12 @@ The Merchants Guild’s calculating leader, protecting the trade system she help
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
-| Locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
+| Referenced locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
 | Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
 
 ### Adventures & Encounters

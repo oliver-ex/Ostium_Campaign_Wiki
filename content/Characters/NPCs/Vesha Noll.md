@@ -72,10 +72,12 @@ The Shattered Axe’s intelligence and smuggling chief, maintaining a blackmail 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] |
-| Locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
+| Referenced locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
 | Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
 
 ### Adventures & Encounters

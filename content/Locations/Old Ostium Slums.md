@@ -32,6 +32,8 @@ An inhabited district under growing Shattered Axe pressure, where poverty, black
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Within | [[Locations/Old Ostium\|Old Ostium]] |

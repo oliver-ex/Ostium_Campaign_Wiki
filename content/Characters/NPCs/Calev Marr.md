@@ -72,10 +72,12 @@ The Protectorate’s quartermaster, trying to keep patrols supplied while managi
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] |
-| Locations | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] |
+| Referenced locations | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] |
 | Factions | [[Factions/The Protectorate\|The Protectorate]] |
 
 <!-- page-connections:end -->

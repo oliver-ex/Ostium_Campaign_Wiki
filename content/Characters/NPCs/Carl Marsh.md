@@ -70,10 +70,12 @@ A cleric drawn into Shattered Axe banditry to feed his wife and obtain medicine 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Korok Grund\|Korok Grund]] |
-| Locations | [[Locations/Old Ostium\|Old Ostium]] |
+| Referenced locations | [[Locations/Old Ostium\|Old Ostium]] |
 | Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
 
 ### Adventures & Encounters

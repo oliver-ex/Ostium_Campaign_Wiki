@@ -74,10 +74,12 @@ A protective father seeking Taran’s return from Old Ostium, and the owner of t
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] |
 | Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
 | Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
 
@@ -140,7 +142,7 @@ Egbert built wealth through trade during Ostium's prosperous years. When the cit
 - The social divide between people who could relocate and those who could not.
 - Enough about the Rot to fear early mental symptoms, but not its true origin.
 - The personal cost of the Rot through Tara's death. His Frigid Woe precautions arise from northern reports and fear for his family, not from Tara having that illness. He knows the ownership/reservation of his two vials; no ancient-disease expertise is implied.
-- Replacement from [[Locations/Mistbreak|Mistbreak]] can be discussed with Shanda; actual stock access, prices, travel time, and dose requirements remain unresolved.
+- Replacement from [[Locations/Mistbreak|Mistbreak]], an independent town far north of Ostium, can be discussed with Shanda; actual stock access, prices, travel time, and dose requirements remain unresolved.
 
 ## Current Plans
 

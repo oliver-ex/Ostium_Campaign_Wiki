@@ -71,9 +71,11 @@ A missing scholar at Old Ostium University whose possible rescue can reveal the 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
-| Locations | [[Locations/Old Ostium University\|Old Ostium University]] |
+| Referenced locations | [[Locations/Old Ostium University\|Old Ostium University]] |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
 
 ### Adventures & Encounters

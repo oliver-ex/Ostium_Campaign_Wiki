@@ -33,11 +33,13 @@ Ostium’s functioning successor city: an orderly refuge under real capacity pre
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Within | [[Locations/Ostium\|Ostium]] |
 | People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Mira Vey\|Mira Vey]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
-| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Old Ostium\|Old Ostium]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Old Ostium\|Old Ostium]] |
 | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 | Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
 | Contained locations | [[Locations/New Ostium Market District\|New Ostium Market District]] · [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
@@ -135,7 +137,7 @@ The Guard is not omniscient: discovery depends on events, witnesses, and evidenc
 
 - [[Characters/NPCs/Shanda Karth|Shanda Karth]] holds **two** antidote vials belonging to [[Characters/NPCs/Egbert Lusat|Egbert Lusat]], reserved for his two sons after the loss of his wife, [[Characters/NPCs/Tara Lusat|Tara Lusat]], to [[Creatures and Afflictions/The Rot|the Rot of Old Ostium]]. Neither son is established as infected with Frigid Woe.
 - Shanda cannot independently sell the stock, but can introduce the PCs. Egbert may negotiate medicine for [[Storylines/Adventures/The Prodigal Son|help with Taran]], substantial gold, assurances/collateral, or replacement supply; he is sympathetic, not an automatic obstacle.
-- [[Locations/Mistbreak|Mistbreak]] remains a direct-travel or courier alternative. Other paid work, research, and theft remain possible without accepting Egbert's quest.
+- [[Locations/Mistbreak|Mistbreak]], an independent town far north of Ostium with its own government and factions, remains a destination for travel or courier retrieval. Other paid work, research, and theft remain possible without accepting Egbert's quest.
 
 ## D&D 5e (2024) Mechanics
 

@@ -72,10 +72,12 @@ The Shattered Axe’s brutal boss, turning Old Ostium’s collapse into personal
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
-| Locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
+| Referenced locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
 | Factions | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 
 ### Adventures & Encounters

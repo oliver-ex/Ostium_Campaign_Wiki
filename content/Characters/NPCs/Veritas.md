@@ -21,14 +21,14 @@ first_appearance: ''
 lore-status: Established facts; suggestions marked Tentative
 location: Mistbreak
 session-appearances: []
-description: "An elven wizard who died of Frigid Woe in Mistbreak several months ago; Steven’s party began investigating his death."
+description: "An elven wizard associated with Mistbreak, an independent town far north of Ostium; he died there of Frigid Woe several months ago, prompting Steven’s party’s investigation."
 ---
 
 # Veritas
 
 <!-- page-summary:start -->
 
-An elven wizard who died of Frigid Woe in Mistbreak several months ago; Steven’s party began investigating his death.
+An elven wizard associated with Mistbreak, an independent town far north of Ostium; he died there of Frigid Woe several months ago, prompting Steven’s party’s investigation.
 
 <!-- page-summary:end -->
 
@@ -49,7 +49,7 @@ An elven wizard who died of Frigid Woe in Mistbreak several months ago; Steven�
 > > | Last known location | [[Locations/Mistbreak\|Mistbreak]] |
 > > | Status | deceased |
 > >
-> > **In play:** A wizard associated with [[Locations/Mistbreak|Mistbreak]], deceased several months before current campaign events.
+> > **In play:** A wizard associated with [[Locations/Mistbreak|Mistbreak]], an independent town far north of Ostium, deceased several months before current campaign events. His Mistbreak association establishes no Ostium residence or faction membership.
 > >
 > > *Age estimate: Proposed age-at-death estimate for an established elven wizard; his research and career dates remain unknown.*
 >
@@ -69,9 +69,11 @@ An elven wizard who died of Frigid Woe in Mistbreak several months ago; Steven�
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
-| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[World Lore/Auren Culture\|Auren Culture]] |
 
 > [!example]- Session references
@@ -87,7 +89,7 @@ An elven wizard who died of Frigid Woe in Mistbreak several months ago; Steven�
 
 **Species (D&D 2024):** Elf
 
-- A wizard associated with [[Locations/Mistbreak|Mistbreak]], deceased several months before current campaign events.
+- A wizard associated with [[Locations/Mistbreak|Mistbreak]], an independent town far north of Ostium, deceased several months before current campaign events. His Mistbreak association establishes no Ostium residence or faction membership.
 - **Cause of death:** [[Creatures and Afflictions/Frigid Woe|Frigid Woe]].
 
 ## What They Know

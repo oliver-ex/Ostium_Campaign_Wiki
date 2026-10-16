@@ -32,11 +32,13 @@ The failing municipal network sustaining both cities, and the threshold into anc
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Within | [[Locations/Old Ostium\|Old Ostium]] |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Senn Vale\|Senn Vale]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Locations | [[Locations/Titan Works\|Titan Works]] |
+| Referenced locations | [[Locations/Titan Works\|Titan Works]] |
 | Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
 | Contained locations | [[Locations/Titan Works\|Titan Works]] |
 

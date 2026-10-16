@@ -25,10 +25,12 @@ A prepared infrastructure crisis offering alternatives to a choice that merely s
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Locations | [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/Titan Works\|Titan Works]] |
+| Referenced locations | [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/Titan Works\|Titan Works]] |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
 | Campaign & lore | [[Storylines/Acts/Act II - Beneath the Waterworks\|Act II - Beneath the Waterworks]] |
 

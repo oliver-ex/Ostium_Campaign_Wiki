@@ -25,10 +25,12 @@ A prepared Shattered Axe coercion job to steal an artifact from a New Ostium mus
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
-| Locations | [[Locations/New Ostium\|New Ostium]] |
+| Referenced locations | [[Locations/New Ostium\|New Ostium]] |
 | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 
 ### Adventures & Encounters

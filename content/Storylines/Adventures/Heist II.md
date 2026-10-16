@@ -25,10 +25,12 @@ A prepared resource theft targeting concentrated Guild wealth to help Old Ostium
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
-| Locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
+| Referenced locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
 | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
 
 <!-- page-connections:end -->

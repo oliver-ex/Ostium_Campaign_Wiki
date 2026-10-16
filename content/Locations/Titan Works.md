@@ -31,10 +31,12 @@ Ancient structures beneath the waterworks that bind, route, and stabilize the ca
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Within | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
-| Locations | [[Locations/The Heart\|The Heart]] |
+| Referenced locations | [[Locations/The Heart\|The Heart]] |
 | Contained locations | [[Locations/The Heart\|The Heart]] |
 
 ### Adventures & Encounters

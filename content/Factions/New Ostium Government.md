@@ -52,6 +52,8 @@ The civic authority preserving New Ostium’s stability while resisting obligati
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |

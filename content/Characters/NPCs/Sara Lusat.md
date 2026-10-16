@@ -61,6 +61,8 @@ Egbert and Tara Lusat’s daughter and Taran’s sister; her wider role, goals, 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |

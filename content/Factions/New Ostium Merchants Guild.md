@@ -52,6 +52,8 @@ A powerful trade organization that stabilizes New Ostium’s supply chains while
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |

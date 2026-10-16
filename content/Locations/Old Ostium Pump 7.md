@@ -33,11 +33,13 @@ A failing pump station whose threatened collapse forces both cities to confront 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Within | [[Locations/Old Ostium\|Old Ostium]] |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Locations | [[Locations/Titan Works\|Titan Works]] |
+| Referenced locations | [[Locations/Titan Works\|Titan Works]] |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
 
 ### Adventures & Encounters

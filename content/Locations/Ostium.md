@@ -32,10 +32,12 @@ A divided city whose old and new halves share failing infrastructure, unequal re
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] |
-| Locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
+| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 | Contained locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] |
 
@@ -82,6 +84,11 @@ A divided city whose old and new halves share failing infrastructure, unequal re
 *From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
 
 <!-- location-residents:end -->
+
+## Geography
+
+Ostium comprises Old and New Ostium and their associated districts and works. [[Locations/Mistbreak|Mistbreak]] is an independent town far to the north with its own government and factions. Its Frigid Woe antidote supply is a destination for a separate journey or courier retrieval.
+
 
 <!-- campaign-artwork:start -->
 

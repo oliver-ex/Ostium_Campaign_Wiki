@@ -24,10 +24,12 @@ A planned opening arc connecting a family rescue, Old Ostium’s living communit
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] |
-| Locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
+| Referenced locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 
 ### Adventures & Encounters

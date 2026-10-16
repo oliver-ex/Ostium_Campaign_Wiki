@@ -53,6 +53,8 @@ The repair crews keeping Old and New Ostium’s shared infrastructure alive desp
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] |

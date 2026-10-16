@@ -69,10 +69,12 @@ An overworked Old Ostium apothecary who can distinguish Frigid Woe from the Rot 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Mara Voss\|Mara Voss]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] |
-| Locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
+| Referenced locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
 
 ### Adventures & Encounters

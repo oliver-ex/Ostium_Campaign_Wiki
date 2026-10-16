@@ -8,9 +8,9 @@ aliases:
 - Mistbreak - GM
 region: Northern coast
 parent-location: null
-settlement-type: Fishing village
+settlement-type: Fishing town
 condition: null
-control: null
+control: Independent local government; Mayor Elro Aditower
 access: null
 rot-risk: null
 factions: []
@@ -19,14 +19,14 @@ notable-npcs:
 - '[[Characters/NPCs/Veritas|Veritas]]'
 status: unrevealed
 lore-status: Established facts; suggestions marked Tentative
-description: "A northern fishing village near the Torney Isles, now important to the Frigid Woe investigation and the search for recently recovered antidote."
+description: "An independent fishing town far north of Ostium, near the Torney Isles, where the party can seek a stockpiled Frigid Woe antidote."
 ---
 
 # Mistbreak
 
 <!-- page-summary:start -->
 
-A northern fishing village near the Torney Isles, now important to the Frigid Woe investigation and the search for recently recovered antidote.
+An independent fishing town far north of Ostium, near the Torney Isles, where the party can seek a stockpiled Frigid Woe antidote.
 
 <!-- page-summary:end -->
 
@@ -35,10 +35,12 @@ A northern fishing village near the Torney Isles, now important to the Frigid Wo
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Elro Aditower\|Elro Aditower]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Veritas\|Veritas]] |
-| Locations | [[Locations/Torney Isles\|Torney Isles]] |
+| Referenced locations | [[Locations/Torney Isles\|Torney Isles]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
 
 ### Adventures & Encounters
@@ -97,7 +99,11 @@ A northern fishing village near the Torney Isles, now important to the Frigid Wo
 <!-- campaign-artwork:end -->
 
 
-- Northern coastal fishing village, not far from [[Locations/Torney Isles|Torney Isles]].
+## Geography & Government
+
+- **Canon:** Mistbreak is a completely separate fishing town far north of Ostium, near [[Locations/Torney Isles|Torney Isles]]. It is outside Old and New Ostium and their shared infrastructure.
+- It has its own government and faction landscape, independent of Ostium’s authorities and factions. Mayor Elro Aditower is established; other local offices and factions remain **TBD**.
+- Travel or a courier journey is required to reach its antidote supply from Ostium; the route, distance, and journey time remain **TBD**.
 - Recently important because of nearby [[Creatures and Afflictions/Frigid Woe|Frigid Woe]] cases and a newly discovered antidote.
 - A supply of antidote found in the far north has recently been stockpiled here.
 - [[Characters/NPCs/Elro Aditower|Elro Aditower]] is the elven mayor. [[Characters/NPCs/Veritas|Veritas]], an elf wizard, died of the affliction several months ago.
@@ -106,7 +112,7 @@ A northern fishing village near the Torney Isles, now important to the Frigid Wo
 ## Clues & Revelations
 
 - [[Characters/NPCs/Shanda Karth|Shanda Karth]] can direct the party here or potentially organize a courier.
-- Her two local vials belong to [[Characters/NPCs/Egbert Lusat|Egbert Lusat]] for his two sons. A Mistbreak replacement plan may support negotiation with him, but the PCs can come here directly without meeting him or accepting [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]].
+- The two vials she holds in New Ostium belong to [[Characters/NPCs/Egbert Lusat|Egbert Lusat]] for his two sons. A Mistbreak replacement plan may support negotiation with him, but the PCs can come here directly without meeting him or accepting [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]].
 - Stock quantity, custodian, price, access terms, journey time, and whether enough can be obtained for everyone: **Needs decision**.
 
 ## Suggested Village Details — Tentative

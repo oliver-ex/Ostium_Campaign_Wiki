@@ -20,10 +20,12 @@ An affliction of Old Ostium tied to infection of the wounded being below the cit
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Locations | [[Locations/Old Ostium\|Old Ostium]] · [[Locations/The Heart\|The Heart]] |
+| Referenced locations | [[Locations/Old Ostium\|Old Ostium]] · [[Locations/The Heart\|The Heart]] |
 | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[Storylines/Ostium Campaign\|Ostium Campaign]] |
 
 ### Adventures & Encounters

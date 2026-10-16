@@ -70,6 +70,8 @@ A Shattered Axe field commander preparing to rob Darian’s caravan under the gu
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Carl Marsh\|Carl Marsh]] · [[Characters/NPCs/Darian Auir\|Darian Auir]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] |

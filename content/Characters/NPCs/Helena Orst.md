@@ -72,10 +72,12 @@ New Ostium’s First Councillor, balancing housing, water, and public order agai
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] |
-| Locations | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
+| Referenced locations | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
 | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
 
 ### Adventures & Encounters

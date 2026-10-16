@@ -63,6 +63,8 @@ Egbert Lusat’s late wife and mother of Taran and Sara; her death from the Rot 
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |

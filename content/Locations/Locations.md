@@ -7,11 +7,11 @@ tags:
 
 # Location Directory
 
-All 16 location entries. Parent/region fields describe established relationships; blank fields remain TBD.
+All 16 location entries across the campaign. Ostium and its districts are the main setting. [[Locations/Mistbreak|Mistbreak]] is an independent town far north of Ostium with its own government and factions; the nearby Torney Isles are also part of the northern setting. Parent/region fields describe geography; blank fields remain TBD.
 
 | Location | Description / campaign role | Parent / region | Status |
 | --- | --- | --- | --- |
-| [[Locations/Mistbreak\|Mistbreak]] | A northern fishing village near the Torney Isles, now important to the Frigid Woe investigation and the search for recently recovered antidote. | Northern coast | unrevealed |
+| [[Locations/Mistbreak\|Mistbreak]] | An independent fishing town far north of Ostium, near the Torney Isles, where the party can seek a stockpiled Frigid Woe antidote. | Northern coast | unrevealed |
 | [[Locations/New Ostium\|New Ostium]] | Ostium’s functioning successor city: an orderly refuge under real capacity pressures, still dependent on systems and people across the wall. | Ostium | active |
 | [[Locations/New Ostium Market District\|New Ostium Market District]] | New Ostium’s centre of trade and Guild influence, where lawful commerce, artifact speculation, and theft carry political consequences. | New Ostium | active |
 | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] | The seat of New Ostium’s government, where permits, scarce civic resources, and cooperation with Old Ostium can be negotiated. | New Ostium | active |
@@ -26,6 +26,6 @@ All 16 location entries. Parent/region fields describe established relationships
 | [[Locations/Ostium\|Ostium]] | A divided city whose old and new halves share failing infrastructure, unequal resources, and a wounded divine being buried beneath them. | Ostium | active |
 | [[Locations/The Heart\|The Heart]] | The wounded divine being at the centre of Ostium’s deepest works; its bleeding and infection connect the city’s collapse to the Rot. | Titan Works | TBD |
 | [[Locations/Titan Works\|Titan Works]] | Ancient structures beneath the waterworks that bind, route, and stabilize the captive being whose vitality helped Ostium flourish. | Old Ostium Waterworks | TBD |
-| [[Locations/Torney Isles\|Torney Isles]] | Northern islands once inhabited by the Auren, whose history with Frigid Woe makes them a destination in the antidote search. | Northern coast | unrevealed |
+| [[Locations/Torney Isles\|Torney Isles]] | Islands near Mistbreak on the northern coast, far from Ostium, once inhabited by the Auren and important to the Frigid Woe antidote search. | Northern coast | unrevealed |
 
 ![[Locations/Locations.base#Locations]]

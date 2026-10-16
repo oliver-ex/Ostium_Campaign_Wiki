@@ -24,9 +24,11 @@ A planned endgame at the divine wound, where treatment, exploitation, or loss wi
 
 ## Connected Pages
 
+Location links are document references; geographic containment is shown in the Within and Contained locations rows.
+
 | Connection | Follow links |
 | --- | --- |
-| Locations | [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
+| Referenced locations | [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
 
 ### Adventures & Encounters
 
