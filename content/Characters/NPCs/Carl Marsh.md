@@ -22,9 +22,17 @@ first_appearance: ''
 lore-status: Established facts; suggestions marked Tentative
 location: Road to Ostium
 session-appearances: []
+description: "A cleric drawn into Shattered Axe banditry to feed his wife and obtain medicine for his daughter; desperation explains his choices without erasing their harm."
 ---
 
 # Carl Marsh
+
+<!-- page-summary:start -->
+
+A cleric drawn into Shattered Axe banditry to feed his wife and obtain medicine for his daughter; desperation explains his choices without erasing their harm.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -58,6 +66,31 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Korok Grund\|Korok Grund]] |
+| Locations | [[Locations/Old Ostium\|Old Ostium]] |
+| Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Encounters/Roadside Ambush\|Roadside Ambush]] — prepared | A prepared caravan robbery by Shattered Axe bandits posing as city guards, with options to detect the deception, negotiate, evade, or fight. |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 
@@ -104,7 +137,7 @@ _No encounter or revelation recorded yet; this is a continuity note, not a publi
 
 ## D&D 5e (2024) Mechanics
 
-Narrative NPC first. No D&D stat block, class build, spell list, or Challenge Rating has been assigned. If a meaningful uncertain interaction needs a check, use the approach-based guidance in [[Rules/System Guide|System Guide]]; essential information is not gated by a single check. Choose and verify a separate 2024-compatible profile only if conflict requires it. Any older profile must name its source and edition.
+**Planned encounter profile:** use the official revised **Bandit** (SRD 5.2.1) for [[Encounters/Roadside Ambush|Roadside Ambush]], prepared for three level-1 PCs. The encounter page embeds the complete profile and links to 5e.tools; use its tactics and morale. This assignment is preparation, not a completed combat or a PC class build. Species does not add mechanical features automatically. For other encounters, reassess party size and resources; essential information remains available without a single gating check.
 
 ## Daggerheart Mechanics
 

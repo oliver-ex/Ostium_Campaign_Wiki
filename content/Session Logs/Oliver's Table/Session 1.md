@@ -10,9 +10,17 @@ tags: ["session"]
 pcs-present: []
 previous: ""
 next: "[[Session Logs/Oliver's Table/Session 2|Session 2]]"
+description: "Completed: a pregen party cleared the brewery basement, and two members unknowingly drank Frigid Woe; the diagnosis and danger remain unknown to them."
 ---
 
 # Session 1 — The Wizard’s Tower Brewery
+
+<!-- page-summary:start -->
+
+Completed: a pregen party cleared the brewery basement, and two members unknowingly drank Frigid Woe; the diagnosis and danger remain unknown to them.
+
+<!-- page-summary:end -->
+
 
 ## Recap & Actual Events
 

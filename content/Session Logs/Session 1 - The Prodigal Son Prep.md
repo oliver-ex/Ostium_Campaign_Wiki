@@ -7,9 +7,16 @@ tags:
 session: 1
 aliases:
 - Session 1 - The Prodigal Son - GM Prep
+description: "Unassigned, unplayed preparation for the Lusat family dilemma and the Hospital District’s dependence on Taran."
 ---
 
 # Session 1 — The Prodigal Son
+
+<!-- page-summary:start -->
+
+Unassigned, unplayed preparation for the Lusat family dilemma and the Hospital District’s dependence on Taran.
+
+<!-- page-summary:end -->
 
 
 ## Session Goals

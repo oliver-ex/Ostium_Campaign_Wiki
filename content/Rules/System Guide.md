@@ -3,9 +3,17 @@ title: System Guide
 type: rules
 tags:
 - rules
+description: "The campaign’s rules reference for D&D 5e (2024), separately labelled Daggerheart guidance, species choices, and handling uncertain lore."
 ---
 
 # System Guide
+
+<!-- page-summary:start -->
+
+The campaign’s rules reference for D&D 5e (2024), separately labelled Daggerheart guidance, species choices, and handling uncertain lore.
+
+<!-- page-summary:end -->
+
 
 ## Campaign Rule Policy
 

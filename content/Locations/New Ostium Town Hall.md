@@ -8,9 +8,50 @@ aliases:
 - New Ostium Town Hall - GM
 region: New Ostium
 status: active
+description: "The seat of New Ostium’s government, where permits, scarce civic resources, and cooperation with Old Ostium can be negotiated."
 ---
 
 # New Ostium Town Hall
+
+<!-- page-summary:start -->
+
+The seat of New Ostium’s government, where permits, scarce civic resources, and cooperation with Old Ostium can be negotiated.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Hub for political quests and formal Old/New negotiation\
+**What is changing:** Pump 7 and refugee pressure can force the government to engage with Old Ostium.\
+**Current controlling pressure:** Capacity limits, legitimacy, public opinion.\
+**Hidden danger:** Some officials privately accept more interdependence than public policy admits.\
+**Useful NPCs:** [[Characters/NPCs/Helena Orst|Helena Orst]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/New Ostium\|New Ostium]] |
+| People | [[Characters/NPCs/Helena Orst\|Helena Orst]] |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -24,10 +65,9 @@ status: active
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -43,15 +83,6 @@ status: active
 > > *Ishtar — city panorama — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Hub for political quests and formal Old/New negotiation\
-**What is changing:** Pump 7 and refugee pressure can force the government to engage with Old Ostium.\
-**Current controlling pressure:** Capacity limits, legitimacy, public opinion.\
-**Hidden danger:** Some officials privately accept more interdependence than public policy admits.\
-**Useful NPCs:** [[Characters/NPCs/Helena Orst|Helena Orst]]\
 
 ## Secrets & Hidden History
 

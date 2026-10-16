@@ -13,9 +13,17 @@ age-note: "Proposed adult-sibling appearance estimate; the relative ages of the 
 occupation: ''
 location: ''
 factions: []
+description: "Egbert and Tara Lusat’s daughter and Taran’s sister; her wider role, goals, and circumstances remain to be established."
 ---
 
 # Sara Lusat
+
+<!-- page-summary:start -->
+
+Egbert and Tara Lusat’s daughter and Taran’s sister; her wider role, goals, and circumstances remain to be established.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -49,6 +57,21 @@ factions: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+<!-- page-connections:end -->
 
 ## Overview
 

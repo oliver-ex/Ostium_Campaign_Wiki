@@ -21,9 +21,17 @@ first_appearance: ''
 lore-status: Established facts; suggestions marked Tentative
 location: Mistbreak
 session-appearances: []
+description: "Mistbreak’s mayor, a potential civic contact during the antidote search; his knowledge of Frigid Woe and authority over the stockpile remain unknown."
 ---
 
 # Elro Aditower
+
+<!-- page-summary:start -->
+
+Mistbreak’s mayor, a potential civic contact during the antidote search; his knowledge of Frigid Woe and authority over the stockpile remain unknown.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -57,6 +65,22 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Locations | [[Locations/Mistbreak\|Mistbreak]] |
+| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

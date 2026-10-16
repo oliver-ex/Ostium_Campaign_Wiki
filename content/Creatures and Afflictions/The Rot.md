@@ -4,9 +4,35 @@ type: affliction
 tags:
 - affliction
 lore-status: Canon summary; mechanics Unknown
+description: "An affliction of Old Ostium tied to infection of the wounded being below the city, with effects on cognition and higher mental function."
 ---
 
 # The Rot
+
+<!-- page-summary:start -->
+
+An affliction of Old Ostium tied to infection of the wounded being below the city, with effects on cognition and higher mental function.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+| Locations | [[Locations/Old Ostium\|Old Ostium]] · [[Locations/The Heart\|The Heart]] |
+| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[Storylines/Ostium Campaign\|Ostium Campaign]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+<!-- page-connections:end -->
 
 ## Established Facts
 

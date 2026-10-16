@@ -8,10 +8,37 @@ tags:
 status: planned
 aliases:
 - Act I - Twin Cities - GM
+description: "A planned opening arc connecting a family rescue, Old Ostium’s living communities, and the shared water crisis at Pump 7."
 ---
 
 # Act I - Twin Cities
 
+<!-- page-summary:start -->
+
+A planned opening arc connecting a family rescue, Old Ostium’s living communities, and the shared water crisis at Pump 7.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] |
+| Locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+| [[Storylines/Adventures/The Best Defense\|The Best Defense]] — prepared | A prepared opportunity to disrupt a Shattered Axe raiding party before it attacks a surviving Old Ostium settlement. |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+<!-- page-connections:end -->
 
 ## Role in the Campaign
 

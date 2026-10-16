@@ -10,9 +10,17 @@ tags: ["session"]
 pcs-present: []
 previous: ""
 next: "[[Session Logs/Steven's Table/Session 2|Session 2]]"
+description: "Completed: a pregen party cleared the wizard’s tower basement and found Frigid Woe vials; identification and exposure are unrecorded."
 ---
 
 # Session 1 — The Wizard’s Tower Basement
+
+<!-- page-summary:start -->
+
+Completed: a pregen party cleared the wizard’s tower basement and found Frigid Woe vials; identification and exposure are unrecorded.
+
+<!-- page-summary:end -->
+
 
 ## Recap & Actual Events
 

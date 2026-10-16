@@ -9,9 +9,54 @@ aliases:
 - Old Ostium - GM
 region: Ostium
 status: dangerous
+description: "An inhabited city in decline, where communities and rival factions survive among failing infrastructure, dangerous ruins, and the Rot."
 ---
 
 # Old Ostium
+
+<!-- page-summary:start -->
+
+An inhabited city in decline, where communities and rival factions survive among failing infrastructure, dangerous ruins, and the Rot.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Primary exploration zone and open-world urban dungeon\
+**What is changing:** The city is moving from slow decline toward systems failure.\
+**Current controlling pressure:** Rot exposure, infrastructure scarcity, local faction control.\
+**Hidden danger:** The Rot is not merely a plague in the city; the city is contaminating an infected divine wound.\
+**Useful NPCs:** [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Brock Drungur|Brock Drungur]], [[Characters/NPCs/Indra Karaf|Indra Karaf]], [[Characters/NPCs/Ulroc Grimscar|Ulroc Grimscar]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/Ostium\|Ostium]] |
+| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] |
+| Locations | [[Locations/New Ostium\|New Ostium]] |
+| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+| Contained locations | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] · [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Slums\|Old Ostium Slums]] · [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] · [[Locations/Old Ostium University\|Old Ostium University]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Best Defense\|The Best Defense]] — prepared | A prepared opportunity to disrupt a Shattered Axe raiding party before it attacks a surviving Old Ostium settlement. |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -33,10 +78,9 @@ status: dangerous
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -58,15 +102,6 @@ status: dangerous
 > > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Primary exploration zone and open-world urban dungeon\
-**What is changing:** The city is moving from slow decline toward systems failure.\
-**Current controlling pressure:** Rot exposure, infrastructure scarcity, local faction control.\
-**Hidden danger:** The Rot is not merely a plague in the city; the city is contaminating an infected divine wound.\
-**Useful NPCs:** [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Brock Drungur|Brock Drungur]], [[Characters/NPCs/Indra Karaf|Indra Karaf]], [[Characters/NPCs/Ulroc Grimscar|Ulroc Grimscar]]\
 
 ## Secrets & Hidden History
 

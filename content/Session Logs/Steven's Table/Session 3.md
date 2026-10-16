@@ -10,9 +10,17 @@ tags: ["session"]
 pcs-present: []
 previous: "[[Session Logs/Steven's Table/Session 2|Session 2]]"
 next: "[[Session Logs/Steven's Table/Session 4|Session 4]]"
+description: "Completed: the party took down the Glass Blades while seeking antidote information, and Kalim became infected with Frigid Woe."
 ---
 
 # Session 3 — The Glass Blades
+
+<!-- page-summary:start -->
+
+Completed: the party took down the Glass Blades while seeking antidote information, and Kalim became infected with Frigid Woe.
+
+<!-- page-summary:end -->
+
 
 ## Recap & Actual Events
 

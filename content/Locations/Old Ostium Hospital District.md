@@ -10,9 +10,50 @@ aliases:
 - Old Ostium Hospital District - GM
 region: Old Ostium
 status: active
+description: "A living hospital community strained by the Rot, protection levies, and failing water infrastructure that currently depends on Taran’s work."
 ---
 
 # Old Ostium Hospital District
+
+<!-- page-summary:start -->
+
+A living hospital community strained by the Rot, protection levies, and failing water infrastructure that currently depends on Taran’s work.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Moral centre of the opening arc and proof that Old Ostium is inhabited, organized, and worth caring about\
+**What is changing:** Its water situation is fragile and Taran's condition is worsening.\
+**Current controlling pressure:** Protection costs, supply scarcity, water reliability, Rot patients.\
+**Hidden danger:** The settlement's dependence on Taran makes Egbert's apparently simple rescue request ethically complicated.\
+**Useful NPCs:** [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Mara Voss|Mara Voss]], [[Characters/NPCs/Arla Gerrin|Arla Gerrin]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/Old Ostium\|Old Ostium]] |
+| People | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] · [[Characters/NPCs/Mara Voss\|Mara Voss]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+| Factions | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -28,10 +69,9 @@ status: active
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -47,15 +87,6 @@ status: active
 > > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Moral centre of the opening arc and proof that Old Ostium is inhabited, organized, and worth caring about\
-**What is changing:** Its water situation is fragile and Taran's condition is worsening.\
-**Current controlling pressure:** Protection costs, supply scarcity, water reliability, Rot patients.\
-**Hidden danger:** The settlement's dependence on Taran makes Egbert's apparently simple rescue request ethically complicated.\
-**Useful NPCs:** [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Mara Voss|Mara Voss]], [[Characters/NPCs/Arla Gerrin|Arla Gerrin]]\
 
 ## Secrets & Hidden History
 

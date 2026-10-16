@@ -8,9 +8,42 @@ tags:
 parent-location: Old Ostium Waterworks
 aliases:
 - Titan Works - GM
+description: "Ancient structures beneath the waterworks that bind, route, and stabilize the captive being whose vitality helped Ostium flourish."
 ---
 
 # Titan Works
+
+<!-- page-summary:start -->
+
+Ancient structures beneath the waterworks that bind, route, and stabilize the captive being whose vitality helped Ostium flourish.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Act II deep infrastructure exploration and first sustained contact with the pre-Ostium system\
+**What is changing:** Municipal collapse and infection are stressing structures that were built to bind, route, and stabilize something alive.\
+**Current controlling pressure:** Ancient mechanisms, Rot manifestations, and the danger of misreading their purpose.\
+**Hidden danger:** The Works are simultaneously prison architecture, siphoning/distribution infrastructure, and wound management at a scale where all three can be true.\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
+| Locations | [[Locations/The Heart\|The Heart]] |
+| Contained locations | [[Locations/The Heart\|The Heart]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -24,10 +57,9 @@ aliases:
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -49,14 +81,6 @@ aliases:
 > > *Sintel — dragon cave concept — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Act II deep infrastructure exploration and first sustained contact with the pre-Ostium system\
-**What is changing:** Municipal collapse and infection are stressing structures that were built to bind, route, and stabilize something alive.\
-**Current controlling pressure:** Ancient mechanisms, Rot manifestations, and the danger of misreading their purpose.\
-**Hidden danger:** The Works are simultaneously prison architecture, siphoning/distribution infrastructure, and wound management at a scale where all three can be true.\
 
 ## Secrets & Hidden History
 

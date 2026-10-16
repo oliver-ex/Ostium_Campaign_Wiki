@@ -8,9 +8,42 @@ aliases:
 - Old Ostium University - GM
 region: Old Ostium
 status: uncertain
+description: "A dangerous exploration site where the Rot’s cognitive effects and the inhabitants’ shared attention offer distorted clues to the Heart."
 ---
 
 # Old Ostium University
+
+<!-- page-summary:start -->
+
+A dangerous exploration site where the Rot’s cognitive effects and the inhabitants’ shared attention offer distorted clues to the Heart.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Horror/exploration site that demonstrates the Rot's cognitive and networked qualities\
+**What is changing:** The inhabitants' shared mental effects are intensifying.\
+**Current controlling pressure:** Collective attention, Rot exposure, and the site's proximity/attunement to deeper influence.\
+**Hidden danger:** Some 'psychosis' is also distorted contact with the Heart's amplified cognitive field; neither pure madness nor reliable revelation.\
+**Useful NPCs:** [[Characters/NPCs/Orla Meren|Orla Meren]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/Old Ostium\|Old Ostium]] |
+| People | [[Characters/NPCs/Orla Meren\|Orla Meren]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Rescue Mission\|Rescue Mission]] — prepared | A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart. |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -24,10 +57,9 @@ status: uncertain
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -43,15 +75,6 @@ status: uncertain
 > > *Ishtar — abandoned temple — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Horror/exploration site that demonstrates the Rot's cognitive and networked qualities\
-**What is changing:** The inhabitants' shared mental effects are intensifying.\
-**Current controlling pressure:** Collective attention, Rot exposure, and the site's proximity/attunement to deeper influence.\
-**Hidden danger:** Some 'psychosis' is also distorted contact with the Heart's amplified cognitive field; neither pure madness nor reliable revelation.\
-**Useful NPCs:** [[Characters/NPCs/Orla Meren|Orla Meren]]\
 
 ## Secrets & Hidden History
 

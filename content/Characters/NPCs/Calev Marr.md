@@ -20,9 +20,17 @@ factions:
 first_appearance: ''
 location: Old Ostium Town Hall
 session-appearances: []
+description: "The Protectorate’s quartermaster, trying to keep patrols supplied while managing levies, shortages, and abuses within the force."
 ---
 
 # Calev Marr
+
+<!-- page-summary:start -->
+
+The Protectorate’s quartermaster, trying to keep patrols supplied while managing levies, shortages, and abuses within the force.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -60,6 +68,17 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] |
+| Locations | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] |
+| Factions | [[Factions/The Protectorate\|The Protectorate]] |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

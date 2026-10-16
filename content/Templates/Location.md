@@ -8,9 +8,12 @@ lore-status: Unknown
 region: ''
 parent-location: ''
 factions: []
+description: ''
 ---
 
 # Location
+
+Write a short description in `description` above: who or what this is, and why it matters in play. The build places it directly below the title; keep unknowns and planned events explicit.
 
 ## Overview & Description
 

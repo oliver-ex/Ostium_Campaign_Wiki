@@ -3,9 +3,17 @@ title: Campaign Timeline
 type: timeline
 tags:
 - timeline
+description: "A relative chronology of established history and recorded play, with separate table histories and an explicitly conditional future."
 ---
 
 # Campaign Timeline
+
+<!-- page-summary:start -->
+
+A relative chronology of established history and recorded play, with separate table histories and an explicitly conditional future.
+
+<!-- page-summary:end -->
+
 
 No calendar dates have been established. The order below is relative; the two ancient strands are **not dated relative to each other**.
 

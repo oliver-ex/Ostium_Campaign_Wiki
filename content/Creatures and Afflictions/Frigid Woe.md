@@ -12,10 +12,47 @@ status: unrevealed
 lore-status: Established facts; mechanics unresolved
 aliases:
 - Frigid Woe - GM
+description: "An ancient Auren weapon affliction resistant to divine healing, driving a search for scarce antidote; it is distinct from the Rot."
 ---
 
 # Frigid Woe
 
+<!-- page-summary:start -->
+
+An ancient Auren weapon affliction resistant to divine healing, driving a search for scarce antidote; it is distinct from the Rot.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Veritas\|Veritas]] · [[Characters/Player Characters/Kalim Escara\|Kalim Escara]] |
+| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
+| Campaign & lore | [[World Lore/Auren Culture\|Auren Culture]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Oliver's Table/Session 1\|Session 1 — The Wizard’s Tower Brewery]] | Oliver's Table | completed |
+> | [[Session Logs/Steven's Table/Session 1\|Session 1 — The Wizard’s Tower Basement]] | Steven's Table | completed |
+> | [[Session Logs/Steven's Table/Session 3\|Session 3 — The Glass Blades]] | Steven's Table | completed |
+> | [[Session Logs/Steven's Table/Session 4\|Session 4 — To the Torney Isles]] | Steven's Table | completed |
+> | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
+
+<!-- page-connections:end -->
 
 ## History & Origin
 

@@ -21,9 +21,17 @@ first_appearance: ''
 lore-status: Established facts; suggestions marked Tentative
 location: Road to Ostium
 session-appearances: []
+description: "A merchant and caravan driver carrying food, medicine, gold, and the party toward Ostium; his cargo is the target of the planned road ambush."
 ---
 
 # Darian Auir
+
+<!-- page-summary:start -->
+
+A merchant and caravan driver carrying food, medicine, gold, and the party toward Ostium; his cargo is the target of the planned road ambush.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -57,6 +65,31 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Korok Grund\|Korok Grund]] |
+| Locations | [[Locations/Ostium\|Ostium]] |
+| Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Encounters/Roadside Ambush\|Roadside Ambush]] — prepared | A prepared caravan robbery by Shattered Axe bandits posing as city guards, with options to detect the deception, negotiate, evade, or fight. |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

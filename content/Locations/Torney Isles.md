@@ -17,9 +17,37 @@ factions: []
 notable-npcs: []
 status: unrevealed
 lore-status: Established history; suggestions marked Tentative
+description: "Northern islands once inhabited by the Auren, whose history with Frigid Woe makes them a destination in the antidote search."
 ---
 
 # Torney Isles
+
+<!-- page-summary:start -->
+
+Northern islands once inhabited by the Auren, whose history with Frigid Woe makes them a destination in the antidote search.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Veritas\|Veritas]] |
+| Locations | [[Locations/Mistbreak\|Mistbreak]] |
+| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[World Lore/Auren Culture\|Auren Culture]] |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Steven's Table/Session 4\|Session 4 — To the Torney Isles]] | Steven's Table | completed |
+> | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -33,10 +61,9 @@ lore-status: Established history; suggestions marked Tentative
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -59,8 +86,6 @@ lore-status: Established history; suggestions marked Tentative
 
 <!-- campaign-artwork:end -->
 
-
-## Operational Summary
 
 - Islands off the northern coast, near [[Locations/Mistbreak|Mistbreak]].
 - Formerly inhabited by the ancient [[World Lore/Auren Culture|Auren Culture]], a civilization that battled the gods.

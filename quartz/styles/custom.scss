@@ -41,7 +41,37 @@
   }
 }
 
-// put your custom CSS here!
+// Reference tables stay readable during play, including long wiki labels.
+.page article {
+  // Keep Markdown titles in Obsidian; Quartz already renders the page title.
+  > h1:first-of-type { display: none; }
+  > h1 + p {
+    font-size: 1.12rem;
+    line-height: 1.65;
+    color: var(--darkgray);
+    max-width: 65ch;
+  }
+
+  .table-container { margin: 1rem 0 1.5rem; }
+  table {
+    width: 100%;
+    font-size: 0.92rem;
+    line-height: 1.5;
+    th { color: var(--dark); background: var(--highlight); text-align: left; }
+    th, td { padding: 0.65rem 0.75rem; vertical-align: top; }
+    td { overflow-wrap: anywhere; }
+    tr:nth-child(even) td { background: var(--highlight); }
+  }
+
+  @media (max-width: 600px) {
+    table { font-size: 0.87rem; }
+    th, td { padding: 0.55rem; }
+  }
+}
+
+// A folded reference can contain several paragraphs and a table. Hide all of
+// its content, rather than only the first child handled by the base theme.
+.callout.is-collapsible.is-collapsed > .callout-content { display: none; }
 
 // Campaign illustrations keep their full composition and readable captions.
 a.campaign-artwork-link {

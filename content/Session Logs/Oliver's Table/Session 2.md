@@ -10,9 +10,17 @@ tags: ["session"]
 pcs-present: []
 previous: "[[Session Logs/Oliver's Table/Session 1|Session 1]]"
 next: ""
+description: "Planned, unplayed preparation for the Road to Ostium: a caravan ambush and several possible routes to diagnosis and antidote."
 ---
 
 # Session 2 — The Road to Ostium — Preparation
+
+<!-- page-summary:start -->
+
+Planned, unplayed preparation for the Road to Ostium: a caravan ambush and several possible routes to diagnosis and antidote.
+
+<!-- page-summary:end -->
+
 
 ## Session Goals & Opening Situation
 

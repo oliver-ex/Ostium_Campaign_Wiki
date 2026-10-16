@@ -8,9 +8,52 @@ aliases:
 - Old Ostium Waterworks - GM
 region: Old Ostium
 status: active
+description: "The failing municipal network sustaining both cities, and the threshold into ancient structures beneath Ostium’s engineering."
 ---
 
 # Old Ostium Waterworks
+
+<!-- page-summary:start -->
+
+The failing municipal network sustaining both cities, and the threshold into ancient structures beneath Ostium’s engineering.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Megadungeon threshold: mundane civic system gradually revealing older infrastructure\
+**What is changing:** Municipal failures are exposing deeper structures and contaminating them.\
+**Current controlling pressure:** Maintenance scarcity, water pressure, Rot, political dependency.\
+**Hidden danger:** The deepest 'waterworks' are part of the interred being's circulatory system or interfaces built around it.\
+**Useful NPCs:** [[Characters/NPCs/Brock Drungur|Brock Drungur]], [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Senn Vale|Senn Vale]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/Old Ostium\|Old Ostium]] |
+| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Senn Vale\|Senn Vale]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+| Locations | [[Locations/Titan Works\|Titan Works]] |
+| Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+| Contained locations | [[Locations/Titan Works\|Titan Works]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -25,10 +68,9 @@ status: active
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -44,15 +86,6 @@ status: active
 > > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Megadungeon threshold: mundane civic system gradually revealing older infrastructure\
-**What is changing:** Municipal failures are exposing deeper structures and contaminating them.\
-**Current controlling pressure:** Maintenance scarcity, water pressure, Rot, political dependency.\
-**Hidden danger:** The deepest 'waterworks' are part of the interred being's circulatory system or interfaces built around it.\
-**Useful NPCs:** [[Characters/NPCs/Brock Drungur|Brock Drungur]], [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Senn Vale|Senn Vale]]\
 
 ## Secrets & Hidden History
 

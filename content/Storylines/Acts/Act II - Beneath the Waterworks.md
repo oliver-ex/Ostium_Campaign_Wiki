@@ -8,10 +8,38 @@ tags:
 status: planned
 aliases:
 - Act II - Beneath the Waterworks - GM
+description: "A planned descent into pre-Ostium infrastructure, while faction conflict and the Rot’s cognitive effects reshape access and understanding."
 ---
 
 # Act II - Beneath the Waterworks
 
+<!-- page-summary:start -->
+
+A planned descent into pre-Ostium infrastructure, while faction conflict and the Rot’s cognitive effects reshape access and understanding.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Locations | [[Locations/Old Ostium University\|Old Ostium University]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/Titan Works\|Titan Works]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
+| [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
+| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+| [[Storylines/Adventures/Rescue Mission\|Rescue Mission]] — prepared | A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart. |
+| [[Storylines/Adventures/The Best Defense\|The Best Defense]] — prepared | A prepared opportunity to disrupt a Shattered Axe raiding party before it attacks a surviving Old Ostium settlement. |
+| [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
+
+<!-- page-connections:end -->
 
 ## Role in the Campaign
 

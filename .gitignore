@@ -20,6 +20,7 @@ public/
 Thumbs.db
 *.swp
 *.tmp
+*Edit conflict*
 
 # Local reversible migration snapshots
 .vault-refactor/

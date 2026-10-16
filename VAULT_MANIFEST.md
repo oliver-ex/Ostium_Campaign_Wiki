@@ -32,6 +32,12 @@ All 16 location pages have generated NPC tables drawn from current-location reco
 
 `npm run directories` regenerates character headers, location resident tables, and category indexes. Edit source metadata, portraits, and prose rather than generated blocks. Artwork credits, hashes, dimensions, and provenance remain in `Attachments/Artwork/`; source images with no recorded reuse terms remain excluded in `publication-artwork.json`. The artwork audit now requires a publishable portrait for every registered NPC.
 
+## Page Design and Connections
+
+Campaign entities and session records have short, authored `description` properties rendered directly below their titles. Factions lead with pressures, linked operating areas, and NPC roles; characters retain their portrait cards; locations show their operational summary before artwork. Faction/location illustrations and session-reference tables can be expanded when needed. The homepage provides task-based navigation, and directories use compact tables.
+
+`npm run directories` also maintains `page-summary` and `page-connections` blocks. Descriptions are edited in frontmatter; faction operating areas and NPC role tables remain authored Markdown. Connections come from authored wikilinks, excluding generated blocks so links cannot recursively invent relationships. Adventure/encounter references work in both directions; location pages also collect faction references. Session mentions retain table/status labels and do not establish appearances, PC knowledge, or completed events. Unchanged generated pages are not rewritten, reducing cloud-sync churn. Proton Drive `Edit conflict` copies are excluded from vault reads, Git, and Quartz publication; preserved copies live under the ignored `.vault-refactor/edit-conflicts-2026-10-16/`. Current templates explain the layout and editing workflow; Legacy and Examples remain preserved references.
+
 ## Rules and continuity
 
 System-neutral fiction is preferred. D&D 5e (2024) is the mechanical default. Daggerheart has separate labelled guidance; existing numeric profiles are retained campaign homebrew and are not directly converted.

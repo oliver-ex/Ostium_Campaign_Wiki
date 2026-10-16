@@ -8,10 +8,34 @@ tags:
 status: planned
 aliases:
 - Act III - The Heart Below Ostium - GM
+description: "A planned endgame at the divine wound, where treatment, exploitation, or loss will change the city and its relationship to the being below."
 ---
 
 # Act III - The Heart Below Ostium
 
+<!-- page-summary:start -->
+
+A planned endgame at the divine wound, where treatment, exploitation, or loss will change the city and its relationship to the being below.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Locations | [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
+| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+
+<!-- page-connections:end -->
 
 ## Role in the Campaign
 

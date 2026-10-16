@@ -10,9 +10,17 @@ tags: ["session"]
 pcs-present: []
 previous: "[[Session Logs/Steven's Table/Session 5|Session 5]]"
 next: ""
+description: "Blank preparation for Steven’s next session; no new scenes, outcomes, or discoveries have been established."
 ---
 
 # Session 6 — Preparation
+
+<!-- page-summary:start -->
+
+Blank preparation for Steven’s next session; no new scenes, outcomes, or discoveries have been established.
+
+<!-- page-summary:end -->
+
 
 ## Session Goals & Opening Situation
 

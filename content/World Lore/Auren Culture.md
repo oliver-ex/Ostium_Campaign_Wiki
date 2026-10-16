@@ -12,10 +12,28 @@ status: unrevealed
 lore-status: Established history; open questions retained
 aliases:
 - Auren Culture - GM
+description: "An ancient civilization of the Torney Isles that battled the gods and developed or employed Frigid Woe against their warriors; its wider history remains unknown."
 ---
 
 # Auren Culture
 
+<!-- page-summary:start -->
+
+An ancient civilization of the Torney Isles that battled the gods and developed or employed Frigid Woe against their warriors; its wider history remains unknown.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
+| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
+
+<!-- page-connections:end -->
 
 ## Established History
 

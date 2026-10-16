@@ -25,9 +25,45 @@ aliases:
 - Session Prep — The Road to Ostium - GM
 - Session Prep — The Road to Ostium
 - Session Logs/Session Prep — The Road to Ostium
+description: "A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation."
 ---
 
 # The Road to Ostium
+
+<!-- page-summary:start -->
+
+A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] · [[Characters/NPCs/Carl Marsh\|Carl Marsh]] · [[Characters/NPCs/Darian Auir\|Darian Auir]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Elro Aditower\|Elro Aditower]] · [[Characters/NPCs/Korok Grund\|Korok Grund]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Veritas\|Veritas]] |
+| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Ostium\|Ostium]] |
+| Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
+| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Encounters/Roadside Ambush\|Roadside Ambush]] — prepared | A prepared caravan robbery by Shattered Axe bandits posing as city guards, with options to detect the deception, negotiate, evade, or fight. |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Oliver's Table/Session 1\|Session 1 — The Wizard’s Tower Brewery]] | Oliver's Table | completed |
+> | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
+
+<!-- page-connections:end -->
 
 > Established premise comes from the GM's task. All new staging, dialogue, incidental characters, and possible consequences below are **Tentative** improvisation prompts. They become events only through play.
 
@@ -45,9 +81,9 @@ A flexible journey and city investigation offering multiple routes to the Frigid
 
 ## Opening Situation
 
-The opening premise is that affected travelers need help for Frigid Woe and travel toward [[Locations/Ostium|Ostium]] aboard [[Characters/NPCs/Darian Auir|Darian Auir]]'s caravan. Its food, medical supplies, and gold attract an ambush ordered by [[Factions/The Shattered Axe|The Shattered Axe]], led by [[Characters/NPCs/Korok Grund|Korok Grund]], with [[Characters/NPCs/Carl Marsh|Carl Marsh]] among the attackers.
+The opening premise is that affected travelers need help for Frigid Woe and travel toward [[Locations/Ostium|Ostium]] aboard [[Characters/NPCs/Darian Auir|Darian Auir]]'s caravan. Its food, medical supplies, and gold attract an ambush ordered by [[Factions/The Shattered Axe|The Shattered Axe]], led by [[Characters/NPCs/Korok Grund|Korok Grund]], with [[Characters/NPCs/Carl Marsh|Carl Marsh]] among the attackers. **GM-established planned setup:** the gang poses as New Ostium city guards, claiming to inspect the caravan and seize “contraband.” This is a bandit deception; no genuine contraband or official city involvement is established.
 
-**Before play — Needs decision:** confirm attendees and party size; prior adventure recap; symptoms and prior mechanical rulings; exact remaining urgency; caravan/bandit numbers; courier cost/time and northern travel time; antidote dose requirements; session number/date. Do not infer these from the roster or invent a disease clock. Do not assume all eight PCs attend.
+**Before play — Needs decision:** confirm attendees and party size; prior adventure recap; symptoms and prior mechanical rulings; exact remaining urgency; whether to use the prepared three-PC ambush roster; courier cost/time and northern travel time; antidote dose requirements; session number/date. Do not infer these from the roster or invent a disease clock. Do not assume all eight PCs attend.
 
 **Table continuity:** [[Session Logs/Oliver's Table/Session 1|Oliver’s Session 1]] establishes that two pregen party members drank vials and are affected, but do not yet know their condition or its danger. [[Session Logs/Oliver's Table/Session 2|Oliver’s Session 2]] adapts this adventure; do not assume the whole party is infected or already seeking an antidote. Steven’s table has separately retrieved an antidote in Session 5; this opening is not automatically its next session.
 
@@ -67,11 +103,15 @@ These are movable situations. Follow the party's route, skip bypassed scenes, an
 
 **Dramatic question:** can travelers and supplies reach the city without a costly fight?
 
+**Run the encounter:** [[Encounters/Roadside Ambush|Roadside Ambush]] provides a planned fight for **three level-1 PCs**: Korok (official revised Tough), Carl and one other full-strength Bandit, plus two homebrew minions. It includes embedded official statblocks, 5e.tools links, terrain, negotiation, and morale. Confirm attendance and resources before using that roster.
+
 - **Darian interaction:** ask why the PCs are going to Ostium; let them ask about the cargo, ordinary road risks, or city approaches. Disease expertise is not established for him.
 - **Road details — Tentative:** patched ruts, an old drainage ditch, broken roadside masonry, cart tracks, a narrow bend beside scrub. No new named settlement or canon map required.
 - **Ambush site — Tentative:** a damaged culvert narrows the road; cover on either side permits intimidation and withdrawal. A wagon can stop before the pinch point; keep a route back and space for passengers to dismount.
 - **Notice / avoidance:** visible churned tracks, unusual silence, movement behind cover, or a partly shifted obstruction. Observant precautions reveal warning signs; a roll can improve position or certainty, not determine whether any choice exists.
-- **Bandit demand:** leave the food, medicine, and gold. Korok wants a haul, not a massacre. Carl may hesitate near civilians.
+- **False inspection:** Korok claims to be New Ostium city guard and demands access to search the wagon, then calls food, medicine, and coin “contraband” to justify seizure. Mismatched outfits and assorted weaponry visibly undermine the disguise. Give PCs a chance to react before anyone boards or removes supplies; no check is required to notice the discrepancies.
+- **Darian's warning:** if PCs miss the cues or seem ready to comply, he points out the suspicious clothing and weapons before cargo is surrendered or anyone is disarmed: “Those coats don't match. This looks like a robbery.” He offers an observation and leaves the choice to them.
+- **If exposed:** Korok may bluff, bargain, or drop the pretence and demand the cargo openly. He wants a haul, not a massacre. Carl may hesitate near civilians. Exposing them does not force combat; see the standalone encounter for details.
 - **Tactics:** threaten movement and cargo, seek cover, offer terms, concentrate pressure rather than surround every escape. Korok may withdraw or surrender when losses outweigh gain.
 - **Alternatives:** parley, offer a limited share, convince attackers the cost is too high, retreat before entering the choke point, scout an alternate passage, or cooperate temporarily while seeking recovery later.
 - **Letter:** [[Attachments/Carl Marsh - Unsent Letter|Carl Marsh - Unsent Letter]] can be noticed with Carl's belongings, voluntarily offered, or dropped during retreat. Discovery does not require killing him.

@@ -21,9 +21,17 @@ first_appearance: ''
 lore-status: Established facts; suggestions marked Tentative
 location: Old Ostium Hospital District
 session-appearances: []
+description: "An overworked Old Ostium apothecary who can distinguish Frigid Woe from the Rot and refer the party to help, but has no antidote herself."
 ---
 
 # Arla Gerrin
+
+<!-- page-summary:start -->
+
+An overworked Old Ostium apothecary who can distinguish Frigid Woe from the Rot and refer the party to help, but has no antidote herself.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -57,6 +65,30 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Mara Voss\|Mara Voss]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] |
+| Locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
+| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

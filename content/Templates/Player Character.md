@@ -15,9 +15,12 @@ usual_location: ''
 class: ''
 level: null
 system: D&D 5e (2024)
+description: ''
 ---
 
 # Player Character
+
+Write a short description in `description` above: who or what this is, and why it matters in play. The build places it directly below the title; keep unknowns and planned events explicit.
 
 The build generates a character quick reference from these properties. Use a player-approved portrait; unknown age and identity choices remain for the player.
 

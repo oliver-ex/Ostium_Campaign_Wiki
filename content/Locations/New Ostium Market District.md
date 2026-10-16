@@ -8,9 +8,50 @@ aliases:
 - New Ostium Market District - GM
 region: New Ostium
 status: active
+description: "New Ostium’s centre of trade and Guild influence, where lawful commerce, artifact speculation, and theft carry political consequences."
 ---
 
 # New Ostium Market District
+
+<!-- page-summary:start -->
+
+New Ostium’s centre of trade and Guild influence, where lawful commerce, artifact speculation, and theft carry political consequences.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Civilized adventure space for social jobs, trade, investigation, and high-consequence crime\
+**What is changing:** Guild consolidation is increasing resentment while also stabilizing supply.\
+**Current controlling pressure:** Money, law, reputation, and access.\
+**Hidden danger:** Old Ostium artifacts are becoming a speculative market, creating incentives for dangerous expeditions and theft.\
+**Useful NPCs:** [[Characters/NPCs/Trine Baradur|Trine Baradur]], [[Characters/NPCs/Dalia Quent|Dalia Quent]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/New Ostium\|New Ostium]] |
+| People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
+| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -25,10 +66,9 @@ status: active
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -44,15 +84,6 @@ status: active
 > > *Ishtar — market — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Civilized adventure space for social jobs, trade, investigation, and high-consequence crime\
-**What is changing:** Guild consolidation is increasing resentment while also stabilizing supply.\
-**Current controlling pressure:** Money, law, reputation, and access.\
-**Hidden danger:** Old Ostium artifacts are becoming a speculative market, creating incentives for dangerous expeditions and theft.\
-**Useful NPCs:** [[Characters/NPCs/Trine Baradur|Trine Baradur]], [[Characters/NPCs/Dalia Quent|Dalia Quent]]\
 
 ## Secrets & Hidden History
 

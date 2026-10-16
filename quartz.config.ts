@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: process.env.PAGES_BASE_URL?.replace(/^https?:\/\//, "").replace(/\/$/, "") ?? "localhost:8080",
-    ignorePatterns: ["**/.obsidian/**", "**/.trash/**", "**/.DS_Store", "**/.env*", ...publication.withheld.map(a => a.file)],
+    ignorePatterns: ["**/.obsidian/**", "**/.trash/**", "**/.DS_Store", "**/.env*", "**/*Edit conflict*", ...publication.withheld.map(a => a.file)],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local",

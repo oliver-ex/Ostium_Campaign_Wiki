@@ -29,9 +29,17 @@ armour: null
 inventory: []
 system: D&D 5e (2024)
 species: Halfling
+description: "Rono is Bram’s level-1 Halfling Rogue. Further identity, backstory, and build choices remain the player’s to establish."
 ---
 
 # Rono
+
+<!-- page-summary:start -->
+
+Rono is Bram’s level-1 Halfling Rogue. Further identity, backstory, and build choices remain the player’s to establish.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -55,7 +63,6 @@ species: Halfling
 > > *No player-approved portrait recorded.*
 
 <!-- character-profile:end -->
-
 
 ## Identity
 

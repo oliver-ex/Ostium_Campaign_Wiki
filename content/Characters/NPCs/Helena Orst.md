@@ -20,9 +20,17 @@ factions:
 first_appearance: ''
 location: New Ostium Town Hall
 session-appearances: []
+description: "New Ostium’s First Councillor, balancing housing, water, and public order against demands to take responsibility for the old city’s crisis."
 ---
 
 # Helena Orst
+
+<!-- page-summary:start -->
+
+New Ostium’s First Councillor, balancing housing, water, and public order against demands to take responsibility for the old city’s crisis.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -60,6 +68,31 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] |
+| Locations | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

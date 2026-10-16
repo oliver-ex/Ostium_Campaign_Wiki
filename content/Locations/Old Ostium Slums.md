@@ -8,9 +8,43 @@ aliases:
 - Old Ostium Slums - GM
 region: Old Ostium
 status: dangerous
+description: "An inhabited district under growing Shattered Axe pressure, where poverty, blackmail, and Rot danger shape everyday survival."
 ---
 
 # Old Ostium Slums
+
+<!-- page-summary:start -->
+
+An inhabited district under growing Shattered Axe pressure, where poverty, blackmail, and Rot danger shape everyday survival.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Shattered Axe territory and reminder that poverty predates the supernatural crisis\
+**What is changing:** Shattered Axe control is expanding through coercion as shortages worsen.\
+**Current controlling pressure:** Poverty, blackmail, fear, and night-time Rot threats.\
+**Hidden danger:** Some Shattered Axe informants work for the gang because the alternative was starvation or exposure of family secrets.\
+**Useful NPCs:** [[Characters/NPCs/Ulroc Grimscar|Ulroc Grimscar]], [[Characters/NPCs/Vesha Noll|Vesha Noll]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/Old Ostium\|Old Ostium]] |
+| People | [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
+| Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -25,10 +59,9 @@ status: dangerous
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -44,15 +77,6 @@ status: dangerous
 > > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Shattered Axe territory and reminder that poverty predates the supernatural crisis\
-**What is changing:** Shattered Axe control is expanding through coercion as shortages worsen.\
-**Current controlling pressure:** Poverty, blackmail, fear, and night-time Rot threats.\
-**Hidden danger:** Some Shattered Axe informants work for the gang because the alternative was starvation or exposure of family secrets.\
-**Useful NPCs:** [[Characters/NPCs/Ulroc Grimscar|Ulroc Grimscar]], [[Characters/NPCs/Vesha Noll|Vesha Noll]]\
 
 ## Secrets & Hidden History
 

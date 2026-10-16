@@ -21,9 +21,17 @@ first_appearance: ''
 lore-status: Established facts; suggestions marked Tentative
 location: New Ostium
 session-appearances: []
+description: "A New Ostium apothecary holding two Frigid Woe antidote vials for Egbert Lusat; she can arrange an introduction but cannot give away his medicine."
 ---
 
 # Shanda Karth
+
+<!-- page-summary:start -->
+
+A New Ostium apothecary holding two Frigid Woe antidote vials for Egbert Lusat; she can arrange an introduction but cannot give away his medicine.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -57,6 +65,32 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] |
+| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] |
+| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
+> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

@@ -10,9 +10,17 @@ tags: ["session"]
 pcs-present: []
 previous: "[[Session Logs/Steven's Table/Session 3|Session 3]]"
 next: "[[Session Logs/Steven's Table/Session 5|Session 5]]"
+description: "Completed: the party travelled to the Torney Isles to search for Frigid Woe antidote; specific discoveries remain unrecorded."
 ---
 
 # Session 4 — To the Torney Isles
+
+<!-- page-summary:start -->
+
+Completed: the party travelled to the Torney Isles to search for Frigid Woe antidote; specific discoveries remain unrecorded.
+
+<!-- page-summary:end -->
+
 
 ## Recap & Actual Events
 

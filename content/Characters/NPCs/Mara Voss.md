@@ -20,9 +20,17 @@ factions:
 first_appearance: ''
 location: Old Ostium Hospital District
 session-appearances: []
+description: "The Hospital District’s civic speaker, keeping an exhausted community supplied and protected while resisting solutions that sacrifice its residents."
 ---
 
 # Mara Voss
+
+<!-- page-summary:start -->
+
+The Hospital District’s civic speaker, keeping an exhausted community supplied and protected while resisting solutions that sacrifice its residents.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -60,6 +68,32 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+| Locations | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
+| Factions | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+| [[Storylines/Adventures/The Best Defense\|The Best Defense]] — prepared | A prepared opportunity to disrupt a Shattered Axe raiding party before it attacks a surviving Old Ostium settlement. |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

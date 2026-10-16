@@ -22,9 +22,17 @@ factions: []
 first_appearance: ''
 location: New Ostium
 session-appearances: []
+description: "A protective father seeking Taran’s return from Old Ostium, and the owner of two reserved Frigid Woe antidote vials that may become part of a negotiated bargain."
 ---
 
 # Egbert Lusat
+
+<!-- page-summary:start -->
+
+A protective father seeking Taran’s return from Old Ostium, and the owner of two reserved Frigid Woe antidote vials that may become part of a negotiated bargain.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -62,6 +70,34 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] |
+| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
+| Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
+> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

@@ -20,9 +20,17 @@ factions:
 first_appearance: ''
 location: Old Ostium Pump 4
 session-appearances: []
+description: "The engineer running Pump 4 and a trusted backup to Brock, struggling to keep a comparatively stable station from becoming the next crisis."
 ---
 
 # Senn Vale
+
+<!-- page-summary:start -->
+
+The engineer running Pump 4 and a trusted backup to Brock, struggling to keep a comparatively stable station from becoming the next crisis.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -60,6 +68,17 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] |
+| Locations | [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] |
+| Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

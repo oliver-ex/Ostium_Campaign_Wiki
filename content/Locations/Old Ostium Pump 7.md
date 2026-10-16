@@ -9,9 +9,44 @@ aliases:
 - Old Ostium Pump 7 - GM
 region: Old Ostium
 status: unstable
+description: "A failing pump station whose threatened collapse forces both cities to confront their dependence on shared infrastructure."
 ---
 
 # Old Ostium Pump 7
+
+<!-- page-summary:start -->
+
+A failing pump station whose threatened collapse forces both cities to confront their dependence on shared infrastructure.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Act I climax that forces the party to confront the cities' shared infrastructure\
+**What is changing:** The station is approaching a failure state that makes an apparent binary solution politically explosive.\
+**Current controlling pressure:** Time, Rot exposure, water pressure, competing Old/New priorities.\
+**Hidden danger:** The visible Pump 7 system interfaces with a deeper structure the city did not build.\
+**Useful NPCs:** [[Characters/NPCs/Brock Drungur|Brock Drungur]], [[Characters/NPCs/Taran Lusat|Taran Lusat]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/Old Ostium\|Old Ostium]] |
+| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+| Locations | [[Locations/Titan Works\|Titan Works]] |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -25,10 +60,9 @@ status: unstable
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -44,15 +78,6 @@ status: unstable
 > > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Act I climax that forces the party to confront the cities' shared infrastructure\
-**What is changing:** The station is approaching a failure state that makes an apparent binary solution politically explosive.\
-**Current controlling pressure:** Time, Rot exposure, water pressure, competing Old/New priorities.\
-**Hidden danger:** The visible Pump 7 system interfaces with a deeper structure the city did not build.\
-**Useful NPCs:** [[Characters/NPCs/Brock Drungur|Brock Drungur]], [[Characters/NPCs/Taran Lusat|Taran Lusat]]\
 
 ## Secrets & Hidden History
 

@@ -29,9 +29,17 @@ armour: null
 inventory: []
 system: D&D 5e (2024)
 species: Human
+description: "Wilbur Brightwater is Peter’s level-1 Human Ranger. Further identity, backstory, and build choices remain the player’s to establish."
 ---
 
 # Wilbur Brightwater
+
+<!-- page-summary:start -->
+
+Wilbur Brightwater is Peter’s level-1 Human Ranger. Further identity, backstory, and build choices remain the player’s to establish.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -55,7 +63,6 @@ species: Human
 > > *No player-approved portrait recorded.*
 
 <!-- character-profile:end -->
-
 
 ## Identity
 

@@ -29,9 +29,17 @@ armour: null
 inventory: []
 system: D&D 5e (2024)
 species: Gnome
+description: "Bilbron Bafflestone is Yannick’s level-2 Gnome Barbarian. Further identity, backstory, and build choices remain the player’s to establish."
 ---
 
 # Bilbron Bafflestone
+
+<!-- page-summary:start -->
+
+Bilbron Bafflestone is Yannick’s level-2 Gnome Barbarian. Further identity, backstory, and build choices remain the player’s to establish.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -56,6 +64,18 @@ species: Gnome
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
+
+<!-- page-connections:end -->
 
 ## Identity
 

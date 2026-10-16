@@ -8,9 +8,37 @@ aliases:
 - Old Ostium Pump 4 - GM
 region: Old Ostium
 status: uncertain
+description: "A comparatively stable waterworks station run by Senn Vale, showing what maintenance can preserve and what continued shortages could destroy."
 ---
 
 # Old Ostium Pump 4
+
+<!-- page-summary:start -->
+
+A comparatively stable waterworks station run by Senn Vale, showing what maintenance can preserve and what continued shortages could destroy.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Stable comparison point for understanding why Pump 7 is alarming\
+**What is changing:** Wear is accumulating faster than crews can reverse it.\
+**Current controlling pressure:** Shortages of parts and experienced labour.\
+**Hidden danger:** Some underlying interfaces do not match the station's documented construction history.\
+**Useful NPCs:** [[Characters/NPCs/Senn Vale|Senn Vale]], [[Characters/NPCs/Brock Drungur|Brock Drungur]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/Old Ostium\|Old Ostium]] |
+| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Senn Vale\|Senn Vale]] |
+| Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -24,10 +52,9 @@ status: uncertain
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -43,15 +70,6 @@ status: uncertain
 > > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Stable comparison point for understanding why Pump 7 is alarming\
-**What is changing:** Wear is accumulating faster than crews can reverse it.\
-**Current controlling pressure:** Shortages of parts and experienced labour.\
-**Hidden danger:** Some underlying interfaces do not match the station's documented construction history.\
-**Useful NPCs:** [[Characters/NPCs/Senn Vale|Senn Vale]], [[Characters/NPCs/Brock Drungur|Brock Drungur]]\
 
 ## Secrets & Hidden History
 

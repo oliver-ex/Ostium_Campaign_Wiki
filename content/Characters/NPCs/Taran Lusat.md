@@ -20,9 +20,17 @@ factions:
 first_appearance: ''
 location: Old Ostium Hospital District
 session-appearances: []
+description: "An engineer sustaining the Hospital District’s water supply while suffering early Rot; bringing him home could endanger the community relying on him."
 ---
 
 # Taran Lusat
+
+<!-- page-summary:start -->
+
+An engineer sustaining the Hospital District’s water supply while suffering early Rot; bringing him home could endanger the community relying on him.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -60,6 +68,32 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] |
+| Locations | [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/Old Ostium Pump 4\|Old Ostium Pump 4]] · [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
+| Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] |
+| Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

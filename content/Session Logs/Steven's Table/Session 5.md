@@ -10,9 +10,17 @@ tags: ["session"]
 pcs-present: []
 previous: "[[Session Logs/Steven's Table/Session 4|Session 4]]"
 next: "[[Session Logs/Steven's Table/Session 6|Session 6]]"
+description: "Completed: the party defeated an undead alchemist and retrieved antidote; administration and Kalim’s cure remain unrecorded."
 ---
 
 # Session 5 — The Antidote Retrieved
+
+<!-- page-summary:start -->
+
+Completed: the party defeated an undead alchemist and retrieved antidote; administration and Kalim’s cure remain unrecorded.
+
+<!-- page-summary:end -->
+
 
 ## Recap & Actual Events
 

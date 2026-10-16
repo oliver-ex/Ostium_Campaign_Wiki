@@ -20,9 +20,17 @@ factions:
 first_appearance: ''
 location: Old Ostium Slums
 session-appearances: []
+description: "The Shattered Axe’s brutal boss, turning Old Ostium’s collapse into personal power through profitable raids, coercion, and smuggling."
 ---
 
 # Ulroc Grimscar
+
+<!-- page-summary:start -->
+
+The Shattered Axe’s brutal boss, turning Old Ostium’s collapse into personal power through profitable raids, coercion, and smuggling.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -60,6 +68,24 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
+| Locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
+| Factions | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
+| [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

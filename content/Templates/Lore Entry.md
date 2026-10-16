@@ -6,9 +6,12 @@ tags:
 - template
 lore-status: Unknown
 related: []
+description: ''
 ---
 
 # Lore Entry
+
+Write a short description in `description` above: who or what this is, and why it matters in play. The build places it directly below the title; keep unknowns and planned events explicit.
 
 ## Established Facts
 

@@ -19,9 +19,17 @@ factions: []
 first_appearance: ''
 location: New Ostium
 session-appearances: []
+description: "A missing scholar at Old Ostium University whose possible rescue can reveal the Rot’s effects on cognition and clues to the deeper city."
 ---
 
 # Orla Meren
+
+<!-- page-summary:start -->
+
+A missing scholar at Old Ostium University whose possible rescue can reveal the Rot’s effects on cognition and clues to the deeper city.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -59,6 +67,22 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Locations | [[Locations/Old Ostium University\|Old Ostium University]] |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Rescue Mission\|Rescue Mission]] — prepared | A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart. |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

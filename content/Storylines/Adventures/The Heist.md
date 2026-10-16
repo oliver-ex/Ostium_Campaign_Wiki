@@ -9,11 +9,35 @@ status: prepared
 act: Act I or II
 aliases:
 - The Heist - GM
+description: "A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat."
 ---
 
 # The Heist
 
-> No public adventure page exists yet. Create one from `_Templates/Adventure - Public.md` when the party learns about the job.
+<!-- page-summary:start -->
+
+A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
+| Locations | [[Locations/New Ostium\|New Ostium]] |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
+
+<!-- page-connections:end -->
 
 ## Function in the Larger Arc
 

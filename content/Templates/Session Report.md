@@ -10,9 +10,12 @@ date: null
 pcs-present: []
 previous: ''
 next: ''
+description: ''
 ---
 
 # Session Report
+
+Write a short description in `description` above: who or what this is, and why it matters in play. The build places it directly below the title; keep unknowns and planned events explicit.
 
 ## Recap & Actual Events
 

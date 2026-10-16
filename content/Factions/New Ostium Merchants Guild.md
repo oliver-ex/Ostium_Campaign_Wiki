@@ -7,33 +7,73 @@ tags:
 aliases:
 - New Ostium Merchants Guild - GM
 status: active
+description: "A powerful trade organization that stabilizes New Ostium’s supply chains while concentrating wealth and pursuing selective profit from the old city."
 ---
 
 # New Ostium Merchants Guild
 
-<!-- campaign-artwork:start -->
+<!-- page-summary:start -->
 
-![Two people work at a table with coins, scales, books, and merchant goods.](../Attachments/Artwork/factions/merchants-moneylender.webp)
+A powerful trade organization that stabilizes New Ostium’s supply chains while concentrating wealth and pursuing selective profit from the old city.
 
-*Visual reference: The Moneylender and His Wife — Quinten Metsys. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- page-summary:end -->
 
 
 ## At a Glance
 
-**True objective:** Keep concentrated control of trade while converting Old Ostium's danger into selective profit.\
-**Immediate pressure:** Smuggling, political suspicion, and increasing demand for resources tied to Old Ostium.\
-**What they need:** Stable law, protected warehouses, information, and profitable controlled access to salvage.\
-**What they fear:** Uncontrolled Old Ostium instability disrupting the trade system the Guild built.\
-**How they might use the party:** Fund retrievals, hire protection, request artifact work, or become a target the party must negotiate with or rob.\
+| Pressure | What matters in play |
+| --- | --- |
+| True objective | Keep concentrated control of trade while converting Old Ostium's danger into selective profit. |
+| Immediate pressure | Smuggling, political suspicion, and increasing demand for resources tied to Old Ostium. |
+| What they need | Stable law, protected warehouses, information, and profitable controlled access to salvage. |
+| What they fear | Uncontrolled Old Ostium instability disrupting the trade system the Guild built. |
+| How they might use the party | Fund retrievals, hire protection, request artifact work, or become a target the party must negotiate with or rob. |
 
-## Leadership Hierarchy
+## Where They Operate
 
-1. [[Characters/NPCs/Dalia Quent|Dalia Quent]] — Guildmaster; strategic leader and major capital holder.
-2. [[Characters/NPCs/Trine Baradur|Trine Baradur]] — Acquisition factor; specialist in unusual goods and artifacts.
-3. **Oren Sava** — Treasurer; controls shared Guild reserves and credit.
-4. **Mirel Hask** — Security Director; coordinates warehouse guards and theft investigations.
+| Location | Activity / limits of influence |
+| --- | --- |
+| [[Locations/New Ostium Market District\|New Ostium Market District]] | Leadership contacts, commerce, and high-value goods. |
+| [[Locations/New Ostium\|New Ostium]] | Trade networks, warehouses, credit, and political influence. |
+| [[Locations/Old Ostium\|Old Ostium]] | Selective investment and salvage interests; no general territorial control. |
+
+## Leadership & Relevant NPCs
+
+| Person | Role / connection |
+| --- | --- |
+| [[Characters/NPCs/Dalia Quent\|Dalia Quent]] | Guildmaster; strategic leader and major capital holder. |
+| [[Characters/NPCs/Trine Baradur\|Trine Baradur]] | Acquisition factor; specialist in unusual goods and artifacts. |
+| **Oren Sava** | Treasurer; controls shared Guild reserves and credit. |
+| **Mirel Hask** | Security Director; coordinates warehouse guards and theft investigations. |
+
+*Unlinked names have no standalone NPC page yet; roles below remain open preparation slots.*
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
+| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+
+<!-- page-connections:end -->
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Artwork & inspiration
+>
+> ![Two people work at a table with coins, scales, books, and merchant goods.](../Attachments/Artwork/factions/merchants-moneylender.webp)
+>
+> *Visual reference: The Moneylender and His Wife — Quinten Metsys. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Massysm_Quentin_%E2%80%94_The_Moneylender_and_his_Wife_%E2%80%94_1514.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+
+<!-- campaign-artwork:end -->
 
 ## Relevant Roles to Populate Later
 
@@ -63,6 +103,11 @@ status: active
 - Some members want deeper Old Ostium exploitation; others want complete disengagement.
 
 ## Relationships & Leverage
+
+| Faction | Relationship / leverage |
+| --- | --- |
+| [[Factions/New Ostium Government\|New Ostium Government]] | Needs Guild resources but resists letting merchant wealth govern the city. |
+| [[Factions/The Shattered Axe\|The Shattered Axe]] | Seeks smuggling contacts and loot; illicit access threatens controlled trade and security. |
 
 - [[Factions/New Ostium Government|New Ostium Government]] needs the Guild but fears capture.
 - [[Factions/The Shattered Axe|The Shattered Axe]] seeks smuggling contacts and loot.

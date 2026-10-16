@@ -20,9 +20,17 @@ factions:
 first_appearance: ''
 location: Old Ostium Town Hall
 session-appearances: []
+description: "The Protectorate’s commander, defending Old Ostium settlements with a force whose real costs create painful levies and difficult compromises."
 ---
 
 # Indra Karaf
+
+<!-- page-summary:start -->
+
+The Protectorate’s commander, defending Old Ostium settlements with a force whose real costs create painful levies and difficult compromises.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -60,6 +68,25 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Calev Marr\|Calev Marr]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] |
+| Locations | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] |
+| Factions | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
+| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+| [[Storylines/Adventures/The Best Defense\|The Best Defense]] — prepared | A prepared opportunity to disrupt a Shattered Axe raiding party before it attacks a surviving Old Ostium settlement. |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

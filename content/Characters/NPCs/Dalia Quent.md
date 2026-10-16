@@ -20,9 +20,17 @@ factions:
 first_appearance: ''
 location: New Ostium Market District
 session-appearances: []
+description: "The Merchants Guild’s calculating leader, protecting the trade system she helped stabilize and the concentrated wealth it gives her faction."
 ---
 
 # Dalia Quent
+
+<!-- page-summary:start -->
+
+The Merchants Guild’s calculating leader, protecting the trade system she helped stabilize and the concentrated wealth it gives her faction.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -60,6 +68,24 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
+| Locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
+| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
+| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

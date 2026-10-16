@@ -4,7 +4,7 @@ import YAML from 'yaml'
 
 export function walk(dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap(entry => {
-    if (entry.name.startsWith('.') || entry.name === 'node_modules') return []
+    if (entry.name.startsWith('.') || entry.name === 'node_modules' || entry.name.includes('Edit conflict')) return []
     const filename = path.join(dir, entry.name)
     return entry.isDirectory() ? walk(filename) : [filename]
   })
@@ -25,7 +25,10 @@ export function writePage(filename, title, body, extra = {}) {
     return '[[' + value + pipe + label + ']]'
   })).join('\n')
   fs.mkdirSync(path.dirname(filename), { recursive: true })
-  fs.writeFileSync(filename, `---\n${YAML.stringify({ title, type: 'index', tags: ['index'], ...extra })}---\n\n# ${title}\n\n${body.trim()}\n`)
+  writeIfChanged(filename, `---\n${YAML.stringify({ title, type: 'index', tags: ['index'], ...extra })}---\n\n# ${title}\n\n${body.trim()}\n`)
+}
+export function writeIfChanged(filename, text) {
+  if (!fs.existsSync(filename) || fs.readFileSync(filename, 'utf8') !== text) fs.writeFileSync(filename, text)
 }
 export function cell(value) {
   if (Array.isArray(value)) return value.map(cell).join('; ') || 'TBD'

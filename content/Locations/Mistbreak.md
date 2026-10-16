@@ -19,9 +19,45 @@ notable-npcs:
 - '[[Characters/NPCs/Veritas|Veritas]]'
 status: unrevealed
 lore-status: Established facts; suggestions marked Tentative
+description: "A northern fishing village near the Torney Isles, now important to the Frigid Woe investigation and the search for recently recovered antidote."
 ---
 
 # Mistbreak
+
+<!-- page-summary:start -->
+
+A northern fishing village near the Torney Isles, now important to the Frigid Woe investigation and the search for recently recovered antidote.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Elro Aditower\|Elro Aditower]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Veritas\|Veritas]] |
+| Locations | [[Locations/Torney Isles\|Torney Isles]] |
+| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
+> | [[Session Logs/Steven's Table/Session 1\|Session 1 — The Wizard’s Tower Basement]] | Steven's Table | completed |
+> | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -35,10 +71,9 @@ lore-status: Established facts; suggestions marked Tentative
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -61,8 +96,6 @@ lore-status: Established facts; suggestions marked Tentative
 
 <!-- campaign-artwork:end -->
 
-
-## Operational Summary
 
 - Northern coastal fishing village, not far from [[Locations/Torney Isles|Torney Isles]].
 - Recently important because of nearby [[Creatures and Afflictions/Frigid Woe|Frigid Woe]] cases and a newly discovered antidote.

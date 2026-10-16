@@ -9,21 +9,35 @@ leaders: []
 territory: ''
 allies: []
 rivals: []
+description: ''
 ---
 
 # Faction
 
-## Identity & Reputation
+Write a short description in `description` above: who or what this is, and why it matters in play. The build places it directly below the title; keep unknowns and planned events explicit.
 
-TBD.
+## At a Glance
 
-## Leadership & Open Roles
+| Pressure | What matters in play |
+| --- | --- |
+| Objective | TBD |
+| Immediate pressure | TBD |
+| Needs / resources | TBD |
+| Party leverage | TBD |
 
-TBD.
+## Where They Operate
 
-## Territory & Resources
+| Location | Activity / limits of influence |
+| --- | --- |
+| TBD — link an existing location | TBD — distinguish a base, patrol area, interest, and control |
 
-TBD.
+## Leadership & Relevant NPCs
+
+| Person | Role / connection |
+| --- | --- |
+| TBD — link an existing NPC if one exists | TBD — do not turn a contact into a member |
+
+Adventures and session references are collected from authored links during the build. Link relevant preparation in the prose below; a mention does not establish a played event.
 
 ## Goals, Agenda & Pressures
 

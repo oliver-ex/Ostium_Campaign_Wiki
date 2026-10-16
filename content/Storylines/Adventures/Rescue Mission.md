@@ -9,11 +9,29 @@ status: prepared
 act: Act I or II
 aliases:
 - Rescue Mission - GM
+description: "A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart."
 ---
 
 # Rescue Mission
 
-> No public adventure page exists yet. Create one from `_Templates/Adventure - Public.md` when the party learns about the job.
+<!-- page-summary:start -->
+
+A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Orla Meren\|Orla Meren]] |
+| Locations | [[Locations/Old Ostium University\|Old Ostium University]] |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
+
+<!-- page-connections:end -->
 
 ## Function in the Larger Arc
 

@@ -9,9 +9,17 @@ pcs-present: []
 locations: []
 npcs: []
 factions: []
+description: "An unfilled, unassigned session record; its empty fields establish no completed events."
 ---
 
 # Session 00
+
+<!-- page-summary:start -->
+
+An unfilled, unassigned session record; its empty fields establish no completed events.
+
+<!-- page-summary:end -->
+
 
 ## Recap
 

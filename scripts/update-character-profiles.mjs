@@ -1,6 +1,6 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import { cell } from './vault.mjs'
+import { cell, writeIfChanged } from './vault.mjs'
 
 const artPattern = /<!-- campaign-artwork:start -->[\s\S]*?<!-- campaign-artwork:end -->/
 const profilePattern = /<!-- character-profile:start -->[\s\S]*?<!-- character-profile:end -->\s*/
@@ -17,6 +17,8 @@ function table(rows) {
   return '| Detail | Record |\n| --- | --- |\n' + rows.map(([key,value]) => `| ${cell(key)} | ${cell(value)} |`).join('\n')
 }
 function insertAfterTitle(text, block) {
+  const summary = text.match(/<!-- page-summary:start -->[\s\S]*?<!-- page-summary:end -->\s*/)?.[0]
+  if (summary) return text.replace(summary, `${summary}${block}\n\n`)
   return text.replace(/(^# [^\n]+\n)/m, `$1\n${block}\n\n`)
 }
 export function updateCharacterProfiles(vault) {
@@ -53,7 +55,7 @@ export function updateCharacterProfiles(vault) {
     const ageNote = data['age-note'] ? `\n\n*Age estimate: ${data['age-note']}*` : ''
     const portrait = art || '*No player-approved portrait recorded.*'
     const block = `<!-- character-profile:start -->\n\n> [!character] Character quick reference\n>\n> > [!profile] Key information\n> >\n${quote(table(rows) + (notes ? '\n\n' + notes : '') + ageNote)}\n>\n> > [!portrait] Portrait\n> >\n${quote(portrait)}\n\n<!-- character-profile:end -->`
-    fs.writeFileSync(page.filename, insertAfterTitle(text, block).replace(/\n{4,}/g, '\n\n\n'))
+    writeIfChanged(page.filename, insertAfterTitle(text, block).replace(/\n{4,}/g, '\n\n\n'))
   }
 }
 export function updateLocationResidents(vault) {
@@ -85,7 +87,8 @@ export function updateLocationResidents(vault) {
     const header = '| NPC | Role | Faction / affiliation | Recorded current location | Status |\n| --- | --- | --- | --- | --- |'
     const body = rows.length ? rows.map(row => `| ${row.map(cell).join(' | ')} |`).join('\n') : '| None recorded | — | — | — | — |'
     const block = `<!-- location-residents:start -->\n\n## NPCs Currently Based Here\n\n${header}\n${body}\n\n*From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*\n\n<!-- location-residents:end -->`
-    const text = fs.readFileSync(location.filename, 'utf8').replace(residentsPattern, '')
-    fs.writeFileSync(location.filename, insertAfterTitle(text, block).replace(/\n{4,}/g, '\n\n\n'))
+    const text = fs.readFileSync(location.filename, 'utf8')
+    const updated = residentsPattern.test(text) ? text.replace(residentsPattern, block + '\n\n') : insertAfterTitle(text, block)
+    writeIfChanged(location.filename, updated.replace(/\n{4,}/g, '\n\n\n'))
   }
 }

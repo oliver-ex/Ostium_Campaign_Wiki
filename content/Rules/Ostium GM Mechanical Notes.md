@@ -5,11 +5,18 @@ tags:
 - gm
 - rules
 - daggerheart
+description: "Campaign guidance for infrastructure, faction conflict, and the Rot, with independent D&D and Daggerheart sections and labelled homebrew."
 ---
 
 > Narrative consequences are system-neutral unless labelled. All existing numerical profiles are campaign homebrew, not official stat blocks.
 
 # Ostium Mechanical Notes
+
+<!-- page-summary:start -->
+
+Campaign guidance for infrastructure, faction conflict, and the Rot, with independent D&D and Daggerheart sections and labelled homebrew.
+
+<!-- page-summary:end -->
 
 
 ## Design Priorities

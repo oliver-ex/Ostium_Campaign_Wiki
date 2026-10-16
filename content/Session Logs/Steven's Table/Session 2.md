@@ -10,9 +10,17 @@ tags: ["session"]
 pcs-present: ["[[Characters/Player Characters/Kalim Escara|Kalim Escara]]", "[[Characters/Player Characters/Cedric|Cedric]]", "[[Characters/Player Characters/Bilbron Bafflestone|Bilbron Bafflestone]]", "[[Characters/Player Characters/Moin Stonefist|Moin Stonefist]]"]
 previous: "[[Session Logs/Steven's Table/Session 1|Session 1]]"
 next: "[[Session Logs/Steven's Table/Session 3|Session 3]]"
+description: "Completed: Kalim, Cedric, Bilbron, and Moin formed a party in Mistbreak and began investigating Veritas’s death."
 ---
 
 # Session 2 — A New Party in Mistbreak
+
+<!-- page-summary:start -->
+
+Completed: Kalim, Cedric, Bilbron, and Moin formed a party in Mistbreak and began investigating Veritas’s death.
+
+<!-- page-summary:end -->
+
 
 ## Recap & Actual Events
 

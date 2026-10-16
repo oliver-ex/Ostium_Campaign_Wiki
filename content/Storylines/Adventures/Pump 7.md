@@ -9,11 +9,43 @@ status: prepared
 act: Act I
 aliases:
 - Pump 7 - GM
+description: "A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium."
 ---
 
 # Pump 7
 
-> No public adventure page exists yet. Create one from `_Templates/Adventure - Public.md` when the party learns about the job.
+<!-- page-summary:start -->
+
+A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+| Locations | [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] · [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] · [[Locations/Titan Works\|Titan Works]] |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+| Campaign & lore | [[Storylines/Acts/Act II - Beneath the Waterworks\|Act II - Beneath the Waterworks]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 ## Function in the Larger Arc
 

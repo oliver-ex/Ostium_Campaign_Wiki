@@ -3,9 +3,17 @@ title: Plot Threads and Mysteries
 type: planning
 tags:
 - planning
+description: "Track established truths, clues actually introduced, and unresolved questions separately for each table, without turning preparation into history."
 ---
 
 # Plot Threads and Mysteries
+
+<!-- page-summary:start -->
+
+Track established truths, clues actually introduced, and unresolved questions separately for each table, without turning preparation into history.
+
+<!-- page-summary:end -->
+
 
 ## Continuity Rule
 

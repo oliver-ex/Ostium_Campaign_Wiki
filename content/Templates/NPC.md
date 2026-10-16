@@ -12,9 +12,12 @@ pronouns: ''
 occupation: ''
 location: ''
 factions: []
+description: ''
 ---
 
 # NPC
+
+Write a short description in `description` above: who or what this is, and why it matters in play. The build places it directly below the title; keep unknowns and planned events explicit.
 
 The build generates a character quick reference from these properties, with the portrait on the right in Quartz. Add the portrait and attribution in a `campaign-artwork` block, register it in `Attachments/Artwork/artwork-manifest.json`, and record reuse terms before publication. Keep age estimates labelled.
 

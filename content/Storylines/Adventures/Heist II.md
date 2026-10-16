@@ -9,11 +9,29 @@ status: prepared
 act: Act II
 aliases:
 - Heist II - GM
+description: "A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships."
 ---
 
 # Heist II
 
-> No public adventure page exists yet. Create one from `_Templates/Adventure - Public.md` when the party learns about the job.
+<!-- page-summary:start -->
+
+A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
+| Locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
+| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
+
+<!-- page-connections:end -->
 
 ## Function in the Larger Arc
 

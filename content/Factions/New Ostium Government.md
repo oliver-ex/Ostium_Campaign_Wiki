@@ -7,33 +7,75 @@ tags:
 aliases:
 - New Ostium Government - GM
 status: active
+description: "The civic authority preserving New Ostium’s stability while resisting obligations to the old city that it fears it cannot sustain."
 ---
 
 # New Ostium Government
 
-<!-- campaign-artwork:start -->
+<!-- page-summary:start -->
 
-![A monumental civic waterfront lined with stone buildings, boats, and people.](../Attachments/Artwork/locations/new-ostium-civic-waterfront.webp)
+The civic authority preserving New Ostium’s stability while resisting obligations to the old city that it fears it cannot sustain.
 
-*Visual reference: Venice, The Doge’s Palace and the Riva degli Schiavoni — Canaletto (Giovanni Antonio Canal). [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Canaletto_(1697-1768)_-_Venice,_The_Doge%27s_Palace_and_the_Riva_degli_Schiavoni_-_NG940_-_National_Gallery.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
+<!-- page-summary:end -->
 
 
 ## At a Glance
 
-**True objective:** Preserve a functioning city under genuine resource constraints without being dragged back into an unlimited obligation for Old Ostium.\
-**Immediate pressure:** Old Ostium crises repeatedly cross the wall through water, refugees, smuggling, and political pressure.\
-**What they need:** Predictable infrastructure, public legitimacy, housing capacity, and controlled cooperation.\
-**What they fear:** A failure that causes New Ostium residents to believe the government sacrificed their stability for an unsolvable old-city crisis.\
-**How they might use the party:** Formal commissions, negotiation, permits, rescue authorizations, investigation, and infrastructure intervention.\
+| Pressure | What matters in play |
+| --- | --- |
+| True objective | Preserve a functioning city under genuine resource constraints without being dragged back into an unlimited obligation for Old Ostium. |
+| Immediate pressure | Old Ostium crises repeatedly cross the wall through water, refugees, smuggling, and political pressure. |
+| What they need | Predictable infrastructure, public legitimacy, housing capacity, and controlled cooperation. |
+| What they fear | A failure that causes New Ostium residents to believe the government sacrificed their stability for an unsolvable old-city crisis. |
+| How they might use the party | Formal commissions, negotiation, permits, rescue authorizations, investigation, and infrastructure intervention. |
 
-## Leadership Hierarchy
+## Where They Operate
 
-1. [[Characters/NPCs/Helena Orst|Helena Orst]] — First Councillor; principal political leader.
-2. **Elian Merrow** — Civic Commissioner; housing, refugee, and infrastructure portfolio.
-3. **Ren Varo** — City Marshal; security and border enforcement.
-4. **Asha Pellin** — Chief Clerk; records, permits, and council procedure.
+| Location | Activity / limits of influence |
+| --- | --- |
+| [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] | Political leadership, permits, and formal negotiations. |
+| [[Locations/New Ostium\|New Ostium]] | Civic administration, public services, and border controls. |
+| [[Locations/Old Ostium Pump 7\|Old Ostium Pump 7]] | Cross-wall infrastructure crisis; involvement does not establish ownership. |
+
+## Leadership & Relevant NPCs
+
+| Person | Role / connection |
+| --- | --- |
+| [[Characters/NPCs/Helena Orst\|Helena Orst]] | First Councillor; principal political leader. |
+| **Elian Merrow** | Civic Commissioner; housing, refugee, and infrastructure portfolio. |
+| **Ren Varo** | City Marshal; security and border enforcement. |
+| **Asha Pellin** | Chief Clerk; records, permits, and council procedure. |
+
+*Unlinked names have no standalone NPC page yet; roles below remain open preparation slots.*
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+| [[Storylines/Adventures/Rescue Mission\|Rescue Mission]] — prepared | A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart. |
+| [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
+
+<!-- page-connections:end -->
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Artwork & inspiration
+>
+> ![A monumental civic waterfront lined with stone buildings, boats, and people.](../Attachments/Artwork/locations/new-ostium-civic-waterfront.webp)
+>
+> *Visual reference: Venice, The Doge’s Palace and the Riva degli Schiavoni — Canaletto (Giovanni Antonio Canal). [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Canaletto_(1697-1768)_-_Venice,_The_Doge%27s_Palace_and_the_Riva_degli_Schiavoni_-_NG940_-_National_Gallery.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+
+<!-- campaign-artwork:end -->
 
 ## Relevant Roles to Populate Later
 
@@ -65,6 +107,11 @@ status: active
 - Politicians fear both humanitarian scandal and resource backlash.
 
 ## Relationships & Leverage
+
+| Faction | Relationship / leverage |
+| --- | --- |
+| [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] | Essential maintenance expertise makes material interdependence hard to deny. |
+| [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] | Can fund solutions but expects influence; useful cooperation risks political capture. |
 
 - [[Factions/Old Ostium Engineers|Old Ostium Engineers]] can embarrass claims of complete independence.
 - The Merchants Guild can fund solutions but expects influence.

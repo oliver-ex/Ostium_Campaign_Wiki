@@ -9,11 +9,36 @@ status: prepared
 act: Act II or III
 aliases:
 - Assassination - GM
+description: "A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach."
 ---
 
 # Assassination
 
-> No public adventure page exists yet. Create one from `_Templates/Adventure - Public.md` when the party learns about the job.
+<!-- page-summary:start -->
+
+A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach.
+
+<!-- page-summary:end -->
+
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
+| Locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
+| Factions | [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Best Defense\|The Best Defense]] — prepared | A prepared opportunity to disrupt a Shattered Axe raiding party before it attacks a surviving Old Ostium settlement. |
+| [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
+
+<!-- page-connections:end -->
 
 ## Function in the Larger Arc
 

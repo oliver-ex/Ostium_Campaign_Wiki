@@ -8,9 +8,34 @@ tags:
 parent-location: Titan Works
 aliases:
 - The Heart - GM
+description: "The wounded divine being at the centre of Ostium’s deepest works; its bleeding and infection connect the city’s collapse to the Rot."
 ---
 
 # The Heart
+
+<!-- page-summary:start -->
+
+The wounded divine being at the centre of Ostium’s deepest works; its bleeding and infection connect the city’s collapse to the Rot.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Act III destination and physical centre of the campaign's deepest wound\
+**What is changing:** The interred god is bleeding and infected as Old Ostium's collapse contaminates the system around it.\
+**Current controlling pressure:** Divine infection, unstable cognition, failing containment/stabilization, and the consequences of any intervention.\
+**Hidden danger:** A personified infection such as the Rot King may emerge here or act through the Rot, but this remains a development choice rather than mandatory fixed canon.\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Within | [[Locations/Titan Works\|Titan Works]] |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -24,10 +49,9 @@ aliases:
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -43,14 +67,6 @@ aliases:
 > > *Sintel — dragon cave concept — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Act III destination and physical centre of the campaign's deepest wound\
-**What is changing:** The interred god is bleeding and infected as Old Ostium's collapse contaminates the system around it.\
-**Current controlling pressure:** Divine infection, unstable cognition, failing containment/stabilization, and the consequences of any intervention.\
-**Hidden danger:** A personified infection such as the Rot King may emerge here or act through the Rot, but this remains a development choice rather than mandatory fixed canon.\
 
 ## Secrets & Hidden History
 

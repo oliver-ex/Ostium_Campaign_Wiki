@@ -7,9 +7,12 @@ tags:
 lore-status: Unknown
 act: ''
 related: []
+description: ''
 ---
 
 # Quest
+
+Write a short description in `description` above: who or what this is, and why it matters in play. The build places it directly below the title; keep unknowns and planned events explicit.
 
 ## Situation / Hook / Initiating Pressure
 

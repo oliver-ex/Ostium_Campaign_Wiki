@@ -17,48 +17,34 @@ Ostium is a divided city whose failing infrastructure, unequal access to care, a
 
 *Worldbuilding, Campaign Lore & DM Resources*
 
-## World
+## At the Table
 
-- [[Storylines/Ostium Campaign|Campaign overview]] · [[World Lore/World Lore|World history and lore]]
-- [[Locations/Locations|Geography and regions]] · [[World Lore/Auren Culture|Cultures and civilizations: the Auren]]
-- [[Locations/The Heart|Gods and mythology: the Heart]] · [[Creatures and Afflictions/The Rot|The Rot]]
-- [[Planning/Plot Threads and Mysteries|Ancient mysteries and open questions]]
+| I need to… | Open |
+| --- | --- |
+| Pick up the current situation | [[Planning/Campaign Dashboard|Campaign dashboard]] · [[Session Logs/Session Logs|Reports by table]] |
+| Run Oliver’s next session | [[Session Logs/Oliver's Table/Session 2|Session 2 outline]] · [[Storylines/Adventures/The Road to Ostium|Full adventure]] · [[Encounters/Roadside Ambush|Roadside Ambush]] |
+| Prepare Steven’s next session | [[Session Logs/Steven's Table/Session 5|Latest completed report]] · [[Session Logs/Steven's Table/Session 6|Blank Session 6 preparation]] |
+| Check what the PCs actually know | [[Planning/Plot Threads and Mysteries|Clue ledger and open threads]] · [[World Lore/Campaign Timeline|Timeline]] |
+| Find a person or faction | [[Characters/NPCs/NPCs|NPC roles and affiliations]] · [[Characters/Player Characters/Player Characters|PC roster]] · [[Factions/Factions|Faction agendas and contacts]] |
+| Find a place to run | [[Locations/Locations|Location directory]] · [[Encounters/Encounters|Encounters]] · [[Storylines/Adventures/Adventures|Prepared adventures]] |
 
-## Locations
+## Explore the Wiki
 
-- [[Locations/Ostium|Ostium]] · [[Locations/Old Ostium|Old Ostium]] · [[Locations/New Ostium|New Ostium]]
-- [[Locations/Mistbreak|Mistbreak]] · [[Locations/Torney Isles|Torney Isles]]
-- [[Locations/Locations|All locations]]
+| Subject | Starting points |
+| --- | --- |
+| Campaign | [[Storylines/Ostium Campaign|Campaign overview]] · [[Storylines/Acts/Acts|Act outlines]] |
+| Twin cities | [[Locations/Ostium|Ostium]] · [[Locations/Old Ostium|Old Ostium]] · [[Locations/New Ostium|New Ostium]] |
+| Northern leads | [[Locations/Mistbreak|Mistbreak]] · [[Locations/Torney Isles|Torney Isles]] · [[World Lore/Auren Culture|Auren Culture]] |
+| Illness and deeper lore | [[Creatures and Afflictions/The Rot|The Rot]] · [[Creatures and Afflictions/Frigid Woe|Frigid Woe]] · [[Locations/The Heart|The Heart]] · [[World Lore/World Lore|World lore]] |
+| Opening dilemmas | [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]] · [[Factions/The Shattered Axe|The Shattered Axe]] |
+| Objects | [[Items and Artifacts/Items and Artifacts|Items and artifacts]] |
 
-## Characters
+## GM Resources
 
-- [[Characters/Player Characters/Player Characters|Player character roster]]
-- [[Characters/NPCs/NPCs|NPC directory and relationships]]
+| Need | Reference |
+| --- | --- |
+| Resolve an uncertain action | [[Rules/System Guide#D&D 5e (2024)|D&D 5e (2024)]] · [[Rules/System Guide#Daggerheart|Daggerheart]] · [[Rules/Rules|All mechanical references]] |
+| Create a useful new page | [[Templates/Templates|Templates and page design]] |
+| Review art and handouts | [[Attachments/README|Campaign assets]] · [[Attachments/Artwork Credits|Artwork credits]] |
 
-## Factions
-
-- [[Factions/Factions|Faction directory and other factions]]
-- [[Factions/The Shattered Axe|The Shattered Axe]]
-
-## Adventures
-
-- [[Planning/Campaign Dashboard|Active priorities and adventure hooks]]
-- [[Storylines/Adventures/Adventures|Quest directory and prepared adventures]]
-- [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]]
-- [[Encounters/Encounters|Encounters]]
-- [[Session Logs/Oliver's Table/Session 2|Oliver’s next session — The Road to Ostium]]
-- [[Session Logs/Steven's Table/Session 6|Steven’s next session — blank preparation]]
-- [[Session Logs/Session Logs|Session index and previous reports]]
-
-## DM Resources
-
-- [[World Lore/Campaign Timeline|Campaign timeline]]
-- [[Planning/Plot Threads and Mysteries|Secrets, mysteries, and future plans]]
-- [[Rules/System Guide#D&D 5e (2024)|D&D 5e rules]] · [[Rules/System Guide#Daggerheart|Daggerheart guidance]]
-- [[Rules/Rules|All mechanical references]]
-- [[Session Logs/Session Logs|Session preparation]] · [[Templates/Templates|Templates]]
-- [[Items and Artifacts/Items and Artifacts|Items and artifacts]]
-- [[Creatures and Afflictions/Creatures and Afflictions|Creatures, Frigid Woe, and afflictions]]
-- [[Attachments/Artwork Credits|Artwork credits]]
-
-Use search for full-text lookup, the sidebar for folders, breadcrumbs for context, and backlinks/graph for relationships. Clues and outcomes in prep are planned possibilities until play establishes them. No in-world date or latest-session outcome has been invented.
+Use search for full-text lookup, the sidebar for folders, and connected-page tables to move between people, places, factions, and adventures. Preparation remains planned until reports establish what happened; the two tables have separate histories.

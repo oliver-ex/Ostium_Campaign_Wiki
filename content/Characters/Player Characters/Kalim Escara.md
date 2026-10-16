@@ -29,9 +29,17 @@ armour: null
 inventory: []
 system: D&D 5e (2024)
 species: Human
+description: "Kalim Escara is Max’s level-2 Human Bard. Further identity, backstory, and build choices remain the player’s to establish."
 ---
 
 # Kalim Escara
+
+<!-- page-summary:start -->
+
+Kalim Escara is Max’s level-2 Human Bard. Further identity, backstory, and build choices remain the player’s to establish.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -56,6 +64,20 @@ species: Human
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
+> | [[Session Logs/Steven's Table/Session 3\|Session 3 — The Glass Blades]] | Steven's Table | completed |
+> | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
+
+<!-- page-connections:end -->
 
 ## Identity
 

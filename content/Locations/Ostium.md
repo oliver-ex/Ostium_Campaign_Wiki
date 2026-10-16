@@ -8,9 +8,52 @@ aliases:
 - Ostium - GM
 region: Ostium
 status: active
+description: "A divided city whose old and new halves share failing infrastructure, unequal resources, and a wounded divine being buried beneath them."
 ---
 
 # Ostium
+
+<!-- page-summary:start -->
+
+A divided city whose old and new halves share failing infrastructure, unequal resources, and a wounded divine being buried beneath them.
+
+<!-- page-summary:end -->
+
+
+## Operational Summary
+
+**Why the party comes here:** Campaign hub and frame for the entire story\
+**What is changing:** The material interdependence between Old and New Ostium is becoming impossible to ignore.\
+**Current controlling pressure:** Scarcity, Rot, faction rivalry, and failing infrastructure.\
+**Hidden danger:** The deepest systems under Ostium are not merely civic engineering.\
+**Useful NPCs:** [[Characters/NPCs/Helena Orst|Helena Orst]], [[Characters/NPCs/Brock Drungur|Brock Drungur]]\
+
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] |
+| Locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
+| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+| Contained locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
+> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -38,10 +81,9 @@ status: active
 
 <!-- location-residents:end -->
 
-
 <!-- campaign-artwork:start -->
 
-> [!gallery] Visual inspiration
+> [!gallery]- Visual inspiration
 > These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
 >
 > > [!artwork] Classical reference
@@ -69,15 +111,6 @@ status: active
 > > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
-
-## Operational Summary
-
-**Why the party comes here:** Campaign hub and frame for the entire story\
-**What is changing:** The material interdependence between Old and New Ostium is becoming impossible to ignore.\
-**Current controlling pressure:** Scarcity, Rot, faction rivalry, and failing infrastructure.\
-**Hidden danger:** The deepest systems under Ostium are not merely civic engineering.\
-**Useful NPCs:** [[Characters/NPCs/Helena Orst|Helena Orst]], [[Characters/NPCs/Brock Drungur|Brock Drungur]]\
 
 ## Secrets & Hidden History
 

@@ -29,9 +29,17 @@ armour: null
 inventory: []
 system: D&D 5e (2024)
 species: Half-elf
+description: "Adran is Tygo’s level-1 Half-elf Cleric. Further identity, backstory, and build choices remain the player’s to establish."
 ---
 
 # Adran
+
+<!-- page-summary:start -->
+
+Adran is Tygo’s level-1 Half-elf Cleric. Further identity, backstory, and build choices remain the player’s to establish.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -55,7 +63,6 @@ species: Half-elf
 > > *No player-approved portrait recorded.*
 
 <!-- character-profile:end -->
-
 
 ## Identity
 

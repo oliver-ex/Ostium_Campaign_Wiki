@@ -21,9 +21,17 @@ first_appearance: ''
 lore-status: Established facts; suggestions marked Tentative
 location: Mistbreak
 session-appearances: []
+description: "An elven wizard who died of Frigid Woe in Mistbreak several months ago; Steven’s party began investigating his death."
 ---
 
 # Veritas
+
+<!-- page-summary:start -->
+
+An elven wizard who died of Frigid Woe in Mistbreak several months ago; Steven’s party began investigating his death.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -57,6 +65,29 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| Locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
+| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[World Lore/Auren Culture\|Auren Culture]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

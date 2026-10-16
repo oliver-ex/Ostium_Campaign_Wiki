@@ -5,9 +5,16 @@ tags:
 - gm
 aliases:
 - GM Dashboard
+description: "Start here before play: separate each table’s current situation from shared adventure preparation, then follow the people, places, and decisions in play."
 ---
 
 # Campaign Dashboard
+
+<!-- page-summary:start -->
+
+Start here before play: separate each table’s current situation from shared adventure preparation, then follow the people, places, and decisions in play.
+
+<!-- page-summary:end -->
 
 
 ## Current Situation

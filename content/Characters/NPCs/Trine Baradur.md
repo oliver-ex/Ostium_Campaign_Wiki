@@ -20,9 +20,17 @@ factions:
 first_appearance: ''
 location: New Ostium Market District
 session-appearances: []
+description: "A Guild acquisition factor seeking unusual goods and artifacts from Old Ostium, offering work where profit and civic consequences overlap."
 ---
 
 # Trine Baradur
+
+<!-- page-summary:start -->
+
+A Guild acquisition factor seeking unusual goods and artifacts from Old Ostium, offering work where profit and civic consequences overlap.
+
+<!-- page-summary:end -->
+
 
 <!-- character-profile:start -->
 
@@ -60,6 +68,30 @@ session-appearances: []
 
 <!-- character-profile:end -->
 
+<!-- page-connections:start -->
+
+## Connected Pages
+
+| Connection | Follow links |
+| --- | --- |
+| People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] |
+| Locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
+| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
+
+### Adventures & Encounters
+
+| Adventure / state | Situation |
+| --- | --- |
+| [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
+
+> [!example]- Session references
+> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+>
+> | Record | Table | State |
+> | --- | --- | --- |
+> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->
 
 ## At a Glance
 

@@ -7,9 +7,16 @@ tags:
 session: 0
 aliases:
 - Session 0 - GM Prep
+description: "Unassigned opening-session preparation for introducing the divided city, confirming player choices, and offering a route into The Prodigal Son."
 ---
 
 # Session 0
+
+<!-- page-summary:start -->
+
+Unassigned opening-session preparation for introducing the divided city, confirming player choices, and offering a route into The Prodigal Son.
+
+<!-- page-summary:end -->
 
 
 ## Session Goals
