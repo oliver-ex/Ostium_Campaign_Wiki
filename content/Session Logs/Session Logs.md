@@ -21,5 +21,6 @@ These older notes have no confirmed table assignment. Preserve them as preparati
 | --- | --- | --- | --- | --- |
 | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | session-prep | 0 | TBD | Planned |
 | [[Session Logs/Session Log 0\|Session Log 0]] | session-log | 0 | TBD | Unfilled |
+| [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | session-prep | 1 | TBD | Planned |
 
 ![[Session Logs/Session Logs.base#Session Logs]]

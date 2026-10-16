@@ -9,16 +9,21 @@ const sourcePages=readVault().filter(p=>p.filename.endsWith('.md'))
 const indexedPaths=new Set(Object.values(index).map(v=>v.filePath?.replace(/^content\//,'')))
 for(const page of sourcePages)if(!indexedPaths.has(page.filename.replace(/^content\//,'')))errors.push(`Source page missing from content/search index: ${page.filename}`)
 const origin='http://localhost'
-const basePath=process.env.PAGES_BASE_URL ? new URL(process.env.PAGES_BASE_URL).pathname.replace(/\/$/,'') : ''
+// Exercise a repository subpath even in local builds: root hosting can hide
+// excess ../ segments because URL resolution clamps them at the domain root.
+const basePath=process.env.PAGES_BASE_URL ? new URL(process.env.PAGES_BASE_URL).pathname.replace(/\/$/,'') : '/__quartz_preview__'
 for(const file of html){
  const text=fs.readFileSync(file,'utf8')
  for(const m of text.matchAll(/\b(href|src)="([^"]+)"/g)){
   const ref=m[2].replace(/&amp;/g,'&')
   if(/^(?:[a-z][a-z0-9+.-]*:|\/\/|data:)/i.test(ref))continue
   let url
-  try{url=new URL(ref,origin+'/'+path.relative(root,file).split(path.sep).join('/'))}catch{errors.push(`${path.relative(root,file)}: invalid URL`);continue}
+  try{url=new URL(ref,origin+basePath+'/'+path.relative(root,file).split(path.sep).join('/'))}catch{errors.push(`${path.relative(root,file)}: invalid URL`);continue}
   let pathname=decodeURIComponent(url.pathname)
-  if(basePath && (pathname===basePath || pathname.startsWith(basePath+'/')))pathname=pathname.slice(basePath.length)||'/'
+  if(basePath){
+   if(pathname!==basePath && !pathname.startsWith(basePath+'/')){errors.push(`${path.relative(root,file)}: URL escapes site base path: ${ref}`);continue}
+   pathname=pathname.slice(basePath.length)||'/'
+  }
   let target=path.join(root,pathname)
   const options=[target,`${target}.html`,path.join(target,'index.html')]
   target=options.find(p=>fs.existsSync(p)&&fs.statSync(p).isFile())
