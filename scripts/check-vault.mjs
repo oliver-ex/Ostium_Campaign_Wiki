@@ -4,6 +4,17 @@ import { readVault, walk } from './vault.mjs'
 
 const withheld = new Set(JSON.parse(fs.readFileSync('publication-artwork.json','utf8')).withheld.map(a => path.resolve('content',a.file)))
 const pages=readVault(), errors=[], warnings=[]
+// Conflict copies are excluded from publication, but must still be reconciled
+// in the source vault rather than silently accumulating in Obsidian.
+function checkConflicts(dir) {
+ for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+  if (entry.name.startsWith('.')) continue
+  const filename=path.join(dir,entry.name)
+  if (/edit conflict/i.test(entry.name)) errors.push(`Unresolved edit conflict: ${filename}`)
+  else if (entry.isDirectory()) checkConflicts(filename)
+ }
+}
+checkConflicts('content')
 const files=walk('content'), aliases=new Map()
 const add=(key,page)=>{if(!aliases.has(key))aliases.set(key,[]); if(!aliases.get(key).includes(page))aliases.get(key).push(page)}
 for(const p of pages){
@@ -15,6 +26,7 @@ for(const p of pages){
  if(p.filename.endsWith('.md')&&!p.data.title)warnings.push(`${p.filename}: no title frontmatter`)
  if(p.data['public-counterpart'])errors.push(`${p.filename}: obsolete paired-page metadata`)
  const body=p.body.replace(/```[\s\S]*?```/g,'')
+ if (/^(?:<<<<<<< |=======\s*$|>>>>>>> )/m.test(body)) errors.push(`${p.filename}: unresolved merge markers`)
  for(const match of body.matchAll(/!?\[\[([^\]]+)\]\]/g)){
   const raw=match[1].replace(/\\\|/g,'|').split('|')[0], [target,anchor]=raw.split('#')
   if(!target&&!anchor)continue

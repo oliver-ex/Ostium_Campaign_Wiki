@@ -29,6 +29,25 @@ Islands near Mistbreak on the northern coast, far from Ostium, once inhabited by
 <!-- page-summary:end -->
 
 
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A rocky island with cypresses, buildings cut into stone, and a small boat.](../Attachments/Artwork/locations/torney-isles-island-study.webp)
+> >
+> > *Island of the Dead, third version — Arnold Böcklin. [Source](https://commons.wikimedia.org/wiki/File:Arnold_Boecklin_-_Island_of_the_Dead,_Third_Version.JPG) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Classical reference
+> >
+> > ![Steep pale sea cliffs frame a distant cold blue sea, with small figures in the foreground.](../Attachments/Artwork/locations/torney-isles-chalk-cliffs.webp)
+> >
+> > *Chalk Cliffs on Rügen — Caspar David Friedrich. [Source](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich%27s_Chalk_Cliffs_on_R%C3%BCgen.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
+<!-- campaign-artwork:end -->
+
 <!-- page-connections:start -->
 
 ## Connected Pages
@@ -62,32 +81,6 @@ Location links are document references; geographic containment is shown in the W
 *From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
 
 <!-- location-residents:end -->
-
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A rocky island with cypresses, buildings cut into stone, and a small boat.](../Attachments/Artwork/locations/torney-isles-island-study.webp)
-> >
-> > *Island of the Dead, third version — Arnold Böcklin. [Source](https://commons.wikimedia.org/wiki/File:Arnold_Boecklin_-_Island_of_the_Dead,_Third_Version.JPG) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Classical reference
-> >
-> > ![Steep pale sea cliffs frame a distant cold blue sea, with small figures in the foreground.](../Attachments/Artwork/locations/torney-isles-chalk-cliffs.webp)
-> >
-> > *Chalk Cliffs on Rügen — Caspar David Friedrich. [Source](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich%27s_Chalk_Cliffs_on_R%C3%BCgen.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A fantastical settlement assembled from boats over turquoise water beside a curling wave.](../Attachments/Artwork/locations/revoy-boat-city.webp)
-> >
-> > *Boat City — David Revoy. [Source](https://www.davidrevoy.com/article144/boat-city) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 
 - Islands off the northern coast, near the independent town of [[Locations/Mistbreak|Mistbreak]], far north of Ostium. This northern setting is outside Ostium’s city districts and jurisdiction; local political details remain TBD.
 - Formerly inhabited by the ancient [[World Lore/Auren Culture|Auren Culture]], a civilization that battled the gods.

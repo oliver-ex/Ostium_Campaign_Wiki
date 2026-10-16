@@ -22,6 +22,25 @@ A living hospital community strained by the Rot, protection levies, and failing 
 <!-- page-summary:end -->
 
 
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![Hospital attendants wash and care for a patient among beds and other patients.](../Attachments/Artwork/locations/hospital-care.webp)
+> >
+> > *Caring for the Sick, Pellegrinaio fresco detail — Domenico di Bartolo. [Source](https://commons.wikimedia.org/wiki/File:Pellegrinaio_Santa_Maria_della_Scala_n5.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![Layered timber and stone buildings linked by elevated walkways.](../Attachments/Artwork/locations/revoy-ishtar-streets.webp)
+> >
+> > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
 ## Operational Summary
 
 **Why the party comes here:** Moral centre of the opening arc and proof that Old Ostium is inhabited, organized, and worth caring about\
@@ -46,14 +65,8 @@ Location links are document references; geographic containment is shown in the W
 
 | Adventure / state | Situation |
 | --- | --- |
+| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
 | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
 
 <!-- page-connections:end -->
 
@@ -70,25 +83,6 @@ Location links are document references; geographic containment is shown in the W
 *From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
 
 <!-- location-residents:end -->
-
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![Hospital attendants wash and care for a patient among beds and other patients.](../Attachments/Artwork/locations/hospital-care.webp)
-> >
-> > *Caring for the Sick, Pellegrinaio fresco detail — Domenico di Bartolo. [Source](https://commons.wikimedia.org/wiki/File:Pellegrinaio_Santa_Maria_della_Scala_n5.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![Layered timber and stone buildings linked by elevated walkways.](../Attachments/Artwork/locations/revoy-ishtar-streets.webp)
-> >
-> > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
 
 ## Secrets & Hidden History
 

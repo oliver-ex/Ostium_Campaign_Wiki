@@ -1,0 +1,12 @@
+{
+  "title": "Arla Gerrin — campaign portrait",
+  "created": "2026-10-16",
+  "tool": "Built-in image_gen",
+  "reference_images": [],
+  "prompt": "Use case: stylized-concept. Asset type: individual portrait of Arla Gerrin for the Ostium campaign wiki. Subject: an experienced female Gnome apothecary, chronically overworked caring for patients in a struggling hospital district. Mature lined face, subtly pointed ears, white hair tied back practically, thoughtful observant eyes, weary but compassionate expression. Gnomish identity conveyed with believable facial anatomy and subtle proportions, not a caricature or child. Chest-up three-quarter portrait with the whole head visible and generous margins. Simple worn linen and wool working clothes, practical apothecary apron, no hands or props needed. Muted background suggesting a plain infirmary wall, no legible labels. Sophisticated painterly realism matching serious fantasy character portraits, warm earth pigments, natural directional light, finely painted face and cloth texture, quiet dignity and competent presence. Premium book illustration finish, detailed and grounded. Avoid cartoons, anime, chibi, huge head or nose, cute doll proportions, flat outlines, plastic or toy render, glowing potions, flamboyant costume, wizard hat, weapons, magic effects, text, watermark, frame, signature. Her recorded age of 72 is a proposed estimate for a gnome, not a confirmed biography. Hair, complexion, clothes and incidental appearance are proposed visual interpretation, not new canon or equipment. Generate a completely new portrait without third-party reference images. Portrait aspect ratio 4:5.",
+  "asset": "Attachments/Artwork/npcs/arla-gerrin.webp",
+  "changes": "Generated for the campaign, resized down and converted to WebP; full composition retained.",
+  "interpretation": "Proposed appearance only. Age 72 remains a proposed estimate; hair, facial features, clothing, and background do not establish biography, equipment, or mechanics.",
+  "sourcing_note": "Reviewed the existing campaign artwork collection. Existing portraits did not meet the requested grounded style and character brief; generated a replacement at the GM’s explicit request.",
+  "supersedes": "oasiswinds, Older Gnome Character Design Commission (CC BY-NC-ND 3.0), https://www.deviantart.com/oasiswinds/art/Older-Gnome-Character-Design-Commission-909716251"
+}

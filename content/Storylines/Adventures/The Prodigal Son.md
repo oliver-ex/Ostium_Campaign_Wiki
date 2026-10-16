@@ -8,6 +8,9 @@ status: prepared
 act: Act I
 aliases:
 - The Prodigal Son - GM
+- Session 1 - The Prodigal Son Prep
+- Session 1 - The Prodigal Son - GM Prep
+- Session Logs/Session 1 - The Prodigal Son Prep
 description: "A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering."
 ---
 
@@ -29,7 +32,7 @@ Location links are document references; geographic containment is shown in the W
 | Connection | Follow links |
 | --- | --- |
 | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Mara Voss\|Mara Voss]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Referenced locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] |
+| Referenced locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] |
 | Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
 | Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
 
@@ -80,7 +83,7 @@ Reach Taran and resolve the conflict between Egbert's demand for safety and Tara
 - [[Characters/NPCs/Egbert Lusat|Egbert Lusat]] — patron.
 - [[Characters/NPCs/Taran Lusat|Taran Lusat]] — target who has good reasons not to leave.
 - [[Characters/NPCs/Mara Voss|Mara Voss]] — demonstrates settlement stakes.
-- [[Characters/NPCs/Brock Drungur|Brock Drungur]] — optional engineering contact.
+- [[Characters/NPCs/Brock Drungur|Brock Drungur]] — optional engineering contact who needs capable help without losing essential workers.
 
 ## Locations
 
@@ -96,13 +99,13 @@ Reach Taran and resolve the conflict between Egbert's demand for safety and Tara
 
 ## Likely Scenes
 
-These are modular possibilities, not a fixed sequence.
+These are modular possibilities, not a fixed sequence. This preparation is unassigned and unplayed; it establishes no completed session. Make Egbert sympathetic, cross into Old Ostium early, and give room for conversation and exploration.
 
 1. Egbert's briefing in New Ostium: establish love, fear, wealth, and his simplified view of Taran's situation.
 2. Crossing into Old Ostium: show why small parties can move where armies cannot.
-3. Hospital District arrival: Taran is actively solving a problem or maintaining water rather than passively waiting.
+3. Arrival at [[Locations/Old Ostium Hospital District|the Hospital District]]: meet Mara and show Taran actively solving a problem or maintaining water rather than passively waiting.
 4. Conversation with Taran and residents: reveal that leaving creates immediate practical risk.
-5. Optional pressure scene: raiders, a Rot-afflicted threat, or a water failure gives players a combat/exploration route without requiring violence.
+5. Optional pressure scene: raiders, a Rot-afflicted threat, or a water failure gives players a combat/exploration route without requiring violence. Combat can spotlight danger and community stakes, but does not settle the family dilemma.
 6. Resolution: force no single answer; let the party construct or fail to construct a compromise.
 
 ## Obstacles & Complications
@@ -155,7 +158,7 @@ Only two vials exist in this local stock. Negotiation changes ownership/access, 
 
 ## Clues & Revelations
 
-- Taran's affliction should be noticed gradually.
+- Taran's affliction should be noticed gradually: a lapse or fixation, a momentary sensory or cognitive oddity, fatigue, or another NPC’s concern. Reveal the diagnosis when player actions uncover it.
 - Taran's local water expertise is genuinely essential.
 - Egbert's fear is grounded in what happened to his wife.
 
@@ -189,7 +192,7 @@ Only two vials exist in this local stock. Negotiation changes ownership/access, 
 ## Arc Connections
 
 - Introduces the moral logic of Ostium.
-- Seeds [[Storylines/Adventures/Pump 7|Pump 7]] through Taran/Brock and fragile water systems.
+- Seeds [[Storylines/Adventures/Pump 7|Pump 7]] through Taran/Brock and fragile water systems; further Hospital District work or contact with the Engineers can follow any resolution.
 - Establishes the Rot as personal before it becomes cosmic.
 
 ## PC Knowledge

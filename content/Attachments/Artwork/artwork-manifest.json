@@ -455,25 +455,23 @@
     {
       "id": "arla-gerrin",
       "file": "Attachments/Artwork/npcs/arla-gerrin.webp",
-      "title": "Older Gnome Character Design Commission",
-      "artist": "oasiswinds",
-      "alt": "An older gnome woman with white hair, a walking stick, and bottles at her belt.",
-      "width": 807,
-      "height": 990,
-      "bytes": 80236,
-      "sha256": "cf6d1d2a58b45891999a229836b72fe0cbe7f4f1173181ea2b1b29b5b20a79bc",
+      "title": "Arla Gerrin — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "A weary, compassionate gnome apothecary with white hair, subtly pointed ears, and a worn linen apron.",
       "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
       "pages": [
         "Characters/NPCs/Arla Gerrin"
       ],
-      "source": "https://www.deviantart.com/oasiswinds/art/Older-Gnome-Character-Design-Commission-909716251",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/38593cb3-00e3-4d3f-8c47-ffb252b33297/df1mdjv-b3c6997c-6348-478a-87d4-926fa4dfdab7.jpg/v1/fill/w_807,h_990,q_70,strp/older_gnome_character_design_commission_by_oasiswinds_df1mdjv-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3MCIsInBhdGgiOiIvZi8zODU5M2NiMy0wMGUzLTRkM2YtOGM0Ny1mZmIyNTJiMzMyOTcvZGYxbWRqdi1iM2M2OTk3Yy02MzQ4LTQ3OGEtODdkNC05MjZmYTRkZmRhYjcuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.nec1T83SyaMXibpevFfuu2iw9do46dHjrQKJFbqjDrE",
-      "license": "CC BY-NC-ND 3.0",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "The artist publication displays CC BY-NC-ND 3.0. The full composition is retained, with only format conversion and proportional resizing.",
-      "interpretation": "Gnome healer and practical equipment reference.",
-      "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP; full composition retained.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed appearance only. Age 72 remains a proposed estimate; hair, facial features, clothing, and background do not establish biography, equipment, or mechanics.",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 235358,
+      "sha256": "06171c203e559cc077b3440a59e071df9267d2266e99f6655c445b6402faa022"
     },
     {
       "id": "senn-vale-labourer",
@@ -689,30 +687,6 @@
       "height": 557,
       "bytes": 103316,
       "sha256": "29cabee00add2a5b2fd1f2307fd06d3f22a6eab2c81e0bc58653d9755e9890be"
-    },
-    {
-      "id": "revoy-boat-city",
-      "file": "Attachments/Artwork/locations/revoy-boat-city.webp",
-      "title": "Boat City",
-      "artist": "David Revoy",
-      "alt": "A fantastical settlement assembled from boats over turquoise water beside a curling wave.",
-      "kind": "locations",
-      "changes": "Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.",
-      "pages": [
-        "Locations/Mistbreak",
-        "Locations/Torney Isles"
-      ],
-      "source": "https://www.davidrevoy.com/article144/boat-city",
-      "download": "https://www.davidrevoy.com/data/images/blog/2012/11/Boat-city_by-David-Revoy.jpg",
-      "license": "CC-BY-4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "medium": "Artist-created fantasy environment concept art",
-      "rights_note": "Artist source page records CC-BY 4.0.",
-      "interpretation": "Coastal construction and maritime fantasy mood only; no new creatures, tropical climate, or literal settlement geography are established.",
-      "width": 1280,
-      "height": 616,
-      "bytes": 153930,
-      "sha256": "e09ac38e128f22b55c50e0ac02efcd49f492bc6fd857676c529da1f2741f3fe4"
     },
     {
       "id": "calev-marr-age41",
@@ -1099,25 +1073,23 @@
     {
       "id": "aaron-fortisax-portrait",
       "file": "Attachments/Artwork/npcs/aaron-fortisax.webp",
-      "title": "Dragon like character design",
-      "artist": "hcjrArt",
-      "alt": "A horned golden-scaled dragon humanoid wearing green armor against a plain grey background.",
-      "width": 1000,
-      "height": 1287,
-      "bytes": 57946,
-      "sha256": "fa0fcc4e17e7fb64a1cef726375131214434ef72a9c00b99a08c8b04d0cc60cf",
+      "title": "Aaron Fortisax — campaign portrait",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "An imposing Dragonborn commander with finely textured scales, sweeping horns, and substantial steel armor in warm directional light.",
       "kind": "npcs",
-      "changes": "Resized down and converted to WebP; full composition retained.",
       "pages": [
         "Characters/NPCs/Aaron Fortisax"
       ],
-      "source": "https://opengameart.org/content/dragon-like-character-design",
-      "download": "https://opengameart.org/sites/default/files/art_04cropped.png",
-      "license": "CC BY 4.0",
-      "license_url": "https://creativecommons.org/licenses/by/4.0/",
-      "medium": "Digital character concept illustration",
-      "rights_note": "Creator hcjrArt lists CC BY 4.0 on the original OpenGameArt publication; verified 2026-10-16.",
-      "interpretation": "Proposed visual reference for Aaron only. Scale color, horns, armor, and incidental details do not establish canon, draconic ancestry, equipment, or mechanics."
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy portrait",
+      "changes": "Generated for the campaign, resized down and converted to WebP; full composition retained.",
+      "rights_note": "Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed visual reference only. Scale coloration, horns, armor, and background do not establish ancestry subtype, equipment, deity, oath, personal history, or mechanics.",
+      "width": 1000,
+      "height": 1250,
+      "bytes": 238600,
+      "sha256": "fca631378b527abc25d1a31b4255f1a1eb368502498b7636c5c49a4cf7fa5c33"
     },
     {
       "id": "mira-vey-portrait",
@@ -1324,8 +1296,7 @@
       "status": "illustrated",
       "images": [
         "mistbreak-fishing-village",
-        "mistbreak-harbor",
-        "revoy-boat-city"
+        "mistbreak-harbor"
       ]
     },
     {
@@ -1465,8 +1436,7 @@
       "status": "illustrated",
       "images": [
         "torney-isles-island-study",
-        "torney-isles-chalk-cliffs",
-        "revoy-boat-city"
+        "torney-isles-chalk-cliffs"
       ]
     },
     {

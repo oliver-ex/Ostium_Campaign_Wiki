@@ -1,0 +1,12 @@
+{
+  "title": "Aaron Fortisax — campaign portrait",
+  "created": "2026-10-16",
+  "tool": "Built-in image_gen",
+  "reference_images": [],
+  "prompt": "Use case: stylized-concept. Asset type: final individual portrait for Aaron Fortisax in the Ostium campaign wiki. Subject: an imposing male Dragonborn paladin, commander of a formidable, well-funded civic guard. Create a striking, mature, grounded fantasy portrait with the finish of a premium illustrated fantasy book cover: anatomically convincing draconic face, powerful restrained presence, intelligent watchful eyes, finely resolved natural scales, strong silhouette, substantial carefully crafted steel armor with believable construction, restrained patina, cloth and leather with tactile detail. Chest-up three-quarter portrait, entire head and horns comfortably within frame, face clearly visible, dignified still pose, no hands needed in frame. Cinematic directional light across face and metal, deep atmospheric shadow with readable features, understated blurred stone architectural backdrop. Rich but restrained natural color, nuanced light and material texture, sophisticated painterly realism and confident fine brushwork. Serious and formidable without a villain caricature. No cartoon, anime, comic ink outlines, chibi, toy-like proportions, plastic surfaces, gaudy green armor, oversized ornaments, cheap game render, flat grey cutout background, simplistic airbrush, low-detail sketch, lettering, watermark, signature, frame, insignia, magical effects, divine symbols, or visible weapons. Scale coloration and armor design are proposed visual interpretation only; no deity, oath, ancestry subtype, equipment statistics, personal history, or other new canon is established. Generate a brand new character interpretation; do not reuse the previous cartoonish portrait. Portrait aspect ratio 4:5.",
+  "asset": "Attachments/Artwork/npcs/aaron-fortisax.webp",
+  "changes": "Generated for the campaign, resized down and converted to WebP; full composition retained.",
+  "interpretation": "Proposed visual reference only. Scale coloration, horns, armor, and background do not establish ancestry subtype, equipment, deity, oath, personal history, or mechanics.",
+  "sourcing_note": "Reviewed the existing campaign artwork collection. Existing portraits did not meet the requested grounded style and character brief; generated a replacement at the GM’s explicit request.",
+  "supersedes": "hcjrArt, Dragon like character design (CC BY 4.0), https://opengameart.org/content/dragon-like-character-design"
+}

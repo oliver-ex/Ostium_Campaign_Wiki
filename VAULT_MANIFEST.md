@@ -10,21 +10,21 @@ The authoritative Obsidian vault is `content/`. It is now one comprehensive DM/c
 - `Locations/` — 16 locations and directory.
 - `Factions/` — seven factions and directory, including the Shattered Axe and New Ostium City Guard.
 - `Storylines/` — campaign spine, three act outlines, and nine prepared adventures.
-- `Session Logs/` — separate `Steven's Table/` and `Oliver's Table/` histories and preparation; earlier unassigned notes remain at the root. Steven has five completed summaries and blank Session 6 prep; Oliver has a completed Session 1 summary and a Session 2 outline. The canonical Road to Ostium adventure is in `Storylines/Adventures/`.
+- `Session Logs/` — separate `Steven's Table/` and `Oliver's Table/` histories and preparation; unassigned opening preparation remains at the root. The duplicate Prodigal Son prep is merged into its adventure; the generic empty Session Log 0 is retired. Steven has five completed summaries and blank Session 6 prep; Oliver has a completed Session 1 summary and a Session 2 outline. The canonical Road to Ostium adventure is in `Storylines/Adventures/`.
 - `World Lore/` — Auren history and relative campaign timeline.
 - `Creatures and Afflictions/` — Frigid Woe and the Rot, kept distinct.
 - `Rules/` — dual-system policy and preserved campaign mechanics.
 - `Planning/` — dashboard, mysteries, refactor report, migration inventory, and retired earlier report.
 - `Encounters/` — encounter navigation; existing encounter material remains in its canonical session/adventure pages.
 - `Items and Artifacts/` — category ready for individually established items; no new item canon invented.
-- `Attachments/` — campaign assets, Carl's proposed letter handout, artwork credits, sourcing backlog, and local artwork.
+- `Attachments/` — campaign assets, Carl's proposed letter handout, artwork credits with remaining portrait choices, and local artwork.
 - `Templates/` — 12 current templates; Legacy and Examples retain prior references without becoming campaign canon.
 
 All paths above are relative to `content/`. Obsidian Bases continue to work; Markdown directory tables are regenerated from entity files by `npm run directories` and during builds.
 
 ## Artwork and Quick References
 
-All 24 canonical NPCs have publishable portraits, including Aaron Fortisax (existing CC BY 4.0 concept art) and Mira Vey (generated campaign portrait). The active register contains 51 artworks and 69 placements across the 46 NPC/location/faction pages; 18 portraits are AI-generated campaign references with saved prompts and tool provenance. The former local-only portraits have been superseded. Calev and Carl have age-appropriate classical replacements. Location mood boards retain existing classical and fantasy art with artist credits and recorded terms.
+All 24 canonical NPCs have publishable portraits, including Aaron Fortisax, Arla Gerrin, and Mira Vey (generated campaign portraits). The active register contains 50 artworks and 67 placements across the 46 NPC/location/faction pages; 20 portraits are AI-generated campaign references with saved prompts and tool provenance. The former local-only portraits have been superseded. Calev and Carl have age-appropriate classical replacements. Location mood boards retain existing classical and fantasy art with artist credits and recorded terms.
 
 All 32 character pages have a generated quick reference: key information on the left and portrait or player-approved-portrait placeholder on the right in Quartz, stacking on mobile. Headers use the original metadata and portrayal notes. New NPC age estimates are labelled; PC metadata and player-owned choices remain unchanged.
 
@@ -34,7 +34,7 @@ All 16 location pages have generated NPC tables drawn from current-location reco
 
 ## Page Design and Connections
 
-Campaign entities and session records have short, authored `description` properties rendered directly below their titles. Factions lead with pressures, linked operating areas, and NPC roles; characters retain their portrait cards; locations show their operational summary before artwork. Faction/location illustrations and session-reference tables can be expanded when needed. The homepage provides task-based navigation, and directories use compact tables.
+Campaign entities and session records have short, authored `description` properties rendered directly below their titles. Factions lead with pressures, linked operating areas, and NPC roles; characters retain their portrait cards; locations show visual inspiration directly below the opening description, then the operational summary. Faction/location illustrations and session-reference tables can be expanded when needed. The homepage provides task-based navigation, and directories use compact tables.
 
 `npm run directories` also maintains `page-summary` and `page-connections` blocks. Descriptions are edited in frontmatter; faction operating areas and NPC role tables remain authored Markdown. Connections come from authored wikilinks, excluding generated blocks so links cannot recursively invent relationships. Adventure/encounter references work in both directions; location pages also collect faction references. Session mentions retain table/status labels and do not establish appearances, PC knowledge, or completed events. Unchanged generated pages are not rewritten, reducing cloud-sync churn. Proton Drive `Edit conflict` copies are excluded from vault reads, Git, and Quartz publication; preserved copies live under the ignored `.vault-refactor/edit-conflicts-2026-10-16/`. Current templates explain the layout and editing workflow; Legacy and Examples remain preserved references.
 
@@ -63,3 +63,7 @@ Treat GitHub Pages as publicly accessible unless independent access controls are
 The migration inventory records all 124 original file paths and their canonical destinations. The ignored `.vault-refactor/before.tar.gz` contains the exact pre-refactor content snapshot. No original working-tree lore was discarded, no PC statistics were invented, and all 56 existing numeric NPC/environment lines were preserved. Retired instructions are provenance, not current policy.
 
 See `content/Planning/Wiki Refactor Report.md` for browser results, unresolved continuity decisions, and deployment limitations.
+
+## Vault Cleanup — 2026-10-16
+
+Six stale faction conflict copies were compared against canonical authored content and removed from the vault; all their authored lines were already retained. The empty Session Log 0 was retired, Prodigal Son prep was merged into its canonical adventure with former titles retained as aliases, and remaining portrait choices were consolidated into Artwork Credits. Removed originals and a hash inventory are preserved outside the vault under the ignored `.vault-refactor/cleanup-2026-10-16/`. Completed reports, substantive preparation, live category views, Legacy templates, Examples, and historical reports remain.

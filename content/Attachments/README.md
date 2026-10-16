@@ -10,7 +10,7 @@ tags:
 Campaign handouts, maps, images, and other assets belong here.
 
 - [[Attachments/Artwork Credits|Artwork credits and reuse terms]]
-- [[Attachments/Artwork Sourcing Backlog|Portrait refinements and sourcing notes]]
+- [[Attachments/Artwork Credits#Remaining Character Choices|Portrait choices and refinements]]
 
 - [[Attachments/Carl Marsh - Unsent Letter|Carl Marsh - Unsent Letter]]
 

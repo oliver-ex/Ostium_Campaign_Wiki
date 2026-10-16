@@ -49,9 +49,9 @@ The Dragonborn Paladin commanding New Ostium’s formidable, well-funded City Gu
 > >
 > > <!-- campaign-artwork:start -->
 > >
-> > ![A horned golden-scaled dragon humanoid wearing green armor against a plain grey background.](../../Attachments/Artwork/npcs/aaron-fortisax.webp)
+> > ![An imposing Dragonborn commander with finely textured scales, sweeping horns, and substantial steel armor in warm directional light.](../../Attachments/Artwork/npcs/aaron-fortisax.webp)
 > >
-> > *Visual reference: Dragon like character design — [hcjrArt](https://opengameart.org/content/dragon-like-character-design), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); resized and converted to WebP. Proposed appearance only. [[Attachments/Artwork Credits|Credits and interpretation]].*
+> > *Visual reference: Aaron Fortisax — campaign portrait — OpenAI image generation, directed for the campaign. Proposed appearance only. [[Attachments/Artwork Credits|Credits and interpretation]].*
 > >
 > > <!-- campaign-artwork:end -->
 

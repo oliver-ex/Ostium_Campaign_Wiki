@@ -90,7 +90,6 @@ Location links are document references; geographic containment is shown in the W
 > | Record | Table | State |
 > | --- | --- | --- |
 > | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
-> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
 
 <!-- page-connections:end -->
 

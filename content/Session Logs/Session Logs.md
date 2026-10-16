@@ -15,12 +15,10 @@ Session numbering and outcomes are separate for each table. Completed GM summari
 
 ## Earlier Unassigned Material
 
-These older notes have no confirmed table assignment. Preserve them as preparation/reference; Session Log 0 is unfilled.
+The remaining opening preparation has no confirmed table assignment. The Prodigal Son preparation is consolidated into [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]]; create future reports from [[Templates/Session Report|Session Report]].
 
 | Document | Kind | Session | Date | Status |
 | --- | --- | --- | --- | --- |
 | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | session-prep | 0 | TBD | Planned |
-| [[Session Logs/Session Log 0\|Session Log 0]] | session-log | 0 | TBD | Unfilled |
-| [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | session-prep | 1 | TBD | Planned |
 
 ![[Session Logs/Session Logs.base#Session Logs]]

@@ -50,7 +50,7 @@ Quartz's reused framework code retains its MIT license in `LICENSE.txt`. Framewo
 - `quartz.config.ts` and `quartz.layout.ts`: native Quartz configuration and navigation.
 - `scripts/`: directory generation, vault/artwork audits, and generated-site checks.
 - `.github/workflows/deploy.yml`: one Actions publisher for `main`; pull requests validate without deploying.
-- `publication-artwork.json`: superseded copyrighted originals remain excluded from Git and the public build. All 24 current NPC portraits are publishable; the active register has 51 artworks in 69 placements. Exact generation prompts and existing-artwork source terms are retained under `content/Attachments/Artwork/`.
+- `publication-artwork.json`: superseded copyrighted originals remain excluded from Git and the public build. All 24 current NPC portraits are publishable; the active register has 50 artworks in 67 placements. Exact generation prompts and existing-artwork source terms are retained under `content/Attachments/Artwork/`.
 
 Editor state, credentials, local backups, dependencies, and generated `public/` output are ignored. Every campaign Markdown page, including templates and secrets, is included. Quartz 4 displays the automatically generated directory tables in place of interactive `.base` embeds; the original Bases remain usable in Obsidian.
 

@@ -31,6 +31,25 @@ An independent fishing town far north of Ostium, near the Torney Isles, where th
 <!-- page-summary:end -->
 
 
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![Fishing boats and working villagers along a cold snowy coast.](../Attachments/Artwork/locations/mistbreak-fishing-village.webp)
+> >
+> > *Fishing Village on the Norwegian Coast — Ludvig Munthe. [Source](https://commons.wikimedia.org/wiki/File:Ludvig_Munthe_-_Fishing_Village_on_the_Norwegian_Coast_-_NG.M.00296_-_National_Museum_of_Art,_Architecture_and_Design.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Classical reference
+> >
+> > ![A working fishing harbor surrounded by weathered houses, boats, and steep northern mountains.](../Attachments/Artwork/locations/mistbreak-harbor.webp)
+> >
+> > *A Fishing Village in the North of Norway — Adelsteen Normann. [Source](https://commons.wikimedia.org/wiki/File:Adelsteen_Normann_-_A_fishing_Village_in_the_North_of_Norway_-_NG.M.04360_-_National_Museum_of_Art,_Architecture_and_Design.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
+<!-- campaign-artwork:end -->
+
 <!-- page-connections:start -->
 
 ## Connected Pages
@@ -55,7 +74,6 @@ Location links are document references; geographic containment is shown in the W
 >
 > | Record | Table | State |
 > | --- | --- | --- |
-> | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] | Unassigned | Planned |
 > | [[Session Logs/Steven's Table/Session 1\|Session 1 — The Wizard’s Tower Basement]] | Steven's Table | completed |
 > | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
 
@@ -72,32 +90,6 @@ Location links are document references; geographic containment is shown in the W
 *From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
 
 <!-- location-residents:end -->
-
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![Fishing boats and working villagers along a cold snowy coast.](../Attachments/Artwork/locations/mistbreak-fishing-village.webp)
-> >
-> > *Fishing Village on the Norwegian Coast — Ludvig Munthe. [Source](https://commons.wikimedia.org/wiki/File:Ludvig_Munthe_-_Fishing_Village_on_the_Norwegian_Coast_-_NG.M.00296_-_National_Museum_of_Art,_Architecture_and_Design.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Classical reference
-> >
-> > ![A working fishing harbor surrounded by weathered houses, boats, and steep northern mountains.](../Attachments/Artwork/locations/mistbreak-harbor.webp)
-> >
-> > *A Fishing Village in the North of Norway — Adelsteen Normann. [Source](https://commons.wikimedia.org/wiki/File:Adelsteen_Normann_-_A_fishing_Village_in_the_North_of_Norway_-_NG.M.04360_-_National_Museum_of_Art,_Architecture_and_Design.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A fantastical settlement assembled from boats over turquoise water beside a curling wave.](../Attachments/Artwork/locations/revoy-boat-city.webp)
-> >
-> > *Boat City — David Revoy. [Source](https://www.davidrevoy.com/article144/boat-city) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 
 ## Geography & Government
 

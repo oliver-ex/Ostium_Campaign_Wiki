@@ -83,7 +83,7 @@ The [[Rules/System Guide|System Guide]] links the checked [2024 rules](https://w
 
 **Local implementation and validation complete; live deployment pending.** This checkout has no Git remote. No remote or GitHub Pages access settings were changed. Follow `SETUP.md` to choose/connect the intended repository, commit reviewed changes, select GitHub Actions as the Pages source, and push main.
 
-The old sibling site's publisher is no longer used by this vault. If reusing that remote, reconcile its history and retire its old publishing workflow deliberately; do not force-push or run two publishers against one Pages site. Its website-only Session Log 1 was inspected and is an unfilled template duplicate of the existing Session 0 record, not an additional supplied campaign report.
+The old sibling site's publisher is no longer used by this vault. If reusing that remote, reconcile its history and retire its old publishing workflow deliberately; do not force-push or run two publishers against one Pages site. Its website-only Session Log 1 was inspected and is an unfilled template duplicate, not an additional supplied campaign report. Both empty records were retired; future reports use [[Templates/Session Report|Session Report]].
 
 The local dependency symlink was used only to reuse installed packages for verification. Fresh clones run `npm ci`; the checked-in build has no dependency on the sibling checkout.
 

@@ -79,7 +79,7 @@ Modified existing content paths:
 - [[Locations/Old Ostium Waterworks|Old Ostium Waterworks]]
 - [[Locations/Ostium|Ostium]]
 - [[Rules/Rules|Rules]]
-- [[Session 1 - The Prodigal Son Prep|Session 1 - The Prodigal Son Prep]]
+- [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]]
 - [[Storylines/Acts/Act I - Twin Cities|Act I - Twin Cities]]
 - [[Storylines/Acts/Act II - Beneath the Waterworks|Act II - Beneath the Waterworks]]
 - [[Storylines/Acts/Act III - The Heart Below Ostium|Act III - The Heart Below Ostium]]

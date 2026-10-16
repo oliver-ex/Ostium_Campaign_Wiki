@@ -31,7 +31,7 @@ Original paths map to the canonical destination below. Shared destinations indic
 | `Locations/New Ostium.md` | [[Locations/New Ostium\|New Ostium]] |
 | `Locations/Old Ostium.md` | [[Locations/Old Ostium\|Old Ostium]] |
 | `Locations/Ostium.md` | [[Locations/Ostium\|Ostium]] |
-| `Session Logs/Session Log 0.md` | [[Session Logs/Session Log 0\|Session Log 0]] |
+| `Session Logs/Session Log 0.md` | [[Templates/Session Report\|Session Report template]] (empty record retired during cleanup) |
 | `Session Logs/Session Logs.base` | [[Session Logs/Session Logs.base]] |
 | `Session Logs/Session Logs.md` | [[Session Logs/Session Logs\|Session Logs]] |
 | `_GM/Attachments/Carl Marsh - Unsent Letter - GM.md` | [[Attachments/Carl Marsh - Unsent Letter\|Carl Marsh - Unsent Letter]] |
@@ -96,7 +96,7 @@ Original paths map to the canonical destination below. Shared destinations indic
 | `_GM/Rules/Rules.md` | [[Rules/Rules\|Rules]] |
 | `_GM/Session Logs/Road to Ostium - Vault Update Report - GM.md` | [[Planning/Archive/Road to Ostium - Vault Update Report\|Road to Ostium - Vault Update Report]] |
 | `_GM/Session Logs/Session 0 - GM Prep.md` | [[Session Logs/Session 0 Prep\|Session 0 Prep]] |
-| `_GM/Session Logs/Session 1 - The Prodigal Son - GM Prep.md` | [[Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] |
+| `_GM/Session Logs/Session 1 - The Prodigal Son - GM Prep.md` | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] |
 | `_GM/Session Logs/Session Logs.base` | [[Session Logs/Session Logs.base]] |
 | `_GM/Session Logs/Session Logs.md` | [[Session Logs/Session Logs\|Session Logs]] |
 | `_GM/Session Logs/Session Prep — The Road to Ostium - GM.md` | [[Storylines/Adventures/The Road to Ostium\|Session Prep — The Road to Ostium]] |

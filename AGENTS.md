@@ -28,6 +28,8 @@ Directory pages have generated tables maintained by `npm run directories`; edit 
 
 ## Artwork
 
+Use grounded, detailed fantasy illustration or suitable classical artwork. Avoid cartoon proportions, toy-like rendering, flat simplistic character art, and whimsical imagery that conflicts with the campaign’s visual tone. Review new artwork at full size before integrating it.
+
 Every new NPC and location must include artwork in the same change: a portrait for an NPC and a suitable scene, concept illustration, or map for a location. First look for existing art that fits the established description and has documented reuse terms. If no suitable reusable art is available, generate it with the imagegen skill. Save assets under `content/Attachments/Artwork/`, embed them in the page, and update the artwork manifest and credits. Record the creator, source, license and changes for existing art; retain exact prompts and tool provenance for generated art. Artwork is a visual reference and does not establish new canon, equipment, or mechanics. Missing or withheld artwork cannot satisfy this requirement; PC portraits remain subject to player approval.
 
 ## Publication and safety

@@ -9,7 +9,7 @@ tags:
 
 All 24 canonical NPCs have publishable portraits. These are visual references; incidental appearance, clothing, gear, age presentation, and magical effects do not establish campaign facts. NPC ages inferred for this update are explicitly labelled estimates. The eight PCs keep their player-owned identity choices and await approved portraits.
 
-The active register contains **51 artworks and 69 placements across all 46 reviewed NPC, location, and faction pages**, all eligible for the public build. **18 portraits are AI-generated campaign illustrations**, made using the built-in image generation tool with no third-party reference images. Exact prompts and tool provenance are saved alongside the artwork under `Artwork/sources/`. Location mood boards continue to use existing, credited classical and fantasy artwork.
+The active register contains **50 artworks and 67 placements across all 46 reviewed NPC, location, and faction pages**, all eligible for the public build. **20 portraits are AI-generated campaign illustrations**, made using the built-in image generation tool with no third-party reference images. Exact prompts and tool provenance are saved alongside the artwork under `Artwork/sources/`. Location mood boards continue to use existing, credited classical and fantasy artwork.
 
 Full compositions are retained in the local WebP files; click a published image to open its saved resolution. Original copyrighted references that were previously withheld have been superseded and remain excluded by the repository’s `publication-artwork.json`; those files have not been granted new reuse rights.
 
@@ -199,13 +199,14 @@ Full compositions are retained in the local WebP files; click a published image 
 
 ### arla-gerrin
 
-- **Used by:** [[Characters/NPCs/Arla Gerrin|Arla Gerrin]]
-- **Work:** Older Gnome Character Design Commission
-- **Creator:** oasiswinds
-- **Source:** [Original publication](https://www.deviantart.com/oasiswinds/art/Older-Gnome-Character-Design-Commission-909716251)
-- **Rights:** [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/). The artist publication displays CC BY-NC-ND 3.0. The full composition is retained, with only format conversion and proportional resizing.
-- **Local image:** [WebP](Artwork/npcs/arla-gerrin.webp) — 807 × 990. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Gnome healer and practical equipment reference.
+- **Used by:** [[Characters/NPCs/Arla Gerrin]]
+- **Work:** Arla Gerrin — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/arla-gerrin.webp) — 1000 × 1250. Generated for the campaign, resized down and converted to WebP; full composition retained.
+- **Interpretation:** Proposed appearance only. Age 72 remains a proposed estimate; hair, facial features, clothing, and background do not establish biography, equipment, or mechanics.
+- **Source record:** [Exact prompt and provenance](Artwork/sources/arla-gerrin-generation.json).
 
 ### senn-vale-labourer
 
@@ -296,16 +297,6 @@ Full compositions are retained in the local WebP files; click a published image 
 - **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.
 - **Local image:** [WebP](Artwork/locations/revoy-cavern.webp) — 1280 × 557. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
 - **Interpretation:** Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.
-
-### revoy-boat-city
-
-- **Used by:** [[Locations/Mistbreak|Mistbreak]], [[Locations/Torney Isles|Torney Isles]]
-- **Work:** Boat City
-- **Creator:** David Revoy
-- **Source:** [Original publication](https://www.davidrevoy.com/article144/boat-city)
-- **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0.
-- **Local image:** [WebP](Artwork/locations/revoy-boat-city.webp) — 1280 × 616. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
-- **Interpretation:** Coastal construction and maritime fantasy mood only; no new creatures, tropical climate, or literal settlement geography are established.
 
 ### calev-marr-age41
 
@@ -490,13 +481,13 @@ Full compositions are retained in the local WebP files; click a published image 
 ### aaron-fortisax-portrait
 
 - **Used by:** [[Characters/NPCs/Aaron Fortisax]]
-- **Work:** Dragon like character design
-- **Creator:** hcjrArt
-- **Source:** [Original publication or tool terms](https://opengameart.org/content/dragon-like-character-design)
-- **Rights:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Creator hcjrArt lists CC BY 4.0 on the original OpenGameArt publication; verified 2026-10-16.
-- **Local image:** [WebP](Artwork/npcs/aaron-fortisax.webp) — 1000 × 1287. Resized down and converted to WebP; full composition retained.
-- **Interpretation:** Proposed visual reference for Aaron only. Scale color, horns, armor, and incidental details do not establish canon, draconic ancestry, equipment, or mechanics.
-- **Source record:** [Attribution and provenance](Artwork/sources/aaron-fortisax-metadata.json).
+- **Work:** Aaron Fortisax — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Created for the campaign at the GM’s request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/aaron-fortisax.webp) — 1000 × 1250. Generated for the campaign, resized down and converted to WebP; full composition retained.
+- **Interpretation:** Proposed visual reference only. Scale coloration, horns, armor, and background do not establish ancestry subtype, equipment, deity, oath, personal history, or mechanics.
+- **Source record:** [Exact prompt and provenance](Artwork/sources/aaron-fortisax-generation.json).
 
 ### mira-vey-portrait
 
@@ -508,3 +499,10 @@ Full compositions are retained in the local WebP files; click a published image 
 - **Local image:** [WebP](Artwork/npcs/mira-vey-portrait.webp) — 1000 × 1200. Generated for the campaign, resized down and converted to WebP.
 - **Interpretation:** Visual interpretation of Mira’s authored age, hair, demeanor, and uniform. Incidental details do not establish new lore or mechanics.
 - **Source record:** [Attribution and provenance](Artwork/sources/mira-vey-portrait-generation.json).
+
+## Remaining Character Choices
+
+- The **eight PC portraits** remain open until players approve images. Their ages, identities, and build choices are preserved; no biography has been invented to fill a placeholder.
+- NPC age estimates are proposed values rather than a dated family or career chronology. The GM can refine them in frontmatter.
+- Generated portraits are proposed visual interpretations. They do not establish equipment, powers, precise skin colours, or unrecorded events.
+- Superseded copyrighted originals remain local-only and excluded from publication; do not restore them by removing exclusions without recording reuse terms.

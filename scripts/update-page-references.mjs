@@ -79,8 +79,8 @@ export function updatePageReferences(vault) {
       continue
     }
     const block = `<!-- page-connections:start -->\n\n## Connected Pages\n\nLocation links are document references; geographic containment is shown in the Within and Contained locations rows.\n\n${content.trim()}\n\n<!-- page-connections:end -->\n\n`
-    // Keep the first practical reference visible before the link tables.
-    // Large illustrations follow reference material rather than separating title and purpose.
+    // Locations show visual inspiration immediately after their description.
+    // Other page types keep their practical references before the link tables.
     if (page.data.type === 'encounter') {
       // Combat references belong first; keep generated navigation after the encounter.
       text = text.trimEnd() + '\n\n' + block.trimEnd() + '\n'
@@ -91,6 +91,8 @@ export function updatePageReferences(vault) {
     } else {
       const profile = text.match(blockPattern('character-profile'))?.[0]
       const residents = text.match(blockPattern('location-residents'))?.[0]
+      const artwork = page.data.type === 'location' ? text.match(blockPattern('campaign-artwork'))?.[0] : undefined
+      if (artwork) text = text.replace(artwork, '')
       if (page.data.type === 'location' && residents) text = text.replace(residents, '')
       const operational = text.match(/^## Operational Summary\n[\s\S]*?(?=\n## |\n<!-- [\w-]+:start -->|(?![\s\S]))/m)?.[0]
       if (page.data.type === 'location') {
@@ -98,7 +100,7 @@ export function updatePageReferences(vault) {
       }
       const summary = text.match(blockPattern('page-summary'))?.[0]
       const anchor = profile || summary
-      const reference = (page.data.type === 'location' && operational ? operational.trim() + '\n\n' : '') + block + (residents || '')
+      const reference = (artwork ? artwork.trim() + '\n\n' : '') + (page.data.type === 'location' && operational ? operational.trim() + '\n\n' : '') + block + (residents || '')
       if (anchor) text = text.replace(anchor, anchor + reference)
       else text = text.replace(/(^# [^\n]+\n)/m, `$1\n${reference}`)
     }

@@ -20,6 +20,25 @@ New Ostium’s centre of trade and Guild influence, where lawful commerce, artif
 <!-- page-summary:end -->
 
 
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A busy Venetian square with people, old stone buildings, and market activity.](../Attachments/Artwork/locations/new-ostium-market.webp)
+> >
+> > *Veduta di una piazzetta a Venezia — Giovanni Migliara. [Source](https://commons.wikimedia.org/wiki/File:Artgate_Fondazione_Cariplo_-_Migliara_Giovanni,_Veduta_di_una_piazzetta_a_Venezia.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![An architectural drawing of a dense fantasy market with stalls and timber buildings.](../Attachments/Artwork/locations/revoy-ishtar-market.webp)
+> >
+> > *Ishtar — market — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
 ## Operational Summary
 
 **Why the party comes here:** Civilized adventure space for social jobs, trade, investigation, and high-consequence crime\
@@ -67,25 +86,6 @@ Location links are document references; geographic containment is shown in the W
 *From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
 
 <!-- location-residents:end -->
-
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A busy Venetian square with people, old stone buildings, and market activity.](../Attachments/Artwork/locations/new-ostium-market.webp)
-> >
-> > *Veduta di una piazzetta a Venezia — Giovanni Migliara. [Source](https://commons.wikimedia.org/wiki/File:Artgate_Fondazione_Cariplo_-_Migliara_Giovanni,_Veduta_di_una_piazzetta_a_Venezia.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![An architectural drawing of a dense fantasy market with stalls and timber buildings.](../Attachments/Artwork/locations/revoy-ishtar-market.webp)
-> >
-> > *Ishtar — market — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
 
 ## Secrets & Hidden History
 

@@ -57,9 +57,9 @@ An overworked Old Ostium apothecary who can distinguish Frigid Woe from the Rot 
 > >
 > > <!-- campaign-artwork:start -->
 > >
-> > ![An older gnome woman with white hair, a walking stick, and bottles at her belt.](../../Attachments/Artwork/npcs/arla-gerrin.webp)
+> > ![A weary, compassionate gnome apothecary with white hair, subtly pointed ears, and a worn linen apron.](../../Attachments/Artwork/npcs/arla-gerrin.webp)
 > >
-> > *Visual reference: Older Gnome Character Design Commission — [oasiswinds](https://www.deviantart.com/oasiswinds/art/Older-Gnome-Character-Design-Commission-909716251). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> > *Visual reference: Arla Gerrin — campaign portrait — OpenAI image generation, directed for the campaign. Proposed appearance only. [[Attachments/Artwork Credits|Credits and interpretation]].*
 > >
 > > <!-- campaign-artwork:end -->
 

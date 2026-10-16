@@ -58,7 +58,7 @@ No identity or causal connection between these strands has been established.
 
 **GM knowledge for Oliver’s table:** without antidote, the two affected characters will turn to blocks of ice and die in roughly a month. The exact elapsed time, remaining time, and affected identities are TBD. This prognosis has not been revealed to the PCs.
 
-The tables have independent continuity; no calendar dates or chronology between their sessions are established. [[Session Logs/Session Log 0|Session Log 0]] remains an unassigned blank record.
+The tables have independent continuity; no calendar dates or chronology between their sessions are established.
 
 ## Planned / Conditional Future
 
