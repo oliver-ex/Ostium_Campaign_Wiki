@@ -17,12 +17,15 @@ for(const file of html){
  for(const m of text.matchAll(/\b(href|src)="([^"]+)"/g)){
   const ref=m[2].replace(/&amp;/g,'&')
   if(/^(?:[a-z][a-z0-9+.-]*:|\/\/|data:)/i.test(ref))continue
+  // Local 404 resources intentionally use domain-root URLs. Keep those at
+  // their configured root while testing relative links under a fake subpath.
+  const referenceBasePath=!process.env.PAGES_BASE_URL && ref.startsWith('/') ? '' : basePath
   let url
-  try{url=new URL(ref,origin+basePath+'/'+path.relative(root,file).split(path.sep).join('/'))}catch{errors.push(`${path.relative(root,file)}: invalid URL`);continue}
+  try{url=new URL(ref,origin+referenceBasePath+'/'+path.relative(root,file).split(path.sep).join('/'))}catch{errors.push(`${path.relative(root,file)}: invalid URL`);continue}
   let pathname=decodeURIComponent(url.pathname)
-  if(basePath){
-   if(pathname!==basePath && !pathname.startsWith(basePath+'/')){errors.push(`${path.relative(root,file)}: URL escapes site base path: ${ref}`);continue}
-   pathname=pathname.slice(basePath.length)||'/'
+  if(referenceBasePath){
+   if(pathname!==referenceBasePath && !pathname.startsWith(referenceBasePath+'/')){errors.push(`${path.relative(root,file)}: URL escapes site base path: ${ref}`);continue}
+   pathname=pathname.slice(referenceBasePath.length)||'/'
   }
   let target=path.join(root,pathname)
   const options=[target,`${target}.html`,path.join(target,'index.html')]
