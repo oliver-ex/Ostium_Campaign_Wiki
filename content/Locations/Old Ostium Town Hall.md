@@ -14,9 +14,20 @@ status: contested
 
 <!-- campaign-artwork:start -->
 
-![A statue and people beneath the remains of monumental stone architecture.](../Attachments/Artwork/locations/old-town-hall-ruins.webp)
-
-*Visual reference: The Statue before the Ruins — Hubert Robert. [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en); [source](https://commons.wikimedia.org/wiki/File:Hubert_Robert,_The_Statue_before_the_Ruins,_NGA_52436.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A statue and people beneath the remains of monumental stone architecture.](../Attachments/Artwork/locations/old-town-hall-ruins.webp)
+> >
+> > *The Statue before the Ruins — Hubert Robert. [Source](https://commons.wikimedia.org/wiki/File:Hubert_Robert,_The_Statue_before_the_Ruins,_NGA_52436.jpg) · [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A monumental stepped stone complex with deep passages and weathered terraces.](../Attachments/Artwork/locations/revoy-ishtar-temple.webp)
+> >
+> > *Ishtar — abandoned temple — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 

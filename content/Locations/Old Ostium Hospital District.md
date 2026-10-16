@@ -16,9 +16,20 @@ status: active
 
 <!-- campaign-artwork:start -->
 
-![Hospital attendants wash and care for a patient among beds and other patients.](../Attachments/Artwork/locations/hospital-care.webp)
-
-*Visual reference: Caring for the Sick, Pellegrinaio fresco detail — Domenico di Bartolo. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Pellegrinaio_Santa_Maria_della_Scala_n5.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![Hospital attendants wash and care for a patient among beds and other patients.](../Attachments/Artwork/locations/hospital-care.webp)
+> >
+> > *Caring for the Sick, Pellegrinaio fresco detail — Domenico di Bartolo. [Source](https://commons.wikimedia.org/wiki/File:Pellegrinaio_Santa_Maria_della_Scala_n5.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![Layered timber and stone buildings linked by elevated walkways.](../Attachments/Artwork/locations/revoy-ishtar-streets.webp)
+> >
+> > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 

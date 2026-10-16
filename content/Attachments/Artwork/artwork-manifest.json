@@ -1,6 +1,6 @@
 {
   "reviewed": "2026-10-16",
-  "policy": "Existing non-AI artwork only. Classical paintings preferred; nonhuman NPCs use visibly matching fantasy art. Artist credits and original source links required; open licensing is not a selection requirement. Images do not add canon.",
+  "policy": "Classical paintings remain alongside credited existing fantasy art in location mood boards. Senn Vale uses an explicitly requested AI-generated labourer illustration; other existing NPC art is retained. Publication requires recorded reuse terms or campaign-generated provenance. Images do not add canon.",
   "assets": [
     {
       "id": "old-ostium-campo-vacino",
@@ -764,26 +764,25 @@
       "interpretation": "Visibly elven ranger reference; the source character is a half-elf, while Vesha remains an Elf."
     },
     {
-      "id": "senn-vale",
-      "file": "Attachments/Artwork/npcs/senn-vale.webp",
-      "title": "Doctor Viz (Alchemist DnD Character)",
-      "artist": "Vocitare",
-      "alt": "A masked dragonborn alchemist with clawed feet, a long tail, and tools and bottles at his belt.",
-      "width": 763,
-      "height": 1048,
-      "bytes": 71708,
-      "sha256": "653f3ed34c0e3ec6bc1ee3de1db08d1b0b3582ddf0d30268536daedddd9f77ea",
+      "id": "senn-vale-labourer",
+      "file": "Attachments/Artwork/npcs/senn-vale-labourer.webp",
+      "title": "Senn Vale — waterworks labourer",
+      "artist": "OpenAI image generation; directed for the Ostium campaign",
+      "alt": "An unmasked dragonborn labourer in a patched shirt and leather apron repairs a water-pump valve with a spanner.",
       "kind": "npcs",
-      "changes": "Resized down where necessary and converted to WebP; full composition and signatures retained.",
+      "changes": "Generated for this campaign, downscaled and converted to WebP.",
       "pages": [
         "Characters/NPCs/Senn Vale"
       ],
-      "source": "https://www.deviantart.com/vocitare/art/Doctor-Viz-Alchemist-DnD-Character-866252199",
-      "download": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f45d55fd-a31e-4b56-83d7-5e3552f205b1/debqsh3-e2c2f021-2875-490a-b09c-5f3bbe0b457c.png/v1/fill/w_763,h_1048,q_70,strp/doctor_viz_alchemist_dnd_character__by_vocitare_debqsh3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE5NyIsInBhdGgiOiIvZi9mNDVkNTVmZC1hMzFlLTRiNTYtODNkNy01ZTM1NTJmMjA1YjEvZGVicXNoMy1lMmMyZjAyMS0yODc1LTQ5MGEtYjA5Yy01ZjNiYmUwYjQ1N2MucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.RqzJVE7jF5WhcBsgLIfl7XJFOgitedq7lP1SW0gJmiw",
-      "license": "Copyright retained; no reuse license recorded",
-      "medium": "Artist-created fantasy illustration",
-      "rights_note": "Artist and original publication credited; no permission grant is asserted by this register.",
-      "interpretation": "Dragonborn craftsperson reference; mask and alchemical effects do not establish powers, disease, or equipment."
+      "source": "https://openai.com/policies/terms-of-use/",
+      "license": "AI-generated campaign illustration",
+      "medium": "AI-generated fantasy illustration",
+      "rights_note": "Generated at the GM’s explicit request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.",
+      "interpretation": "Proposed visual reference only. Scale colour, facial features, clothes, tools, and background do not establish additional canon.",
+      "width": 1100,
+      "height": 1320,
+      "bytes": 358352,
+      "sha256": "5c567ae7c5e640836c8d3cf6f80d9d39566ea3faf933be0b77cebd1a61c59d7c"
     },
     {
       "id": "indra-karaf",
@@ -877,6 +876,178 @@
       "rights_note": "Public-domain painting; source metadata retained in the source link.",
       "interpretation": "Civic guard atmosphere; historical weapons, uniforms, and insignia are not Protectorate canon.",
       "license_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "id": "revoy-ishtar-streets",
+      "file": "Attachments/Artwork/locations/revoy-ishtar-streets.webp",
+      "title": "Ishtar — layered streets",
+      "artist": "David Revoy / Blender Foundation (Sintel)",
+      "alt": "Layered timber and stone buildings linked by elevated walkways.",
+      "kind": "locations",
+      "changes": "Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.",
+      "pages": [
+        "Locations/Old Ostium Hospital District",
+        "Locations/Old Ostium Slums",
+        "Locations/Old Ostium",
+        "Locations/Ostium"
+      ],
+      "source": "https://www.davidrevoy.com/article45/sintel-art-direction",
+      "download": "https://www.davidrevoy.com/data/images/blog/2010/sintel/Sintel-Concept-Art/environments-06-Ishtar-2.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "medium": "Artist-created fantasy environment concept art",
+      "rights_note": "Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.",
+      "interpretation": "Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.",
+      "width": 1280,
+      "height": 557,
+      "bytes": 59940,
+      "sha256": "bf1d57bd15ea1637c10be955d0a997c34efbd2b3e069ef02f79b275d25bbd300"
+    },
+    {
+      "id": "revoy-ishtar-alley",
+      "file": "Attachments/Artwork/locations/revoy-ishtar-alley.webp",
+      "title": "Ishtar — alley",
+      "artist": "David Revoy / Blender Foundation (Sintel)",
+      "alt": "A steep view into a narrow stone alley with drains and overhanging buildings.",
+      "kind": "locations",
+      "changes": "Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.",
+      "pages": [
+        "Locations/Old Ostium Pump 4",
+        "Locations/Old Ostium Pump 7",
+        "Locations/Old Ostium Waterworks"
+      ],
+      "source": "https://www.davidrevoy.com/article45/sintel-art-direction",
+      "download": "https://www.davidrevoy.com/data/images/blog/2010/sintel/Sintel-Concept-Art/environments-08-Ishtar-alley.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "medium": "Artist-created fantasy environment concept art",
+      "rights_note": "Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.",
+      "interpretation": "Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.",
+      "width": 1119,
+      "height": 800,
+      "bytes": 285202,
+      "sha256": "edc726b5b9d29f4c662a6ceb0230d05a213e94e671717b966e444af3cb953bab"
+    },
+    {
+      "id": "revoy-ishtar-market",
+      "file": "Attachments/Artwork/locations/revoy-ishtar-market.webp",
+      "title": "Ishtar — market",
+      "artist": "David Revoy / Blender Foundation (Sintel)",
+      "alt": "An architectural drawing of a dense fantasy market with stalls and timber buildings.",
+      "kind": "locations",
+      "changes": "Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.",
+      "pages": [
+        "Locations/New Ostium Market District"
+      ],
+      "source": "https://www.davidrevoy.com/article45/sintel-art-direction",
+      "download": "https://www.davidrevoy.com/data/images/blog/2010/sintel/Sintel-Concept-Art/environments-11-Ishtar-market.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "medium": "Artist-created fantasy environment concept art",
+      "rights_note": "Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.",
+      "interpretation": "Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.",
+      "width": 1176,
+      "height": 800,
+      "bytes": 178604,
+      "sha256": "127768649e55a5ed5131026f288f8bbf05b674f924eb9dac96d843890e5c5cc7"
+    },
+    {
+      "id": "revoy-ishtar-temple",
+      "file": "Attachments/Artwork/locations/revoy-ishtar-temple.webp",
+      "title": "Ishtar — abandoned temple",
+      "artist": "David Revoy / Blender Foundation (Sintel)",
+      "alt": "A monumental stepped stone complex with deep passages and weathered terraces.",
+      "kind": "locations",
+      "changes": "Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.",
+      "pages": [
+        "Locations/Old Ostium Town Hall",
+        "Locations/Old Ostium University",
+        "Locations/Titan Works"
+      ],
+      "source": "https://www.davidrevoy.com/article45/sintel-art-direction",
+      "download": "https://www.davidrevoy.com/data/images/blog/2010/sintel/Sintel-Concept-Art/environments-14-Ishtar-ziggurat.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "medium": "Artist-created fantasy environment concept art",
+      "rights_note": "Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.",
+      "interpretation": "Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.",
+      "width": 1070,
+      "height": 800,
+      "bytes": 131374,
+      "sha256": "e073f0a2be7dc5accd632eb178ba6aecd27225a9b84975292fdc453bc7f4abb5"
+    },
+    {
+      "id": "revoy-ishtar-panorama",
+      "file": "Attachments/Artwork/locations/revoy-ishtar-panorama.webp",
+      "title": "Ishtar — city panorama",
+      "artist": "David Revoy / Blender Foundation (Sintel)",
+      "alt": "A sprawling fantasy city with layered roofs, walls, and an elevated monumental centre.",
+      "kind": "locations",
+      "changes": "Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.",
+      "pages": [
+        "Locations/New Ostium Town Hall",
+        "Locations/New Ostium",
+        "Locations/Ostium"
+      ],
+      "source": "https://www.davidrevoy.com/article45/sintel-art-direction",
+      "download": "https://www.davidrevoy.com/data/images/blog/2010/sintel/Sintel-Concept-Art/environments-16-ziggurat-view.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "medium": "Artist-created fantasy environment concept art",
+      "rights_note": "Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.",
+      "interpretation": "Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.",
+      "width": 1280,
+      "height": 652,
+      "bytes": 201460,
+      "sha256": "9f4fbf0a6c385e2612ace502ff551bccbc1a414d3b73526ef9b84be490cf73a4"
+    },
+    {
+      "id": "revoy-cavern",
+      "file": "Attachments/Artwork/locations/revoy-cavern.webp",
+      "title": "Sintel — dragon cave concept",
+      "artist": "David Revoy / Blender Foundation (Sintel)",
+      "alt": "A vast blue cavern with ribbed stone formations and a small figure for scale.",
+      "kind": "locations",
+      "changes": "Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.",
+      "pages": [
+        "Locations/The Heart",
+        "Locations/Titan Works"
+      ],
+      "source": "https://www.davidrevoy.com/article45/sintel-art-direction",
+      "download": "https://www.davidrevoy.com/data/images/blog/2010/sintel/Sintel-Concept-Art/environments-21-cave.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "medium": "Artist-created fantasy environment concept art",
+      "rights_note": "Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.",
+      "interpretation": "Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.",
+      "width": 1280,
+      "height": 557,
+      "bytes": 103316,
+      "sha256": "29cabee00add2a5b2fd1f2307fd06d3f22a6eab2c81e0bc58653d9755e9890be"
+    },
+    {
+      "id": "revoy-boat-city",
+      "file": "Attachments/Artwork/locations/revoy-boat-city.webp",
+      "title": "Boat City",
+      "artist": "David Revoy",
+      "alt": "A fantastical settlement assembled from boats over turquoise water beside a curling wave.",
+      "kind": "locations",
+      "changes": "Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.",
+      "pages": [
+        "Locations/Mistbreak",
+        "Locations/Torney Isles"
+      ],
+      "source": "https://www.davidrevoy.com/article144/boat-city",
+      "download": "https://www.davidrevoy.com/data/images/blog/2012/11/Boat-city_by-David-Revoy.jpg",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "medium": "Artist-created fantasy environment concept art",
+      "rights_note": "Artist source page records CC-BY 4.0.",
+      "interpretation": "Coastal construction and maritime fantasy mood only; no new creatures, tropical climate, or literal settlement geography are established.",
+      "width": 1280,
+      "height": 616,
+      "bytes": 153930,
+      "sha256": "e09ac38e128f22b55c50e0ac02efcd49f492bc6fd857676c529da1f2741f3fe4"
     }
   ],
   "pages": [
@@ -997,7 +1168,7 @@
       "type": "npc",
       "status": "illustrated",
       "images": [
-        "senn-vale"
+        "senn-vale-labourer"
       ]
     },
     {
@@ -1062,7 +1233,8 @@
       "status": "illustrated",
       "images": [
         "mistbreak-fishing-village",
-        "mistbreak-harbor"
+        "mistbreak-harbor",
+        "revoy-boat-city"
       ]
     },
     {
@@ -1070,7 +1242,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "new-ostium-market"
+        "new-ostium-market",
+        "revoy-ishtar-market"
       ]
     },
     {
@@ -1078,7 +1251,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "new-ostium-civic-waterfront"
+        "new-ostium-civic-waterfront",
+        "revoy-ishtar-panorama"
       ]
     },
     {
@@ -1087,7 +1261,8 @@
       "status": "illustrated",
       "images": [
         "new-ostium-carthage",
-        "new-ostium-civic-waterfront"
+        "new-ostium-civic-waterfront",
+        "revoy-ishtar-panorama"
       ]
     },
     {
@@ -1095,7 +1270,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "hospital-care"
+        "hospital-care",
+        "revoy-ishtar-streets"
       ]
     },
     {
@@ -1103,7 +1279,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "pump-four-the-well"
+        "pump-four-the-well",
+        "revoy-ishtar-alley"
       ]
     },
     {
@@ -1111,7 +1288,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "waterworks-drawbridge"
+        "waterworks-drawbridge",
+        "revoy-ishtar-alley"
       ]
     },
     {
@@ -1119,7 +1297,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "old-ostium-inhabited-ruins"
+        "old-ostium-inhabited-ruins",
+        "revoy-ishtar-streets"
       ]
     },
     {
@@ -1127,7 +1306,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "old-town-hall-ruins"
+        "old-town-hall-ruins",
+        "revoy-ishtar-temple"
       ]
     },
     {
@@ -1135,7 +1315,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "university-ruined-gallery"
+        "university-ruined-gallery",
+        "revoy-ishtar-temple"
       ]
     },
     {
@@ -1143,7 +1324,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "waterworks-drawbridge"
+        "waterworks-drawbridge",
+        "revoy-ishtar-alley"
       ]
     },
     {
@@ -1152,7 +1334,8 @@
       "status": "illustrated",
       "images": [
         "old-ostium-campo-vacino",
-        "old-ostium-inhabited-ruins"
+        "old-ostium-inhabited-ruins",
+        "revoy-ishtar-streets"
       ]
     },
     {
@@ -1161,7 +1344,9 @@
       "status": "illustrated",
       "images": [
         "old-ostium-campo-vacino",
-        "new-ostium-carthage"
+        "new-ostium-carthage",
+        "revoy-ishtar-panorama",
+        "revoy-ishtar-streets"
       ]
     },
     {
@@ -1169,7 +1354,8 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "the-heart"
+        "the-heart",
+        "revoy-cavern"
       ]
     },
     {
@@ -1177,7 +1363,9 @@
       "type": "location",
       "status": "illustrated",
       "images": [
-        "titan-works-chains"
+        "titan-works-chains",
+        "revoy-ishtar-temple",
+        "revoy-cavern"
       ]
     },
     {
@@ -1186,7 +1374,8 @@
       "status": "illustrated",
       "images": [
         "torney-isles-island-study",
-        "torney-isles-chalk-cliffs"
+        "torney-isles-chalk-cliffs",
+        "revoy-boat-city"
       ]
     },
     {

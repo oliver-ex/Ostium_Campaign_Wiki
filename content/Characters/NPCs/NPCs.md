@@ -11,27 +11,27 @@ All 22 canonical NPC entries. Egbert Lusat is the antidote benefactor; the forme
 
 | Name | Species (2024) | Role | Location | Faction / affiliation | Status | Related quests / preparation |
 | --- | --- | --- | --- | --- | --- | --- |
-| [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] | Gnome | Apothecary | Old Ostium Hospital District | See relationships | alive | TBD |
+| [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] | Gnome | Apothecary | Old Ostium Hospital District | See relationships | alive | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] |
 | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] | Dwarf | Senior waterworks engineer | Old Ostium Waterworks | See relationships | alive | [[Storylines/Adventures/Negotiations\|Negotiations]]; [[Storylines/Adventures/Pump 7\|Pump 7]]; [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] |
 | [[Characters/NPCs/Calev Marr\|Calev Marr]] | Human | Protectorate officer | Old Ostium Town Hall | See relationships | alive | TBD |
-| [[Characters/NPCs/Carl Marsh\|Carl Marsh]] | Human | Cleric; bandit | Road to Ostium | [[Factions/The Shattered Axe\|The Shattered Axe]] | alive | TBD |
+| [[Characters/NPCs/Carl Marsh\|Carl Marsh]] | Human | Cleric; bandit | Road to Ostium | [[Factions/The Shattered Axe\|The Shattered Axe]] | alive | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] |
 | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] | Elf | Broker and fixer | New Ostium Market District | See relationships | alive | [[Storylines/Adventures/Heist II\|Heist II]]; [[Storylines/Adventures/Negotiations\|Negotiations]] |
-| [[Characters/NPCs/Darian Auir\|Darian Auir]] | Human | Merchant and caravan driver | Road to Ostium | See relationships | alive | [[Session Logs/Session Prep — The Road to Ostium\|Session Prep — The Road to Ostium]] |
-| [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] | Goliath | Wealthy merchant and former Old Ostium resident | New Ostium | See relationships | alive | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] |
-| [[Characters/NPCs/Elro Aditower\|Elro Aditower]] | Elf | Mayor | Mistbreak | See relationships | alive | TBD |
+| [[Characters/NPCs/Darian Auir\|Darian Auir]] | Human | Merchant and caravan driver | Road to Ostium | See relationships | alive | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] |
+| [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] | Goliath | Wealthy merchant and former Old Ostium resident | New Ostium | See relationships | alive | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]]; [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] |
+| [[Characters/NPCs/Elro Aditower\|Elro Aditower]] | Elf | Mayor | Mistbreak | See relationships | alive | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] |
 | [[Characters/NPCs/Helena Orst\|Helena Orst]] | Human | Civil administrator | New Ostium Town Hall | See relationships | alive | [[Storylines/Adventures/Negotiations\|Negotiations]]; [[Storylines/Adventures/Pump 7\|Pump 7]] |
 | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] | Goliath | Commander of the Protectorate | Old Ostium Town Hall | See relationships | alive | [[Storylines/Adventures/Assassination\|Assassination]]; [[Storylines/Adventures/Negotiations\|Negotiations]]; [[Storylines/Adventures/The Best Defense\|The Best Defense]] |
-| [[Characters/NPCs/Korok Grund\|Korok Grund]] | Orc | Bandit leader | Road to Ostium | [[Factions/The Shattered Axe\|The Shattered Axe]] | alive | TBD |
+| [[Characters/NPCs/Korok Grund\|Korok Grund]] | Orc | Bandit leader | Road to Ostium | [[Factions/The Shattered Axe\|The Shattered Axe]] | alive | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] |
 | [[Characters/NPCs/Mara Voss\|Mara Voss]] | Halfling | Settler and local organizer | Old Ostium Hospital District | See relationships | alive | [[Storylines/Adventures/Negotiations\|Negotiations]]; [[Storylines/Adventures/The Best Defense\|The Best Defense]]; [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] |
 | [[Characters/NPCs/Orla Meren\|Orla Meren]] | Gnome | Public servant and clerk | New Ostium | See relationships | alive | [[Storylines/Adventures/Rescue Mission\|Rescue Mission]] |
 | [[Characters/NPCs/Sara Lusat\|Sara Lusat]] | Goliath | TBD | TBD | See relationships | unknown | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] |
 | [[Characters/NPCs/Senn Vale\|Senn Vale]] | Dragonborn | Waterworks maintenance worker | Old Ostium Pump 4 | See relationships | alive | TBD |
-| [[Characters/NPCs/Shanda Karth\|Shanda Karth]] | Elf | Apothecary | New Ostium | See relationships | alive | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] |
-| [[Characters/NPCs/Tara Lusat\|Tara Lusat]] | Goliath | TBD | TBD | See relationships | deceased | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] |
+| [[Characters/NPCs/Shanda Karth\|Shanda Karth]] | Elf | Apothecary | New Ostium | See relationships | alive | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]]; [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] |
+| [[Characters/NPCs/Tara Lusat\|Tara Lusat]] | Goliath | TBD | TBD | See relationships | deceased | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]]; [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] |
 | [[Characters/NPCs/Taran Lusat\|Taran Lusat]] | Goliath | Civil engineer and relief benefactor | Old Ostium Hospital District | See relationships | alive | [[Storylines/Adventures/Pump 7\|Pump 7]]; [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] |
 | [[Characters/NPCs/Trine Baradur\|Trine Baradur]] | Tiefling | Merchant and acquisitions broker | New Ostium Market District | See relationships | alive | [[Storylines/Adventures/Heist II\|Heist II]] |
 | [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] | Orc | Raider chief and crime lord | Old Ostium Slums | See relationships | alive | [[Storylines/Adventures/Assassination\|Assassination]]; [[Storylines/Adventures/The Heist\|The Heist]] |
-| [[Characters/NPCs/Veritas\|Veritas]] | Elf | Wizard | Mistbreak | See relationships | deceased | TBD |
+| [[Characters/NPCs/Veritas\|Veritas]] | Elf | Wizard | Mistbreak | See relationships | deceased | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] |
 | [[Characters/NPCs/Vesha Noll\|Vesha Noll]] | Elf | Warden and scavenger | Old Ostium Slums | See relationships | alive | [[Storylines/Adventures/Assassination\|Assassination]]; [[Storylines/Adventures/The Heist\|The Heist]] |
 
 ![[Characters/NPCs/NPCs.base#NPCs]]

@@ -33,3 +33,47 @@ p:has(> .campaign-artwork-link) + p {
 }
 // Credits remain readable in both color themes, including inherited emphasis.
 p:has(> .campaign-artwork-link) + p em { color: var(--darkgray); }
+
+// Native Obsidian callouts keep these mood boards readable in both views.
+.callout[data-callout="gallery"] {
+  --color: var(--secondary);
+  background: transparent;
+  border-color: var(--lightgray);
+  padding: 1rem;
+  > .callout-title { padding: 0; }
+
+  > .callout-content {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    align-items: start;
+    margin-top: 0.5rem;
+
+    > p { grid-column: 1 / -1; margin: 0; font-size: 0.85rem; }
+    > .callout[data-callout="artwork"] {
+      --color: var(--darkgray);
+      min-width: 0;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      background: transparent;
+
+      > .callout-title { font-size: 0.8rem; padding: 0.25rem 0; }
+      > .callout-content { display: block; overflow: visible; }
+      .callout-icon { display: none; }
+      a.campaign-artwork-link { margin-top: 0.5rem; }
+      p { margin: 0.4rem 0 0; }
+      p em { font-size: 0.8rem; line-height: 1.4; }
+    }
+  }
+
+  @media (min-width: 1200px) {
+    > .callout-content:has(> .callout:nth-child(4):last-child) {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 600px) {
+    > .callout-content { grid-template-columns: minmax(0, 1fr); }
+  }
+}

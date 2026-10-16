@@ -26,10 +26,10 @@ aliases:
 
 ## Known Symptoms & Progression
 
-- The upcoming-session premise states the PCs contracted it in their earlier adventure and have visible illness.
-- No earlier module-specific symptom list, progression, transmission rules, or treatment mechanics were found in the current vault.
-- **Needs decision:** actual symptoms already experienced, infection timing, and prior table rulings. Preserve those rulings when supplied.
-- Do not invent a countdown, damage, penalties, contagion, or particular physical signs.
+- **Steven’s table — confirmed:** [[Characters/Player Characters/Kalim Escara|Kalim Escara]] became infected in [[Session Logs/Steven's Table/Session 3|Session 3]]. Exposure mechanism and symptoms are not recorded.
+- **Oliver’s table — confirmed:** two pregen party members drank a vial in [[Session Logs/Oliver's Table/Session 1|Session 1]] and are now affected. They do not yet know the diagnosis or danger.
+- **Oliver’s table — GM-established progression:** without antidote, those two characters will turn to blocks of ice and die in roughly a month. This is an approximate campaign prognosis, not a fixed official rules countdown; elapsed time and prior symptoms remain TBD. Do not apply it retroactively to Steven’s table without a ruling.
+- Further symptoms, transmission, saves, penalties, exact progression, and treatment mechanics remain **Needs decision**. Preserve actual table rulings; do not invent additional effects.
 - Distinct from the **Rot**; resemblance, shared origin, or a causal relationship is not established.
 
 ## Relationship to Divine Magic
@@ -49,6 +49,10 @@ aliases:
 - Shanda can potentially arrange a courier if the PCs cover costs; direct northern travel is available.
 - Prices, distances, courier times, production, efficacy timing, and number of doses per patient: **Needs decision**. No guaranteed spare doses or replacement supply invented.
 
+## Recorded Retrieval — Steven’s Table
+
+In [[Session Logs/Steven's Table/Session 5|Session 5]], the party defeated the undead alchemist and retrieved the antidote following their Torney Isles journey. This confirms retrieval, not administration or Kalim’s recovery. Dose count, site, and the alchemist’s identity are TBD. This outcome does not establish available stock or a cure for Oliver’s party.
+
 ## NPC Knowledge
 
 - **Arla:** distinguishes it from the Rot; identifies or strongly suspects Frigid Woe; points to Shanda.
@@ -60,7 +64,7 @@ aliases:
 
 ## Mysteries & Open Questions
 
-- How were the PCs exposed, and what do they already know?
+- Steven: how was Kalim exposed, and was he treated after retrieval? Oliver: who are the two affected pregens, and when will they learn the danger?
 - How was the antidote recovered, and who can reproduce it?
 - What evidence of the ancient weapon survives?
 - Wider implications for gods and divine power remain questions; no connection to Ostium's buried god established.
@@ -74,7 +78,8 @@ aliases:
 
 ## PC Knowledge
 
-_No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+- **Steven:** the party sought antidote information by Session 3 and retrieved antidote in Session 5. Exact diagnostic knowledge, ancient history, and treatment are unrecorded.
+- **Oliver:** the two pregens do not yet know they have Frigid Woe, that it is lethal untreated, or that an antidote is needed. The GM knows their approximate month-or-so prognosis.
 
 ## D&D 5e (2024) Mechanics
 

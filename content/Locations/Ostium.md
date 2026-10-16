@@ -14,9 +14,32 @@ status: active
 
 <!-- campaign-artwork:start -->
 
-![An inhabited city of monumental ruins, markets, and distant buildings.](../Attachments/Artwork/locations/old-ostium-campo-vacino.webp)
-
-*Visual reference: Modern Rome — Campo Vaccino — J. M. W. Turner. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![An inhabited city of monumental ruins, markets, and distant buildings.](../Attachments/Artwork/locations/old-ostium-campo-vacino.webp)
+> >
+> > *Modern Rome — Campo Vaccino — J. M. W. Turner. [Source](https://commons.wikimedia.org/wiki/File:JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Classical reference
+> >
+> > ![A grand harbor with classical stone buildings and people at work.](../Attachments/Artwork/locations/new-ostium-carthage.webp)
+> >
+> > *Dido Building Carthage — J. M. W. Turner. [Source](https://commons.wikimedia.org/wiki/File:Dido_building_Carthage_-_JMW_Turner.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A sprawling fantasy city with layered roofs, walls, and an elevated monumental centre.](../Attachments/Artwork/locations/revoy-ishtar-panorama.webp)
+> >
+> > *Ishtar — city panorama — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![Layered timber and stone buildings linked by elevated walkways.](../Attachments/Artwork/locations/revoy-ishtar-streets.webp)
+> >
+> > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 
@@ -45,14 +68,6 @@ status: active
 
 - Deeper layers descend from ordinary municipal systems toward [[Locations/Titan Works|Titan Works]] and eventually [[Locations/The Heart|The Heart]].
 
-
-<!-- campaign-artwork:start -->
-
-![A grand harbor with classical stone buildings and people at work.](../Attachments/Artwork/locations/new-ostium-carthage.webp)
-
-*Visual reference: Dido Building Carthage — J. M. W. Turner. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Dido_building_Carthage_-_JMW_Turner.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
 
 ## Clues & Revelations
 

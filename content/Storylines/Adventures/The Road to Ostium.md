@@ -1,6 +1,6 @@
 ---
-title: Session Prep — The Road to Ostium
-type: session-prep
+title: The Road to Ostium
+type: adventure
 tags:
 - gm
 - session
@@ -23,11 +23,17 @@ factions:
 lore-status: Established premise; staging, dialogue, and consequences are Tentative
 aliases:
 - Session Prep — The Road to Ostium - GM
+- Session Prep — The Road to Ostium
+- Session Logs/Session Prep — The Road to Ostium
 ---
 
-# Session Prep — The Road to Ostium
+# The Road to Ostium
 
 > Established premise comes from the GM's task. All new staging, dialogue, incidental characters, and possible consequences below are **Tentative** improvisation prompts. They become events only through play.
+
+## Function in the Larger Arc
+
+A flexible journey and city investigation offering multiple routes to the Frigid Woe antidote. This is shared adventure preparation; table-specific plans and actual outcomes belong in [[Session Logs/Session Logs|the session index]].
 
 ## Session Goals
 
@@ -39,17 +45,19 @@ aliases:
 
 ## Opening Situation
 
-The PCs contracted Frigid Woe in an earlier adventure and travel toward [[Locations/Ostium|Ostium]] aboard [[Characters/NPCs/Darian Auir|Darian Auir]]'s caravan. Its food, medical supplies, and gold attract an ambush ordered by [[Factions/The Shattered Axe|The Shattered Axe]], led by [[Characters/NPCs/Korok Grund|Korok Grund]], with [[Characters/NPCs/Carl Marsh|Carl Marsh]] among the attackers.
+The opening premise is that affected travelers need help for Frigid Woe and travel toward [[Locations/Ostium|Ostium]] aboard [[Characters/NPCs/Darian Auir|Darian Auir]]'s caravan. Its food, medical supplies, and gold attract an ambush ordered by [[Factions/The Shattered Axe|The Shattered Axe]], led by [[Characters/NPCs/Korok Grund|Korok Grund]], with [[Characters/NPCs/Carl Marsh|Carl Marsh]] among the attackers.
 
 **Before play — Needs decision:** confirm attendees and party size; prior adventure recap; symptoms and prior mechanical rulings; exact remaining urgency; caravan/bandit numbers; courier cost/time and northern travel time; antidote dose requirements; session number/date. Do not infer these from the roster or invent a disease clock. Do not assume all eight PCs attend.
 
-**Continuity:** this session is the new immediate opening, before or alongside the existing [[Session Logs/Session 1 - The Prodigal Son Prep|Session 1 - The Prodigal Son Prep]]. Keep that prep and [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]] available as later or optional hooks; neither has become an accomplished event. Do not force the party to accept Egbert's job to access care.
+**Table continuity:** [[Session Logs/Oliver's Table/Session 1|Oliver’s Session 1]] establishes that two pregen party members drank vials and are affected, but do not yet know their condition or its danger. [[Session Logs/Oliver's Table/Session 2|Oliver’s Session 2]] adapts this adventure; do not assume the whole party is infected or already seeking an antidote. Steven’s table has separately retrieved an antidote in Session 5; this opening is not automatically its next session.
+
+**Prepared hook order:** this adventure can run before or alongside the existing [[Session 1 - The Prodigal Son Prep|Session 1 - The Prodigal Son Prep]]. Keep that prep and [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]] available as later or optional hooks; neither has become an accomplished event. Do not force the party to accept Egbert's job to access care.
 
 ## Opening Narration — Tentative
 
 “The wagon creaks toward Ostium. Beyond the roadside rise the damaged outlines of the old city, with steadier roofs and walls beyond. Darian watches the road more than the skyline. Beneath the wagon's canvas sit food, medical supplies, and coin. You have come looking for help. Somewhere ahead is a city full of people doing the same.”
 
-Invite each player to describe how their **already established** illness affects the journey. Supply no new symptom or infectious effect.
+Invite players to describe the journey and only symptoms already established for their own characters. At Oliver’s table, do not tell them they know the diagnosis or lethal prognosis before an actual revelation in play. Supply no new symptom or infectious effect.
 
 ## Likely Scenes
 

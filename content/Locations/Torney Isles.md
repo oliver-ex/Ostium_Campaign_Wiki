@@ -23,9 +23,26 @@ lore-status: Established history; suggestions marked Tentative
 
 <!-- campaign-artwork:start -->
 
-![Steep pale sea cliffs frame a distant cold blue sea, with small figures in the foreground.](../Attachments/Artwork/locations/torney-isles-chalk-cliffs.webp)
-
-*Visual reference: Chalk Cliffs on Rügen — Caspar David Friedrich. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich%27s_Chalk_Cliffs_on_R%C3%BCgen.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A rocky island with cypresses, buildings cut into stone, and a small boat.](../Attachments/Artwork/locations/torney-isles-island-study.webp)
+> >
+> > *Island of the Dead, third version — Arnold Böcklin. [Source](https://commons.wikimedia.org/wiki/File:Arnold_Boecklin_-_Island_of_the_Dead,_Third_Version.JPG) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Classical reference
+> >
+> > ![Steep pale sea cliffs frame a distant cold blue sea, with small figures in the foreground.](../Attachments/Artwork/locations/torney-isles-chalk-cliffs.webp)
+> >
+> > *Chalk Cliffs on Rügen — Caspar David Friedrich. [Source](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich%27s_Chalk_Cliffs_on_R%C3%BCgen.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A fantastical settlement assembled from boats over turquoise water beside a curling wave.](../Attachments/Artwork/locations/revoy-boat-city.webp)
+> >
+> > *Boat City — David Revoy. [Source](https://www.davidrevoy.com/article144/boat-city) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 
@@ -47,14 +64,6 @@ lore-status: Established history; suggestions marked Tentative
 - An ancient laboratory, armory, or magical research facility as a possible origin site.
 - [[Characters/NPCs/Veritas|Veritas]] may have researched the islands before his death; **not established canon**.
 
-
-<!-- campaign-artwork:start -->
-
-![A rocky island with cypresses, buildings cut into stone, and a small boat.](../Attachments/Artwork/locations/torney-isles-island-study.webp)
-
-*Visual reference: Island of the Dead, third version — Arnold Böcklin. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Arnold_Boecklin_-_Island_of_the_Dead,_Third_Version.JPG). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
 
 ## Clues & Revelations
 

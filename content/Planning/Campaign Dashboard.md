@@ -13,11 +13,11 @@ aliases:
 ## Current Situation
 
 - **In-world date:** TBD.
-- **Latest completed session:** no completed report available; earlier adventure details TBD.
-- **Immediate premise:** PCs have Frigid Woe and are traveling toward Ostium with Darian Auir.
-- **Upcoming prep:** [[Session Logs/Session Prep — The Road to Ostium|Session Prep — The Road to Ostium]]. Its scenes and outcomes remain Planned.
-- **PC roster:** [[Characters/Player Characters/Player Characters|Player Characters]].
-- **Active quest record:** seeking an antidote is the current premise. [[Characters/NPCs/Shanda Karth|Shanda Karth]] can introduce [[Characters/NPCs/Egbert Lusat|Egbert Lusat]], owner of two vials reserved for his sons. [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]] is an optional negotiated reward route, alongside purchase funded by other work, immediate aid against assurances, courier retrieval, direct Mistbreak travel, research, or theft.
+- **Steven’s table:** [[Session Logs/Steven's Table/Session 5|Session 5]] completed: undead alchemist defeated and antidote retrieved. Kalim’s treatment remains unrecorded. [[Session Logs/Steven's Table/Session 6|Session 6]] is blank preparation.
+- **Oliver’s table:** [[Session Logs/Oliver's Table/Session 1|Session 1]] completed: two pregens unknowingly drank Frigid Woe. They do not know the danger. [[Session Logs/Oliver's Table/Session 2|Session 2]] plans The Road to Ostium.
+- **Shared adventure:** [[Storylines/Adventures/The Road to Ostium|The Road to Ostium]]. Its prepared scenes are not completed outcomes.
+- **PC roster:** [[Characters/Player Characters/Player Characters|Player Characters]]; do not identify unnamed pregens with named PCs.
+- **Prepared treatment routes:** Shanda/Egbert negotiation, optional Prodigal Son compensation, a sale or advance, courier retrieval, northern travel, research, or theft. Steven’s retrieval is recorded separately; no route has yet been chosen by Oliver’s party.
 - **Timeline:** [[World Lore/Campaign Timeline|Campaign Timeline]].
 - **Open mysteries:** [[Planning/Plot Threads and Mysteries|Plot Threads and Mysteries]].
 
@@ -34,7 +34,8 @@ Confirm attendees, prior symptoms/rulings, dose requirements, travel/courier cos
 
 ## Upcoming Session
 
-- [[Session Logs/Session Prep — The Road to Ostium|Session Prep — The Road to Ostium]]
+- [[Session Logs/Oliver's Table/Session 2|Oliver’s Session 2 — The Road to Ostium]]
+- [[Session Logs/Steven's Table/Session 6|Steven’s Session 6 — blank preparation]]
 - [[Creatures and Afflictions/Frigid Woe|Frigid Woe]]
 - [[Locations/Mistbreak|Mistbreak]]
 - [[Locations/Torney Isles|Torney Isles]]

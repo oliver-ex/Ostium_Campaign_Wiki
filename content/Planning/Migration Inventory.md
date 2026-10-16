@@ -96,10 +96,10 @@ Original paths map to the canonical destination below. Shared destinations indic
 | `_GM/Rules/Rules.md` | [[Rules/Rules\|Rules]] |
 | `_GM/Session Logs/Road to Ostium - Vault Update Report - GM.md` | [[Planning/Archive/Road to Ostium - Vault Update Report\|Road to Ostium - Vault Update Report]] |
 | `_GM/Session Logs/Session 0 - GM Prep.md` | [[Session Logs/Session 0 Prep\|Session 0 Prep]] |
-| `_GM/Session Logs/Session 1 - The Prodigal Son - GM Prep.md` | [[Session Logs/Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] |
+| `_GM/Session Logs/Session 1 - The Prodigal Son - GM Prep.md` | [[Session 1 - The Prodigal Son Prep\|Session 1 - The Prodigal Son Prep]] |
 | `_GM/Session Logs/Session Logs.base` | [[Session Logs/Session Logs.base]] |
 | `_GM/Session Logs/Session Logs.md` | [[Session Logs/Session Logs\|Session Logs]] |
-| `_GM/Session Logs/Session Prep — The Road to Ostium - GM.md` | [[Session Logs/Session Prep — The Road to Ostium\|Session Prep — The Road to Ostium]] |
+| `_GM/Session Logs/Session Prep — The Road to Ostium - GM.md` | [[Storylines/Adventures/The Road to Ostium\|Session Prep — The Road to Ostium]] |
 | `_GM/Storylines/Acts/Act I - Twin Cities - GM.md` | [[Storylines/Acts/Act I - Twin Cities\|Act I - Twin Cities]] |
 | `_GM/Storylines/Acts/Act II - Beneath the Waterworks - GM.md` | [[Storylines/Acts/Act II - Beneath the Waterworks\|Act II - Beneath the Waterworks]] |
 | `_GM/Storylines/Acts/Act III - The Heart Below Ostium - GM.md` | [[Storylines/Acts/Act III - The Heart Below Ostium\|Act III - The Heart Below Ostium]] |

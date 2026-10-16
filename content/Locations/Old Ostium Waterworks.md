@@ -14,9 +14,20 @@ status: active
 
 <!-- campaign-artwork:start -->
 
-![A vast interior crossed by stone arches, stairs, ropes, and wooden bridges.](../Attachments/Artwork/locations/waterworks-drawbridge.webp)
-
-*Visual reference: Le Carceri d’Invenzione: The Drawbridge, second edition — Giovanni Battista Piranesi. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_07_-_The_Drawbridge.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A vast interior crossed by stone arches, stairs, ropes, and wooden bridges.](../Attachments/Artwork/locations/waterworks-drawbridge.webp)
+> >
+> > *Le Carceri d’Invenzione: The Drawbridge, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_07_-_The_Drawbridge.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A steep view into a narrow stone alley with drains and overhanging buildings.](../Attachments/Artwork/locations/revoy-ishtar-alley.webp)
+> >
+> > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 

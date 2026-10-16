@@ -14,9 +14,26 @@ aliases:
 
 <!-- campaign-artwork:start -->
 
-![Immense chains hang across a monumental vaulted stone interior.](../Attachments/Artwork/locations/titan-works-chains.webp)
-
-*Visual reference: Le Carceri d’Invenzione: The Pier with Chains, second edition — Giovanni Battista Piranesi. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_16_-_The_Pier_with_Chains.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![Immense chains hang across a monumental vaulted stone interior.](../Attachments/Artwork/locations/titan-works-chains.webp)
+> >
+> > *Le Carceri d’Invenzione: The Pier with Chains, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_16_-_The_Pier_with_Chains.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A monumental stepped stone complex with deep passages and weathered terraces.](../Attachments/Artwork/locations/revoy-ishtar-temple.webp)
+> >
+> > *Ishtar — abandoned temple — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A vast blue cavern with ribbed stone formations and a small figure for scale.](../Attachments/Artwork/locations/revoy-cavern.webp)
+> >
+> > *Sintel — dragon cave concept — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 

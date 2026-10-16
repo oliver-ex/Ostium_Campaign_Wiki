@@ -9,8 +9,8 @@ The authoritative Obsidian vault is `content/`. It is now one comprehensive DM/c
 - `Characters/Player Characters/` — eight canonical PCs and roster.
 - `Locations/` — 16 locations and directory.
 - `Factions/` — six factions and directory, including the Shattered Axe.
-- `Storylines/` — campaign spine, three act outlines, and eight prepared adventures.
-- `Session Logs/` — immediate Road to Ostium prep, earlier prep, and the existing unfilled session record.
+- `Storylines/` — campaign spine, three act outlines, and nine prepared adventures.
+- `Session Logs/` — separate `Steven's Table/` and `Oliver's Table/` histories and preparation; earlier unassigned notes remain at the root. Steven has five completed summaries and blank Session 6 prep; Oliver has a completed Session 1 summary and a Session 2 outline. The canonical Road to Ostium adventure is in `Storylines/Adventures/`.
 - `World Lore/` — Auren history and relative campaign timeline.
 - `Creatures and Afflictions/` — Frigid Woe and the Rot, kept distinct.
 - `Rules/` — dual-system policy and preserved campaign mechanics.
@@ -24,9 +24,11 @@ All paths above are relative to `content/`. Obsidian Bases continue to work; Mar
 
 ## Artwork
 
-All 44 NPC/location/faction pages now display existing, non-AI artwork: 39 distinct works and 49 placements across 22 NPCs, 16 locations, and six factions. The collection includes 24 historical paintings/illustrations and 15 fantasy illustrations. The four Lusat pages share a labelled Goliath species reference; individual portraits remain a sourcing refinement.
+All 44 NPC/location/faction pages have registered visual references: 46 distinct works and 67 placements. All 16 location pages now have mood boards combining retained classical paintings with existing fantasy environment art by David Revoy, with individual credits, original sources, and CC-BY-4.0 links. Images retain their full compositions. Boards use native Obsidian callouts and a responsive two- or three-column Quartz layout, stacking on mobile.
 
-`Attachments/Artwork Credits.md` records artists, original sources, rights information, and interpretation notes. `Attachments/Artwork Sourcing Backlog.md` records remaining portrait refinements. The asset register retains dimensions, hashes, coverage, and source metadata. Classical paintings are preferred where suitable; nonhuman NPCs use fantasy illustrations. Incidental appearance, gear, buildings, and symbols do not establish canon. The public build excludes 14 modern images whose publication rights have not been established, retaining their artist-source links; 25 artworks with recorded terms are published. Local Obsidian images remain intact.
+Senn Vale now uses an explicitly requested AI-generated portrait of an unmasked dragonborn waterworks labourer, replacing the masked alchemist reference. Its exact prompt and tool provenance are in `Attachments/Artwork/sources/senn-vale-labourer-generation.json`. This is the sole generated illustration; the new location art is existing artist-created work. Incidental appearances, equipment, buildings, and symbols do not establish canon.
+
+`Attachments/Artwork Credits.md` and the asset register record artists, sources, reuse terms, dimensions, hashes, and coverage. The public build includes 33 artworks in 51 placements. Thirteen active modern references and the superseded alchemist file remain excluded pending publication rights. The four Lusat pages retain their shared Goliath species reference; individual portraits remain a sourcing refinement.
 
 Ordinary relative Markdown image paths work with the vault. The built site adds responsive framing, intrinsic dimensions, click-to-open image links, and lazy loading for secondary art. `scripts/check-artwork.mjs` verifies local files, dimensions, recorded hashes, required credit fields, source availability, and placements during checks/builds.
 

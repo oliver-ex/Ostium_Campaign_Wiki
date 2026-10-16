@@ -7,11 +7,11 @@ tags:
 
 # Artwork Credits
 
-Existing, non-AI artwork supplies visual references; entity prose and metadata remain canon. Faces, age, clothing, weapons, magical effects, architecture, and symbols in borrowed art do not add campaign facts. Faction paintings establish atmosphere rather than official heraldry. Classical paintings are preferred where they fit; nonhuman NPCs use fantasy illustrations with visible species traits.
+Classical paintings, credited existing fantasy artwork, and Senn Vale’s explicitly requested AI-generated portrait supply visual references; entity prose and metadata remain canon. Faces, age, clothing, weapons, magical effects, architecture, and symbols in borrowed art do not add campaign facts. Faction paintings establish atmosphere rather than official heraldry. Classical paintings are preferred where they fit; nonhuman NPCs use fantasy illustrations with visible species traits.
 
 Images are local WebP files with full compositions and signatures retained. Click an image on the built site to open it at its saved resolution. Ordinary relative Markdown paths work in Obsidian.
 
-The local vault contains **39 distinct artworks and 49 placements across all 44 reviewed entity pages**. The public website includes **25 artworks and 32 placements across 27 pages** with recorded reuse terms. Fourteen modern illustrations remain local-only until publication rights are documented; their original artist links appear on the website instead. The four Lusat pages share a local Goliath species reference; individual portraits remain a refinement in [[Attachments/Artwork Sourcing Backlog|Artwork Sourcing Backlog]].
+The active register contains **46 distinct artworks and 67 placements across all 44 reviewed entity pages**. The public build includes **33 artworks and 51 placements**. Thirteen active modern references remain local-only; the superseded Senn alchemist file also remains excluded. All 16 location pages pair their retained paintings with credited existing fantasy references. The four Lusat pages still share a local Goliath species reference; see [[Attachments/Artwork Sourcing Backlog|Artwork Sourcing Backlog]].
 
 Historical works retain their recorded public-domain or Creative Commons information. The publication policy is recorded in the repository’s `publication-artwork.json`. Attribution alone is not treated as permission to republish.
 
@@ -339,15 +339,15 @@ Historical works retain their recorded public-domain or Creative Commons informa
 - **Local image:** [WebP](Artwork/npcs/vesha-noll.webp) — 673 × 1187. Resized down where necessary and converted to WebP; full composition and signatures retained.
 - **Interpretation:** Visibly elven ranger reference; the source character is a half-elf, while Vesha remains an Elf.
 
-### senn-vale
+### senn-vale-labourer
 
 - **Used by:** [[Characters/NPCs/Senn Vale|Senn Vale]]
-- **Work:** Doctor Viz (Alchemist DnD Character)
-- **Creator:** Vocitare
-- **Source:** [Original publication](https://www.deviantart.com/vocitare/art/Doctor-Viz-Alchemist-DnD-Character-866252199)
-- **Rights:** Copyright retained; no reuse license recorded. Artist and original publication credited; no permission grant is asserted by this register.
-- **Local image:** [WebP](Artwork/npcs/senn-vale.webp) — 763 × 1048. Resized down where necessary and converted to WebP; full composition and signatures retained.
-- **Interpretation:** Dragonborn craftsperson reference; mask and alchemical effects do not establish powers, disease, or equipment.
+- **Work:** Senn Vale — waterworks labourer
+- **Creator:** OpenAI image generation; directed for the Ostium campaign
+- **Source:** [Generation service terms](https://openai.com/policies/terms-of-use/)
+- **Rights:** AI-generated campaign illustration. Generated at the GM’s explicit request using the built-in image generation tool. No third-party reference image was supplied; no exclusive copyright claim is asserted.
+- **Local image:** [WebP](Artwork/npcs/senn-vale-labourer.webp) — 1100 × 1320. Generated for this campaign, downscaled and converted to WebP.
+- **Interpretation:** Proposed visual reference only. Scale colour, facial features, clothes, tools, and background do not establish additional canon.
 
 ### indra-karaf
 
@@ -388,3 +388,77 @@ Historical works retain their recorded public-domain or Creative Commons informa
 - **Rights:** [Public domain](https://creativecommons.org/publicdomain/mark/1.0/). Public-domain painting; source metadata retained in the source link.
 - **Local image:** [WebP](Artwork/factions/protectorate-night-watch.webp) — 1400 × 1139. Resized down where necessary and converted to WebP; full composition and signatures retained.
 - **Interpretation:** Civic guard atmosphere; historical weapons, uniforms, and insignia are not Protectorate canon.
+
+## Location fantasy references
+
+The mood boards retain separate images, complete compositions, captions, artist credits, source links, and reuse terms. No borrowed artwork was fed to image generation.
+
+### revoy-ishtar-streets
+
+- **Used by:** [[Locations/Old Ostium Hospital District|Old Ostium Hospital District]], [[Locations/Old Ostium Slums|Old Ostium Slums]], [[Locations/Old Ostium|Old Ostium]], [[Locations/Ostium|Ostium]]
+- **Work:** Ishtar — layered streets
+- **Creator:** David Revoy / Blender Foundation (Sintel)
+- **Source:** [Original publication](https://www.davidrevoy.com/article45/sintel-art-direction)
+- **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.
+- **Local image:** [WebP](Artwork/locations/revoy-ishtar-streets.webp) — 1280 × 557. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
+- **Interpretation:** Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.
+
+### revoy-ishtar-alley
+
+- **Used by:** [[Locations/Old Ostium Pump 4|Old Ostium Pump 4]], [[Locations/Old Ostium Pump 7|Old Ostium Pump 7]], [[Locations/Old Ostium Waterworks|Old Ostium Waterworks]]
+- **Work:** Ishtar — alley
+- **Creator:** David Revoy / Blender Foundation (Sintel)
+- **Source:** [Original publication](https://www.davidrevoy.com/article45/sintel-art-direction)
+- **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.
+- **Local image:** [WebP](Artwork/locations/revoy-ishtar-alley.webp) — 1119 × 800. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
+- **Interpretation:** Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.
+
+### revoy-ishtar-market
+
+- **Used by:** [[Locations/New Ostium Market District|New Ostium Market District]]
+- **Work:** Ishtar — market
+- **Creator:** David Revoy / Blender Foundation (Sintel)
+- **Source:** [Original publication](https://www.davidrevoy.com/article45/sintel-art-direction)
+- **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.
+- **Local image:** [WebP](Artwork/locations/revoy-ishtar-market.webp) — 1176 × 800. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
+- **Interpretation:** Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.
+
+### revoy-ishtar-temple
+
+- **Used by:** [[Locations/Old Ostium Town Hall|Old Ostium Town Hall]], [[Locations/Old Ostium University|Old Ostium University]], [[Locations/Titan Works|Titan Works]]
+- **Work:** Ishtar — abandoned temple
+- **Creator:** David Revoy / Blender Foundation (Sintel)
+- **Source:** [Original publication](https://www.davidrevoy.com/article45/sintel-art-direction)
+- **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.
+- **Local image:** [WebP](Artwork/locations/revoy-ishtar-temple.webp) — 1070 × 800. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
+- **Interpretation:** Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.
+
+### revoy-ishtar-panorama
+
+- **Used by:** [[Locations/New Ostium Town Hall|New Ostium Town Hall]], [[Locations/New Ostium|New Ostium]], [[Locations/Ostium|Ostium]]
+- **Work:** Ishtar — city panorama
+- **Creator:** David Revoy / Blender Foundation (Sintel)
+- **Source:** [Original publication](https://www.davidrevoy.com/article45/sintel-art-direction)
+- **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.
+- **Local image:** [WebP](Artwork/locations/revoy-ishtar-panorama.webp) — 1280 × 652. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
+- **Interpretation:** Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.
+
+### revoy-cavern
+
+- **Used by:** [[Locations/The Heart|The Heart]], [[Locations/Titan Works|Titan Works]]
+- **Work:** Sintel — dragon cave concept
+- **Creator:** David Revoy / Blender Foundation (Sintel)
+- **Source:** [Original publication](https://www.davidrevoy.com/article45/sintel-art-direction)
+- **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0; its AI-derivation prohibition is respected: no image-generation tool was given this work.
+- **Local image:** [WebP](Artwork/locations/revoy-cavern.webp) — 1280 × 557. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
+- **Interpretation:** Architectural texture, lighting, and sense of scale only. Ishtar, its desert setting, story, temple function, dragons, and inhabitants are not Ostium canon.
+
+### revoy-boat-city
+
+- **Used by:** [[Locations/Mistbreak|Mistbreak]], [[Locations/Torney Isles|Torney Isles]]
+- **Work:** Boat City
+- **Creator:** David Revoy
+- **Source:** [Original publication](https://www.davidrevoy.com/article144/boat-city)
+- **Rights:** [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Artist source page records CC-BY 4.0.
+- **Local image:** [WebP](Artwork/locations/revoy-boat-city.webp) — 1280 × 616. Resized down only where necessary and converted to WebP; full composition retained. Displayed beside other references without repainting or AI processing.
+- **Interpretation:** Coastal construction and maritime fantasy mood only; no new creatures, tropical climate, or literal settlement geography are established.

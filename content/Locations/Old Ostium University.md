@@ -14,9 +14,20 @@ status: uncertain
 
 <!-- campaign-artwork:start -->
 
-![A vast ruined gallery with vaults open to the sky and people among the debris.](../Attachments/Artwork/locations/university-ruined-gallery.webp)
-
-*Visual reference: Imaginary View of the Grande Galerie in the Louvre in Ruins — Hubert Robert. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_Imaginary_View_of_the_Grande_Galerie_in_the_Louvre_in_Ruins_-_WGA19589.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A vast ruined gallery with vaults open to the sky and people among the debris.](../Attachments/Artwork/locations/university-ruined-gallery.webp)
+> >
+> > *Imaginary View of the Grande Galerie in the Louvre in Ruins — Hubert Robert. [Source](https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_Imaginary_View_of_the_Grande_Galerie_in_the_Louvre_in_Ruins_-_WGA19589.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A monumental stepped stone complex with deep passages and weathered terraces.](../Attachments/Artwork/locations/revoy-ishtar-temple.webp)
+> >
+> > *Ishtar — abandoned temple — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 

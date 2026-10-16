@@ -24,22 +24,39 @@ No identity or causal connection between these strands has been established.
 - Old Ostium declined while New Ostium emerged as its functioning successor. The two remain physically and historically interconnected.
 - Collapse and contamination of the infrastructure contribute to the wounded being's bleeding and infection, expressed as the Rot. Exact dates and causality chronology are not fully recorded.
 
-## Recent Events Before the Upcoming Session — Established Premise
+## Recent Background — Established Premise
 
 - [[Characters/NPCs/Veritas|Veritas]] died of Frigid Woe in Mistbreak several months before current events.
 - Antidote was recently found or recovered in the far north and stockpiled in [[Locations/Mistbreak|Mistbreak]].
 - [[Characters/NPCs/Tara Lusat|Tara Lusat]], wife of [[Characters/NPCs/Egbert Lusat|Egbert Lusat]] and mother of Taran and [[Characters/NPCs/Sara Lusat|Sara Lusat]], died of the Rot of Old Ostium, deepening Egbert's protectiveness toward his children. Exact date and timing relative to other undated events are TBD.
 - After hearing reports of Frigid Woe in the north, Egbert commissioned [[Characters/NPCs/Shanda Karth|Shanda Karth]] to acquire two extraordinarily expensive vials, one reserved for each son as a precaution. Neither son is established as infected with Frigid Woe.
-- The PCs contracted Frigid Woe during their earlier adventure; its detailed session record and exposure circumstances are TBD.
+- Table-specific exposure and antidote outcomes are recorded below; do not merge the two parties’ histories.
 
-## Events Experienced by PCs
+## Events Experienced by PCs — Steven’s Table
 
-The prior illness/adventure is established by the GM's premise. No completed session report with further events is available. [[Session Logs/Session Log 0|Session Log 0]] is a blank record, not evidence that its placeholder headings happened.
+| Session | Confirmed outcome | Record |
+|---|---|---|
+| 1 | A pregen party cleared the wizard’s tower basement and found Frigid Woe vials | [[Session Logs/Steven's Table/Session 1\|Session 1]] |
+| 2 | Kalim Escara, Cedric, Bilbron Bafflestone, and Moin Stonefist formed a new party in Mistbreak and began investigating Veritas’s death | [[Session Logs/Steven's Table/Session 2\|Session 2]] |
+| 3 | The party took down the Glass Blades while seeking antidote information; Kalim became infected | [[Session Logs/Steven's Table/Session 3\|Session 3]] |
+| 4 | The party travelled to the Torney Isles to search for the antidote | [[Session Logs/Steven's Table/Session 4\|Session 4]] |
+| 5 | The party defeated the undead alchemist and retrieved the antidote; administration and Kalim’s cure remain unrecorded | [[Session Logs/Steven's Table/Session 5\|Session 5]] |
+
+## Events Experienced by PCs — Oliver’s Table
+
+| Session | Confirmed outcome | Record |
+|---|---|---|
+| 1 | A pregen party cleared the Wizard’s Tower Brewery basement. Two members unknowingly drank Frigid Woe and are affected, without knowing the diagnosis or danger | [[Session Logs/Oliver's Table/Session 1\|Session 1]] |
+
+**GM knowledge for Oliver’s table:** without antidote, the two affected characters will turn to blocks of ice and die in roughly a month. The exact elapsed time, remaining time, and affected identities are TBD. This prognosis has not been revealed to the PCs.
+
+The tables have independent continuity; no calendar dates or chronology between their sessions are established. [[Session Logs/Session Log 0|Session Log 0]] remains an unassigned blank record.
 
 ## Planned / Conditional Future
 
-- [[Session Logs/Session Prep — The Road to Ostium|Session Prep — The Road to Ostium]]: caravan ambush and investigation, subject to PC choices.
+- **Oliver’s table:** [[Session Logs/Oliver's Table/Session 2|Session 2]] prepares [[Storylines/Adventures/The Road to Ostium|The Road to Ostium]]; its encounters and revelations are unplayed.
+- **Steven’s table:** [[Session Logs/Steven's Table/Session 6|Session 6]] is a blank preparation template.
 - [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]] and [[Storylines/Adventures/Pump 7|Pump 7]] remain prepared hooks, not completed history.
 - [[Storylines/Acts/Act II - Beneath the Waterworks|Act II - Beneath the Waterworks]] and [[Storylines/Acts/Act III - The Heart Below Ostium|Act III - The Heart Below Ostium]] outline possible later discoveries and outcomes.
 - Egbert may negotiate antidote compensation for The Prodigal Son, sale for substantial gold, an advance against assurances, or a replacement plan; no transaction or quest acceptance has occurred merely because it is prepared.
-- Northern travel, courier retrieval, other paid work, patron negotiation, and island research depend on decisions in play.
+- Further northern travel, courier retrieval, other paid work, patron negotiation, and island research remain table-specific possibilities. Steven’s journey and retrieval above are already completed events.

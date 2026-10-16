@@ -48,7 +48,7 @@ Quartz's reused framework code retains its MIT license in `LICENSE.txt`. Framewo
 - `quartz.config.ts` and `quartz.layout.ts`: native Quartz configuration and navigation.
 - `scripts/`: directory generation, vault/artwork audits, and generated-site checks.
 - `.github/workflows/deploy.yml`: one Actions publisher for `main`; pull requests validate without deploying.
-- `publication-artwork.json`: 14 local illustrations excluded from both Git and the built site because publication rights have not been established. Artist-source links appear in their place. Twenty-five images with recorded terms remain publishable. Local Obsidian embeds are preserved; fresh clones do not include the withheld binaries.
+- `publication-artwork.json`: 14 local illustrations excluded from both Git and the built site because publication rights have not been established. Artist-source links appear in their place. The active register includes 33 publishable images: historical works, credited fantasy environment art, and Senn Vale’s explicitly requested generated labourer portrait. Local Obsidian embeds are preserved; fresh clones do not include the withheld binaries.
 
 Editor state, credentials, local backups, dependencies, and generated `public/` output are ignored. Every campaign Markdown page, including templates and secrets, is included. Quartz 4 displays the automatically generated directory tables in place of interactive `.base` embeds; the original Bases remain usable in Obsidian.
 

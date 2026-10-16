@@ -25,9 +25,26 @@ lore-status: Established facts; suggestions marked Tentative
 
 <!-- campaign-artwork:start -->
 
-![A working fishing harbor surrounded by weathered houses, boats, and steep northern mountains.](../Attachments/Artwork/locations/mistbreak-harbor.webp)
-
-*Visual reference: A Fishing Village in the North of Norway — Adelsteen Normann. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Adelsteen_Normann_-_A_fishing_Village_in_the_North_of_Norway_-_NG.M.04360_-_National_Museum_of_Art,_Architecture_and_Design.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![Fishing boats and working villagers along a cold snowy coast.](../Attachments/Artwork/locations/mistbreak-fishing-village.webp)
+> >
+> > *Fishing Village on the Norwegian Coast — Ludvig Munthe. [Source](https://commons.wikimedia.org/wiki/File:Ludvig_Munthe_-_Fishing_Village_on_the_Norwegian_Coast_-_NG.M.00296_-_National_Museum_of_Art,_Architecture_and_Design.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Classical reference
+> >
+> > ![A working fishing harbor surrounded by weathered houses, boats, and steep northern mountains.](../Attachments/Artwork/locations/mistbreak-harbor.webp)
+> >
+> > *A Fishing Village in the North of Norway — Adelsteen Normann. [Source](https://commons.wikimedia.org/wiki/File:Adelsteen_Normann_-_A_fishing_Village_in_the_North_of_Norway_-_NG.M.04360_-_National_Museum_of_Art,_Architecture_and_Design.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A fantastical settlement assembled from boats over turquoise water beside a curling wave.](../Attachments/Artwork/locations/revoy-boat-city.webp)
+> >
+> > *Boat City — David Revoy. [Source](https://www.davidrevoy.com/article144/boat-city) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 
@@ -39,14 +56,6 @@ lore-status: Established facts; suggestions marked Tentative
 - A supply of antidote found in the far north has recently been stockpiled here.
 - [[Characters/NPCs/Elro Aditower|Elro Aditower]] is the elven mayor. [[Characters/NPCs/Veritas|Veritas]], an elf wizard, died of the affliction several months ago.
 
-
-<!-- campaign-artwork:start -->
-
-![Fishing boats and working villagers along a cold snowy coast.](../Attachments/Artwork/locations/mistbreak-fishing-village.webp)
-
-*Visual reference: Fishing Village on the Norwegian Coast — Ludvig Munthe. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Ludvig_Munthe_-_Fishing_Village_on_the_Norwegian_Coast_-_NG.M.00296_-_National_Museum_of_Art,_Architecture_and_Design.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
-
-<!-- campaign-artwork:end -->
 
 ## Clues & Revelations
 

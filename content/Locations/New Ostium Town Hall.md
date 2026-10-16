@@ -14,9 +14,20 @@ status: active
 
 <!-- campaign-artwork:start -->
 
-![A monumental civic waterfront lined with stone buildings, boats, and people.](../Attachments/Artwork/locations/new-ostium-civic-waterfront.webp)
-
-*Visual reference: Venice, The Doge’s Palace and the Riva degli Schiavoni — Canaletto (Giovanni Antonio Canal). [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Canaletto_(1697-1768)_-_Venice,_The_Doge%27s_Palace_and_the_Riva_degli_Schiavoni_-_NG940_-_National_Gallery.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A monumental civic waterfront lined with stone buildings, boats, and people.](../Attachments/Artwork/locations/new-ostium-civic-waterfront.webp)
+> >
+> > *Venice, The Doge’s Palace and the Riva degli Schiavoni — Canaletto (Giovanni Antonio Canal). [Source](https://commons.wikimedia.org/wiki/File:Canaletto_(1697-1768)_-_Venice,_The_Doge%27s_Palace_and_the_Riva_degli_Schiavoni_-_NG940_-_National_Gallery.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A sprawling fantasy city with layered roofs, walls, and an elevated monumental centre.](../Attachments/Artwork/locations/revoy-ishtar-panorama.webp)
+> >
+> > *Ishtar — city panorama — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 

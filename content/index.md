@@ -46,7 +46,8 @@ Ostium is a divided city whose failing infrastructure, unequal access to care, a
 - [[Storylines/Adventures/Adventures|Quest directory and prepared adventures]]
 - [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]]
 - [[Encounters/Encounters|Encounters]]
-- [[Session Logs/Session Prep — The Road to Ostium|Upcoming session preparation]]
+- [[Session Logs/Oliver's Table/Session 2|Oliver’s next session — The Road to Ostium]]
+- [[Session Logs/Steven's Table/Session 6|Steven’s next session — blank preparation]]
 - [[Session Logs/Session Logs|Session index and previous reports]]
 
 ## DM Resources

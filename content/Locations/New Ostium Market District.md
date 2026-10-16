@@ -14,9 +14,20 @@ status: active
 
 <!-- campaign-artwork:start -->
 
-![A busy Venetian square with people, old stone buildings, and market activity.](../Attachments/Artwork/locations/new-ostium-market.webp)
-
-*Visual reference: Veduta di una piazzetta a Venezia — Giovanni Migliara; image: Fondazione Cariplo. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0); [source](https://commons.wikimedia.org/wiki/File:Artgate_Fondazione_Cariplo_-_Migliara_Giovanni,_Veduta_di_una_piazzetta_a_Venezia.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A busy Venetian square with people, old stone buildings, and market activity.](../Attachments/Artwork/locations/new-ostium-market.webp)
+> >
+> > *Veduta di una piazzetta a Venezia — Giovanni Migliara. [Source](https://commons.wikimedia.org/wiki/File:Artgate_Fondazione_Cariplo_-_Migliara_Giovanni,_Veduta_di_una_piazzetta_a_Venezia.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![An architectural drawing of a dense fantasy market with stalls and timber buildings.](../Attachments/Artwork/locations/revoy-ishtar-market.webp)
+> >
+> > *Ishtar — market — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 

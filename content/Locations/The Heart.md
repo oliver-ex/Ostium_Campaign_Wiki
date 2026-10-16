@@ -14,12 +14,22 @@ aliases:
 
 <!-- campaign-artwork:start -->
 
-![A bound mythological figure suffering beneath an eagle against a dark rocky landscape.](../Attachments/Artwork/locations/the-heart.webp)
-
-*Visual reference: Prometheus Bound — [Peter Paul Rubens and Frans Snyders](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_Flemish_(active_Italy,_Antwerp,_and_England)_-_Prometheus_Bound_-_Google_Art_Project.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A bound mythological figure suffering beneath an eagle against a dark rocky landscape.](../Attachments/Artwork/locations/the-heart.webp)
+> >
+> > *Prometheus Bound — Peter Paul Rubens and Frans Snyders. [Source](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_Flemish_(active_Italy,_Antwerp,_and_England)_-_Prometheus_Bound_-_Google_Art_Project.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A vast blue cavern with ribbed stone formations and a small figure for scale.](../Attachments/Artwork/locations/revoy-cavern.webp)
+> >
+> > *Sintel — dragon cave concept — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
-
 
 
 ## Operational Summary

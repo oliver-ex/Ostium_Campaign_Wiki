@@ -7,7 +7,7 @@ tags:
 
 # Artwork Sourcing Backlog
 
-All **44 NPC, location, and faction pages now display artwork**. There are no blank subjects in the reviewed set. The remaining work is improving individual matches, rather than finding licenses or filling missing images. See [[Attachments/Artwork Credits|Artwork Credits]] for artists, original publications, and interpretation notes.
+All **44 NPC, location, and faction pages now display artwork**. There are no blank subjects in the reviewed set. The remaining work is improving individual matches and documenting reuse rights for local-only references; see the publication exclusions in [[Attachments/Artwork Credits|Artwork Credits]]. See [[Attachments/Artwork Credits|Artwork Credits]] for artists, original publications, and interpretation notes.
 
 ## Portrait refinements
 
@@ -21,6 +21,5 @@ All **44 NPC, location, and faction pages now display artwork**. There are no bl
 | [[Characters/NPCs/Orla Meren|Orla Meren]] | Felicia Cano’s female Gnome. | Civilian clerk or scholar without woodland magic or martial equipment. |
 | [[Characters/NPCs/Trine Baradur|Trine Baradur]] | Woodenpencilbox’s horned Tiefling in ornate clothing. | More mature merchant portrait, closer to age 45. |
 | [[Characters/NPCs/Veritas|Veritas]] | bearcub’s visibly elven staff-bearing figure. | Scholar with books or notes, without armor or clerical associations. |
-| [[Characters/NPCs/Senn Vale|Senn Vale]] | Vocitare’s masked Dragonborn alchemist. | Unmasked Dragonborn technician with pumps or engineering tools. |
 
-These illustrations do not settle appearance, inventory, ancestry subtypes, or occupations beyond the existing text. The four Lusat pages deliberately identify their image as a shared species reference, not a family portrait. No AI images or rejected game portraits are used.
+These illustrations do not settle appearance, inventory, ancestry subtypes, or occupations beyond the existing text. The four Lusat pages deliberately identify their image as a shared species reference, not a family portrait. Senn Vale now has an explicitly requested AI-generated dragonborn labourer illustration; location fantasy references remain existing artist-created work.

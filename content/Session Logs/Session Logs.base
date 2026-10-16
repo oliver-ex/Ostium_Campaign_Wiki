@@ -1,8 +1,14 @@
 filters:
   and:
-    - file.folder == "Session Logs"
-    - type == "session-log"
+    - file.inFolder("Session Logs")
+    - or:
+        - type == "session-log"
+        - type == "session-prep"
 properties:
+  table:
+    displayName: Table
+  status:
+    displayName: Status
   file.name:
     displayName: Name
   session:
@@ -21,10 +27,34 @@ views:
   - type: table
     name: Session Logs
     order:
-      - file.name
+      - table
       - session
+      - status
+      - file.name
       - date
       - pcs-present
       - locations
       - npcs
       - factions
+  - type: table
+    name: Steven's Table
+    filters:
+      and:
+        - file.inFolder("Session Logs/Steven's Table")
+    order:
+      - session
+      - file.name
+      - status
+      - date
+      - pcs-present
+  - type: table
+    name: Oliver's Table
+    filters:
+      and:
+        - file.inFolder("Session Logs/Oliver's Table")
+    order:
+      - session
+      - file.name
+      - status
+      - date
+      - pcs-present

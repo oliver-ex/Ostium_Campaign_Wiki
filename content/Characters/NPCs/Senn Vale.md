@@ -25,9 +25,9 @@ session-appearances: []
 
 <!-- campaign-artwork:start -->
 
-![A masked dragonborn alchemist with clawed feet, a long tail, and tools and bottles at his belt.](../../Attachments/Artwork/npcs/senn-vale.webp)
+![An unmasked dragonborn labourer in a patched shirt and leather apron repairs a water-pump valve with a spanner.](../../Attachments/Artwork/npcs/senn-vale-labourer.webp)
 
-*Visual reference: Doctor Viz (Alchemist DnD Character) — [Vocitare](https://www.deviantart.com/vocitare/art/Doctor-Viz-Alchemist-DnD-Character-866252199). [[Attachments/Artwork Credits|Credits and interpretation]].*
+*Visual reference: Senn Vale — waterworks labourer. AI-generated for this campaign at the GM’s request; appearance, clothing, and tools are illustrative proposals. [[Attachments/Artwork Credits|Credits and interpretation]].*
 
 <!-- campaign-artwork:end -->
 

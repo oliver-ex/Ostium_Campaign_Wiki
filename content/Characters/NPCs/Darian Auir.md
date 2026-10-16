@@ -39,7 +39,7 @@ session-appearances: []
 
 - Drives the caravan transporting the PCs toward [[Locations/Ostium|Ostium]].
 - **Cargo:** food, medical supplies, and gold intended for use in the city.
-- Alive at the start of [[Session Logs/Session Prep — The Road to Ostium|Session Prep — The Road to Ostium]]. Later status depends on play.
+- Alive at the start of [[Storylines/Adventures/The Road to Ostium|Session Prep — The Road to Ostium]]. Later status depends on play.
 - The caravan is targeted by [[Factions/The Shattered Axe|The Shattered Axe]] under [[Characters/NPCs/Korok Grund|Korok Grund]].
 
 ## Motives & Portrayal — Tentative

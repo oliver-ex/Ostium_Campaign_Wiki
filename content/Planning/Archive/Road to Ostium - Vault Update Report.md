@@ -20,7 +20,7 @@ aliases:
 
 ## Entry Point
 
-- [[Session Logs/Session Prep — The Road to Ostium|Session Prep — The Road to Ostium]] contains the six flexible situations, quick reference, revelation matrix, dialogue, consequences, pacing, and improvisation toolkit.
+- [[Storylines/Adventures/The Road to Ostium|Session Prep — The Road to Ostium]] contains the six flexible situations, quick reference, revelation matrix, dialogue, consequences, pacing, and improvisation toolkit.
 - Existing dirty worktree changes were retained. Nothing was staged, committed, synchronized, or published.
 
 ## Files Created
@@ -48,7 +48,7 @@ Eight public PC pages use the current template. Four replace verified untouched 
 - [[Locations/Torney Isles|Torney Isles]]
 - [[World Lore/Auren Culture|Auren Culture]]
 - [[Creatures and Afflictions/Frigid Woe|Frigid Woe]]
-- [[Session Logs/Session Prep — The Road to Ostium|Session Prep — The Road to Ostium]]
+- [[Storylines/Adventures/The Road to Ostium|Session Prep — The Road to Ostium]]
 - This private handover report.
 
 ## Files Modified / Renamed
@@ -79,7 +79,7 @@ Modified existing content paths:
 - [[Locations/Old Ostium Waterworks|Old Ostium Waterworks]]
 - [[Locations/Ostium|Ostium]]
 - [[Rules/Rules|Rules]]
-- [[Session Logs/Session 1 - The Prodigal Son Prep|Session 1 - The Prodigal Son Prep]]
+- [[Session 1 - The Prodigal Son Prep|Session 1 - The Prodigal Son Prep]]
 - [[Storylines/Acts/Act I - Twin Cities|Act I - Twin Cities]]
 - [[Storylines/Acts/Act II - Beneath the Waterworks|Act II - Beneath the Waterworks]]
 - [[Storylines/Acts/Act III - The Heart Below Ostium|Act III - The Heart Below Ostium]]

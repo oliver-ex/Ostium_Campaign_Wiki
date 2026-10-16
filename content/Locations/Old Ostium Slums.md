@@ -14,9 +14,20 @@ status: dangerous
 
 <!-- campaign-artwork:start -->
 
-![People live and work in the shelter of damaged monumental stone buildings.](../Attachments/Artwork/locations/old-ostium-inhabited-ruins.webp)
-
-*Visual reference: Inhabited Ruins — Hubert Robert. [Public domain](https://creativecommons.org/publicdomain/mark/1.0/); [source](https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_Inhabited_Ruins_-_WGA19584.jpg). [[Attachments/Artwork Credits|Credits and interpretation]].*
+> [!gallery] Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![People live and work in the shelter of damaged monumental stone buildings.](../Attachments/Artwork/locations/old-ostium-inhabited-ruins.webp)
+> >
+> > *Inhabited Ruins — Hubert Robert. [Source](https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_Inhabited_Ruins_-_WGA19584.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![Layered timber and stone buildings linked by elevated walkways.](../Attachments/Artwork/locations/revoy-ishtar-streets.webp)
+> >
+> > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 <!-- campaign-artwork:end -->
 
