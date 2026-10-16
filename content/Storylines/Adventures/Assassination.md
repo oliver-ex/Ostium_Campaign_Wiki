@@ -21,27 +21,6 @@ A prepared mission to remove Ulroc’s control of the Shattered Axe through kill
 <!-- page-summary:end -->
 
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
-| Referenced locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
-| Factions | [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Best Defense\|The Best Defense]] — prepared | A prepared opportunity to disrupt a Shattered Axe raiding party before it attacks a surviving Old Ostium settlement. |
-| [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
-
-<!-- page-connections:end -->
-
 ## Function in the Larger Arc
 
 Later side quest that lets the party directly address Ulroc after the Shattered Axe's actions have crossed a threshold.
@@ -151,3 +130,23 @@ These are modular possibilities, not a fixed sequence.
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
+> | Referenced locations | [[Locations/Old Ostium Slums\|Old Ostium Slums]] |
+> | Factions | [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/The Best Defense\|The Best Defense]] — prepared | A prepared opportunity to disrupt a Shattered Axe raiding party before it attacks a surviving Old Ostium settlement. |
+> | [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
+
+<!-- page-connections:end -->

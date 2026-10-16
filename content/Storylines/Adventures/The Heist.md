@@ -21,26 +21,6 @@ A prepared Shattered Axe coercion job to steal an artifact from a New Ostium mus
 <!-- page-summary:end -->
 
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
-| Referenced locations | [[Locations/New Ostium\|New Ostium]] |
-| Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
-
-<!-- page-connections:end -->
-
 ## Function in the Larger Arc
 
 Shattered Axe coercion job that tests whether the party will commit a serious crime in civilized New Ostium and demonstrates non-combat consequences.
@@ -156,3 +136,22 @@ These are modular possibilities, not a fixed sequence.
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] · [[Characters/NPCs/Vesha Noll\|Vesha Noll]] |
+> | Referenced locations | [[Locations/New Ostium\|New Ostium]] |
+> | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
+
+<!-- page-connections:end -->

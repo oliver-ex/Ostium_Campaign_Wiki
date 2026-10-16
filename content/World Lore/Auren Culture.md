@@ -24,19 +24,6 @@ An ancient civilization of the Torney Isles that battled the gods and developed 
 <!-- page-summary:end -->
 
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
-| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
-
-<!-- page-connections:end -->
-
 ## Established History
 
 - Ancient civilization that battled the gods and formerly inhabited [[Locations/Torney Isles|Torney Isles]].
@@ -52,3 +39,15 @@ Location links are document references; geographic containment is shown in the W
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
+> | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
+
+<!-- page-connections:end -->

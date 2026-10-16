@@ -66,36 +66,7 @@ A Shattered Axe field commander preparing to rob Darian’s caravan under the gu
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Carl Marsh\|Carl Marsh]] · [[Characters/NPCs/Darian Auir\|Darian Auir]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] |
-| Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Encounters/Roadside Ambush\|Roadside Ambush]] — prepared | A prepared caravan robbery by Shattered Axe bandits posing as city guards, with options to detect the deception, negotiate, evade, or fight. |
-| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
-
-<!-- page-connections:end -->
-
 ## At a Glance
-
-**Species (D&D 2024):** Orc
 
 - Commands the caravan ambush under orders from [[Factions/The Shattered Axe|The Shattered Axe]].
 - **Planned ambush setup (GM-established):** poses with his gang as New Ostium city guards, using a false caravan inspection and “contraband” seizure to disguise the robbery. Specific outfit clues and Darian's warning are in [[Storylines/Adventures/The Road to Ostium|The Road to Ostium]]; no actual city authority is established.
@@ -145,3 +116,29 @@ _No encounter or revelation recorded yet; this is a continuity note, not a publi
 ## Session Appearances
 
 No completed appearance recorded; planned appearances are preparation, not history.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Carl Marsh\|Carl Marsh]] · [[Characters/NPCs/Darian Auir\|Darian Auir]] · [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] |
+> | Factions | [[Factions/The Shattered Axe\|The Shattered Axe]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Encounters/Roadside Ambush\|Roadside Ambush]] — prepared | A prepared caravan robbery by Shattered Axe bandits posing as city guards, with options to detect the deception, negotiate, evade, or fight. |
+> | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
+
+<!-- page-connections:end -->

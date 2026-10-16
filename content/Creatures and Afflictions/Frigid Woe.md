@@ -24,38 +24,6 @@ An ancient Auren weapon affliction resistant to divine healing, driving a search
 <!-- page-summary:end -->
 
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Veritas\|Veritas]] · [[Characters/Player Characters/Kalim Escara\|Kalim Escara]] |
-| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
-| Campaign & lore | [[World Lore/Auren Culture\|Auren Culture]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
-| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Oliver's Table/Session 1\|Session 1 — The Wizard’s Tower Brewery]] | Oliver's Table | completed |
-> | [[Session Logs/Steven's Table/Session 1\|Session 1 — The Wizard’s Tower Basement]] | Steven's Table | completed |
-> | [[Session Logs/Steven's Table/Session 3\|Session 3 — The Glass Blades]] | Steven's Table | completed |
-> | [[Session Logs/Steven's Table/Session 4\|Session 4 — To the Torney Isles]] | Steven's Table | completed |
-> | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
-
-<!-- page-connections:end -->
-
 ## History & Origin
 
 - Ancient affliction originating as a weapon of [[World Lore/Auren Culture|Auren Culture]], formerly of [[Locations/Torney Isles|Torney Isles]].
@@ -127,3 +95,34 @@ Needs decision: symptoms already used at the table, progression, saves or define
 ## Daggerheart Mechanics
 
 Needs decision independently: consequences, any tracking, treatment, and interaction with chosen features. Do not convert a D&D saving throw/DC into an action roll or Difficulty. No Stress, HP, or threshold changes assigned by this refactor.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Veritas\|Veritas]] · [[Characters/Player Characters/Kalim Escara\|Kalim Escara]] |
+> | Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
+> | Campaign & lore | [[World Lore/Auren Culture\|Auren Culture]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+> | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Oliver's Table/Session 1\|Session 1 — The Wizard’s Tower Brewery]] | Oliver's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 1\|Session 1 — The Wizard’s Tower Basement]] | Steven's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 3\|Session 3 — The Glass Blades]] | Steven's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 4\|Session 4 — To the Torney Isles]] | Steven's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
+
+<!-- page-connections:end -->

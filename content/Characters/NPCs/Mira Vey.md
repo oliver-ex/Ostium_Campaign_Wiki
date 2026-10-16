@@ -57,23 +57,7 @@ Aaron Fortisax’s practical, exacting lieutenant, who coordinates New Ostium’
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] |
-| Referenced locations | [[Locations/New Ostium\|New Ostium]] |
-| Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] |
-
-<!-- page-connections:end -->
-
 ## Overview
-
-**Species (D&D 2024):** Human
 
 Mira Vey is the lieutenant of the [[Factions/New Ostium City Guard|New Ostium City Guard]], serving under [[Characters/NPCs/Aaron Fortisax|Aaron Fortisax]]. She turns command decisions into patrol assignments, incident reports, and coordinated investigations in [[Locations/New Ostium|New Ostium]].
 
@@ -82,10 +66,6 @@ Mira Vey is the lieutenant of the [[Factions/New Ostium City Guard|New Ostium Ci
 Mira is 38, with close-cropped dark hair, a weathered face, and a meticulous uniform. She keeps a small notebook at hand and writes down names before asking for explanations. Her voice is low and precise; under pressure, she becomes quieter rather than louder.
 
 She is disciplined, observant, and difficult to rush. Courtesy earns a hearing, but titles and expensive clothes do not excuse an inconsistent account. She dislikes unnecessary force because it endangers bystanders and makes an already difficult job harder.
-
-## Background
-
-Mira worked her way up through ordinary patrol duty and remains attentive to the practical details that officers behind desks can miss. She regards careful reports and reliable colleagues as essential tools of command. No role in earlier campaign events is established.
 
 ## Motivations & Goals
 
@@ -133,3 +113,20 @@ Narrative NPC; no class, level, feat, spell list, Challenge Rating, or official 
 ## Session References & Changes
 
 No completed appearance recorded; possible interactions remain preparation.
+
+## Background
+
+Mira worked her way up through ordinary patrol duty and remains attentive to the practical details that officers behind desks can miss. She regards careful reports and reliable colleagues as essential tools of command. No role in earlier campaign events is established.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] |
+> | Referenced locations | [[Locations/New Ostium\|New Ostium]] |
+> | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] |
+
+<!-- page-connections:end -->

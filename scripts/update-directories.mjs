@@ -1,3 +1,4 @@
+import fs from 'node:fs'
 import YAML from 'yaml'
 import { updateCharacterProfiles, updateLocationResidents } from './update-character-profiles.mjs'
 import { updatePageReferences } from './update-page-references.mjs'
@@ -10,16 +11,36 @@ const table = (headers, rows) => `| ${headers.join(' | ')} |\n| ${headers.map(()
 const link = p => `[[${p.id}|${p.id.split("/").at(-1)}]]`
 const npcs = entries('Characters/NPCs', 'npc')
 const adventures = entries('Storylines/Adventures','adventure')
-writePage('content/Characters/NPCs/NPCs.md','NPC Directory',`All ${npcs.length} canonical NPC entries. Egbert Lusat is the antidote benefactor; the former unnamed placeholder is merged into his entry. Names, roles, and knowledge are campaign records; planned appearances are not completed events. Search this page or use full-text search.\n\n${table(['NPC','Role','Recorded location','Affiliation'], npcs.map(p=>[link(p),p.data.occupation,p.data.location || p.data.last_known_location,p.data.factions?.length?p.data.factions:'Not established']))}\n\n![[Characters/NPCs/NPCs.base#NPCs]]`)
+writePage('content/Characters/NPCs/NPCs.md','NPC Directory',`All ${npcs.length} canonical NPC entries. Names, roles, and knowledge are campaign records; planned appearances are not completed events. Filter and sort the directory, or use full-text search.\n\n${table(['NPC','Role','Recorded location','Affiliation'], npcs.map(p=>[link(p),p.data.occupation,p.data.location || p.data.last_known_location,p.data.factions?.length?p.data.factions:'Not established']))}\n\n![[Characters/NPCs/NPCs.base#NPCs]]`)
 const locs=entries('Locations','location')
 writePage('content/Locations/Locations.md','Location Directory',`All ${locs.length} location entries across the campaign. Ostium and its districts are the main setting. [[Locations/Mistbreak|Mistbreak]] is an independent town far north of Ostium with its own government and factions; the nearby Torney Isles are also part of the northern setting. Parent/region fields describe geography; blank fields remain TBD.\n\n${table(['Location','Description / campaign role','Parent / region','Status'],locs.map(p=>[link(p),p.data.description || 'Description not yet recorded',p.data['parent-location'] || p.data.region,p.data.status || p.data.condition]))}\n\n![[Locations/Locations.base#Locations]]`)
+// Geographic nesting uses explicit metadata only; unresolved regions remain visible.
+const cleanParent = value => String(value || '').replace(/^\[\[|\]\]$/g, '').split('|')[0].replace(/^Locations\//, '')
+const parentOf = p => cleanParent(p.data['parent-location'] || p.data.region)
+const representedLocations = new Set()
+const treeLines = (p, depth = 0, seen = new Set()) => {
+ if (seen.has(p.id)) throw Error(`Location containment cycle: ${p.id}`)
+ representedLocations.add(p.id)
+ const children = locs.filter(child => parentOf(child) === p.id.split('/').at(-1) && child !== p)
+ const next = new Set([...seen, p.id])
+ if (!children.length) return `${'  '.repeat(depth)}- ${link(p)}`
+ return `${'  '.repeat(depth)}- ${link(p)}\n${children.map(c => treeLines(c, depth + 1, next)).join('\n')}`
+}
+const roots = locs.filter(p => !locs.some(parent => parent.id.split('/').at(-1) === parentOf(p) && parent !== p))
+const groups = [...new Set(roots.map(p => parentOf(p) || 'Unplaced / parent not established'))]
+const hierarchy = groups.map(group => `### ${group}\n\n${roots.filter(p => (parentOf(p) || 'Unplaced / parent not established') === group).map(p => treeLines(p)).join('\n')}`).join('\n\n')
+if (representedLocations.size !== locs.length) throw Error('Location hierarchy omits entries; check containment cycles.')
+const locationFile = 'content/Locations/Locations.md'
+// Keep the comparison table and live Base, with a metadata-derived hierarchy above them.
+const locationText = fs.readFileSync(locationFile, 'utf8')
+writeIfChanged(locationFile, locationText.replace('| Location |', `## Geographic hierarchy\n\n${hierarchy}\n\n## All locations\n\n| Location |`))
 const factions=entries('Factions','faction')
 writePage('content/Factions/Factions.md','Faction Directory',`All ${factions.length} factions. Relationships are pressures and affiliations, not automatic moral alignments.\n\n${table(['Faction','What they are about','Key contacts'], factions.map(p=>[link(p),p.data.description || 'Description not yet recorded',npcs.filter(n=>(n.data.factions || []).some(f=>f.includes('[['+p.id))).map(link).join(' · ') || 'See faction page']))}\n\n![[Factions/Factions.base#Factions]]`)
 const pcs=entries('Characters/Player Characters','pc')
 writePage('content/Characters/Player Characters/Player Characters.md','PC Roster',`The eight GM-supplied PCs retain their exact identities, players, classes, and levels. D&D 5e (2024) is the mechanical default; incomplete choices remain TBD.\n\n${table(['PC','Ancestry / species identity','Class','Level','Player'],pcs.map(p=>[link(p),p.data.ancestry,p.data.class,p.data.level,p.data.player]))}\n\n![[Characters/Player Characters/Player Characters.base#Player Characters]]`)
 writePage('content/Storylines/Adventures/Adventures.md','Quests and Prepared Adventures',`Shared adventure preparation includes the search for a Frigid Woe antidote: [[Storylines/Adventures/The Road to Ostium]]. Shanda can introduce [[Characters/NPCs/Egbert Lusat]], who owns two reserved vials and may offer them as negotiated compensation for [[Storylines/Adventures/The Prodigal Son]]. Purchase funded by other work, immediate help against assurances, replacement arrangements, courier retrieval, direct Mistbreak travel, research, or theft remain alternatives; accepting the quest is optional. Table-specific outcomes belong in [[Session Logs/Session Logs]]: Steven’s table retrieved an antidote in Session 5; Oliver’s Road to Ostium is planned for Session 2. Prepared hooks below are not evidence of completed events.\n\n${table(['Adventure','Situation / stakes','Act · status'],adventures.map(p=>[link(p),p.data.description || short(section(p.body,'Function in the Larger Arc')),[p.data.act,p.data.status].filter(Boolean).join(' · ')]))}\n\n![[Storylines/Adventures/Adventures.base#GM Adventures]]`)
 const sessions=vault.filter(p=>p.id.startsWith('Session Logs/') && ['session-prep','session-log'].includes(p.data.type))
-const sessionTable=pages=>table(['Document','Kind','Session','Date','Status'],pages.sort((a,b)=>(a.data.session??999)-(b.data.session??999)||a.id.localeCompare(b.id)).map(p=>[link(p),p.data.type,p.data.session,p.data.date,p.data.status || (p.data.type==='session-prep'?'Planned':'Unfilled')]))
+const sessionTable=pages=>!pages.length?'None recorded.':table(['Document','Kind','Session','Date','Status'],pages.sort((a,b)=>(a.data.session??999)-(b.data.session??999)||a.id.localeCompare(b.id)).map(p=>[link(p),p.data.type,p.data.session,p.data.date,p.data.status || (p.data.type==='session-prep'?'Planned':'Unfilled')]))
 const tables=["Steven's Table","Oliver's Table"]
 for(const name of tables){
  const folder=`Session Logs/${name}`
@@ -27,7 +48,7 @@ for(const name of tables){
  const overview=name==="Steven's Table"
    ? 'Sessions 1–5 are completed GM-supplied summaries. Session 6 is a blank preparation template. Antidote retrieval in Session 5 does not establish administration or a cure.'
    : 'Session 1 is completed. Session 2 is planned preparation for [[Storylines/Adventures/The Road to Ostium]]. Two pregen characters are affected by Frigid Woe but do not yet know the danger.'
- writePage(`content/${folder}/${name}.md`,name,`${overview}\n\n${sessionTable(records)}\n\n![[Session Logs/Session Logs.base#${name}]]`,{table:name})
+ writePage(`content/${folder}/${name}.md`,name,`${overview}\n\n## Completed reports\n\n${sessionTable(records.filter(p => p.data.type === 'session-log' && p.data.status === 'completed'))}\n\n## Prepared sessions\n\n${sessionTable(records.filter(p => p.data.type === 'session-prep' && !['blank','template','unfilled'].includes(p.data.status)))}\n\n## Blank preparation\n\n${sessionTable(records.filter(p => p.data.type === 'session-prep' && ['blank','template','unfilled'].includes(p.data.status)))}\n\n![[Session Logs/Session Logs.base#${name}]]`,{table:name})
 }
 const unassigned=sessions.filter(p=>!tables.some(name=>p.id.startsWith(`Session Logs/${name}/`)))
 writePage('content/Session Logs/Session Logs.md','Session Index',`Session numbering and outcomes are separate for each table. Completed GM summaries establish only the events recorded; preparation and blank records remain unplayed.\n\n- [[Session Logs/Steven's Table/Steven's Table]] — five completed summaries; blank Session 6 prep.\n- [[Session Logs/Oliver's Table/Oliver's Table]] — completed Session 1; planned Session 2.\n- [[Storylines/Adventures/The Road to Ostium]] — canonical shared adventure, with Oliver’s next-session outline in his table folder.\n\n## Earlier Unassigned Material\n\nThe remaining opening preparation has no confirmed table assignment. The Prodigal Son preparation is consolidated into [[Storylines/Adventures/The Prodigal Son]]; create future reports from [[Templates/Session Report]].\n\n${sessionTable(unassigned)}\n\n![[Session Logs/Session Logs.base#Session Logs]]`)

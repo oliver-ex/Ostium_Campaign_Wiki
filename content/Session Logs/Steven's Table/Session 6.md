@@ -4,7 +4,7 @@ type: "session-prep"
 table: "Steven's Table"
 session: 6
 date: null
-status: "planned"
+status: "blank"
 lore-status: "Planned — not played"
 tags: ["session"]
 pcs-present: []

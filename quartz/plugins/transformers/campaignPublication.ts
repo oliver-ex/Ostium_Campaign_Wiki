@@ -10,6 +10,9 @@ export const CampaignPublication: QuartzTransformerPlugin = () => ({
   name: "CampaignPublication",
   markdownPlugins() {
     return [() => (tree: Root, file: VFile) => {
+      // Remove the source title before TOC generation; ArticleTitle supplies it.
+      const firstHeading = tree.children.findIndex(node => node.type === "heading" && node.depth === 1)
+      if (firstHeading >= 0) tree.children.splice(firstHeading, 1)
       // Obsidian resolves these from the note's folder. Quartz's shortest-link
       // strategy expects vault-root paths, so resolve before CrawlLinks runs.
       visit(tree, ["image", "link"], node => {
@@ -36,8 +39,19 @@ export const CampaignPublication: QuartzTransformerPlugin = () => ({
     // Quartz 4 has no native Bases renderer. Directory tables are generated from
     // the same entities; preserve .base files and embeds unchanged in Obsidian.
     text = text.replace(/!?\[\[([^\]|]+)\.base(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]/g,
-      (_match, target, label) => `[[${target}|${label ?? "View directory"}]]`)
+      () => "")
     text = text.replace(/\]\(Artwork\//g, "](Attachments/Artwork/")
+    // Fold separate system sections without changing source headings or anchors.
+    let foldedDepth = 0
+    text = text.split("\n").flatMap(line => {
+      const heading = line.match(/^(#{1,6}) (.+)$/)
+      if (foldedDepth && ((heading && heading[1].length <= foldedDepth) || line.startsWith("<!-- page-connections:start -->"))) foldedDepth = 0
+      if (!foldedDepth && heading && /Daggerheart/.test(heading[2])) {
+        foldedDepth = heading[1].length
+        return [line, "", `> [!info]- ${heading[2]}`]
+      }
+      return [foldedDepth ? "> " + line : line]
+    }).join("\n")
     return text
   },
 })

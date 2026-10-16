@@ -68,37 +68,7 @@ New Ostium’s First Councillor, balancing housing, water, and public order agai
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] |
-| Referenced locations | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
-| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
-| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
-
-<!-- page-connections:end -->
-
 ## At a Glance
-
-**Species (D&D 2024):** Human
 
 **Role in campaign:** Political face of New Ostium's defensible exclusion and scarcity\
 **Usual Location:** [[Locations/New Ostium Town Hall|New Ostium Town Hall]]\
@@ -163,3 +133,30 @@ _No encounter or revelation recorded yet; this is a continuity note, not a publi
 ## Session Appearances
 
 No completed appearance recorded; planned appearances are preparation, not history.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] |
+> | Referenced locations | [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
+> | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+> | [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->

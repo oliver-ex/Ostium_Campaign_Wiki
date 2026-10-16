@@ -20,7 +20,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -35,7 +34,9 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.EditingResources(),
     Component.Explorer({
+      filterFn: node => !["tags", "Templates", "Attachments", "Items-and-Artifacts"].includes(node.slugSegment),
       folderDefaultState: "collapsed",
       folderClickBehavior: "link",
       sortFn: (a, b) => {
@@ -46,7 +47,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -67,7 +67,9 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.EditingResources(),
     Component.Explorer({
+      filterFn: node => !["tags", "Templates", "Attachments", "Items-and-Artifacts"].includes(node.slugSegment),
       folderDefaultState: "collapsed",
       folderClickBehavior: "link",
       sortFn: (a, b) => {

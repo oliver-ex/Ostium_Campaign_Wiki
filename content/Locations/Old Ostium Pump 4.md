@@ -20,25 +20,6 @@ A comparatively stable waterworks station run by Senn Vale, showing what mainten
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![Workers stand among enormous stone piers, beams, ropes, and suspended mechanisms.](../Attachments/Artwork/locations/pump-four-the-well.webp)
-> >
-> > *Le Carceri d’Invenzione: The Well, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_13_-_The_Well.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A steep view into a narrow stone alley with drains and overhanging buildings.](../Attachments/Artwork/locations/revoy-ishtar-alley.webp)
-> >
-> > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Stable comparison point for understanding why Pump 7 is alarming\
@@ -46,20 +27,6 @@ A comparatively stable waterworks station run by Senn Vale, showing what mainten
 **Current controlling pressure:** Shortages of parts and experienced labour.\
 **Hidden danger:** Some underlying interfaces do not match the station's documented construction history.\
 **Useful NPCs:** [[Characters/NPCs/Senn Vale|Senn Vale]], [[Characters/NPCs/Brock Drungur|Brock Drungur]]\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/Old Ostium\|Old Ostium]] |
-| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Senn Vale\|Senn Vale]] |
-| Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -129,3 +96,35 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![Workers stand among enormous stone piers, beams, ropes, and suspended mechanisms.](../Attachments/Artwork/locations/pump-four-the-well.webp)
+> >
+> > *Le Carceri d’Invenzione: The Well, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_13_-_The_Well.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A steep view into a narrow stone alley with drains and overhanging buildings.](../Attachments/Artwork/locations/revoy-ishtar-alley.webp)
+> >
+> > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/Old Ostium\|Old Ostium]] |
+> | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Senn Vale\|Senn Vale]] |
+> | Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+
+<!-- page-connections:end -->

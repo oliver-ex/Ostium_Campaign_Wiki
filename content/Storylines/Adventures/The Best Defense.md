@@ -21,26 +21,6 @@ A prepared opportunity to disrupt a Shattered Axe raiding party before it attack
 <!-- page-summary:end -->
 
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Mara Voss\|Mara Voss]] |
-| Referenced locations | [[Locations/Old Ostium\|Old Ostium]] |
-| Factions | [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
-
-<!-- page-connections:end -->
-
 ## Function in the Larger Arc
 
 Action-oriented side quest that gives the party a direct way to reduce Shattered Axe pressure and improve Old Ostium security.
@@ -148,3 +128,22 @@ These are modular possibilities, not a fixed sequence.
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Indra Karaf\|Indra Karaf]] · [[Characters/NPCs/Mara Voss\|Mara Voss]] |
+> | Referenced locations | [[Locations/Old Ostium\|Old Ostium]] |
+> | Factions | [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Assassination\|Assassination]] — prepared | A prepared mission to remove Ulroc’s control of the Shattered Axe through killing, capture, betrayal, exposure, or another effective approach. |
+
+<!-- page-connections:end -->

@@ -57,30 +57,7 @@ The Dragonborn Paladin commanding New Ostium’s formidable, well-funded City Gu
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Mira Vey\|Mira Vey]] |
-| Referenced locations | [[Locations/New Ostium\|New Ostium]] |
-| Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
-| [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
-
-<!-- page-connections:end -->
-
 ## Overview
-
-**Species (D&D 2024):** Dragonborn
 
 Aaron leads the [[Factions/New Ostium City Guard|New Ostium City Guard]] in [[Locations/New Ostium|New Ostium]]. He is a Paladin and commands a well-funded force with excellent weapons. His authority rests on a formidable organization as well as his position at its head.
 
@@ -126,3 +103,23 @@ Paladin is the GM-established character concept. No class build, subclass, spell
 ## Session References & Changes
 
 No completed appearance recorded; possible interactions remain preparation.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Mira Vey\|Mira Vey]] |
+> | Referenced locations | [[Locations/New Ostium\|New Ostium]] |
+> | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
+> | [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
+
+<!-- page-connections:end -->

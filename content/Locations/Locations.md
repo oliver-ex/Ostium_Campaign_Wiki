@@ -9,6 +9,32 @@ tags:
 
 All 16 location entries across the campaign. Ostium and its districts are the main setting. [[Locations/Mistbreak|Mistbreak]] is an independent town far north of Ostium with its own government and factions; the nearby Torney Isles are also part of the northern setting. Parent/region fields describe geography; blank fields remain TBD.
 
+## Geographic hierarchy
+
+### Northern coast
+
+- [[Locations/Mistbreak|Mistbreak]]
+- [[Locations/Torney Isles|Torney Isles]]
+
+### The Shoulderlands
+
+- [[Locations/Ostium|Ostium]]
+  - [[Locations/New Ostium|New Ostium]]
+    - [[Locations/New Ostium Market District|New Ostium Market District]]
+    - [[Locations/New Ostium Town Hall|New Ostium Town Hall]]
+  - [[Locations/Old Ostium|Old Ostium]]
+    - [[Locations/Old Ostium Hospital District|Old Ostium Hospital District]]
+    - [[Locations/Old Ostium Pump 4|Old Ostium Pump 4]]
+    - [[Locations/Old Ostium Pump 7|Old Ostium Pump 7]]
+    - [[Locations/Old Ostium Slums|Old Ostium Slums]]
+    - [[Locations/Old Ostium Town Hall|Old Ostium Town Hall]]
+    - [[Locations/Old Ostium University|Old Ostium University]]
+    - [[Locations/Old Ostium Waterworks|Old Ostium Waterworks]]
+      - [[Locations/Titan Works|Titan Works]]
+        - [[Locations/The Heart|The Heart]]
+
+## All locations
+
 | Location | Description / campaign role | Parent / region | Status |
 | --- | --- | --- | --- |
 | [[Locations/Mistbreak\|Mistbreak]] | An independent fishing town far north of Ostium, near the Torney Isles, where the party can seek a stockpiled Frigid Woe antidote. | Northern coast | unrevealed |
@@ -23,7 +49,7 @@ All 16 location entries across the campaign. Ostium and its districts are the ma
 | [[Locations/Old Ostium Town Hall\|Old Ostium Town Hall]] | The Protectorate’s civic and military hub, where supply shortages, levies, and the legitimacy of armed protection meet. | Old Ostium | contested |
 | [[Locations/Old Ostium University\|Old Ostium University]] | A dangerous exploration site where the Rot’s cognitive effects and the inhabitants’ shared attention offer distorted clues to the Heart. | Old Ostium | uncertain |
 | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] | The failing municipal network sustaining both cities, and the threshold into ancient structures beneath Ostium’s engineering. | Old Ostium | active |
-| [[Locations/Ostium\|Ostium]] | A divided city whose old and new halves share failing infrastructure, unequal resources, and a wounded divine being buried beneath them. | Ostium | active |
+| [[Locations/Ostium\|Ostium]] | A divided city whose old and new halves share failing infrastructure, unequal resources, and a wounded divine being buried beneath them. | The Shoulderlands | active |
 | [[Locations/The Heart\|The Heart]] | The wounded divine being at the centre of Ostium’s deepest works; its bleeding and infection connect the city’s collapse to the Rot. | Titan Works | TBD |
 | [[Locations/Titan Works\|Titan Works]] | Ancient structures beneath the waterworks that bind, route, and stabilize the captive being whose vitality helped Ostium flourish. | Old Ostium Waterworks | TBD |
 | [[Locations/Torney Isles\|Torney Isles]] | Islands near Mistbreak on the northern coast, far from Ostium, once inhabited by the Auren and important to the Frigid Woe antidote search. | Northern coast | unrevealed |

@@ -21,25 +21,6 @@ A failing pump station whose threatened collapse forces both cities to confront 
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A vast interior crossed by stone arches, stairs, ropes, and wooden bridges.](../Attachments/Artwork/locations/waterworks-drawbridge.webp)
-> >
-> > *Le Carceri d’Invenzione: The Drawbridge, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_07_-_The_Drawbridge.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A steep view into a narrow stone alley with drains and overhanging buildings.](../Attachments/Artwork/locations/revoy-ishtar-alley.webp)
-> >
-> > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Act I climax that forces the party to confront the cities' shared infrastructure\
@@ -47,27 +28,6 @@ A failing pump station whose threatened collapse forces both cities to confront 
 **Current controlling pressure:** Time, Rot exposure, water pressure, competing Old/New priorities.\
 **Hidden danger:** The visible Pump 7 system interfaces with a deeper structure the city did not build.\
 **Useful NPCs:** [[Characters/NPCs/Brock Drungur|Brock Drungur]], [[Characters/NPCs/Taran Lusat|Taran Lusat]]\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/Old Ostium\|Old Ostium]] |
-| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Referenced locations | [[Locations/Titan Works\|Titan Works]] |
-| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -147,3 +107,42 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A vast interior crossed by stone arches, stairs, ropes, and wooden bridges.](../Attachments/Artwork/locations/waterworks-drawbridge.webp)
+> >
+> > *Le Carceri d’Invenzione: The Drawbridge, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_07_-_The_Drawbridge.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A steep view into a narrow stone alley with drains and overhanging buildings.](../Attachments/Artwork/locations/revoy-ishtar-alley.webp)
+> >
+> > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/Old Ostium\|Old Ostium]] |
+> | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+> | Referenced locations | [[Locations/Titan Works\|Titan Works]] |
+> | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+
+<!-- page-connections:end -->

@@ -65,29 +65,7 @@ An elven wizard associated with Mistbreak, an independent town far north of Osti
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
-| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[World Lore/Auren Culture\|Auren Culture]] |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
-
-<!-- page-connections:end -->
-
 ## At a Glance
-
-**Species (D&D 2024):** Elf
 
 - A wizard associated with [[Locations/Mistbreak|Mistbreak]], an independent town far north of Ostium, deceased several months before current campaign events. His Mistbreak association establishes no Ostium residence or faction membership.
 - **Cause of death:** [[Creatures and Afflictions/Frigid Woe|Frigid Woe]].
@@ -121,3 +99,22 @@ No numerical profile assigned. See [[Rules/System Guide|System Guide]] for optio
 ## Session Appearances
 
 No completed appearance recorded; planned appearances are preparation, not history.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Torney Isles\|Torney Isles]] |
+> | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[World Lore/Auren Culture\|Auren Culture]] |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
+
+<!-- page-connections:end -->

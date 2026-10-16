@@ -64,23 +64,6 @@ Kalim Escara is Max’s level-2 Human Bard. Further identity, backstory, and bui
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
-> | [[Session Logs/Steven's Table/Session 3\|Session 3 — The Glass Blades]] | Steven's Table | completed |
-> | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
-
-<!-- page-connections:end -->
-
 ## Identity
 
 **Player:** Max
@@ -240,3 +223,19 @@ A charismatic performer or storyteller; explore Bard options without transferrin
 **Handfuls:**
 **Bags:**
 **Chests:**
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 3\|Session 3 — The Glass Blades]] | Steven's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
+
+<!-- page-connections:end -->

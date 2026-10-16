@@ -19,27 +19,6 @@ A campaign moving from family and faction dilemmas across the divided city into 
 <!-- page-summary:end -->
 
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] |
-| Referenced locations | [[Locations/Old Ostium University\|Old Ostium University]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
-| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[Storylines/Acts/Act I - Twin Cities\|Act I - Twin Cities]] · [[Storylines/Acts/Act II - Beneath the Waterworks\|Act II - Beneath the Waterworks]] · [[Storylines/Acts/Act III - The Heart Below Ostium\|Act III - The Heart Below Ostium]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
-| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
-
-<!-- page-connections:end -->
-
 ## Purpose in the Campaign
 
 - Provide New Ostium as a functioning hub and Old Ostium as an inhabited urban megadungeon/open exploration space.
@@ -107,3 +86,23 @@ The deepest waterworks interface with an ancient god captured and wounded by the
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] |
+> | Referenced locations | [[Locations/Old Ostium University\|Old Ostium University]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
+> | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[Storylines/Acts/Act I - Twin Cities\|Act I - Twin Cities]] · [[Storylines/Acts/Act II - Beneath the Waterworks\|Act II - Beneath the Waterworks]] · [[Storylines/Acts/Act III - The Heart Below Ostium\|Act III - The Heart Below Ostium]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+> | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+<!-- page-connections:end -->

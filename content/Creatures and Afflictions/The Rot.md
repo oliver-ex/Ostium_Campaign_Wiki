@@ -16,26 +16,6 @@ An affliction of Old Ostium tied to infection of the wounded being below the cit
 <!-- page-summary:end -->
 
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Referenced locations | [[Locations/Old Ostium\|Old Ostium]] · [[Locations/The Heart\|The Heart]] |
-| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[Storylines/Ostium Campaign\|Ostium Campaign]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
-
-<!-- page-connections:end -->
-
 ## Established Facts
 
 - Known as a danger in [[Locations/Old Ostium|Old Ostium]]; its symptoms and pressures affect cognition and higher mental function.
@@ -64,3 +44,22 @@ Existing narrative pressure and optional Stress suggestions are in [[Rules/Ostiu
 ## Open Questions
 
 Whether a Rot King manifests, what treating the divine wound requires, and final consequences remain conditional planning decisions.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+> | Referenced locations | [[Locations/Old Ostium\|Old Ostium]] · [[Locations/The Heart\|The Heart]] |
+> | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[Storylines/Ostium Campaign\|Ostium Campaign]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+<!-- page-connections:end -->

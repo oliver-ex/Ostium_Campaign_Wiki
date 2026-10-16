@@ -20,25 +20,6 @@ The seat of New Ostium’s government, where permits, scarce civic resources, an
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A monumental civic waterfront lined with stone buildings, boats, and people.](../Attachments/Artwork/locations/new-ostium-civic-waterfront.webp)
-> >
-> > *Venice, The Doge’s Palace and the Riva degli Schiavoni — Canaletto (Giovanni Antonio Canal). [Source](https://commons.wikimedia.org/wiki/File:Canaletto_(1697-1768)_-_Venice,_The_Doge%27s_Palace_and_the_Riva_degli_Schiavoni_-_NG940_-_National_Gallery.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A sprawling fantasy city with layered roofs, walls, and an elevated monumental centre.](../Attachments/Artwork/locations/revoy-ishtar-panorama.webp)
-> >
-> > *Ishtar — city panorama — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Hub for political quests and formal Old/New negotiation\
@@ -46,33 +27,6 @@ The seat of New Ostium’s government, where permits, scarce civic resources, an
 **Current controlling pressure:** Capacity limits, legitimacy, public opinion.\
 **Hidden danger:** Some officials privately accept more interdependence than public policy admits.\
 **Useful NPCs:** [[Characters/NPCs/Helena Orst|Helena Orst]]\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/New Ostium\|New Ostium]] |
-| People | [[Characters/NPCs/Helena Orst\|Helena Orst]] |
-| Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -145,3 +99,48 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A monumental civic waterfront lined with stone buildings, boats, and people.](../Attachments/Artwork/locations/new-ostium-civic-waterfront.webp)
+> >
+> > *Venice, The Doge’s Palace and the Riva degli Schiavoni — Canaletto (Giovanni Antonio Canal). [Source](https://commons.wikimedia.org/wiki/File:Canaletto_(1697-1768)_-_Venice,_The_Doge%27s_Palace_and_the_Riva_degli_Schiavoni_-_NG940_-_National_Gallery.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A sprawling fantasy city with layered roofs, walls, and an elevated monumental centre.](../Attachments/Artwork/locations/revoy-ishtar-panorama.webp)
+> >
+> > *Ishtar — city panorama — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/New Ostium\|New Ostium]] |
+> | People | [[Characters/NPCs/Helena Orst\|Helena Orst]] |
+> | Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->

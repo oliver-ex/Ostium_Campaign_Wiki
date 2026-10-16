@@ -20,25 +20,6 @@ New Ostium’s centre of trade and Guild influence, where lawful commerce, artif
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A busy Venetian square with people, old stone buildings, and market activity.](../Attachments/Artwork/locations/new-ostium-market.webp)
-> >
-> > *Veduta di una piazzetta a Venezia — Giovanni Migliara. [Source](https://commons.wikimedia.org/wiki/File:Artgate_Fondazione_Cariplo_-_Migliara_Giovanni,_Veduta_di_una_piazzetta_a_Venezia.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![An architectural drawing of a dense fantasy market with stalls and timber buildings.](../Attachments/Artwork/locations/revoy-ishtar-market.webp)
-> >
-> > *Ishtar — market — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Civilized adventure space for social jobs, trade, investigation, and high-consequence crime\
@@ -46,33 +27,6 @@ New Ostium’s centre of trade and Guild influence, where lawful commerce, artif
 **Current controlling pressure:** Money, law, reputation, and access.\
 **Hidden danger:** Old Ostium artifacts are becoming a speculative market, creating incentives for dangerous expeditions and theft.\
 **Useful NPCs:** [[Characters/NPCs/Trine Baradur|Trine Baradur]], [[Characters/NPCs/Dalia Quent|Dalia Quent]]\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/New Ostium\|New Ostium]] |
-| People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
-| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -145,3 +99,48 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A busy Venetian square with people, old stone buildings, and market activity.](../Attachments/Artwork/locations/new-ostium-market.webp)
+> >
+> > *Veduta di una piazzetta a Venezia — Giovanni Migliara. [Source](https://commons.wikimedia.org/wiki/File:Artgate_Fondazione_Cariplo_-_Migliara_Giovanni,_Veduta_di_una_piazzetta_a_Venezia.jpg) · [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![An architectural drawing of a dense fantasy market with stalls and timber buildings.](../Attachments/Artwork/locations/revoy-ishtar-market.webp)
+> >
+> > *Ishtar — market — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/New Ostium\|New Ostium]] |
+> | People | [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
+> | Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->

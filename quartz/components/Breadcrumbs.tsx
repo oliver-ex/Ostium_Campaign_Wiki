@@ -72,6 +72,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       return crumb
     })
 
+    if (slugParts.at(-1) === slugParts.at(-2)) crumbs.splice(-2, 1)
     if (!options.showCurrentPage) {
       crumbs.pop()
     }

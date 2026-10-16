@@ -46,25 +46,6 @@ Operations beyond New Ostium, exact staffing, and a headquarters are **Unknown /
 | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] | Leader of the City Guard; Dragonborn Paladin. |
 | [[Characters/NPCs/Mira Vey\|Mira Vey]] | Lieutenant; organizes patrols, follows evidence, and manages the first response to trouble. |
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
-| [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
-
-<!-- page-connections:end -->
-
 ## Goals, Agenda & Pressures
 
 The Guard's funding and excellent weapons make its authority a practical reality. Illegal business anywhere in New Ostium carries a high risk of investigation, arrest, and serious consequences. A sympathetic motive does not make theft or smuggling safe.
@@ -100,3 +81,21 @@ No D&D 5e (2024) stat blocks, Challenge Ratings, class levels, magic-item bonuse
 ## Session References & Changes
 
 New GM-established faction; no completed encounter or session appearance recorded.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
+> | [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
+
+<!-- page-connections:end -->

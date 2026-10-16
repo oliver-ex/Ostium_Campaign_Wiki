@@ -51,3 +51,5 @@ export {
   Flex,
   ConditionalRender,
 }
+
+export { default as EditingResources } from "./EditingResources"

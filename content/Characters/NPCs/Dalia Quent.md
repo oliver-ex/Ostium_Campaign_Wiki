@@ -68,30 +68,7 @@ The Merchants Guild’s calculating leader, protecting the trade system she help
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
-| Referenced locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
-| Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
-| [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
-
-<!-- page-connections:end -->
-
 ## At a Glance
-
-**Species (D&D 2024):** Elf
 
 **Role in campaign:** Face of concentrated merchant power and possible Heist II target\
 **Usual Location:** [[Locations/New Ostium Market District|New Ostium Market District]]\
@@ -156,3 +133,23 @@ _No encounter or revelation recorded yet; this is a continuity note, not a publi
 ## Session Appearances
 
 No completed appearance recorded; planned appearances are preparation, not history.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
+> | Referenced locations | [[Locations/New Ostium Market District\|New Ostium Market District]] |
+> | Factions | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Heist II\|Heist II]] — prepared | A prepared resource theft targeting concentrated Guild wealth to help Old Ostium, with consequences for law, trade, and faction relationships. |
+> | [[Storylines/Adventures/Negotiations\|Negotiations]] — prepared | A prepared political adventure turning the cities’ unavoidable interdependence into workable cooperation, if their competing needs can be reconciled. |
+
+<!-- page-connections:end -->

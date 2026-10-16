@@ -18,7 +18,7 @@ The authoritative Obsidian vault is `content/`. It is now one comprehensive DM/c
 - `Encounters/` — encounter navigation; existing encounter material remains in its canonical session/adventure pages.
 - `Items and Artifacts/` — category ready for individually established items; no new item canon invented.
 - `Attachments/` — campaign assets, Carl's proposed letter handout, artwork credits with remaining portrait choices, and local artwork.
-- `Templates/` — 12 current templates; Legacy and Examples retain prior references without becoming campaign canon.
+- `Templates/` — 12 current templates in secondary Editing resources; retired templates and examples live outside publication in `references/Templates/`.
 
 All paths above are relative to `content/`. Obsidian Bases continue to work; Markdown directory tables are regenerated from entity files by `npm run directories` and during builds.
 
@@ -36,7 +36,7 @@ All 16 location pages have generated NPC tables drawn from current-location reco
 
 Campaign entities and session records have short, authored `description` properties rendered directly below their titles. Factions lead with pressures, linked operating areas, and NPC roles; characters retain their portrait cards; locations show visual inspiration directly below the opening description, then the operational summary. Faction/location illustrations and session-reference tables can be expanded when needed. The homepage provides task-based navigation, and directories use compact tables.
 
-`npm run directories` also maintains `page-summary` and `page-connections` blocks. Descriptions are edited in frontmatter; faction operating areas and NPC role tables remain authored Markdown. Connections come from authored wikilinks, excluding generated blocks so links cannot recursively invent relationships. Adventure/encounter references work in both directions; location pages also collect faction references. Session mentions retain table/status labels and do not establish appearances, PC knowledge, or completed events. Unchanged generated pages are not rewritten, reducing cloud-sync churn. Proton Drive `Edit conflict` copies are excluded from vault reads, Git, and Quartz publication; preserved copies live under the ignored `.vault-refactor/edit-conflicts-2026-10-16/`. Current templates explain the layout and editing workflow; Legacy and Examples remain preserved references.
+`npm run directories` also maintains `page-summary` and `page-connections` blocks. Descriptions are edited in frontmatter; faction operating areas and NPC role tables remain authored Markdown. Connections come from authored wikilinks, excluding generated blocks so links cannot recursively invent relationships. Adventure/encounter references work in both directions; location pages also collect faction references. Session mentions retain table/status labels and do not establish appearances, PC knowledge, or completed events. Unchanged generated pages are not rewritten, reducing cloud-sync churn. Proton Drive `Edit conflict` copies are excluded from vault reads, Git, and Quartz publication; preserved copies live under the ignored `.vault-refactor/edit-conflicts-2026-10-16/`. Current templates explain the layout and editing workflow; Legacy and Examples remain nonpublished references. Full connections are collapsed at the end of each entity page; geographic containment remains distinct from mentions.
 
 ## Rules and continuity
 
@@ -52,7 +52,7 @@ This repository contains the reused Quartz 4.5.2 runtime, dependency lockfile, o
 
 The repository remote is `oliver-ex/Ostium_Campaign_Wiki`. GitHub Actions deploys the Quartz site to https://oliver-ex.github.io/Ostium_Campaign_Wiki/ on pushes to `main`. Local edits must be reviewed, committed, and pushed to reach the site.
 
-The site includes full-text search, sidebar navigation, breadcrumbs, backlinks, graph, table of contents, dark mode, tags, recent notes, and responsive layouts. Sitemap/RSS and optional social image generation are disabled. Robots/noindex discourage indexing but do not restrict access.
+The site includes full-text search, sidebar navigation, breadcrumbs, backlinks, desktop table of contents, dark mode, filterable directories, nested geography, campaign metadata, and responsive layouts. Sitemap/RSS and optional social image generation are disabled. Robots/noindex discourage indexing but do not restrict access.
 
 Treat GitHub Pages as publicly accessible unless independent access controls are verified. Campaign spoilers are authorized; credentials, private contact details, unrelated documents, `.obsidian`, `.trash`, local backups, dependencies, and build caches are not site content.
 
@@ -62,8 +62,8 @@ Treat GitHub Pages as publicly accessible unless independent access controls are
 
 The migration inventory records all 124 original file paths and their canonical destinations. The ignored `.vault-refactor/before.tar.gz` contains the exact pre-refactor content snapshot. No original working-tree lore was discarded, no PC statistics were invented, and all 56 existing numeric NPC/environment lines were preserved. Retired instructions are provenance, not current policy.
 
-See `content/Planning/Wiki Refactor Report.md` for browser results, unresolved continuity decisions, and deployment limitations.
+See `references/Planning/Wiki Refactor Report.md` for browser results, unresolved continuity decisions, and deployment limitations.
 
 ## Vault Cleanup — 2026-10-16
 
-Six stale faction conflict copies were compared against canonical authored content and removed from the vault; all their authored lines were already retained. The empty Session Log 0 was retired, Prodigal Son prep was merged into its canonical adventure with former titles retained as aliases, and remaining portrait choices were consolidated into Artwork Credits. Removed originals and a hash inventory are preserved outside the vault under the ignored `.vault-refactor/cleanup-2026-10-16/`. Completed reports, substantive preparation, live category views, Legacy templates, Examples, and historical reports remain.
+Six stale faction conflict copies were compared against canonical authored content and removed from the vault; all their authored lines were already retained. The empty Session Log 0 was retired, Prodigal Son prep was merged into its canonical adventure with former titles retained as aliases, and remaining portrait choices were consolidated into Artwork Credits. Removed originals and a hash inventory are preserved outside the vault under the ignored `.vault-refactor/cleanup-2026-10-16/`. Completed reports, substantive preparation, live category views, Legacy templates, Examples, and maintenance reports remain outside `content/` under `references/`; actual campaign session reports remain published.

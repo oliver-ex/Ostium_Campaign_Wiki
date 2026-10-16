@@ -22,25 +22,6 @@ A living hospital community strained by the Rot, protection levies, and failing 
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![Hospital attendants wash and care for a patient among beds and other patients.](../Attachments/Artwork/locations/hospital-care.webp)
-> >
-> > *Caring for the Sick, Pellegrinaio fresco detail — Domenico di Bartolo. [Source](https://commons.wikimedia.org/wiki/File:Pellegrinaio_Santa_Maria_della_Scala_n5.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![Layered timber and stone buildings linked by elevated walkways.](../Attachments/Artwork/locations/revoy-ishtar-streets.webp)
-> >
-> > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Moral centre of the opening arc and proof that Old Ostium is inhabited, organized, and worth caring about\
@@ -48,27 +29,6 @@ A living hospital community strained by the Rot, protection levies, and failing 
 **Current controlling pressure:** Protection costs, supply scarcity, water reliability, Rot patients.\
 **Hidden danger:** The settlement's dependence on Taran makes Egbert's apparently simple rescue request ethically complicated.\
 **Useful NPCs:** [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Mara Voss|Mara Voss]], [[Characters/NPCs/Arla Gerrin|Arla Gerrin]]\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/Old Ostium\|Old Ostium]] |
-| People | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] · [[Characters/NPCs/Mara Voss\|Mara Voss]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Factions | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
-| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -153,3 +113,42 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![Hospital attendants wash and care for a patient among beds and other patients.](../Attachments/Artwork/locations/hospital-care.webp)
+> >
+> > *Caring for the Sick, Pellegrinaio fresco detail — Domenico di Bartolo. [Source](https://commons.wikimedia.org/wiki/File:Pellegrinaio_Santa_Maria_della_Scala_n5.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![Layered timber and stone buildings linked by elevated walkways.](../Attachments/Artwork/locations/revoy-ishtar-streets.webp)
+> >
+> > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/Old Ostium\|Old Ostium]] |
+> | People | [[Characters/NPCs/Arla Gerrin\|Arla Gerrin]] · [[Characters/NPCs/Mara Voss\|Mara Voss]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+> | Factions | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] · [[Factions/The Protectorate\|The Protectorate]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+> | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+<!-- page-connections:end -->

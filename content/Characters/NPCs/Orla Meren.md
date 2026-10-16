@@ -67,28 +67,7 @@ A missing scholar at Old Ostium University whose possible rescue can reveal the 
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Referenced locations | [[Locations/Old Ostium University\|Old Ostium University]] |
-| Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Rescue Mission\|Rescue Mission]] — prepared | A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart. |
-
-<!-- page-connections:end -->
-
 ## At a Glance
-
-**Species (D&D 2024):** Gnome
 
 **Role in campaign:** Missing scholar for the University rescue; conduit for clues about the Heart's cognitive influence\
 **Usual Location:** [[Locations/Old Ostium University|Old Ostium University]]\
@@ -151,3 +130,21 @@ _No encounter or revelation recorded yet; this is a continuity note, not a publi
 ## Session Appearances
 
 No completed appearance recorded; planned appearances are preparation, not history.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Referenced locations | [[Locations/Old Ostium University\|Old Ostium University]] |
+> | Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Rescue Mission\|Rescue Mission]] — prepared | A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart. |
+
+<!-- page-connections:end -->

@@ -39,7 +39,7 @@ Use branches and pull requests for shared changes. Pull/rebase before editing, r
 
 For broken links, run `npm run check` and correct the reported target or anchor. Do not create fictional entities merely to silence a missing link. For site failures, run `npm run build`, inspect the Actions build log, and confirm Pages uses GitHub Actions and the deployment base URL is correct. A failed deploy does not mean local content was lost.
 
-The ignored `.vault-refactor/before.tar.gz` snapshot preserves the pre-refactor vault locally. It is not a second wiki or a deployment input. The migration inventory and validation details are in `content/Planning/Wiki Refactor Report.md`.
+The ignored `.vault-refactor/before.tar.gz` snapshot preserves the pre-refactor vault locally. It is not a second wiki or a deployment input. The migration inventory and validation details are in `references/Planning/Wiki Refactor Report.md`.
 
 Quartz's reused framework code retains its MIT license in `LICENSE.txt`. Framework authorship is separate from campaign material.
 
@@ -52,7 +52,7 @@ Quartz's reused framework code retains its MIT license in `LICENSE.txt`. Framewo
 - `.github/workflows/deploy.yml`: one Actions publisher for `main`; pull requests validate without deploying.
 - `publication-artwork.json`: superseded copyrighted originals remain excluded from Git and the public build. All 24 current NPC portraits are publishable; the active register has 50 artworks in 67 placements. Exact generation prompts and existing-artwork source terms are retained under `content/Attachments/Artwork/`.
 
-Editor state, credentials, local backups, dependencies, and generated `public/` output are ignored. Every campaign Markdown page, including templates and secrets, is included. Quartz 4 displays the automatically generated directory tables in place of interactive `.base` embeds; the original Bases remain usable in Obsidian.
+Editor state, credentials, local backups, dependencies, and generated `public/` output are ignored. Every campaign Markdown page, including current templates and secrets, is included. Maintenance reports and retired templates/examples are retained under nonpublished `references/`. Quartz 4 displays the automatically generated directory tables in place of interactive `.base` embeds; the original Bases remain usable in Obsidian.
 
 ### Shared editing
 
@@ -62,6 +62,14 @@ Create a branch with `git switch -c campaign/my-update`, edit the original notes
 
 ### Updating Quartz
 
-The framework is vendored from [Quartz v4.5.2](https://github.com/jackyzha0/quartz/tree/v4.5.2). On a branch, review the next Quartz 4 release, update framework files and dependencies, and preserve the configuration, layout, custom stylesheet, and `campaignPublication.ts` transformer. Update the lockfile, run `npm ci`, `npm run check`, and `npm run build`, then test search, graph, artwork, and project-subpath navigation before merging. Do not replace the vault with upstream sample content. Quartz 5 requires a separate deliberate migration.
+The framework is vendored from [Quartz v4.5.2](https://github.com/jackyzha0/quartz/tree/v4.5.2). On a branch, review the next Quartz 4 release, update framework files and dependencies, and preserve the configuration, layout, custom stylesheet, and `campaignPublication.ts` transformer. Update the lockfile, run `npm ci`, `npm run check`, and `npm run build`, then test search, directory navigation, artwork, and project-subpath navigation before merging. Do not replace the vault with upstream sample content. Quartz 5 requires a separate deliberate migration.
 
 Compatible dependency security fixes have been applied. The current Quartz 4 dependency tree still reports 14 npm audit findings (six high); resolving all of them requires incompatible upstream dependency changes. Do not use `npm audit fix --force` without reviewing and testing those changes. The published site is static; these dependencies are primarily used during builds.
+
+### Session navigation and page structure
+
+Category links open their canonical directory; former folder URLs redirect there. Source filenames and aliases are retained. Directory comparison tables support text filtering and column sorting; location nesting uses only `parent-location` or `region`, with unresolved regions shown separately. Live Bases are unchanged.
+
+The homepage leads with separate table histories and preparation. `status: blank` identifies an unfilled session preparation; it is not a completed event. Search ranks exact titles, exact aliases, partial title/alias matches, then full-text results, and shows campaign context.
+
+`update-page-references.mjs` places full connections last in a folded callout. Location operational summaries and residents precede galleries. The publication transformer folds separate Daggerheart sections and removes duplicate source titles before TOC generation; headings and system distinctions remain intact. Graph components are absent from every layout. Editing resources and attribution remain available in a secondary disclosure.

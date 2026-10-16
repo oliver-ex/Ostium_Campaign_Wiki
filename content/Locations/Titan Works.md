@@ -20,57 +20,12 @@ Ancient structures beneath the waterworks that bind, route, and stabilize the ca
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![Immense chains hang across a monumental vaulted stone interior.](../Attachments/Artwork/locations/titan-works-chains.webp)
-> >
-> > *Le Carceri d’Invenzione: The Pier with Chains, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_16_-_The_Pier_with_Chains.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A monumental stepped stone complex with deep passages and weathered terraces.](../Attachments/Artwork/locations/revoy-ishtar-temple.webp)
-> >
-> > *Ishtar — abandoned temple — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A vast blue cavern with ribbed stone formations and a small figure for scale.](../Attachments/Artwork/locations/revoy-cavern.webp)
-> >
-> > *Sintel — dragon cave concept — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Act II deep infrastructure exploration and first sustained contact with the pre-Ostium system\
 **What is changing:** Municipal collapse and infection are stressing structures that were built to bind, route, and stabilize something alive.\
 **Current controlling pressure:** Ancient mechanisms, Rot manifestations, and the danger of misreading their purpose.\
 **Hidden danger:** The Works are simultaneously prison architecture, siphoning/distribution infrastructure, and wound management at a scale where all three can be true.\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
-| Referenced locations | [[Locations/The Heart\|The Heart]] |
-| Contained locations | [[Locations/The Heart\|The Heart]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -147,3 +102,47 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![Immense chains hang across a monumental vaulted stone interior.](../Attachments/Artwork/locations/titan-works-chains.webp)
+> >
+> > *Le Carceri d’Invenzione: The Pier with Chains, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_16_-_The_Pier_with_Chains.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A monumental stepped stone complex with deep passages and weathered terraces.](../Attachments/Artwork/locations/revoy-ishtar-temple.webp)
+> >
+> > *Ishtar — abandoned temple — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A vast blue cavern with ribbed stone formations and a small figure for scale.](../Attachments/Artwork/locations/revoy-cavern.webp)
+> >
+> > *Sintel — dragon cave concept — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/Old Ostium Waterworks\|Old Ostium Waterworks]] |
+> | Referenced locations | [[Locations/The Heart\|The Heart]] |
+> | Contained locations | [[Locations/The Heart\|The Heart]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+
+<!-- page-connections:end -->

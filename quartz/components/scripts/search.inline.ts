@@ -311,6 +311,10 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       ${htmlTags}
       <p class="card-description">${content}</p>
     `
+    const context = document.createElement("p")
+    context.className = "search-context"
+    context.textContent = data[slug].context || ""
+    itemTile.querySelector("h3")?.after(context)
     itemTile.addEventListener("click", (event) => {
       if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
       hideSearch()
@@ -451,6 +455,19 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       ...getByField("content"),
       ...getByField("tags"),
     ])
+    if (searchType === "basic") {
+      const query = currentSearchTerm.trim().toLocaleLowerCase()
+      const score = (id: number) => {
+        const entry = data[idDataMap[id]]
+        const title = entry.title.toLocaleLowerCase()
+        const aliases = (entry.aliases || []).map((a: string) => a.toLocaleLowerCase())
+        return title === query ? 0 : aliases.includes(query) ? 1 : title.includes(query) ? 2 : aliases.some((a: string) => a.includes(query)) ? 3 : 4
+      }
+      idDataMap.forEach((_, id) => { if (query && score(id) < 4) allIds.add(id) })
+      const ranked = [...allIds].sort((a, b) => score(a) - score(b))
+      allIds.clear()
+      ranked.slice(0, numSearchResults).forEach(id => allIds.add(id))
+    }
     const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
     await displayResults(finalResults)
   }

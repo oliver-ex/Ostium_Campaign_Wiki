@@ -44,7 +44,7 @@
 // Reference tables stay readable during play, including long wiki labels.
 .page article {
   // Keep Markdown titles in Obsidian; Quartz already renders the page title.
-  > h1:first-of-type { display: none; }
+
   > h1 + p {
     font-size: 1.12rem;
     line-height: 1.65;
@@ -207,3 +207,15 @@ p:has(> .campaign-artwork-link) + p em { color: var(--darkgray); }
     @media (max-width: 600px) { grid-template-columns: minmax(0, 1fr); }
   }
 }
+
+// Respond to available reading width, including layouts with both sidebars.
+.page article { container-type: inline-size; }
+.callout[data-callout="battlefield"] > .callout-content { grid-template-columns: minmax(0, 1.2fr) minmax(22rem, 1fr); }
+.callout[data-callout="statcards"] > .callout-content { grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); }
+@container (max-width: 760px) {
+  .callout[data-callout="battlefield"] > .callout-content { grid-template-columns: minmax(0, 1fr); }
+}
+.directory-controls { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin-block: 1rem; }
+.directory-controls input { max-width: 100%; box-sizing: border-box; }
+.directory-tree details { margin: 0.5rem 0 0.5rem 1rem; }
+.launchpad ul { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: 0.75rem 1.5rem; padding-left: 1.25rem; }

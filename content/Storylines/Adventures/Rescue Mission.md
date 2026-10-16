@@ -21,20 +21,6 @@ A prepared search for Orla Meren at Old Ostium University, combining rescue with
 <!-- page-summary:end -->
 
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Orla Meren\|Orla Meren]] |
-| Referenced locations | [[Locations/Old Ostium University\|Old Ostium University]] |
-| Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
-
-<!-- page-connections:end -->
-
 ## Function in the Larger Arc
 
 Horror/exploration side adventure that develops the cognitive nature of the Rot and seeds deeper Heart clues.
@@ -145,3 +131,16 @@ These are modular possibilities, not a fixed sequence.
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Orla Meren\|Orla Meren]] |
+> | Referenced locations | [[Locations/Old Ostium University\|Old Ostium University]] |
+> | Factions | [[Factions/New Ostium Government\|New Ostium Government]] |
+
+<!-- page-connections:end -->

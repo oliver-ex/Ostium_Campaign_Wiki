@@ -108,6 +108,7 @@ function createFolderNode(
   const folderOuter = li.querySelector(".folder-outer") as HTMLElement
   const ul = folderOuter.querySelector("ul") as HTMLUListElement
 
+  const directory = node.children.find(child => !child.isFolder && child.slugSegment === node.slugSegment)
   const folderPath = node.slug
   folderContainer.dataset.folderpath = folderPath
 
@@ -115,7 +116,7 @@ function createFolderNode(
     // Replace button with link for link behavior
     const button = titleContainer.querySelector(".folder-button") as HTMLElement
     const a = document.createElement("a")
-    a.href = resolveRelative(currentSlug, folderPath)
+    a.href = resolveRelative(currentSlug, directory?.slug ?? folderPath)
     a.dataset.for = folderPath
     a.className = "folder-title"
     a.textContent = node.displayName
@@ -141,6 +142,7 @@ function createFolderNode(
   }
 
   for (const child of node.children) {
+    if (child === directory) continue
     const childNode = child.isFolder
       ? createFolderNode(currentSlug, child, opts)
       : createFileNode(currentSlug, child)

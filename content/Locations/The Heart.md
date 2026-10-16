@@ -20,43 +20,12 @@ The wounded divine being at the centre of Ostium’s deepest works; its bleeding
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A bound mythological figure suffering beneath an eagle against a dark rocky landscape.](../Attachments/Artwork/locations/the-heart.webp)
-> >
-> > *Prometheus Bound — Peter Paul Rubens and Frans Snyders. [Source](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_Flemish_(active_Italy,_Antwerp,_and_England)_-_Prometheus_Bound_-_Google_Art_Project.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A vast blue cavern with ribbed stone formations and a small figure for scale.](../Attachments/Artwork/locations/revoy-cavern.webp)
-> >
-> > *Sintel — dragon cave concept — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Act III destination and physical centre of the campaign's deepest wound\
 **What is changing:** The interred god is bleeding and infected as Old Ostium's collapse contaminates the system around it.\
 **Current controlling pressure:** Divine infection, unstable cognition, failing containment/stabilization, and the consequences of any intervention.\
 **Hidden danger:** A personified infection such as the Rot King may emerge here or act through the Rot, but this remains a development choice rather than mandatory fixed canon.\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/Titan Works\|Titan Works]] |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -137,3 +106,33 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A bound mythological figure suffering beneath an eagle against a dark rocky landscape.](../Attachments/Artwork/locations/the-heart.webp)
+> >
+> > *Prometheus Bound — Peter Paul Rubens and Frans Snyders. [Source](https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens,_Flemish_(active_Italy,_Antwerp,_and_England)_-_Prometheus_Bound_-_Google_Art_Project.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A vast blue cavern with ribbed stone formations and a small figure for scale.](../Attachments/Artwork/locations/revoy-cavern.webp)
+> >
+> > *Sintel — dragon cave concept — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/Titan Works\|Titan Works]] |
+
+<!-- page-connections:end -->

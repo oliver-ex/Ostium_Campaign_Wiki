@@ -6,7 +6,7 @@ tags:
 - location
 aliases:
 - Ostium - GM
-region: Ostium
+region: The Shoulderlands
 status: active
 description: "A divided city whose old and new halves share failing infrastructure, unequal resources, and a wounded divine being buried beneath them."
 ---
@@ -20,37 +20,6 @@ A divided city whose old and new halves share failing infrastructure, unequal re
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![An inhabited city of monumental ruins, markets, and distant buildings.](../Attachments/Artwork/locations/old-ostium-campo-vacino.webp)
-> >
-> > *Modern Rome — Campo Vaccino — J. M. W. Turner. [Source](https://commons.wikimedia.org/wiki/File:JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Classical reference
-> >
-> > ![A grand harbor with classical stone buildings and people at work.](../Attachments/Artwork/locations/new-ostium-carthage.webp)
-> >
-> > *Dido Building Carthage — J. M. W. Turner. [Source](https://commons.wikimedia.org/wiki/File:Dido_building_Carthage_-_JMW_Turner.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A sprawling fantasy city with layered roofs, walls, and an elevated monumental centre.](../Attachments/Artwork/locations/revoy-ishtar-panorama.webp)
-> >
-> > *Ishtar — city panorama — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![Layered timber and stone buildings linked by elevated walkways.](../Attachments/Artwork/locations/revoy-ishtar-streets.webp)
-> >
-> > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Campaign hub and frame for the entire story\
@@ -58,35 +27,6 @@ A divided city whose old and new halves share failing infrastructure, unequal re
 **Current controlling pressure:** Scarcity, Rot, faction rivalry, and failing infrastructure.\
 **Hidden danger:** The deepest systems under Ostium are not merely civic engineering.\
 **Useful NPCs:** [[Characters/NPCs/Helena Orst|Helena Orst]], [[Characters/NPCs/Brock Drungur|Brock Drungur]]\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] |
-| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
-| Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
-| Contained locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
-> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -118,7 +58,12 @@ Location links are document references; geographic containment is shown in the W
 
 ## Geography
 
-Ostium comprises Old and New Ostium and their associated districts and works. [[Locations/Mistbreak|Mistbreak]] is an independent town far to the north with its own government and factions. Its Frigid Woe antidote supply is a destination for a separate journey or courier retrieval.
+Ostium is the entire city within the larger territory of the Shoulderlands. It contains [[Locations/Old Ostium|Old Ostium]] and [[Locations/New Ostium|New Ostium]]. Old Ostium contains its established districts, including [[Locations/Old Ostium Hospital District|Old Ostium Hospital District]].
+
+The Shoulderlands/Ostium area lies in the top-right portion of the continent, southeast of the Ironhead Mountains. The iron-rich Ironhead Mountains lie at the continent’s northernmost point. Their inclusion within the Shoulderlands is not established; distances and borders remain unspecified.
+
+
+[[Locations/Mistbreak|Mistbreak]] is an independent town far to the north with its own government and factions. Its Frigid Woe antidote supply is a destination for a separate journey or courier retrieval.
 
 
 ## Secrets & Hidden History
@@ -187,3 +132,62 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 Ostium was once a great city, but it is now divided between the failing former capital of [[Locations/Old Ostium|Old Ostium]] and the functioning successor city of [[Locations/New Ostium|New Ostium]].
 
 The two cities remain linked by practical necessity even while their relationship is tense and often difficult.
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![An inhabited city of monumental ruins, markets, and distant buildings.](../Attachments/Artwork/locations/old-ostium-campo-vacino.webp)
+> >
+> > *Modern Rome — Campo Vaccino — J. M. W. Turner. [Source](https://commons.wikimedia.org/wiki/File:JMW_Turner_-_Modern_Rome_-_Campo_Vacino.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Classical reference
+> >
+> > ![A grand harbor with classical stone buildings and people at work.](../Attachments/Artwork/locations/new-ostium-carthage.webp)
+> >
+> > *Dido Building Carthage — J. M. W. Turner. [Source](https://commons.wikimedia.org/wiki/File:Dido_building_Carthage_-_JMW_Turner.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A sprawling fantasy city with layered roofs, walls, and an elevated monumental centre.](../Attachments/Artwork/locations/revoy-ishtar-panorama.webp)
+> >
+> > *Ishtar — city panorama — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![Layered timber and stone buildings linked by elevated walkways.](../Attachments/Artwork/locations/revoy-ishtar-streets.webp)
+> >
+> > *Ishtar — layered streets — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] |
+> | Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] · [[Locations/Old Ostium Hospital District\|Old Ostium Hospital District]] · [[Locations/The Heart\|The Heart]] · [[Locations/Titan Works\|Titan Works]] |
+> | Factions | [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Protectorate\|The Protectorate]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+> | Contained locations | [[Locations/New Ostium\|New Ostium]] · [[Locations/Old Ostium\|Old Ostium]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
+> > | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->

@@ -29,47 +29,6 @@ Islands near Mistbreak on the northern coast, far from Ostium, once inhabited by
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A rocky island with cypresses, buildings cut into stone, and a small boat.](../Attachments/Artwork/locations/torney-isles-island-study.webp)
-> >
-> > *Island of the Dead, third version — Arnold Böcklin. [Source](https://commons.wikimedia.org/wiki/File:Arnold_Boecklin_-_Island_of_the_Dead,_Third_Version.JPG) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Classical reference
-> >
-> > ![Steep pale sea cliffs frame a distant cold blue sea, with small figures in the foreground.](../Attachments/Artwork/locations/torney-isles-chalk-cliffs.webp)
-> >
-> > *Chalk Cliffs on Rügen — Caspar David Friedrich. [Source](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich%27s_Chalk_Cliffs_on_R%C3%BCgen.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
-
-<!-- campaign-artwork:end -->
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Veritas\|Veritas]] |
-| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] |
-| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[World Lore/Auren Culture\|Auren Culture]] |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Steven's Table/Session 4\|Session 4 — To the Torney Isles]] | Steven's Table | completed |
-> | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
-
-<!-- page-connections:end -->
-
 <!-- location-residents:start -->
 
 ## NPCs Currently Based Here
@@ -117,3 +76,43 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A rocky island with cypresses, buildings cut into stone, and a small boat.](../Attachments/Artwork/locations/torney-isles-island-study.webp)
+> >
+> > *Island of the Dead, third version — Arnold Böcklin. [Source](https://commons.wikimedia.org/wiki/File:Arnold_Boecklin_-_Island_of_the_Dead,_Third_Version.JPG) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Classical reference
+> >
+> > ![Steep pale sea cliffs frame a distant cold blue sea, with small figures in the foreground.](../Attachments/Artwork/locations/torney-isles-chalk-cliffs.webp)
+> >
+> > *Chalk Cliffs on Rügen — Caspar David Friedrich. [Source](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich%27s_Chalk_Cliffs_on_R%C3%BCgen.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Veritas\|Veritas]] |
+> | Referenced locations | [[Locations/Mistbreak\|Mistbreak]] |
+> | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] · [[World Lore/Auren Culture\|Auren Culture]] |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Steven's Table/Session 4\|Session 4 — To the Torney Isles]] | Steven's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
+
+<!-- page-connections:end -->

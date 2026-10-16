@@ -59,37 +59,11 @@ Egbert Lusat’s late wife and mother of Taran and Sara; her death from the Rot 
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
-| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
-
-<!-- page-connections:end -->
-
 ## Overview
-
-**Species (D&D 2024):** Goliath
 
 Deceased wife of [[Characters/NPCs/Egbert Lusat|Egbert Lusat]] and mother of [[Characters/NPCs/Taran Lusat|Taran Lusat]] and [[Characters/NPCs/Sara Lusat|Sara Lusat]]. She died from [[Creatures and Afflictions/The Rot|the Rot of Old Ostium]].
 
 ## Appearance & Personality
-
-TBD.
-
-## Background
 
 TBD.
 
@@ -134,3 +108,26 @@ TBD — independent traits/Difficulty, roles, environments, and consequences as 
 ## Session References & Changes
 
 TBD.
+
+## Background
+
+TBD.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Sara Lusat\|Sara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+> | Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+> | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+
+<!-- page-connections:end -->

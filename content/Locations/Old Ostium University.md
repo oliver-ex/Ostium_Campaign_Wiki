@@ -20,25 +20,6 @@ A dangerous exploration site where the Rot’s cognitive effects and the inhabit
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A vast ruined gallery with vaults open to the sky and people among the debris.](../Attachments/Artwork/locations/university-ruined-gallery.webp)
-> >
-> > *Imaginary View of the Grande Galerie in the Louvre in Ruins — Hubert Robert. [Source](https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_Imaginary_View_of_the_Grande_Galerie_in_the_Louvre_in_Ruins_-_WGA19589.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A monumental stepped stone complex with deep passages and weathered terraces.](../Attachments/Artwork/locations/revoy-ishtar-temple.webp)
-> >
-> > *Ishtar — abandoned temple — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Horror/exploration site that demonstrates the Rot's cognitive and networked qualities\
@@ -46,25 +27,6 @@ A dangerous exploration site where the Rot’s cognitive effects and the inhabit
 **Current controlling pressure:** Collective attention, Rot exposure, and the site's proximity/attunement to deeper influence.\
 **Hidden danger:** Some 'psychosis' is also distorted contact with the Heart's amplified cognitive field; neither pure madness nor reliable revelation.\
 **Useful NPCs:** [[Characters/NPCs/Orla Meren|Orla Meren]]\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/Old Ostium\|Old Ostium]] |
-| People | [[Characters/NPCs/Orla Meren\|Orla Meren]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Rescue Mission\|Rescue Mission]] — prepared | A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart. |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -142,3 +104,40 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A vast ruined gallery with vaults open to the sky and people among the debris.](../Attachments/Artwork/locations/university-ruined-gallery.webp)
+> >
+> > *Imaginary View of the Grande Galerie in the Louvre in Ruins — Hubert Robert. [Source](https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_Imaginary_View_of_the_Grande_Galerie_in_the_Louvre_in_Ruins_-_WGA19589.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A monumental stepped stone complex with deep passages and weathered terraces.](../Attachments/Artwork/locations/revoy-ishtar-temple.webp)
+> >
+> > *Ishtar — abandoned temple — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/Old Ostium\|Old Ostium]] |
+> | People | [[Characters/NPCs/Orla Meren\|Orla Meren]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Rescue Mission\|Rescue Mission]] — prepared | A prepared search for Orla Meren at Old Ostium University, combining rescue with unsettling evidence about the Rot and the Heart. |
+
+<!-- page-connections:end -->

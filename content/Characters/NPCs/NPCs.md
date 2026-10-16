@@ -7,7 +7,7 @@ tags:
 
 # NPC Directory
 
-All 24 canonical NPC entries. Egbert Lusat is the antidote benefactor; the former unnamed placeholder is merged into his entry. Names, roles, and knowledge are campaign records; planned appearances are not completed events. Search this page or use full-text search.
+All 24 canonical NPC entries. Names, roles, and knowledge are campaign records; planned appearances are not completed events. Filter and sort the directory, or use full-text search.
 
 | NPC | Role | Recorded location | Affiliation |
 | --- | --- | --- | --- |

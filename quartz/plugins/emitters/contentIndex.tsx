@@ -1,3 +1,4 @@
+import { campaignContext } from "../../util/campaignContext"
 import { Root } from "hast"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
@@ -12,6 +13,8 @@ export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
   slug: FullSlug
   filePath: FilePath
+  aliases?: string[]
+  context?: string
   title: string
   links: SimpleSlug[]
   tags: string[]
@@ -107,6 +110,8 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             slug,
             filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
+            aliases: file.data.frontmatter?.aliases ?? [],
+            context: campaignContext(file.data.frontmatter || {}),
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
             content: file.data.text ?? "",

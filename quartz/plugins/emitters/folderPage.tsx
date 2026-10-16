@@ -36,6 +36,12 @@ async function* processFolderInfo(
     ProcessedContent,
   ][]) {
     const slug = joinSegments(folder, "index") as FullSlug
+    const canonical = allFiles.find(f => f.slug === `${folder}/${folder.split("/").at(-1)}` && f.frontmatter?.type === "index")
+    if (canonical) {
+      const target = `./${encodeURIComponent(folder.split("/").at(-1)!)}`
+      yield write({ ctx, slug, ext: ".html", content: `<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=${target}"><link rel="canonical" href="${target}"></head><body><a href="${target}">Open directory</a></body></html>` })
+      continue
+    }
     const [tree, file] = folderContent
     const cfg = ctx.cfg.configuration
     const externalResources = pageResources(pathToRoot(slug), resources)

@@ -78,32 +78,20 @@ export function updatePageReferences(vault) {
       writeIfChanged(page.filename, text)
       continue
     }
-    const block = `<!-- page-connections:start -->\n\n## Connected Pages\n\nLocation links are document references; geographic containment is shown in the Within and Contained locations rows.\n\n${content.trim()}\n\n<!-- page-connections:end -->\n\n`
-    // Locations show visual inspiration immediately after their description.
-    // Other page types keep their practical references before the link tables.
-    if (page.data.type === 'encounter') {
-      // Combat references belong first; keep generated navigation after the encounter.
-      text = text.trimEnd() + '\n\n' + block.trimEnd() + '\n'
-    } else if (page.data.type === 'faction') {
-      const beforeDetails = /(?=<!-- campaign-artwork:start -->|## Relevant Roles to Populate Later|## Goals, Agenda & Pressures)/
-      if (beforeDetails.test(text)) text = text.replace(beforeDetails, block)
-      else text = text.replace(/(^# [^\n]+\n)/m, `$1\n${block}`)
-    } else {
-      const profile = text.match(blockPattern('character-profile'))?.[0]
+    const block = `<!-- page-connections:start -->\n\n> [!info]- Connected Pages\n> Location mentions are references; Within and Contained locations record geography.\n>\n${content.trim().split('\n').map(line => line ? '> ' + line : '>').join('\n')}\n\n<!-- page-connections:end -->\n`
+    if (page.data.type === 'location') {
+      const artwork = text.match(blockPattern('campaign-artwork'))?.[0]
       const residents = text.match(blockPattern('location-residents'))?.[0]
-      const artwork = page.data.type === 'location' ? text.match(blockPattern('campaign-artwork'))?.[0] : undefined
-      if (artwork) text = text.replace(artwork, '')
-      if (page.data.type === 'location' && residents) text = text.replace(residents, '')
       const operational = text.match(/^## Operational Summary\n[\s\S]*?(?=\n## |\n<!-- [\w-]+:start -->|(?![\s\S]))/m)?.[0]
-      if (page.data.type === 'location') {
-        if (operational) text = text.replace(operational, '')
-      }
+      for (const part of [artwork, residents, operational]) if (part) text = text.replace(part, '')
       const summary = text.match(blockPattern('page-summary'))?.[0]
-      const anchor = profile || summary
-      const reference = (artwork ? artwork.trim() + '\n\n' : '') + (page.data.type === 'location' && operational ? operational.trim() + '\n\n' : '') + block + (residents || '')
-      if (anchor) text = text.replace(anchor, anchor + reference)
-      else text = text.replace(/(^# [^\n]+\n)/m, `$1\n${reference}`)
+      const practical = [operational, residents].filter(Boolean).map(part => part.trim()).join('\n\n')
+      if (summary) text = text.replace(summary, summary + practical + '\n\n')
+      else text = text.replace(/(^# [^\n]+\n)/m, `$1\n${practical}\n\n`)
+      if (artwork) text = text.trimEnd() + '\n\n' + artwork.trimEnd() + '\n'
     }
+    // Practical authored material stays above the full relationship reference.
+    text = text.trimEnd() + '\n\n' + block
     writeIfChanged(page.filename, text.replace(/\n{4,}/g, '\n\n\n'))
   }
   console.log('Page introductions and authored-link references updated.')

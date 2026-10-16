@@ -20,25 +20,6 @@ The failing municipal network sustaining both cities, and the threshold into anc
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A vast interior crossed by stone arches, stairs, ropes, and wooden bridges.](../Attachments/Artwork/locations/waterworks-drawbridge.webp)
-> >
-> > *Le Carceri d’Invenzione: The Drawbridge, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_07_-_The_Drawbridge.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A steep view into a narrow stone alley with drains and overhanging buildings.](../Attachments/Artwork/locations/revoy-ishtar-alley.webp)
-> >
-> > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Megadungeon threshold: mundane civic system gradually revealing older infrastructure\
@@ -46,35 +27,6 @@ The failing municipal network sustaining both cities, and the threshold into anc
 **Current controlling pressure:** Maintenance scarcity, water pressure, Rot, political dependency.\
 **Hidden danger:** The deepest 'waterworks' are part of the interred being's circulatory system or interfaces built around it.\
 **Useful NPCs:** [[Characters/NPCs/Brock Drungur|Brock Drungur]], [[Characters/NPCs/Taran Lusat|Taran Lusat]], [[Characters/NPCs/Senn Vale|Senn Vale]]\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/Old Ostium\|Old Ostium]] |
-| People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Senn Vale\|Senn Vale]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-| Referenced locations | [[Locations/Titan Works\|Titan Works]] |
-| Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
-| Contained locations | [[Locations/Titan Works\|Titan Works]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -154,3 +106,50 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 ## PC Knowledge
 
 _No encounter or revelation recorded yet; this is a continuity note, not a publishing restriction._
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A vast interior crossed by stone arches, stairs, ropes, and wooden bridges.](../Attachments/Artwork/locations/waterworks-drawbridge.webp)
+> >
+> > *Le Carceri d’Invenzione: The Drawbridge, second edition — Giovanni Battista Piranesi. [Source](https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi_-_Le_Carceri_d%27Invenzione_-_Second_Edition_-_1761_-_07_-_The_Drawbridge.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A steep view into a narrow stone alley with drains and overhanging buildings.](../Attachments/Artwork/locations/revoy-ishtar-alley.webp)
+> >
+> > *Ishtar — alley — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/Old Ostium\|Old Ostium]] |
+> | People | [[Characters/NPCs/Brock Drungur\|Brock Drungur]] · [[Characters/NPCs/Senn Vale\|Senn Vale]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+> | Referenced locations | [[Locations/Titan Works\|Titan Works]] |
+> | Factions | [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] |
+> | Contained locations | [[Locations/Titan Works\|Titan Works]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/Pump 7\|Pump 7]] — prepared | A prepared infrastructure crisis offering alternatives to a choice that merely shifts catastrophe between Old and New Ostium. |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->

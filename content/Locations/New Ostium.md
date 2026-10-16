@@ -21,31 +21,6 @@ Ostium’s functioning successor city: an orderly refuge under real capacity pre
 <!-- page-summary:end -->
 
 
-<!-- campaign-artwork:start -->
-
-> [!gallery]- Visual inspiration
-> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
->
-> > [!artwork] Classical reference
-> >
-> > ![A grand harbor with classical stone buildings and people at work.](../Attachments/Artwork/locations/new-ostium-carthage.webp)
-> >
-> > *Dido Building Carthage — J. M. W. Turner. [Source](https://commons.wikimedia.org/wiki/File:Dido_building_Carthage_-_JMW_Turner.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Classical reference
-> >
-> > ![A monumental civic waterfront lined with stone buildings, boats, and people.](../Attachments/Artwork/locations/new-ostium-civic-waterfront.webp)
-> >
-> > *Venice, The Doge’s Palace and the Riva degli Schiavoni — Canaletto (Giovanni Antonio Canal). [Source](https://commons.wikimedia.org/wiki/File:Canaletto_(1697-1768)_-_Venice,_The_Doge%27s_Palace_and_the_Riva_degli_Schiavoni_-_NG940_-_National_Gallery.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
->
-> > [!artwork] Fantasy reference
-> >
-> > ![A sprawling fantasy city with layered roofs, walls, and an elevated monumental centre.](../Attachments/Artwork/locations/revoy-ishtar-panorama.webp)
-> >
-> > *Ishtar — city panorama — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
-
-<!-- campaign-artwork:end -->
-
 ## Operational Summary
 
 **Why the party comes here:** Safe hub, political arena, and contrast to Old Ostium\
@@ -53,38 +28,6 @@ Ostium’s functioning successor city: an orderly refuge under real capacity pre
 **Current controlling pressure:** Government capacity, merchant power, public fear of Old Ostium.\
 **Hidden danger:** New Ostium's prosperity still depends partly on systems and people it has politically abandoned.\
 **Useful NPCs:** [[Characters/NPCs/Egbert Lusat|Egbert Lusat]], [[Characters/NPCs/Trine Baradur|Trine Baradur]], [[Characters/NPCs/Dalia Quent|Dalia Quent]], [[Characters/NPCs/Helena Orst|Helena Orst]]\
-
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Within | [[Locations/Ostium\|Ostium]] |
-| People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Mira Vey\|Mira Vey]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
-| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Old Ostium\|Old Ostium]] |
-| Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
-| Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
-| Contained locations | [[Locations/New Ostium Market District\|New Ostium Market District]] · [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
-| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
-| [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
-
-<!-- page-connections:end -->
 
 <!-- location-residents:start -->
 
@@ -182,3 +125,59 @@ Use the environmental fiction above. For uncertain investigation, travel, negoti
 New Ostium is the functioning successor city that grew out of the newer districts of Ostium. It is the safer and more orderly side of the divided capital.
 
 It depends on the survival of the wider city, even as it remains politically and practically separate from [[Locations/Old Ostium|Old Ostium]].
+
+<!-- campaign-artwork:start -->
+
+> [!gallery]- Visual inspiration
+> These images combine classical atmosphere with fantasy texture and scale. They are inspiration, not a map or new campaign facts.
+>
+> > [!artwork] Classical reference
+> >
+> > ![A grand harbor with classical stone buildings and people at work.](../Attachments/Artwork/locations/new-ostium-carthage.webp)
+> >
+> > *Dido Building Carthage — J. M. W. Turner. [Source](https://commons.wikimedia.org/wiki/File:Dido_building_Carthage_-_JMW_Turner.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Classical reference
+> >
+> > ![A monumental civic waterfront lined with stone buildings, boats, and people.](../Attachments/Artwork/locations/new-ostium-civic-waterfront.webp)
+> >
+> > *Venice, The Doge’s Palace and the Riva degli Schiavoni — Canaletto (Giovanni Antonio Canal). [Source](https://commons.wikimedia.org/wiki/File:Canaletto_(1697-1768)_-_Venice,_The_Doge%27s_Palace_and_the_Riva_degli_Schiavoni_-_NG940_-_National_Gallery.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/).*
+>
+> > [!artwork] Fantasy reference
+> >
+> > ![A sprawling fantasy city with layered roofs, walls, and an elevated monumental centre.](../Attachments/Artwork/locations/revoy-ishtar-panorama.webp)
+> >
+> > *Ishtar — city panorama — David Revoy / Blender Foundation (Sintel). [Source](https://www.davidrevoy.com/article45/sintel-art-direction) · [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+<!-- campaign-artwork:end -->
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Within | [[Locations/Ostium\|Ostium]] |
+> | People | [[Characters/NPCs/Aaron Fortisax\|Aaron Fortisax]] · [[Characters/NPCs/Dalia Quent\|Dalia Quent]] · [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Helena Orst\|Helena Orst]] · [[Characters/NPCs/Mira Vey\|Mira Vey]] · [[Characters/NPCs/Shanda Karth\|Shanda Karth]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Trine Baradur\|Trine Baradur]] |
+> | Referenced locations | [[Locations/Mistbreak\|Mistbreak]] · [[Locations/Old Ostium\|Old Ostium]] |
+> | Factions | [[Factions/New Ostium City Guard\|New Ostium City Guard]] · [[Factions/New Ostium Government\|New Ostium Government]] · [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] · [[Factions/Old Ostium Engineers\|Old Ostium Engineers]] · [[Factions/The Shattered Axe\|The Shattered Axe]] |
+> | Campaign & lore | [[Creatures and Afflictions/The Rot\|The Rot]] |
+> | Contained locations | [[Locations/New Ostium Market District\|New Ostium Market District]] · [[Locations/New Ostium Town Hall\|New Ostium Town Hall]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/The Heist\|The Heist]] — prepared | A prepared Shattered Axe coercion job to steal an artifact from a New Ostium museum, with room to resist, negotiate, or redirect the threat. |
+> | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+> | [[Storylines/Adventures/The Road to Ostium\|The Road to Ostium]] — prepared | A prepared caravan journey and city investigation opening several routes to Frigid Woe antidote through danger, medical referrals, and negotiation. |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+
+<!-- page-connections:end -->

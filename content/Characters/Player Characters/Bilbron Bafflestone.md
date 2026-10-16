@@ -64,21 +64,6 @@ Bilbron Bafflestone is Yannick’s level-2 Gnome Barbarian. Further identity, ba
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-> [!example]- Session references
-> A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
->
-> | Record | Table | State |
-> | --- | --- | --- |
-> | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
-
-<!-- page-connections:end -->
-
 ## Identity
 
 **Player:** Yannick
@@ -238,3 +223,17 @@ A fierce frontline combatant; a player-approved Daggerheart build may express th
 **Handfuls:**
 **Bags:**
 **Chests:**
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
+
+<!-- page-connections:end -->

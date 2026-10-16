@@ -65,22 +65,7 @@ Mayor of Mistbreak, an independent town far north of Ostium; a potential antidot
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| Referenced locations | [[Locations/Mistbreak\|Mistbreak]] |
-| Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
-
-<!-- page-connections:end -->
-
 ## At a Glance
-
-**Species (D&D 2024):** Elf
 
 - **Role:** Mayor of [[Locations/Mistbreak|Mistbreak]], a separate town far north of Ostium with its own government and factions. His office is part of Mistbreak’s government.
 - **Status:** Alive.
@@ -118,3 +103,15 @@ No numerical profile assigned. See [[Rules/System Guide|System Guide]] for optio
 ## Session Appearances
 
 No completed appearance recorded; planned appearances are preparation, not history.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | Referenced locations | [[Locations/Mistbreak\|Mistbreak]] |
+> | Campaign & lore | [[Creatures and Afflictions/Frigid Woe\|Frigid Woe]] |
+
+<!-- page-connections:end -->

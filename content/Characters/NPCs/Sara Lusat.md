@@ -57,35 +57,11 @@ Egbert and Tara Lusat’s daughter and Taran’s sister; her wider role, goals, 
 
 <!-- character-profile:end -->
 
-<!-- page-connections:start -->
-
-## Connected Pages
-
-Location links are document references; geographic containment is shown in the Within and Contained locations rows.
-
-| Connection | Follow links |
-| --- | --- |
-| People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
-
-### Adventures & Encounters
-
-| Adventure / state | Situation |
-| --- | --- |
-| [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
-
-<!-- page-connections:end -->
-
 ## Overview
-
-**Species (D&D 2024):** Goliath
 
 Sister of [[Characters/NPCs/Taran Lusat|Taran Lusat]] and daughter of [[Characters/NPCs/Egbert Lusat|Egbert Lusat]]. Her mother is [[Characters/NPCs/Tara Lusat|Tara Lusat]], deceased from the Rot of Old Ostium.
 
 ## Appearance & Personality
-
-TBD.
-
-## Background
 
 TBD.
 
@@ -132,3 +108,24 @@ TBD — independent traits/Difficulty, roles, environments, and consequences as 
 ## Session References & Changes
 
 TBD.
+
+## Background
+
+TBD.
+
+<!-- page-connections:start -->
+
+> [!info]- Connected Pages
+> Location mentions are references; Within and Contained locations record geography.
+>
+> | Connection | Follow links |
+> | --- | --- |
+> | People | [[Characters/NPCs/Egbert Lusat\|Egbert Lusat]] · [[Characters/NPCs/Tara Lusat\|Tara Lusat]] · [[Characters/NPCs/Taran Lusat\|Taran Lusat]] |
+>
+> ### Adventures & Encounters
+>
+> | Adventure / state | Situation |
+> | --- | --- |
+> | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+
+<!-- page-connections:end -->

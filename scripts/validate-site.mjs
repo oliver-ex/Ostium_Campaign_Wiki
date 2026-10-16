@@ -39,6 +39,14 @@ for(const file of html){
  }
 }
 const entries=Object.values(index)
+const excluded = /(?:Wiki Refactor Report|Migration Inventory|Vault Update Report|Templates\/(?:Legacy|Examples)\/)/
+for (const entry of entries) if (excluded.test(entry.filePath || '')) errors.push(`Excluded reference leaked into index: ${entry.filePath}`)
+for (const file of html) {
+ const markup = fs.readFileSync(file, 'utf8')
+ if (/class="graph"/.test(markup)) errors.push(`Graph remains: ${file}`)
+ if (excluded.test(decodeURIComponent(path.relative(root, file)).replaceAll('-', ' '))) errors.push(`Excluded reference published: ${file}`)
+}
+
 for(const term of ['Mistbreak','Frigid Woe','Shattered Axe','The Heart','Road to Ostium'])if(!entries.some(v=>`${v.title} ${v.content}`.toLowerCase().includes(term.toLowerCase())))errors.push(`Search index missing campaign term: ${term}`)
 const home=fs.readFileSync(path.join(root,'index.html'),'utf8')
 for(const marker of ['search','explorer','darkmode'])if(!home.includes(marker))errors.push(`Homepage missing ${marker} component`)
