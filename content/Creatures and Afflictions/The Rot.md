@@ -61,5 +61,13 @@ Whether a Rot King manifests, what treating the divine wound requires, and final
 > | Adventure / state | Situation |
 > | --- | --- |
 > | [[Storylines/Adventures/The Prodigal Son\|The Prodigal Son]] — prepared | A prepared family rescue that becomes a civic dilemma: Egbert wants Taran home, but the Hospital District depends on his engineering. |
+>
+> > [!example]- Session references
+> > A link records a mention, not proof of an appearance or revelation. Read each report for actual outcomes.
+> >
+> > | Record | Table | State |
+> > | --- | --- | --- |
+> > | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 6\|Session 6 — The Library Commission — Preparation]] | Steven's Table | planned |
 
 <!-- page-connections:end -->

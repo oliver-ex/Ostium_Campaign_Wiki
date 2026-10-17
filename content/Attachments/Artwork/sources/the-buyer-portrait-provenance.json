@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-17",
+  "tool": "image_gen.imagegen (built-in)",
+  "mode": "generate",
+  "reference_images": [],
+  "prompt_file": "the-buyer-portrait-prompt.txt",
+  "prompt": "Use case: illustration-story\nAsset type: portrait for the Ostium campaign wiki\nPrimary request: A grounded, detailed fantasy portrait of The Buyer, an independent male elf merchant and magical-item fence in the icy Torney Isles. He is a morally grey, composed businessman who has used violence to secure his trading position; convey measured authority without caricature. His small pet faerie dragon perches beside him, rendered as a believable delicate reptilian creature with fine iridescent wings, not a cartoon. Include his closed, well-made magical shipping chest in the lower foreground, with subtle magical detailing but no spectacular effects.\nScene/backdrop: understated northern merchant interior, cold daylight and warm lamplight.\nComposition/framing: vertical waist-up portrait, realistic adult proportions, face clearly visible, textured practical layered merchant clothing, painterly natural materials.\nStyle/medium: richly detailed restrained fantasy oil illustration, grounded realism.\nConstraints: no text, no watermark, no logos, no guild insignia, no weapons added, no toy-like rendering or whimsical cartoon proportions. Appearance and props are illustrative references only, not additional campaign canon.",
+  "output": "Attachments/Artwork/npcs/the-buyer-portrait.webp",
+  "review": "Original 1024 × 1536 composition reviewed at full size before integration; elf, faerie dragon, and chest present. Illustrative details do not establish canon.",
+  "changes": "Converted to WebP at quality 88 without resizing or cropping.",
+  "edits": [
+    {
+      "date": "2026-10-17",
+      "tool": "image_gen.imagegen (built-in)",
+      "mode": "edit",
+      "reference": "Original generated Buyer portrait",
+      "prompt_file": "the-buyer-portrait-edit-prompt.txt",
+      "prompt": "Edit the supplied portrait of The Buyer. Change only his facial structure: make his face less conventionally heroic and less chiseled, with a narrower, softer jaw, a smaller less projecting chin, less sculpted cheekbones, and natural modest asymmetry. He should look like a believable shrewd elven merchant, not a male supermodel or exaggerated masculine hero. Keep him an adult male elf with the same expression and overall identity. Preserve the hair, ears, pose, body, clothing, faerie dragon, chest, background, lighting, painterly realistic style, framing and resolution. No new props, text or watermark.",
+      "review": "Edited original viewed at full size: softer narrower jaw and chin, less sculpted cheeks; composition and companion preserved."
+    }
+  ]
+}

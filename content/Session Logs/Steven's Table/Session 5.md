@@ -10,30 +10,34 @@ tags: ["session"]
 pcs-present: []
 previous: "[[Session Logs/Steven's Table/Session 4|Session 4]]"
 next: "[[Session Logs/Steven's Table/Session 6|Session 6]]"
-description: "Completed: the party defeated an undead alchemist and retrieved antidote; administration and Kalim’s cure remain unrecorded."
+description: "Completed: Salsvault’s undead scientist was killed; of 20 antidote doses, 17 were sent to Mistbreak, one used, and two retained."
 ---
 
 # Session 5 — The Antidote Retrieved
 
 <!-- page-summary:start -->
 
-Completed: the party defeated an undead alchemist and retrieved antidote; administration and Kalim’s cure remain unrecorded.
+Completed: Salsvault’s undead scientist was killed; of 20 antidote doses, 17 were sent to Mistbreak, one used, and two retained.
 
 <!-- page-summary:end -->
 
 
 ## Recap & Actual Events
 
-The party defeated the undead alchemist and retrieved the [[Creatures and Afflictions/Frigid Woe|Frigid Woe]] antidote, following their journey to the [[Locations/Torney Isles|Torney Isles]].
+At Salsvault, an ancient laboratory in the [[Locations/Torney Isles|Torney Isles]], the party fought and killed a scientist who had become a wight. He had turned himself and his workers into undead to continue developing a disease intended to kill the gods.
 
 ## Clues Introduced & PC Knowledge
 
-The party has obtained the antidote. The alchemist’s identity, any discoveries about its work, and the precise encounter site are not recorded.
+The party discovered the laboratory and its scientist’s purpose, and recovered **20 doses** of [[Creatures and Afflictions/Frigid Woe|Frigid Woe]] antidote. This does not establish a connection to [[Creatures and Afflictions/The Rot|the Rot]] or the being beneath Ostium.
 
 ## Choices, Consequences & Rewards
 
-The undead alchemist was defeated and the antidote recovered. Quantity, administration, remaining stock, and whether [[Characters/Player Characters/Kalim Escara|Kalim Escara]] has been cured remain TBD; retrieval alone does not establish treatment.
+- **17 doses sent to [[Locations/Mistbreak|Mistbreak]].** Receipt and distribution are not yet recorded.
+- **1 dose used immediately** on a party member infected during the laboratory crawl; their identity is unrecorded.
+- **2 doses retained** by the party.
+
+Whether [[Characters/Player Characters/Kalim Escara|Kalim Escara]] has been treated remains **Unknown/TBD**; do not assume he was the recipient.
 
 ## Where We Left Off / Next Preparation
 
-Antidote retrieval is the latest confirmed event for Steven’s table. Session 6 is left as a blank preparation template.
+[[Characters/NPCs/The Buyer|The Buyer]], the elven merchant with a faerie dragon and a teleporting chest, will learn of the recovered antidote. His possible Ostium contacts and a library retrieval commission are preparation for [[Session Logs/Steven's Table/Session 6|Session 6]], not completed events. Exact stopping point and PCs present remain unrecorded.

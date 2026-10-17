@@ -189,5 +189,6 @@ The two cities remain linked by practical necessity even while their relationshi
 > > | --- | --- | --- |
 > > | [[Session Logs/Oliver's Table/Session 2\|Session 2 — The Road to Ostium — Preparation]] | Oliver's Table | planned |
 > > | [[Session Logs/Session 0 Prep\|Session 0 Prep]] | Unassigned | Planned |
+> > | [[Session Logs/Steven's Table/Session 6\|Session 6 — The Library Commission — Preparation]] | Steven's Table | planned |
 
 <!-- page-connections:end -->

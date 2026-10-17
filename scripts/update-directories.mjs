@@ -46,7 +46,7 @@ for(const name of tables){
  const folder=`Session Logs/${name}`
  const records=sessions.filter(p=>p.id.startsWith(folder+'/'))
  const overview=name==="Steven's Table"
-   ? 'Sessions 1–5 are completed GM-supplied summaries. Session 6 is a blank preparation template. Antidote retrieval in Session 5 does not establish administration or a cure.'
+   ? 'Sessions 1–5 are completed GM-supplied summaries. Session 5 records 20 doses: 17 sent to Mistbreak, one used on an unnamed member, two retained; Kalim’s treatment remains unconfirmed. Session 6 prepares The Buyer’s library commission.'
    : 'Session 1 is completed. Session 2 is planned preparation for [[Storylines/Adventures/The Road to Ostium]]. Two pregen characters are affected by Frigid Woe but do not yet know the danger.'
  writePage(`content/${folder}/${name}.md`,name,`${overview}\n\n## Completed reports\n\n${sessionTable(records.filter(p => p.data.type === 'session-log' && p.data.status === 'completed'))}\n\n## Prepared sessions\n\n${sessionTable(records.filter(p => p.data.type === 'session-prep' && !['blank','template','unfilled'].includes(p.data.status)))}\n\n## Blank preparation\n\n${sessionTable(records.filter(p => p.data.type === 'session-prep' && ['blank','template','unfilled'].includes(p.data.status)))}\n\n![[Session Logs/Session Logs.base#${name}]]`,{table:name})
 }

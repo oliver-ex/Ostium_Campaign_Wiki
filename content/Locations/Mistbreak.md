@@ -129,5 +129,6 @@ _No encounter or revelation recorded yet; this is a continuity note, not a publi
 > > | --- | --- | --- |
 > > | [[Session Logs/Steven's Table/Session 1\|Session 1 — The Wizard’s Tower Basement]] | Steven's Table | completed |
 > > | [[Session Logs/Steven's Table/Session 2\|Session 2 — A New Party in Mistbreak]] | Steven's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
 
 <!-- page-connections:end -->

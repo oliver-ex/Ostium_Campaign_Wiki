@@ -58,7 +58,7 @@ An ancient Auren weapon affliction resistant to divine healing, driving a search
 
 ## Recorded Retrieval — Steven’s Table
 
-In [[Session Logs/Steven's Table/Session 5|Session 5]], the party defeated the undead alchemist and retrieved the antidote following their Torney Isles journey. This confirms retrieval, not administration or Kalim’s recovery. Dose count, site, and the alchemist’s identity are TBD. This outcome does not establish available stock or a cure for Oliver’s party.
+In [[Session Logs/Steven's Table/Session 5|Session 5]], the party killed Salsvault’s undead scientist and recovered **20 doses**: **17 sent to Mistbreak**, **one used** on an unnamed member infected in the laboratory, and **two retained**. The scientist had made himself and his workers undead to continue researching a disease intended to kill the gods. His name, the treated member’s identity, Kalim’s treatment, and Mistbreak receipt/distribution remain unconfirmed. This does not establish a cure or available stock for Oliver’s party.
 
 ## NPC Knowledge
 
@@ -72,7 +72,7 @@ In [[Session Logs/Steven's Table/Session 5|Session 5]], the party defeated the u
 ## Mysteries & Open Questions
 
 - Steven: how was Kalim exposed, and was he treated after retrieval? Oliver: who are the two affected pregens, and when will they learn the danger?
-- How was the antidote recovered, and who can reproduce it?
+- Who can reproduce the antidote recovered at Salsvault?
 - What evidence of the ancient weapon survives?
 - Wider implications for gods and divine power remain questions; no connection to Ostium's buried god established.
 
@@ -85,7 +85,7 @@ In [[Session Logs/Steven's Table/Session 5|Session 5]], the party defeated the u
 
 ## PC Knowledge
 
-- **Steven:** the party sought antidote information by Session 3 and retrieved antidote in Session 5. Exact diagnostic knowledge, ancient history, and treatment are unrecorded.
+- **Steven:** the party sought antidote information by Session 3. Session 5 records Salsvault’s laboratory and research purpose, 20 recovered doses, one administration, 17 sent away, and two retained. The recipient and Kalim’s treatment remain unconfirmed.
 - **Oliver:** the two pregens do not yet know they have Frigid Woe, that it is lethal untreated, or that an antidote is needed. The GM knows their approximate month-or-so prognosis.
 
 ## D&D 5e (2024) Mechanics

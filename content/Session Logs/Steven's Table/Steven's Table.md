@@ -8,7 +8,7 @@ table: Steven's Table
 
 # Steven's Table
 
-Sessions 1–5 are completed GM-supplied summaries. Session 6 is a blank preparation template. Antidote retrieval in Session 5 does not establish administration or a cure.
+Sessions 1–5 are completed GM-supplied summaries. Session 5 records 20 doses: 17 sent to Mistbreak, one used on an unnamed member, two retained; Kalim’s treatment remains unconfirmed. Session 6 prepares The Buyer’s library commission.
 
 ## Completed reports
 
@@ -22,12 +22,12 @@ Sessions 1–5 are completed GM-supplied summaries. Session 6 is a blank prepara
 
 ## Prepared sessions
 
-None recorded.
+| Document | Kind | Session | Date | Status |
+| --- | --- | --- | --- | --- |
+| [[Session Logs/Steven's Table/Session 6\|Session 6]] | session-prep | 6 | TBD | planned |
 
 ## Blank preparation
 
-| Document | Kind | Session | Date | Status |
-| --- | --- | --- | --- | --- |
-| [[Session Logs/Steven's Table/Session 6\|Session 6]] | session-prep | 6 | TBD | blank |
+None recorded.
 
 ![[Session Logs/Session Logs.base#Steven's Table]]

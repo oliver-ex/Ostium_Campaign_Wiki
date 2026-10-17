@@ -48,7 +48,7 @@ No identity or causal connection between these strands has been established.
 | 2 | Kalim Escara, Cedric, Bilbron Bafflestone, and Moin Stonefist formed a new party in Mistbreak and began investigating Veritas’s death | [[Session Logs/Steven's Table/Session 2\|Session 2]] |
 | 3 | The party took down the Glass Blades while seeking antidote information; Kalim became infected | [[Session Logs/Steven's Table/Session 3\|Session 3]] |
 | 4 | The party travelled to the Torney Isles to search for the antidote | [[Session Logs/Steven's Table/Session 4\|Session 4]] |
-| 5 | The party defeated the undead alchemist and retrieved the antidote; administration and Kalim’s cure remain unrecorded | [[Session Logs/Steven's Table/Session 5\|Session 5]] |
+| 5 | The party killed Salsvault’s undead scientist and recovered 20 antidote doses: 17 sent to Mistbreak, one used on an unnamed member infected in the laboratory, two retained; Kalim’s treatment remains unconfirmed | [[Session Logs/Steven's Table/Session 5\|Session 5]] |
 
 ## Events Experienced by PCs — Oliver’s Table
 
@@ -63,7 +63,7 @@ The tables have independent continuity; no calendar dates or chronology between 
 ## Planned / Conditional Future
 
 - **Oliver’s table:** [[Session Logs/Oliver's Table/Session 2|Session 2]] prepares [[Storylines/Adventures/The Road to Ostium|The Road to Ostium]]; its encounters and revelations are unplayed.
-- **Steven’s table:** [[Session Logs/Steven's Table/Session 6|Session 6]] is a blank preparation template.
+- **Steven’s table:** [[Session Logs/Steven's Table/Session 6|Session 6]] prepares The Buyer’s library commission; a disease book for Ostium and goblins burning books for warmth are tentative.
 - [[Storylines/Adventures/The Prodigal Son|The Prodigal Son]] and [[Storylines/Adventures/Pump 7|Pump 7]] remain prepared hooks, not completed history.
 - [[Storylines/Acts/Act II - Beneath the Waterworks|Act II - Beneath the Waterworks]] and [[Storylines/Acts/Act III - The Heart Below Ostium|Act III - The Heart Below Ostium]] outline possible later discoveries and outcomes.
 - Egbert may negotiate antidote compensation for The Prodigal Son, sale for substantial gold, an advance against assurances, or a replacement plan; no transaction or quest acceptance has occurred merely because it is prepared.

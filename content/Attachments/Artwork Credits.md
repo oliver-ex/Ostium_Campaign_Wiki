@@ -7,9 +7,9 @@ tags:
 
 # Artwork Credits
 
-All 24 canonical NPCs have publishable portraits. These are visual references; incidental appearance, clothing, gear, age presentation, and magical effects do not establish campaign facts. NPC ages inferred for this update are explicitly labelled estimates. The eight PCs keep their player-owned identity choices and await approved portraits.
+All 25 canonical NPCs have publishable portraits. These are visual references; incidental appearance, clothing, gear, age presentation, and magical effects do not establish campaign facts. NPC ages inferred for this update are explicitly labelled estimates. The eight PCs keep their player-owned identity choices and await approved portraits.
 
-The active register contains **50 artworks and 67 placements across all 46 reviewed NPC, location, and faction pages**, all eligible for the public build. **20 portraits are AI-generated campaign illustrations**, made using the built-in image generation tool with no third-party reference images. Exact prompts and tool provenance are saved alongside the artwork under `Artwork/sources/`. Location mood boards continue to use existing, credited classical and fantasy artwork.
+The active register contains **51 artworks and 68 placements across all 47 reviewed NPC, location, and faction pages**, all eligible for the public build. **21 portraits are AI-generated campaign illustrations**, made using the built-in image generation tool with no third-party reference images. Exact prompts and tool provenance are saved alongside the artwork under `Artwork/sources/`. Location mood boards continue to use existing, credited classical and fantasy artwork.
 
 Full compositions are retained in the local WebP files; click a published image to open its saved resolution. Original copyrighted references that were previously withheld have been superseded and remain excluded by the repository’s `publication-artwork.json`; those files have not been granted new reuse rights.
 
@@ -506,3 +506,12 @@ Full compositions are retained in the local WebP files; click a published image 
 - NPC age estimates are proposed values rather than a dated family or career chronology. The GM can refine them in frontmatter.
 - Generated portraits are proposed visual interpretations. They do not establish equipment, powers, precise skin colours, or unrecorded events.
 - Superseded copyrighted originals remain local-only and excluded from publication; do not restore them by removing exclusions without recording reuse terms.
+
+### the-buyer-portrait
+
+- **Used by:** [[Characters/NPCs/The Buyer|The Buyer]]
+- **Work:** The Buyer — campaign portrait
+- **Creator:** OpenAI image generation; directed for the Ostium campaign.
+- **Source / rights:** Built-in `image_gen.imagegen`, generated 2026-10-17 without reference images. AI-generated campaign illustration; [terms](https://openai.com/policies/terms-of-use/). No exclusive copyright claim asserted.
+- **Local image:** [WebP](Artwork/npcs/the-buyer-portrait.webp) — 1024 × 1536; converted at full resolution, composition preserved. Reviewed at full size.
+- **Generation record:** [Original prompt](Artwork/sources/the-buyer-portrait-prompt.txt) · [Facial edit prompt](Artwork/sources/the-buyer-portrait-edit-prompt.txt) · [Tool provenance](Artwork/sources/the-buyer-portrait-provenance.json). Appearance and incidental details are illustrative, not new canon.

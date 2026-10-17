@@ -20,7 +20,7 @@ Start here before play: separate each table’s current situation from shared ad
 ## Current Situation
 
 - **In-world date:** TBD.
-- **Steven’s table:** [[Session Logs/Steven's Table/Session 5|Session 5]] completed: undead alchemist defeated and antidote retrieved. Kalim’s treatment remains unrecorded. [[Session Logs/Steven's Table/Session 6|Session 6]] is blank preparation.
+- **Steven’s table:** [[Session Logs/Steven's Table/Session 5|Session 5]] completed: Salsvault’s undead scientist killed; 20 doses recovered, 17 sent to Mistbreak, one used, two retained. Kalim’s treatment remains unconfirmed. [[Session Logs/Steven's Table/Session 6|Session 6]] prepares The Buyer’s library commission (not played).
 - **Oliver’s table:** [[Session Logs/Oliver's Table/Session 1|Session 1]] completed: two pregens unknowingly drank Frigid Woe. They do not know the danger. [[Session Logs/Oliver's Table/Session 2|Session 2]] plans The Road to Ostium.
 - **Shared adventure:** [[Storylines/Adventures/The Road to Ostium|The Road to Ostium]]. Its prepared scenes are not completed outcomes.
 - **PC roster:** [[Characters/Player Characters/Player Characters|Player Characters]]; do not identify unnamed pregens with named PCs.
@@ -42,7 +42,7 @@ Confirm attendees, prior symptoms/rulings, dose requirements, travel/courier cos
 ## Upcoming Session
 
 - [[Session Logs/Oliver's Table/Session 2|Oliver’s Session 2 — The Road to Ostium]]
-- [[Session Logs/Steven's Table/Session 6|Steven’s Session 6 — blank preparation]]
+- [[Session Logs/Steven's Table/Session 6|Steven’s Session 6 — library commission preparation]]
 - [[Creatures and Afflictions/Frigid Woe|Frigid Woe]]
 - [[Locations/Mistbreak|Mistbreak]]
 - [[Locations/Torney Isles|Torney Isles]]

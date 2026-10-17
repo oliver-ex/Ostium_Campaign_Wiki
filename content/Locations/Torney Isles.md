@@ -35,7 +35,7 @@ Islands near Mistbreak on the northern coast, far from Ostium, once inhabited by
 
 | NPC | Role | Faction / affiliation | Recorded current location | Status |
 | --- | --- | --- | --- | --- |
-| None recorded | — | — | — | — |
+| [[Characters/NPCs/The Buyer\|The Buyer]] | Independent merchant and magical-item fence | Not established | [[Locations/Torney Isles\|Torney Isles]] | alive |
 
 *From NPC current-location records, including contained districts and work sites. A work location is not a confirmed home. Deceased characters, unknown locations, and planned visitors are excluded; table-specific movements must be recorded before changing this list.*
 
@@ -114,5 +114,6 @@ _No encounter or revelation recorded yet; this is a continuity note, not a publi
 > > | --- | --- | --- |
 > > | [[Session Logs/Steven's Table/Session 4\|Session 4 — To the Torney Isles]] | Steven's Table | completed |
 > > | [[Session Logs/Steven's Table/Session 5\|Session 5 — The Antidote Retrieved]] | Steven's Table | completed |
+> > | [[Session Logs/Steven's Table/Session 6\|Session 6 — The Library Commission — Preparation]] | Steven's Table | planned |
 
 <!-- page-connections:end -->

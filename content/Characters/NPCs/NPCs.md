@@ -7,7 +7,7 @@ tags:
 
 # NPC Directory
 
-All 24 canonical NPC entries. Names, roles, and knowledge are campaign records; planned appearances are not completed events. Filter and sort the directory, or use full-text search.
+All 25 canonical NPC entries. Names, roles, and knowledge are campaign records; planned appearances are not completed events. Filter and sort the directory, or use full-text search.
 
 | NPC | Role | Recorded location | Affiliation |
 | --- | --- | --- | --- |
@@ -31,6 +31,7 @@ All 24 canonical NPC entries. Names, roles, and knowledge are campaign records; 
 | [[Characters/NPCs/Shanda Karth\|Shanda Karth]] | Apothecary | New Ostium | Not established |
 | [[Characters/NPCs/Tara Lusat\|Tara Lusat]] | TBD | TBD | Not established |
 | [[Characters/NPCs/Taran Lusat\|Taran Lusat]] | Civil engineer and relief benefactor | Old Ostium Hospital District | [[Factions/Old Ostium Hospital District Community\|Old Ostium Hospital District Community]] |
+| [[Characters/NPCs/The Buyer\|The Buyer]] | Independent merchant and magical-item fence | Torney Isles | Not established |
 | [[Characters/NPCs/Trine Baradur\|Trine Baradur]] | Guild acquisition factor; merchant and broker | New Ostium Market District | [[Factions/New Ostium Merchants Guild\|New Ostium Merchants Guild]] |
 | [[Characters/NPCs/Ulroc Grimscar\|Ulroc Grimscar]] | Raider chief and crime lord | Old Ostium Slums | [[Factions/The Shattered Axe\|The Shattered Axe]] |
 | [[Characters/NPCs/Veritas\|Veritas]] | Wizard | Mistbreak | Not established |
