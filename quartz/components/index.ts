@@ -53,3 +53,5 @@ export {
 }
 
 export { default as EditingResources } from "./EditingResources"
+
+export { default as EditPage } from "./EditPage"

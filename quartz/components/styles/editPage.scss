@@ -1,0 +1,17 @@
+.page-edit {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.75rem;
+  margin: 0.75rem 0 1rem;
+
+  .edit-page-button {
+    display: inline-block;
+    border: 1px solid var(--gray);
+    border-radius: 0.3rem;
+    padding: 0.3rem 0.65rem;
+    font-size: 0.9rem;
+  }
+
+  small { color: var(--darkgray); }
+}

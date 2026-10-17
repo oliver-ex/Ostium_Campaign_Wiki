@@ -73,3 +73,7 @@ Category links open their canonical directory; former folder URLs redirect there
 The homepage leads with separate table histories and preparation. `status: blank` identifies an unfilled session preparation; it is not a completed event. Search ranks exact titles, exact aliases, partial title/alias matches, then full-text results, and shows campaign context.
 
 `update-page-references.mjs` places full connections last in a folded callout. Location operational summaries and residents precede galleries. The publication transformer folds separate Daggerheart sections and removes duplicate source titles before TOC generation; headings and system distinctions remain intact. Graph components are absent from every layout. Editing resources and attribution remain available in a secondary disclosure.
+
+### Editing from the website
+
+Use **Edit this page** to open the page’s Markdown source in GitHub. GitHub sign-in and repository permissions still apply. Trusted collaborators can commit to `main` to trigger the existing validation and Pages deployment; proposed changes in pull requests publish after merge. Failed validation leaves the last successful site online. Generated directory rows come from entity notes, so edit the linked entries to change their rows. Generated listings without a Markdown source link to the vault’s source directory.
